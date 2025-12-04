@@ -605,7 +605,7 @@ app = dash.Dash(__name__, title="IMSS Plataformas - Final v5", suppress_callback
 server = app.server
 
 glosario = html.Details([
-    html.Summary("Glosario de Términos y Notas Metodológicas (Clic para desplegar)", style={"cursor":"pointer", "color":GUINDA, "fontWeight":"bold", "fontSize":"16px", "padding":"10px", "backgroundColor":"#eee", "borderRadius":"5px"}),
+    html.Summary("Glosario de Términos y Notas Metodológicas", style={"cursor":"pointer", "color":GUINDA, "fontWeight":"bold", "fontSize":"16px", "padding":"10px", "backgroundColor":"#eee", "borderRadius":"5px"}),
     html.Div([
         # --- Conceptos Existentes ---
         html.Div([
@@ -784,4 +784,5 @@ if __name__ == "__main__":
     port = int(os.environ.get("PORT", 10000))
 
     app.run(host="0.0.0.0", port=port)
+
 
