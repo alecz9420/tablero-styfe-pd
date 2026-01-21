@@ -26,7 +26,7 @@ TEXTO_GRIS = "#333333"
 
 # --- Paleta de Datos ---
 COL_BENEF = "#f08217"   # Afiliaciones (Total)
-COL_TDP   = "#266cb4"   # TDP
+COL_TPD   = "#266cb4"   # TPD
 COL_TI    = "#73cae6"   # TI
 COL_HOMBRES = "#027a35"
 COL_MUJERES = "#ac6d14"
@@ -223,11 +223,11 @@ def cargar_sbc(path_csv: str, etiqueta_mes: str) -> pd.DataFrame:
 
 def bloque_totales(df, df_cdmx, app, titulo):
     ben_n = df["PTPD_Aseg"].sum() if not df.empty else 0
-    tdp_n = df["PTPD_Puestos"].sum() if not df.empty else 0
+    TPD_n = df["PTPD_Puestos"].sum() if not df.empty else 0
     ind_n = df["independientes"].sum() if not df.empty else 0
     
     ben_c = df_cdmx["PTPD_Aseg"].sum() if not df_cdmx.empty else 0
-    tdp_c = df_cdmx["PTPD_Puestos"].sum() if not df_cdmx.empty else 0
+    TPD_c = df_cdmx["PTPD_Puestos"].sum() if not df_cdmx.empty else 0
     ind_c = df_cdmx["independientes"].sum() if not df_cdmx.empty else 0
     
     icon_repa = app.get_asset_url("repa.png")
@@ -242,17 +242,17 @@ def bloque_totales(df, df_cdmx, app, titulo):
         return html.Div([
             html.H4(ambito.upper(), style={"color": GUINDA, "borderBottom": f"2px solid {DORADO}", "marginBottom": "10px"}),
             kpi("Afiliaciones", b, COL_BENEF),
-            kpi("Trab. Plataformas (TDP)", t, COL_TDP),
+            kpi("Trab. Plataformas (TPD)", t, COL_TPD),
             kpi("Trab. Independientes (TI)", i, COL_TI),
         ], style={"flex": 1, "padding": "0 10px"})
 
     return html.Div([
         html.H2(titulo, style=H2_STYLE),
         html.Div([
-            col_kpi("Nacional", ben_n, tdp_n, ind_n),
+            col_kpi("Nacional", ben_n, TPD_n, ind_n),
             html.Div([html.Img(src=icon_repa, style={"height": "130px", "opacity":"0.9"})], 
                      style={"display": "flex", "alignItems": "center", "justifyContent": "center", "padding": "0 20px"}),
-            col_kpi("Ciudad de México", ben_c, tdp_c, ind_c)
+            col_kpi("Ciudad de México", ben_c, TPD_c, ind_c)
         ], style={"display": "flex", "flexDirection": "row"})
     ], style=CARD_STYLE)
 
@@ -306,7 +306,7 @@ def bloque_genero(df, df_cdmx, app, titulo):
         return html.Div([
             html.H4(titulo_panel, style={"color": TEXT_BLANCO, "borderBottom": "2px solid rgba(255,255,255,0.5)", "marginBottom": "15px", "paddingBottom":"5px"}),
             concept_box("Afiliaciones", vals_h[0], vals_m[0]),
-            concept_box("TDP", vals_h[1], vals_m[1]),
+            concept_box("TPD", vals_h[1], vals_m[1]),
             concept_box("Independientes", vals_h[2], vals_m[2]),
         ], style={"flex": 1})
 
@@ -325,9 +325,9 @@ def bloque_sectores(df_sbc, titulo, mes):
     prop = df_sbc.groupby("Sector", as_index=False)["PTPD_Puestos"].sum()
     fig_prop = px.pie(prop, names="Sector", values="PTPD_Puestos", hole=0.6, 
                      color="Sector", color_discrete_map={"Transportes y comunicaciones": MORADO, "Servicios para empresas": GRIS})
-    fig_prop.update_traces(textinfo="percent", hovertemplate="<b>%{label}</b><br>TDP: %{value:,.0f}<extra></extra>")
+    fig_prop.update_traces(textinfo="percent", hovertemplate="<b>%{label}</b><br>TPD: %{value:,.0f}<extra></extra>")
     fig_prop = apply_theme(fig_prop)
-    fig_prop.update_layout(showlegend=False, annotations=[dict(text='TDP', x=0.5, y=0.5, font_size=20, showarrow=False)])
+    fig_prop.update_layout(showlegend=False, annotations=[dict(text='TPD', x=0.5, y=0.5, font_size=20, showarrow=False)])
 
     # 2. Barras Salarios (PONDERADO)
     sectores = df_sbc["Sector"].unique()
@@ -406,7 +406,7 @@ def bloque_sectores(df_sbc, titulo, mes):
         html.H2(titulo, style=H2_STYLE),
         html.Div([
             html.Div([
-                html.H4("Distribución Sectorial (TDP)", style={"textAlign":"center", "fontSize":"14px", "color":GUINDA}),
+                html.H4("Distribución Sectorial (TPD)", style={"textAlign":"center", "fontSize":"14px", "color":GUINDA}),
                 dcc.Graph(figure=fig_prop, style={"height":"250px"}, id={'type': 'copy-graph', 'index': f"pie-{titulo}-{mes}"}) 
             ], style={**CARD_STYLE, "flex":1, "marginRight":"15px"}),
             html.Div([
@@ -435,10 +435,10 @@ def layout_mes(df, df_sbc, mes_label, app):
     agg["TI"] = agg["PTPD_Aseg"] - agg["PTPD_Puestos"]
     
     fig_geo = px.bar(agg, y="entidad_display", x=["TI", "PTPD_Puestos"], orientation="h", 
-                     color_discrete_map={"TI": COL_TI, "PTPD_Puestos": COL_TDP}, height=800)
+                     color_discrete_map={"TI": COL_TI, "PTPD_Puestos": COL_TPD}, height=800)
     
     fig_geo.update_traces(hovertemplate="<b>%{y}</b><br>%{fullData.name}: %{x:,.0f}<extra></extra>")
-    new_names = {"TI": "Trabajadores Independientes (TI)", "PTPD_Puestos": "Trabajadores de Plataformas (TDP)"}
+    new_names = {"TI": "Trabajadores Independientes (TI)", "PTPD_Puestos": "Trabajadores de Plataformas (TPD)"}
     fig_geo.for_each_trace(lambda t: t.update(name = new_names.get(t.name, t.name)))
     
     fig_geo.add_trace(go.Scatter(
@@ -529,17 +529,17 @@ def layout_evolucion(lista_datos_pd, lista_datos_sbc, orden_meses):
         d = data.copy()
         d["Var_abs_ben"] = d["PTPD_Aseg"].diff()
         d["Var_pct_ben"] = d["PTPD_Aseg"].pct_change() * 100
-        d["Var_abs_tdp"] = d["PTPD_Puestos"].diff()
-        d["Var_pct_tdp"] = d["PTPD_Puestos"].pct_change() * 100
+        d["Var_abs_TPD"] = d["PTPD_Puestos"].diff()
+        d["Var_pct_TPD"] = d["PTPD_Puestos"].pct_change() * 100
         
         final = pd.DataFrame()
         final["Periodo"] = d["Mes"]
         final["Afiliaciones"] = d["PTPD_Aseg"].apply(fmt_num)
         final["Var. abs. afiliaciones"] = d["Var_abs_ben"].apply(lambda x: f"{x:+,.0f}" if pd.notna(x) else "-")
         final["Var. % afiliaciones"] = d["Var_pct_ben"].apply(lambda x: f"{x:+.1f}%" if pd.notna(x) else "-")
-        final["Personas TDP"] = d["PTPD_Puestos"].apply(fmt_num)
-        final["Var. abs. TDP"] = d["Var_abs_tdp"].apply(lambda x: f"{x:+,.0f}" if pd.notna(x) else "-")
-        final["Var. % TDP"] = d["Var_pct_tdp"].apply(lambda x: f"{x:+.1f}%" if pd.notna(x) else "-")
+        final["Personas TPD"] = d["PTPD_Puestos"].apply(fmt_num)
+        final["Var. abs. TPD"] = d["Var_abs_TPD"].apply(lambda x: f"{x:+,.0f}" if pd.notna(x) else "-")
+        final["Var. % TPD"] = d["Var_pct_TPD"].apply(lambda x: f"{x:+.1f}%" if pd.notna(x) else "-")
         final["Tasa de formalización (%)"] = d["Tasa"].apply(lambda x: f"{x:.2f}")
         return final
 
@@ -613,14 +613,14 @@ def layout_evolucion(lista_datos_pd, lista_datos_sbc, orden_meses):
         return fig
 
     def build_section(data, sbc_data, title_sec, is_cdmx):
-        f1 = plot_lines(data, ["PTPD_Aseg", "PTPD_Puestos", "independientes"], ["Afiliaciones", "TDP", "TI"], [COL_BENEF, COL_TDP, COL_TI], "Totales", "Personas")
+        f1 = plot_lines(data, ["PTPD_Aseg", "PTPD_Puestos", "independientes"], ["Afiliaciones", "TPD", "TI"], [COL_BENEF, COL_TPD, COL_TI], "Totales", "Personas")
         fig_rate = go.Figure()
         fig_rate.add_trace(go.Scatter(x=data["Mes"], y=data["Tasa"], mode='lines+markers', name="Tasa", line=dict(color=GUINDA, width=3), marker=dict(size=8), hovertemplate="<b>%{x}</b><br>Tasa: %{y:.2f}%<extra></extra>"))
         fig_rate = apply_theme(fig_rate)
         fig_rate.update_layout(title="Tasa Formalización", yaxis_title="%")
 
         f_sex_ben = plot_lines(data, ["PTPD_Aseg_H", "PTPD_Aseg_M"], ["Hombres", "Mujeres"], [COL_HOMBRES, COL_MUJERES], "Afiliaciones", "Personas")
-        f_sex_tdp = plot_lines(data, ["PTPD_Puestos_H", "PTPD_Puestos_M"], ["Hombres", "Mujeres"], [COL_HOMBRES, COL_MUJERES], "TDP", "Personas")
+        f_sex_TPD = plot_lines(data, ["PTPD_Puestos_H", "PTPD_Puestos_M"], ["Hombres", "Mujeres"], [COL_HOMBRES, COL_MUJERES], "TPD", "Personas")
         f_sex_ind = plot_lines(data, ["independientes_H", "independientes_M"], ["Hombres", "Mujeres"], [COL_HOMBRES, COL_MUJERES], "Independientes", "Personas")
         
         df_vars = make_var_table(data)
@@ -636,11 +636,11 @@ def layout_evolucion(lista_datos_pd, lista_datos_sbc, orden_meses):
             html.H4("Evolución por Sexo", style={"color":GUINDA, "marginLeft":"10px", "marginTop":"20px"}),
             html.Div([
                 html.Div(dcc.Graph(figure=f_sex_ben, id={'type': 'copy-graph', 'index': f"evo-ben-{suffix}"}), style={**CARD_STYLE, "flex":1, "marginRight":"10px"}),
-                html.Div(dcc.Graph(figure=f_sex_tdp, id={'type': 'copy-graph', 'index': f"evo-tdp-{suffix}"}), style={**CARD_STYLE, "flex":1, "marginRight":"10px"}),
+                html.Div(dcc.Graph(figure=f_sex_TPD, id={'type': 'copy-graph', 'index': f"evo-TPD-{suffix}"}), style={**CARD_STYLE, "flex":1, "marginRight":"10px"}),
                 html.Div(dcc.Graph(figure=f_sex_ind, id={'type': 'copy-graph', 'index': f"evo-ind-{suffix}"}), style={**CARD_STYLE, "flex":1}),
             ], style={"display":"flex"}),
             html.Div([
-                render_html_table(df_vars, f"Tabla {suffix} – Afiliaciones, TDP y Tasa"),
+                render_html_table(df_vars, f"Tabla {suffix} – Afiliaciones, TPD y Tasa"),
                 render_html_table(df_sal, f"Tabla {suffix} – Salario Base y Brecha")
             ], style=CARD_STYLE)
         ])
@@ -660,12 +660,12 @@ glosario = html.Details([
     html.Summary("Glosario de Términos y Notas Metodológicas", style={"cursor":"pointer", "color":GUINDA, "fontWeight":"bold", "fontSize":"16px", "padding":"10px", "backgroundColor":"#eee", "borderRadius":"5px"}),
     html.Div([
         html.Div([html.Strong("Afiliaciones: "), "Registros de personas que prestan servicios o realizan tareas en un esquema de trabajo presencial mediado por plataformas digitales.", html.Br(), "A partir de la Reforma Laboral de Plataformas Digitales, todas estas personas están cubiertas por el seguro ante ", html.Strong("Riesgos de Trabajo"), " del IMSS mientras realizan su actividad laboral.", html.Br(), html.Small("Nota: Este total se refiere al total de las afiliaciones de personas que trabajan a través de plataformas digitales. No son registros únicos, por lo que puede incluir registros de personas que trabajan en más de una plataforma.")], style={"marginBottom":"10px"}),
-        html.Div([html.Strong("Personas Trabajadoras de Plataforma Digital (TDP): "), "Personas que trabajan en plataformas digitales y que al final de un mes calendario alcanzaron el umbral de ingresos necesario para ser consideradas Personas Trabajadoras de Plataforma Digital.", html.Br(), "Es decir, después de descontar el ", html.Strong("Factor de Exclusión"), ", su ingreso neto resultó igual o superior al ", html.Strong("Salario Mínimo de la Ciudad de México."), html.Br(), "Estas personas trabajadoras tienen acceso a una cobertura integral en las 5 áreas de aseguramiento que ofrece el IMSS."], style={"marginBottom":"10px"}),
-        html.Div([html.Strong("Personas Trabajadoras Independientes (TI): "), "Personas que trabajan en plataformas digitales y que al término de un mes calendario no alcanzaron el umbral de ingresos necesario para ser consideradas TDP.", html.Br(), "Estas personas siempre están cubiertas por el seguro de ", html.Strong("Riesgos de Trabajo"), ", así como la cobertura por el seguro de ", html.Strong("Enfermedades y Maternidad en especie.")], style={"marginBottom":"10px"}),
+        html.Div([html.Strong("Personas Trabajadoras de Plataforma Digital (TPD): "), "Personas que trabajan en plataformas digitales y que al final de un mes calendario alcanzaron el umbral de ingresos necesario para ser consideradas Personas Trabajadoras de Plataforma Digital.", html.Br(), "Es decir, después de descontar el ", html.Strong("Factor de Exclusión"), ", su ingreso neto resultó igual o superior al ", html.Strong("Salario Mínimo de la Ciudad de México."), html.Br(), "Estas personas trabajadoras tienen acceso a una cobertura integral en las 5 áreas de aseguramiento que ofrece el IMSS."], style={"marginBottom":"10px"}),
+        html.Div([html.Strong("Personas Trabajadoras Independientes (TI): "), "Personas que trabajan en plataformas digitales y que al término de un mes calendario no alcanzaron el umbral de ingresos necesario para ser consideradas TPD.", html.Br(), "Estas personas siempre están cubiertas por el seguro de ", html.Strong("Riesgos de Trabajo"), ", así como la cobertura por el seguro de ", html.Strong("Enfermedades y Maternidad en especie.")], style={"marginBottom":"10px"}),
         html.Div([html.Strong("Factor de exclusión: "), "Mecanismo contable que se aplica al ingreso bruto de quien trabaja a través de una Plataforma Digital para determinar quién es una Persona Trabajadora Independiente y quién es Persona Trabajadora de Plataforma.", html.Br(), "El factor depende del medio de transporte que use cada persona para trabajar.", html.Br(), html.Ul([html.Li("Vehículos de 4 ruedas con motor: 55%"), html.Li("Vehículos de 2 ruedas con motor: 40%"), html.Li("Vehículos sin motor o sin vehículo: 12%")])], style={"marginBottom":"10px"}),
         html.Div([html.Strong("Tasa de formalización: "), "Es la proporción de los registros de Personas Trabajadoras de Plataformas Digitales con respecto al total de Afiliaciones. ", "Se emplea el término “tasa de formalización” para enfatizar el carácter flexible y continuo del proceso de incorporación de las y los trabajadores de plataformas digitales al Régimen Obligatorio del Instituto Mexicano del Seguro Social (IMSS)."], style={"marginBottom":"20px"}),
         html.Hr(style={"borderTop": "1px solid #ccc", "margin": "20px 0"}),
-        html.Div([html.H5("Nota metodológica", style={"color": GUINDA, "marginTop": "0", "marginBottom": "10px"}), html.Div([html.Strong("Distribución geográfica: "), "La distribución por entidad geográfica se realiza utilizando la variable para ", html.Strong("entidad de nacimiento"), "."], style={"marginBottom":"10px"}), html.Div([html.Strong("Brechas salariales:"), " La información disponible no permite conocer el tiempo trabajado por cada persona afiliada, por lo que los SBC no comparten una misma unidad de tiempo base. Además, el tipo de vehículo utilizado para laborar influye en el cálculo del ingreso neto mediante el factor de exclusión, lo que determina la magnitud del SBC. Por lo tanto, las diferencias salariales observadas pueden reflejar tanto la composición del trabajo como difrencias en actividades para cada grupo además de difrerencias estrictamente salariales", "."], style={"marginBottom":"10px"}), html.Div([html.Strong("Fuente: "), "Programa Piloto de Personas Trabajadoras de Plataformas Digitales. IMSS. ", html.A("Ver Fuente (Tableau Public)", href="https://public.tableau.com/app/profile/imss.cpe/viz/ProgramaPilotodePersonasTrabajadorasdePlataformasDigitales/PruebaPilotodeIncorporacindePTPD", target="_blank", style={"color": COL_TDP, "textDecoration": "underline"})])], style={"fontSize": "13px", "backgroundColor": "#f9f9f9", "padding": "15px", "borderRadius": "5px", "borderLeft": f"4px solid {DORADO}"})
+        html.Div([html.H5("Nota metodológica", style={"color": GUINDA, "marginTop": "0", "marginBottom": "10px"}), html.Div([html.Strong("Distribución geográfica: "), "La distribución por entidad geográfica se realiza utilizando la variable para ", html.Strong("entidad de nacimiento"), "."], style={"marginBottom":"10px"}), html.Div([html.Strong("Brechas salariales:"), " La información disponible no permite conocer el tiempo trabajado por cada persona afiliada, por lo que los SBC no comparten una misma unidad de tiempo base. Además, el tipo de vehículo utilizado para laborar influye en el cálculo del ingreso neto mediante el factor de exclusión, lo que determina la magnitud del SBC. Por lo tanto, las diferencias salariales observadas pueden reflejar tanto la composición del trabajo como difrencias en actividades para cada grupo además de difrerencias estrictamente salariales", "."], style={"marginBottom":"10px"}), html.Div([html.Strong("Fuente: "), "Programa Piloto de Personas Trabajadoras de Plataformas Digitales. IMSS. ", html.A("Ver Fuente (Tableau Public)", href="https://public.tableau.com/app/profile/imss.cpe/viz/ProgramaPilotodePersonasTrabajadorasdePlataformasDigitales/PruebaPilotodeIncorporacindePTPD", target="_blank", style={"color": COL_TPD, "textDecoration": "underline"})])], style={"fontSize": "13px", "backgroundColor": "#f9f9f9", "padding": "15px", "borderRadius": "5px", "borderLeft": f"4px solid {DORADO}"})
     ], style={"padding":"20px", "lineHeight":"1.6", "fontSize":"14px", "color":"#333", "textAlign": "justify"})
 ], style={**CARD_STYLE, "padding":"0"})
 
@@ -748,4 +748,5 @@ if __name__ == "__main__":
     import os
     port = int(os.environ.get("PORT", 10000))
     app.run(host="0.0.0.0", port=port)
+
 
