@@ -703,7 +703,7 @@ glosario = html.Details([
             html.Br(), 
             html.Ul([
                 html.Li([
-                    html.Strong("Primer trimestre (julio - septiembre de 2026)"),
+                    html.Strong("Primer trimestre (julio - septiembre de 2025)"),
                     html.Ul([
                         html.Li("Vehículos de 4 ruedas con motor: 60%"),
                         html.Li("Vehículos de 2 ruedas con motor: 50%"),
@@ -711,7 +711,7 @@ glosario = html.Details([
                     ], style={"marginTop": "5px", "marginBottom": "10px", "listStyleType": "circle"})
                 ]),
                 html.Li([
-                    html.Strong("Segundo trimestre (octubre - diciembre de 2026)"),
+                    html.Strong("Segundo trimestre (octubre - diciembre de 2025)"),
                     html.Ul([
                         html.Li("Vehículos de 4 ruedas con motor: 55%"),
                         html.Li("Vehículos de 2 ruedas con motor: 40%"),
@@ -826,3 +826,4 @@ if __name__ == "__main__":
     import os
     port = int(os.environ.get("PORT", 10000))
     app.run(host="0.0.0.0", port=port)
+
