@@ -741,7 +741,7 @@ glosario = html.Details([
         html.Div([
             html.H5("Nota metodológica", style={"color": GUINDA, "marginTop": "0", "marginBottom": "10px"}), 
             html.Div([html.Strong("Distribución geográfica: "), "La distribución por entidad geográfica se realiza utilizando la variable para ", html.Strong("entidad de nacimiento"), "."], style={"marginBottom":"10px"}), 
-            html.Div([html.Strong("Brecha Salarial de género:"), " Para este indicador se utiliza la brecha salarial de género no ajustada, calculada a partir de promedios. Para su análisis es importante señalar que la información disponible no permite conoer el tiempo de trabajo de cada persona afiliada, por lo que los Salarios Base de Cotización(SBC) no comparten una misma unidad de tiempo base. Además, el tipo de vehículo utilizado para laborar influye en el cálculo del ingreso neto mediante el factor de exclusión, lo que determina la magnitud del SBC. Por lo tanto, la brecha salarial de género observada puede reflejar no sólo diferencias estrictamente salariales, sino también variaciones en el tiempo de trabajo y el medio de transporte utilizado", "."], style={"marginBottom":"10px"}), 
+            html.Div([html.Strong("Brecha Salarial de género:"), " Para este indicador se utiliza la brecha salarial de género no ajustada, calculada a partir de promedios. Para su análisis es importante señalar que la información disponible no permite conocer el tiempo de trabajo de cada persona afiliada, por lo que los Salarios Base de Cotización(SBC) no comparten una misma unidad de tiempo base. Además, el tipo de vehículo utilizado para laborar influye en el cálculo del ingreso neto mediante el factor de exclusión, lo que determina la magnitud del SBC. Por lo tanto, la brecha salarial de género observada puede reflejar no sólo diferencias estrictamente salariales, sino también variaciones en el tiempo de trabajo y el medio de transporte utilizado", "."], style={"marginBottom":"10px"}), 
             html.Div([html.Strong("Fuente: "), "Programa Piloto de Personas Trabajadoras de Plataformas Digitales. IMSS. ", html.A("Ver Fuente (Tableau Public)", href="https://public.tableau.com/app/profile/imss.cpe/viz/ProgramaPilotodePersonasTrabajadorasdePlataformasDigitales/PruebaPilotodeIncorporacindePTPD", target="_blank", style={"color": COL_TDP, "textDecoration": "underline"})])
         ], style={"fontSize": "13px", "backgroundColor": "#f9f9f9", "padding": "15px", "borderRadius": "5px", "borderLeft": f"4px solid {DORADO}"})
     ], style={"padding":"20px", "lineHeight":"1.6", "fontSize":"14px", "color":"#333", "textAlign": "justify"})
@@ -826,4 +826,5 @@ if __name__ == "__main__":
     import os
     port = int(os.environ.get("PORT", 10000))
     app.run(host="0.0.0.0", port=port)
+
 
