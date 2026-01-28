@@ -1,4 +1,8 @@
+# -*- coding: utf-8 -*-
+"""
 Dashboard IMSS – Plataformas Digitales
+Versión Final: Dinámica + Ponderación Correcta + Ajustes de Texto y Pirámides
+"""
 
 import json
 import pandas as pd
@@ -690,6 +694,7 @@ glosario = html.Details([
             html.Strong("Enfermedades y Maternidad en especie.")
         ], style={"marginBottom":"10px"}),
         
+        # --- AQUÍ ESTÁ EL CAMBIO SOLICITADO ---
         html.Div([
             html.Strong("Factor de exclusión: "), 
             "Mecanismo contable que se aplica al ingreso bruto de quien trabaja a través de una Plataforma Digital para determinar quién es una Persona Trabajadora Independiente y quién es Persona Trabajadora de Plataforma.", 
