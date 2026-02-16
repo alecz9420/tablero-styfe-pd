@@ -1,0 +1,464 @@
+﻿CVE_DIVISION,División,entidad_nacimiento,fecha,Rango_edad_2,SalarioFem,SalarioMasc,PTPD_Aseg,PTPD_Aseg_H,PTPD_Aseg_M,PTPD_Aseg_NB,PTPD_Puestos,PTPD_Puestos_H,PTPD_Puestos_M,PTPD_Puestos_NB
+7,Transportes y comunicaciones,Extranjero/Extranjera,202601,75 años y más,315.04,460.4605,69,61,8,0,81,80,1,0
+7,Transportes y comunicaciones,Aguascalientes,202601,75 años y más,,434.97,0,0,0,0,1,1,0,0
+7,Transportes y comunicaciones,Aguascalientes,202601,75 años y más,,379.443589744,71,65,6,0,39,39,0,0
+7,Transportes y comunicaciones,Baja California,202601,75 años y más,469.63,382.418333333,0,0,0,0,7,6,1,0
+7,Transportes y comunicaciones,Baja California,202601,75 años y más,359.16375,431.010272374,143,125,18,0,265,257,8,0
+7,Transportes y comunicaciones,Baja California Sur,202601,75 años y más,,670.87,0,0,0,0,1,1,0,0
+7,Transportes y comunicaciones,Baja California Sur,202601,75 años y más,493.4525,438.173,28,28,0,0,34,30,4,0
+7,Transportes y comunicaciones,Campeche,202601,75 años y más,,416.205454545,77,69,8,0,22,22,0,0
+7,Transportes y comunicaciones,Coahuila de Zaragoza,202601,75 años y más,415.58,416.2125,0,0,0,0,5,4,1,0
+7,Transportes y comunicaciones,Coahuila de Zaragoza,202601,75 años y más,362.135714286,406.788227848,130,118,12,0,165,158,7,0
+7,Transportes y comunicaciones,Colima,202601,75 años y más,,328.15,0,0,0,0,2,2,0,0
+7,Transportes y comunicaciones,Colima,202601,75 años y más,,426.798260870,56,50,6,0,23,23,0,0
+7,Transportes y comunicaciones,Chiapas,202601,75 años y más,503.16,447.472,0,0,0,0,6,5,1,0
+7,Transportes y comunicaciones,Chiapas,202601,75 años y más,406.9,419.585714286,136,129,7,0,126,119,7,0
+7,Transportes y comunicaciones,Chihuahua,202601,75 años y más,337.92,361.095,0,0,0,0,14,12,2,0
+7,Transportes y comunicaciones,Chihuahua,202601,75 años y más,401.296363636,405.873053892,228,183,45,0,178,167,11,0
+7,Transportes y comunicaciones,Ciudad de México,202601,75 años y más,,,1,1,0,0,0,0,0,0
+7,Transportes y comunicaciones,Ciudad de México,202601,75 años y más,361.41,369.539047619,3,2,1,0,22,21,1,0
+7,Transportes y comunicaciones,Ciudad de México,202601,75 años y más,408.368157895,386.082483801,1515,1309,206,0,501,463,38,0
+7,Transportes y comunicaciones,Durango,202601,75 años y más,,370.995,0,0,0,0,2,2,0,0
+7,Transportes y comunicaciones,Durango,202601,75 años y más,404.042,422.268769231,116,104,12,0,70,65,5,0
+7,Transportes y comunicaciones,Guanajuato,202601,75 años y más,,,1,1,0,0,0,0,0,0
+7,Transportes y comunicaciones,Guanajuato,202601,75 años y más,401.28,340.9275,0,0,0,0,5,4,1,0
+7,Transportes y comunicaciones,Guanajuato,202601,75 años y más,354.056666667,396.94395,274,250,24,0,206,200,6,0
+7,Transportes y comunicaciones,Guerrero,202601,75 años y más,,366.8375,0,0,0,0,4,4,0,0
+7,Transportes y comunicaciones,Guerrero,202601,75 años y más,431.448571429,426.425522388,64,60,4,0,74,67,7,0
+7,Transportes y comunicaciones,Hidalgo,202601,75 años y más,,401.62,0,0,0,0,2,2,0,0
+7,Transportes y comunicaciones,Hidalgo,202601,75 años y más,,466.479,54,44,10,0,20,20,0,0
+7,Transportes y comunicaciones,Jalisco,202601,75 años y más,,585.645,0,0,0,0,4,4,0,0
+7,Transportes y comunicaciones,Jalisco,202601,75 años y más,399.738,411.820434028,586,516,70,0,601,576,25,0
+7,Transportes y comunicaciones,México,202601,75 años y más,,381.922857143,0,0,0,0,21,21,0,0
+7,Transportes y comunicaciones,México,202601,75 años y más,382.901052632,388.456674260,1196,1044,152,0,458,439,19,0
+7,Transportes y comunicaciones,Michoacán de Ocampo,202601,75 años y más,,423.083333333,0,0,0,0,6,6,0,0
+7,Transportes y comunicaciones,Michoacán de Ocampo,202601,75 años y más,357.163333333,401.22375,157,141,16,0,67,64,3,0
+7,Transportes y comunicaciones,Morelos,202601,75 años y más,,399.3,0,0,0,0,3,3,0,0
+7,Transportes y comunicaciones,Morelos,202601,75 años y más,408.566666667,442.434680851,117,104,13,0,50,47,3,0
+7,Transportes y comunicaciones,Nayarit,202601,75 años y más,,410.246,0,0,0,0,5,5,0,0
+7,Transportes y comunicaciones,Nayarit,202601,75 años y más,371.095,396.064727273,85,82,3,0,57,55,2,0
+7,Transportes y comunicaciones,Nuevo León,202601,75 años y más,,488.014,0,0,0,0,5,5,0,0
+7,Transportes y comunicaciones,Nuevo León,202601,75 años y más,446.723333333,436.564390756,218,182,36,0,506,476,30,0
+7,Transportes y comunicaciones,Oaxaca,202601,75 años y más,371.37,441.011428571,0,0,0,0,8,7,1,0
+7,Transportes y comunicaciones,Oaxaca,202601,75 años y más,480.536666667,406.853061224,108,94,14,0,52,49,3,0
+7,Transportes y comunicaciones,Puebla,202601,75 años y más,,337.76375,0,0,0,0,8,8,0,0
+7,Transportes y comunicaciones,Puebla,202601,75 años y más,323.981666667,411.400151515,259,226,33,0,138,132,6,0
+7,Transportes y comunicaciones,Querétaro,202601,75 años y más,,379.415,0,0,0,0,2,2,0,0
+7,Transportes y comunicaciones,Querétaro,202601,75 años y más,330.016666667,417.208,88,80,8,0,83,80,3,0
+7,Transportes y comunicaciones,Quintana Roo,202601,75 años y más,322.805,425.376666667,0,0,0,0,8,6,2,0
+7,Transportes y comunicaciones,Quintana Roo,202601,75 años y más,315.04,423.907954545,127,111,16,0,90,88,2,0
+7,Transportes y comunicaciones,San Luis Potosí,202601,75 años y más,,421.6675,0,0,0,0,8,8,0,0
+7,Transportes y comunicaciones,San Luis Potosí,202601,75 años y más,445.875,387.205138889,155,132,23,0,74,72,2,0
+7,Transportes y comunicaciones,Sinaloa,202601,75 años y más,330.57,409.639285714,0,0,0,0,15,14,1,0
+7,Transportes y comunicaciones,Sinaloa,202601,75 años y más,525.14,400.737368421,195,172,23,0,118,114,4,0
+7,Transportes y comunicaciones,Sonora,202601,75 años y más,,340.5375,0,0,0,0,4,4,0,0
+7,Transportes y comunicaciones,Sonora,202601,75 años y más,330.081666667,414.505,123,101,22,0,122,116,6,0
+7,Transportes y comunicaciones,Tabasco,202601,75 años y más,,406.33,0,0,0,0,1,1,0,0
+7,Transportes y comunicaciones,Tabasco,202601,75 años y más,422.65,437.954047619,95,83,12,0,45,42,3,0
+7,Transportes y comunicaciones,Tamaulipas,202601,75 años y más,,445.43,0,0,0,0,9,9,0,0
+7,Transportes y comunicaciones,Tamaulipas,202601,75 años y más,412.600833333,431.549060403,213,186,27,0,161,149,12,0
+7,Transportes y comunicaciones,Tlaxcala,202601,75 años y más,,432.145454545,42,40,2,0,11,11,0,0
+7,Transportes y comunicaciones,Veracruz,202601,75 años y más,,,1,1,0,0,0,0,0,0
+7,Transportes y comunicaciones,Veracruz,202601,75 años y más,,,1,1,0,0,0,0,0,0
+7,Transportes y comunicaciones,Veracruz,202601,75 años y más,366.56,390.77,0,0,0,0,9,7,2,0
+7,Transportes y comunicaciones,Veracruz,202601,75 años y más,443.07125,425.817207792,238,214,24,0,162,154,8,0
+7,Transportes y comunicaciones,Yucatán,202601,75 años y más,549.1,410.706666667,0,0,0,0,5,3,2,0
+7,Transportes y comunicaciones,Yucatán,202601,75 años y más,375.256666667,415.500833333,130,114,16,0,111,108,3,0
+7,Transportes y comunicaciones,Zacatecas,202601,75 años y más,,315.04,0,0,0,0,1,1,0,0
+7,Transportes y comunicaciones,Zacatecas,202601,75 años y más,,405.63,53,48,5,0,15,15,0,0
+7,Transportes y comunicaciones,Extranjero/Extranjera,202601,Mayor o igual a 15 y menor a 20 años de edad,330.57,413.904761905,436,383,53,0,22,21,1,0
+7,Transportes y comunicaciones,Aguascalientes,202601,Mayor o igual a 15 y menor a 20 años de edad,323.723333333,386.494520548,681,631,50,0,76,73,3,0
+7,Transportes y comunicaciones,Baja California,202601,Mayor o igual a 15 y menor a 20 años de edad,388.061666667,426.421238671,1256,1140,116,0,343,331,12,0
+7,Transportes y comunicaciones,Baja California Sur,202601,Mayor o igual a 15 y menor a 20 años de edad,456.365,469.646486486,303,279,24,0,78,74,4,0
+7,Transportes y comunicaciones,Campeche,202601,Mayor o igual a 15 y menor a 20 años de edad,315.04,442.03,377,350,27,0,52,51,1,0
+7,Transportes y comunicaciones,Coahuila de Zaragoza,202601,Mayor o igual a 15 y menor a 20 años de edad,380.32,437.217222222,1078,981,97,0,201,198,3,0
+7,Transportes y comunicaciones,Colima,202601,Mayor o igual a 15 y menor a 20 años de edad,357.07,420.602631579,442,406,36,0,40,38,2,0
+7,Transportes y comunicaciones,Chiapas,202601,Mayor o igual a 15 y menor a 20 años de edad,373.6825,430.624285714,975,924,51,0,200,196,4,0
+7,Transportes y comunicaciones,Chihuahua,202601,Mayor o igual a 15 y menor a 20 años de edad,399.855882353,418.718154982,1925,1683,242,0,288,271,17,0
+7,Transportes y comunicaciones,Durango,202601,Mayor o igual a 15 y menor a 20 años de edad,320.216666667,414.726463415,788,723,65,0,85,82,3,0
+7,Transportes y comunicaciones,Guanajuato,202601,Mayor o igual a 15 y menor a 20 años de edad,408.802,392.372830189,2158,2018,140,0,222,212,10,0
+7,Transportes y comunicaciones,Guerrero,202601,Mayor o igual a 15 y menor a 20 años de edad,354.266666667,437.706638655,517,470,47,0,125,119,6,0
+7,Transportes y comunicaciones,Hidalgo,202601,Mayor o igual a 15 y menor a 20 años de edad,362.363333333,435.735714286,320,296,24,0,59,56,3,0
+7,Transportes y comunicaciones,Jalisco,202601,Mayor o igual a 15 y menor a 20 años de edad,375.173703704,435.400128535,4502,4092,410,0,805,778,27,0
+7,Transportes y comunicaciones,México,202601,Mayor o igual a 15 y menor a 20 años de edad,386.716222222,393.087722513,8205,7508,697,0,809,764,45,0
+7,Transportes y comunicaciones,Michoacán de Ocampo,202601,Mayor o igual a 15 y menor a 20 años de edad,425.425,407.453170732,775,734,41,0,84,82,2,0
+7,Transportes y comunicaciones,Morelos,202601,Mayor o igual a 15 y menor a 20 años de edad,354.406,396.108860759,971,889,82,0,84,79,5,0
+7,Transportes y comunicaciones,Nayarit,202601,Mayor o igual a 15 y menor a 20 años de edad,382.144,431.899736842,447,416,31,0,119,114,5,0
+7,Transportes y comunicaciones,Nuevo León,202601,Mayor o igual a 15 y menor a 20 años de edad,426.295517241,430.538875661,2864,2602,262,0,785,756,29,0
+7,Transportes y comunicaciones,Oaxaca,202601,Mayor o igual a 15 y menor a 20 años de edad,569.505,411.542323232,614,551,63,0,103,99,4,0
+7,Transportes y comunicaciones,Puebla,202601,Mayor o igual a 15 y menor a 20 años de edad,360.383,413.699678899,1491,1388,103,0,228,218,10,0
+7,Transportes y comunicaciones,Querétaro,202601,Mayor o igual a 15 y menor a 20 años de edad,321.92,418.011376147,719,668,51,0,112,109,3,0
+7,Transportes y comunicaciones,Quintana Roo,202601,Mayor o igual a 15 y menor a 20 años de edad,359.335,430.587884615,1099,998,101,0,108,104,4,0
+7,Transportes y comunicaciones,San Luis Potosí,202601,Mayor o igual a 15 y menor a 20 años de edad,433.237777778,410.684494382,1003,914,89,0,187,178,9,0
+7,Transportes y comunicaciones,Sinaloa,202601,Mayor o igual a 15 y menor a 20 años de edad,376.74,428.758802817,1506,1419,87,0,291,284,7,0
+7,Transportes y comunicaciones,Sonora,202601,Mayor o igual a 15 y menor a 20 años de edad,404.115,409.231365639,950,865,85,0,239,227,12,0
+7,Transportes y comunicaciones,Tabasco,202601,Mayor o igual a 15 y menor a 20 años de edad,375.81,438.903223140,670,613,57,0,126,121,5,0
+7,Transportes y comunicaciones,Tamaulipas,202601,Mayor o igual a 15 y menor a 20 años de edad,418.06,444.497794677,1256,1128,128,0,277,263,14,0
+7,Transportes y comunicaciones,Tlaxcala,202601,Mayor o igual a 15 y menor a 20 años de edad,315.04,407.421290323,248,243,5,0,32,31,1,0
+7,Transportes y comunicaciones,Veracruz,202601,Mayor o igual a 15 y menor a 20 años de edad,456.969375,438.645242424,1406,1272,134,0,346,330,16,0
+7,Transportes y comunicaciones,Yucatán,202601,Mayor o igual a 15 y menor a 20 años de edad,384.691666667,415.609930556,815,734,81,0,156,144,12,0
+7,Transportes y comunicaciones,Zacatecas,202601,Mayor o igual a 15 y menor a 20 años de edad,444.216666667,400.059354839,346,333,13,0,34,31,3,0
+7,Transportes y comunicaciones,Extranjero/Extranjera,202601,Mayor o igual a 20 y menor a 25 años de edad,440.358571429,445.630261780,1840,1631,209,0,198,191,7,0
+7,Transportes y comunicaciones,Aguascalientes,202601,Mayor o igual a 20 y menor a 25 años de edad,392.065,396.382907801,3433,3145,288,0,143,141,2,0
+7,Transportes y comunicaciones,Baja California,202601,Mayor o igual a 20 y menor a 25 años de edad,416.779583333,437.981541916,7408,6641,767,0,716,668,48,0
+7,Transportes y comunicaciones,Baja California Sur,202601,Mayor o igual a 20 y menor a 25 años de edad,458.565555556,463.2195,1497,1341,156,0,109,100,9,0
+7,Transportes y comunicaciones,Campeche,202601,Mayor o igual a 20 y menor a 25 años de edad,383.646923077,415.520789474,2488,2289,199,0,127,114,13,0
+7,Transportes y comunicaciones,Coahuila de Zaragoza,202601,Mayor o igual a 20 y menor a 25 años de edad,424.8175,442.262016393,6497,5824,673,0,634,610,24,0
+7,Transportes y comunicaciones,Colima,202601,Mayor o igual a 20 y menor a 25 años de edad,418.247,444.819736842,2137,1905,232,0,86,76,10,0
+7,Transportes y comunicaciones,Chiapas,202601,Mayor o igual a 20 y menor a 25 años de edad,431.022666667,428.820591966,6488,6000,488,0,488,473,15,0
+7,Transportes y comunicaciones,Chihuahua,202601,Mayor o igual a 20 y menor a 25 años de edad,396.157666667,424.202676056,11073,9261,1812,0,628,568,60,0
+7,Transportes y comunicaciones,Durango,202601,Mayor o igual a 20 y menor a 25 años de edad,351.84375,423.113989362,4279,3858,421,0,196,188,8,0
+7,Transportes y comunicaciones,Guanajuato,202601,Mayor o igual a 20 y menor a 25 años de edad,388.805714286,401.826351351,11264,10397,867,0,620,592,28,0
+7,Transportes y comunicaciones,Guerrero,202601,Mayor o igual a 20 y menor a 25 años de edad,437.6,450.581180556,3391,3018,373,0,309,288,21,0
+7,Transportes y comunicaciones,Hidalgo,202601,Mayor o igual a 20 y menor a 25 años de edad,421.942222222,433.844195804,1971,1790,181,0,152,143,9,0
+7,Transportes y comunicaciones,Jalisco,202601,Mayor o igual a 20 y menor a 25 años de edad,387.736162791,428.819154229,22730,20593,2137,0,1694,1608,86,0
+7,Transportes y comunicaciones,México,202601,Mayor o igual a 20 y menor a 25 años de edad,368.711408451,408.946485286,40934,36944,3990,0,1872,1801,71,0
+7,Transportes y comunicaciones,Michoacán de Ocampo,202601,Mayor o igual a 20 y menor a 25 años de edad,396.913846154,409.327802691,4718,4363,355,0,236,223,13,0
+7,Transportes y comunicaciones,Morelos,202601,Mayor o igual a 20 y menor a 25 años de edad,386.598181818,400.984238411,4779,4303,476,0,162,151,11,0
+7,Transportes y comunicaciones,Nayarit,202601,Mayor o igual a 20 y menor a 25 años de edad,368.28125,434.090242718,2544,2326,218,0,214,206,8,0
+7,Transportes y comunicaciones,Nuevo León,202601,Mayor o igual a 20 y menor a 25 años de edad,400.969591837,449.652541667,16038,14218,1820,0,1778,1680,98,0
+7,Transportes y comunicaciones,Oaxaca,202601,Mayor o igual a 20 y menor a 25 años de edad,376.4765,443.011682540,4229,3847,382,0,335,315,20,0
+7,Transportes y comunicaciones,Puebla,202601,Mayor o igual a 20 y menor a 25 años de edad,364.721052632,417.543274956,9443,8651,792,0,590,571,19,0
+7,Transportes y comunicaciones,Querétaro,202601,Mayor o igual a 20 y menor a 25 años de edad,367.719333333,417.400268199,3977,3655,322,0,276,261,15,0
+7,Transportes y comunicaciones,Quintana Roo,202601,Mayor o igual a 20 y menor a 25 años de edad,380.436875,442.280634146,4922,4383,539,0,221,205,16,0
+7,Transportes y comunicaciones,San Luis Potosí,202601,Mayor o igual a 20 y menor a 25 años de edad,376.496071429,435.733690141,5846,5244,602,0,383,355,28,0
+7,Transportes y comunicaciones,Sinaloa,202601,Mayor o igual a 20 y menor a 25 años de edad,407.680833333,427.193233333,8673,7954,719,0,624,600,24,0
+7,Transportes y comunicaciones,Sonora,202601,Mayor o igual a 20 y menor a 25 años de edad,369.162307692,423.67988,5975,5418,557,0,552,500,52,0
+7,Transportes y comunicaciones,Tabasco,202601,Mayor o igual a 20 y menor a 25 años de edad,454.942777778,440.039363057,4879,4431,448,0,332,314,18,0
+7,Transportes y comunicaciones,Tamaulipas,202601,Mayor o igual a 20 y menor a 25 años de edad,428.591,447.153651316,7837,6903,934,0,648,608,40,0
+7,Transportes y comunicaciones,Tlaxcala,202601,Mayor o igual a 20 y menor a 25 años de edad,537.866666667,434.8875,1552,1476,76,0,67,64,3,0
+7,Transportes y comunicaciones,Veracruz,202601,Mayor o igual a 20 y menor a 25 años de edad,416.339814815,445.703465665,11265,10222,1043,0,986,932,54,0
+7,Transportes y comunicaciones,Yucatán,202601,Mayor o igual a 20 y menor a 25 años de edad,379.380476190,428.616784141,5702,5202,500,0,475,454,21,0
+7,Transportes y comunicaciones,Zacatecas,202601,Mayor o igual a 20 y menor a 25 años de edad,456.518,421.024875,1811,1692,119,0,85,80,5,0
+7,Transportes y comunicaciones,Extranjero/Extranjera,202601,Mayor o igual a 25 y menor a 30 años de edad,412.717777778,450.494232558,2011,1810,201,0,233,215,18,0
+7,Transportes y comunicaciones,Aguascalientes,202601,Mayor o igual a 25 y menor a 30 años de edad,406.392857143,416.978882353,3619,3261,358,0,177,170,7,0
+7,Transportes y comunicaciones,Baja California,202601,Mayor o igual a 25 y menor a 30 años de edad,418.849454545,454.567869718,8314,7270,1044,0,623,568,55,0
+7,Transportes y comunicaciones,Baja California Sur,202601,Mayor o igual a 25 y menor a 30 años de edad,464.70125,451.589029126,1417,1211,206,0,119,103,16,0
+7,Transportes y comunicaciones,Campeche,202601,Mayor o igual a 25 y menor a 30 años de edad,343.57875,447.879144737,3481,3102,379,0,160,152,8,0
+7,Transportes y comunicaciones,Coahuila de Zaragoza,202601,Mayor o igual a 25 y menor a 30 años de edad,415.596052632,449.342986667,8614,7733,881,0,788,750,38,0
+7,Transportes y comunicaciones,Colima,202601,Mayor o igual a 25 y menor a 30 años de edad,349.768,421.733972603,1950,1747,203,0,83,73,10,0
+7,Transportes y comunicaciones,Chiapas,202601,Mayor o igual a 25 y menor a 30 años de edad,430.434210526,441.601060904,8441,7761,680,0,528,509,19,0
+7,Transportes y comunicaciones,Chihuahua,202601,Mayor o igual a 25 y menor a 30 años de edad,388.283815789,438.399076705,12090,9800,2290,0,780,704,76,0
+7,Transportes y comunicaciones,Ciudad de México,202601,Mayor o igual a 25 y menor a 30 años de edad,369.591028037,413.007849811,56108,49870,6238,0,3916,3702,214,0
+7,Transportes y comunicaciones,Durango,202601,Mayor o igual a 25 y menor a 30 años de edad,387.782,447.606964286,4504,3999,505,0,239,224,15,0
+7,Transportes y comunicaciones,Guanajuato,202601,Mayor o igual a 25 y menor a 30 años de edad,382.560930233,420.415917843,12088,11039,1049,0,822,779,43,0
+7,Transportes y comunicaciones,Guerrero,202601,Mayor o igual a 25 y menor a 30 años de edad,388.099090909,462.656737805,4451,3991,460,0,350,328,22,0
+7,Transportes y comunicaciones,Hidalgo,202601,Mayor o igual a 25 y menor a 30 años de edad,459.872142857,452.158157895,2472,2253,219,0,204,190,14,0
+7,Transportes y comunicaciones,Jalisco,202601,Mayor o igual a 25 y menor a 30 años de edad,400.445111111,443.474653521,24916,22490,2426,0,1910,1775,135,0
+7,Transportes y comunicaciones,México,202601,Mayor o igual a 25 y menor a 30 años de edad,368.583057851,415.095763033,42500,38530,3970,0,2231,2110,121,0
+7,Transportes y comunicaciones,Michoacán de Ocampo,202601,Mayor o igual a 25 y menor a 30 años de edad,387.012173913,426.323892405,5591,5138,453,0,339,316,23,0
+7,Transportes y comunicaciones,Morelos,202601,Mayor o igual a 25 y menor a 30 años de edad,346.224285714,418.354072165,4896,4405,491,0,201,194,7,0
+7,Transportes y comunicaciones,Nayarit,202601,Mayor o igual a 25 y menor a 30 años de edad,404.127777778,436.322274368,2984,2756,228,0,286,277,9,0
+7,Transportes y comunicaciones,Nuevo León,202601,Mayor o igual a 25 y menor a 30 años de edad,416.205661765,463.169355164,19545,17119,2426,0,2121,1985,136,0
+7,Transportes y comunicaciones,Oaxaca,202601,Mayor o igual a 25 y menor a 30 años de edad,451.462173913,429.232890365,5272,4791,481,0,324,301,23,0
+7,Transportes y comunicaciones,Querétaro,202601,Mayor o igual a 25 y menor a 30 años de edad,405.586111111,425.693873016,4624,4175,449,0,333,315,18,0
+7,Transportes y comunicaciones,Quintana Roo,202601,Mayor o igual a 25 y menor a 30 años de edad,386.17625,464.131272727,4795,4223,572,0,236,220,16,0
+7,Transportes y comunicaciones,San Luis Potosí,202601,Mayor o igual a 25 y menor a 30 años de edad,390.122592593,433.739576108,7062,6289,773,0,546,519,27,0
+7,Transportes y comunicaciones,Sinaloa,202601,Mayor o igual a 25 y menor a 30 años de edad,399.928478261,443.614623656,10000,9036,964,0,697,651,46,0
+7,Transportes y comunicaciones,Sonora,202601,Mayor o igual a 25 y menor a 30 años de edad,372.265,434.853761141,7382,6467,915,0,617,561,56,0
+7,Transportes y comunicaciones,Tabasco,202601,Mayor o igual a 25 y menor a 30 años de edad,380.518260870,447.079970845,6496,5859,637,0,366,343,23,0
+7,Transportes y comunicaciones,Tamaulipas,202601,Mayor o igual a 25 y menor a 30 años de edad,441.802926829,462.683510638,9319,8196,1123,0,699,658,41,0
+7,Transportes y comunicaciones,Tlaxcala,202601,Mayor o igual a 25 y menor a 30 años de edad,501.035,425.7734,1937,1819,118,0,102,100,2,0
+7,Transportes y comunicaciones,Veracruz,202601,Mayor o igual a 25 y menor a 30 años de edad,393.261486486,451.295003984,15872,14254,1618,0,1329,1255,74,0
+7,Transportes y comunicaciones,Yucatán,202601,Mayor o igual a 25 y menor a 30 años de edad,434.1682,430.627775629,7666,6899,767,0,567,517,50,0
+7,Transportes y comunicaciones,Zacatecas,202601,Mayor o igual a 25 y menor a 30 años de edad,392.018,407.082173913,2030,1859,171,0,125,115,10,0
+7,Transportes y comunicaciones,Extranjero/Extranjera,202601,Mayor o igual a 30 y menor a 35 años de edad,372.68,458.359759615,2359,2083,276,0,220,208,12,0
+7,Transportes y comunicaciones,Aguascalientes,202601,Mayor o igual a 30 y menor a 35 años de edad,394.466363636,406.726068966,3225,2882,343,0,156,145,11,0
+7,Transportes y comunicaciones,Baja California,202601,Mayor o igual a 30 y menor a 35 años de edad,408.843265306,461.415063830,6586,5602,984,0,519,470,49,0
+7,Transportes y comunicaciones,Baja California Sur,202601,Mayor o igual a 30 y menor a 35 años de edad,432.782222222,480.893076923,1250,1034,216,0,87,78,9,0
+7,Transportes y comunicaciones,Campeche,202601,Mayor o igual a 30 y menor a 35 años de edad,375.520909091,459.745053191,3602,3144,458,0,210,188,22,0
+7,Transportes y comunicaciones,Coahuila de Zaragoza,202601,Mayor o igual a 30 y menor a 35 años de edad,414.759215686,445.158338462,8962,7924,1038,0,701,650,51,0
+7,Transportes y comunicaciones,Colima,202601,Mayor o igual a 30 y menor a 35 años de edad,435.534,457.169058824,1695,1451,244,0,90,85,5,0
+7,Transportes y comunicaciones,Chiapas,202601,Mayor o igual a 30 y menor a 35 años de edad,395.990833333,451.029434783,7504,6889,615,0,484,460,24,0
+7,Transportes y comunicaciones,Chihuahua,202601,Mayor o igual a 30 y menor a 35 años de edad,393.306753247,435.816040268,11062,8811,2251,0,673,596,77,0
+7,Transportes y comunicaciones,Ciudad de México,202601,Mayor o igual a 30 y menor a 35 años de edad,369.120274914,424.322016432,56817,50441,6376,0,4551,4260,291,0
+7,Transportes y comunicaciones,Durango,202601,Mayor o igual a 30 y menor a 35 años de edad,450.260666667,438.027076023,4249,3704,545,0,186,171,15,0
+7,Transportes y comunicaciones,Guanajuato,202601,Mayor o igual a 30 y menor a 35 años de edad,380.905625,429.706534181,10713,9720,993,0,661,629,32,0
+7,Transportes y comunicaciones,Guerrero,202601,Mayor o igual a 30 y menor a 35 años de edad,412.401764706,462.951041009,3973,3578,395,0,334,317,17,0
+7,Transportes y comunicaciones,Hidalgo,202601,Mayor o igual a 30 y menor a 35 años de edad,423.614285714,448.453619632,2486,2249,237,0,170,163,7,0
+7,Transportes y comunicaciones,Jalisco,202601,Mayor o igual a 30 y menor a 35 años de edad,398.709769231,439.348955479,21585,19233,2352,0,1882,1752,130,0
+7,Transportes y comunicaciones,México,202601,Mayor o igual a 30 y menor a 35 años de edad,381.517790698,420.295727003,34916,31663,3253,0,1771,1685,86,0
+7,Transportes y comunicaciones,Michoacán de Ocampo,202601,Mayor o igual a 30 y menor a 35 años de edad,395.146470588,432.088092105,5483,4961,522,0,321,304,17,0
+7,Transportes y comunicaciones,Morelos,202601,Mayor o igual a 30 y menor a 35 años de edad,373.827272727,423.586804734,3961,3564,397,0,180,169,11,0
+7,Transportes y comunicaciones,Nayarit,202601,Mayor o igual a 30 y menor a 35 años de edad,458.083157895,453.415798611,2982,2738,244,0,307,288,19,0
+7,Transportes y comunicaciones,Nuevo León,202601,Mayor o igual a 30 y menor a 35 años de edad,424.696621622,467.863898051,18654,16221,2433,0,2149,2001,148,0
+7,Transportes y comunicaciones,Oaxaca,202601,Mayor o igual a 30 y menor a 35 años de edad,407.559473684,444.935602837,4594,4155,439,0,301,282,19,0
+7,Transportes y comunicaciones,Puebla,202601,Mayor o igual a 30 y menor a 35 años de edad,394.280540541,428.665021337,10536,9628,908,0,740,703,37,0
+7,Transportes y comunicaciones,Querétaro,202601,Mayor o igual a 30 y menor a 35 años de edad,434.25,426.111305970,4025,3634,391,0,281,268,13,0
+7,Transportes y comunicaciones,Quintana Roo,202601,Mayor o igual a 30 y menor a 35 años de edad,453.218636364,445.956290323,3857,3343,514,0,208,186,22,0
+7,Transportes y comunicaciones,San Luis Potosí,202601,Mayor o igual a 30 y menor a 35 años de edad,392.9059375,428.951985472,6973,6175,798,0,445,413,32,0
+7,Transportes y comunicaciones,Sinaloa,202601,Mayor o igual a 30 y menor a 35 años de edad,416.757192982,448.743785047,9584,8545,1039,0,699,642,57,0
+7,Transportes y comunicaciones,Sonora,202601,Mayor o igual a 30 y menor a 35 años de edad,387.037042254,439.396867220,7114,6133,981,0,553,482,71,0
+7,Transportes y comunicaciones,Tabasco,202601,Mayor o igual a 30 y menor a 35 años de edad,417.54,451.929057072,6103,5444,659,0,426,403,23,0
+7,Transportes y comunicaciones,Tamaulipas,202601,Mayor o igual a 30 y menor a 35 años de edad,436.207391304,458.118671727,8565,7431,1134,0,573,527,46,0
+7,Transportes y comunicaciones,Tlaxcala,202601,Mayor o igual a 30 y menor a 35 años de edad,361.406,448.191609195,1740,1624,116,0,92,87,5,0
+7,Transportes y comunicaciones,Veracruz,202601,Mayor o igual a 30 y menor a 35 años de edad,403.532465753,453.683188277,17262,15383,1879,0,1199,1126,73,0
+7,Transportes y comunicaciones,Yucatán,202601,Mayor o igual a 30 y menor a 35 años de edad,430.347142857,449.663760832,8288,7417,871,0,612,577,35,0
+7,Transportes y comunicaciones,Zacatecas,202601,Mayor o igual a 30 y menor a 35 años de edad,492.935714286,418.626825397,1774,1593,181,0,133,126,7,0
+7,Transportes y comunicaciones,Extranjero/Extranjera,202601,Mayor o igual a 35 y menor a 40 años de edad,410.373333333,468.193333333,1977,1745,232,0,195,183,12,0
+7,Transportes y comunicaciones,Aguascalientes,202601,Mayor o igual a 35 y menor a 40 años de edad,408.958,423.986585366,2431,2170,261,0,133,123,10,0
+7,Transportes y comunicaciones,Baja California,202601,Mayor o igual a 35 y menor a 40 años de edad,431.416190476,466.877989691,4730,4052,678,0,430,388,42,0
+7,Transportes y comunicaciones,Baja California Sur,202601,Mayor o igual a 35 y menor a 40 años de edad,406.725,468.137333333,983,791,192,0,68,60,8,0
+7,Transportes y comunicaciones,Campeche,202601,Mayor o igual a 35 y menor a 40 años de edad,411.376363636,451.598993711,2928,2546,382,0,170,159,11,0
+7,Transportes y comunicaciones,Coahuila de Zaragoza,202601,Mayor o igual a 35 y menor a 40 años de edad,413.95,453.278017699,7381,6481,900,0,596,565,31,0
+7,Transportes y comunicaciones,Colima,202601,Mayor o igual a 35 y menor a 40 años de edad,447.78625,452.514,1285,1097,188,0,93,85,8,0
+7,Transportes y comunicaciones,Chiapas,202601,Mayor o igual a 35 y menor a 40 años de edad,411.445555556,447.505543175,5519,5072,447,0,368,359,9,0
+7,Transportes y comunicaciones,Chihuahua,202601,Mayor o igual a 35 y menor a 40 años de edad,407.136875,432.503619490,8277,6567,1710,0,495,431,64,0
+7,Transportes y comunicaciones,Ciudad de México,202601,Mayor o igual a 35 y menor a 40 años de edad,378.774325260,430.328060506,50618,45536,5082,0,5115,4826,289,0
+7,Transportes y comunicaciones,Durango,202601,Mayor o igual a 35 y menor a 40 años de edad,396.482307692,431.190909091,3099,2720,379,0,189,176,13,0
+7,Transportes y comunicaciones,Guanajuato,202601,Mayor o igual a 35 y menor a 40 años de edad,379.966176471,427.042132701,8110,7350,760,0,667,633,34,0
+7,Transportes y comunicaciones,Guerrero,202601,Mayor o igual a 35 y menor a 40 años de edad,405.951428571,460.03828125,3124,2786,338,0,270,256,14,0
+7,Transportes y comunicaciones,Hidalgo,202601,Mayor o igual a 35 y menor a 40 años de edad,411.592857143,450.874685315,1702,1554,148,0,150,143,7,0
+7,Transportes y comunicaciones,Jalisco,202601,Mayor o igual a 35 y menor a 40 años de edad,402.878467742,444.434749059,18282,16209,2073,0,1718,1594,124,0
+7,Transportes y comunicaciones,México,202601,Mayor o igual a 35 y menor a 40 años de edad,374.389310345,424.968110687,22898,20858,2040,0,1106,1048,58,0
+7,Transportes y comunicaciones,Michoacán de Ocampo,202601,Mayor o igual a 35 y menor a 40 años de edad,381.948571429,438.713673469,4295,3826,469,0,308,294,14,0
+7,Transportes y comunicaciones,Morelos,202601,Mayor o igual a 35 y menor a 40 años de edad,383.332727273,407.330300752,2751,2439,312,0,144,133,11,0
+7,Transportes y comunicaciones,Nayarit,202601,Mayor o igual a 35 y menor a 40 años de edad,386.356923077,450.967153285,2492,2227,265,0,287,274,13,0
+7,Transportes y comunicaciones,Nuevo León,202601,Mayor o igual a 35 y menor a 40 años de edad,433.068133333,472.654473684,15685,13720,1965,0,2012,1862,150,0
+7,Transportes y comunicaciones,Oaxaca,202601,Mayor o igual a 35 y menor a 40 años de edad,413.809130435,455.037424893,3267,2886,381,0,256,233,23,0
+7,Transportes y comunicaciones,Puebla,202601,Mayor o igual a 35 y menor a 40 años de edad,399.842105263,426.942071197,8063,7351,712,0,656,618,38,0
+7,Transportes y comunicaciones,Querétaro,202601,Mayor o igual a 35 y menor a 40 años de edad,403.122352941,440.053991228,3082,2774,308,0,245,228,17,0
+7,Transportes y comunicaciones,Quintana Roo,202601,Mayor o igual a 35 y menor a 40 años de edad,408.265714286,484.558865979,2142,1850,292,0,104,97,7,0
+7,Transportes y comunicaciones,San Luis Potosí,202601,Mayor o igual a 35 y menor a 40 años de edad,391.012916667,440.684548023,5276,4656,620,0,378,354,24,0
+7,Transportes y comunicaciones,Sinaloa,202601,Mayor o igual a 35 y menor a 40 años de edad,403.383928571,456.586937716,7541,6608,933,0,634,578,56,0
+7,Transportes y comunicaciones,Sonora,202601,Mayor o igual a 35 y menor a 40 años de edad,396.640144928,444.704858388,5994,5039,955,0,528,459,69,0
+7,Transportes y comunicaciones,Tabasco,202601,Mayor o igual a 35 y menor a 40 años de edad,404.648333333,457.475531915,4841,4367,474,0,300,282,18,0
+7,Transportes y comunicaciones,Tamaulipas,202601,Mayor o igual a 35 y menor a 40 años de edad,421.285675676,452.745617021,6656,5715,941,0,507,470,37,0
+7,Transportes y comunicaciones,Tlaxcala,202601,Mayor o igual a 35 y menor a 40 años de edad,412.58,436.770978261,1298,1200,98,0,94,92,2,0
+7,Transportes y comunicaciones,Veracruz,202601,Mayor o igual a 35 y menor a 40 años de edad,407.931636364,456.667174542,13864,12424,1440,0,1092,1037,55,0
+7,Transportes y comunicaciones,Yucatán,202601,Mayor o igual a 35 y menor a 40 años de edad,401.097631579,446.303720472,7128,6370,758,0,546,508,38,0
+7,Transportes y comunicaciones,Zacatecas,202601,Mayor o igual a 35 y menor a 40 años de edad,381.5225,444.453085106,1552,1368,184,0,98,94,4,0
+7,Transportes y comunicaciones,Extranjero/Extranjera,202601,Mayor o igual a 40 y menor a 45 años de edad,362.741818182,475.171879195,1406,1262,144,0,160,149,11,0
+7,Transportes y comunicaciones,Aguascalientes,202601,Mayor o igual a 40 y menor a 45 años de edad,351.49,422.162476190,1744,1544,200,0,109,105,4,0
+7,Transportes y comunicaciones,Baja California,202601,Mayor o igual a 40 y menor a 45 años de edad,434.937352941,460.617430556,2997,2502,495,0,322,288,34,0
+7,Transportes y comunicaciones,Baja California Sur,202601,Mayor o igual a 40 y menor a 45 años de edad,369.454285714,468.522539683,687,554,133,0,70,63,7,0
+7,Transportes y comunicaciones,Campeche,202601,Mayor o igual a 40 y menor a 45 años de edad,389.55625,487.197477477,2082,1823,259,0,119,111,8,0
+7,Transportes y comunicaciones,Coahuila de Zaragoza,202601,Mayor o igual a 40 y menor a 45 años de edad,391.062857143,444.489587379,5513,4848,665,0,440,412,28,0
+7,Transportes y comunicaciones,Colima,202601,Mayor o igual a 40 y menor a 45 años de edad,434.9275,430.341578947,909,791,118,0,61,57,4,0
+7,Transportes y comunicaciones,Chiapas,202601,Mayor o igual a 40 y menor a 45 años de edad,424.669411765,454.207875458,3821,3474,347,0,290,273,17,0
+7,Transportes y comunicaciones,Chihuahua,202601,Mayor o igual a 40 y menor a 45 años de edad,393.988421053,433.358607955,5384,4358,1026,0,390,352,38,0
+7,Transportes y comunicaciones,Ciudad de México,202601,Mayor o igual a 40 y menor a 45 años de edad,368.581254753,430.369575362,45638,41287,4351,0,4549,4286,263,0
+7,Transportes y comunicaciones,Durango,202601,Mayor o igual a 40 y menor a 45 años de edad,424.981666667,442.928396947,2134,1828,306,0,143,131,12,0
+7,Transportes y comunicaciones,Guanajuato,202601,Mayor o igual a 40 y menor a 45 años de edad,393.84375,438.780244898,5804,5272,532,0,514,490,24,0
+7,Transportes y comunicaciones,Guerrero,202601,Mayor o igual a 40 y menor a 45 años de edad,367.24375,474.494316239,2142,1917,225,0,242,234,8,0
+7,Transportes y comunicaciones,Hidalgo,202601,Mayor o igual a 40 y menor a 45 años de edad,368.22125,451.315833333,1248,1132,116,0,128,120,8,0
+7,Transportes y comunicaciones,Jalisco,202601,Mayor o igual a 40 y menor a 45 años de edad,405.957578947,443.478444444,13758,12205,1553,0,1310,1215,95,0
+7,Transportes y comunicaciones,México,202601,Mayor o igual a 40 y menor a 45 años de edad,413.186486486,426.604656797,11730,10649,1081,0,780,743,37,0
+7,Transportes y comunicaciones,Michoacán de Ocampo,202601,Mayor o igual a 40 y menor a 45 años de edad,392.105384615,453.359122807,2996,2672,324,0,241,228,13,0
+7,Transportes y comunicaciones,Morelos,202601,Mayor o igual a 40 y menor a 45 años de edad,388.148571429,419.838823529,1911,1733,178,0,126,119,7,0
+7,Transportes y comunicaciones,Nayarit,202601,Mayor o igual a 40 y menor a 45 años de edad,396.71,446.482427184,2073,1904,169,0,215,206,9,0
+7,Transportes y comunicaciones,Nuevo León,202601,Mayor o igual a 40 y menor a 45 años de edad,432.972222222,487.104954008,12043,10471,1572,0,1630,1522,108,0
+7,Transportes y comunicaciones,Oaxaca,202601,Mayor o igual a 40 y menor a 45 años de edad,374.652,453.837210526,2358,2158,200,0,200,190,10,0
+7,Transportes y comunicaciones,Puebla,202601,Mayor o igual a 40 y menor a 45 años de edad,380.071666667,441.752495413,5891,5358,533,0,569,545,24,0
+7,Transportes y comunicaciones,Querétaro,202601,Mayor o igual a 40 y menor a 45 años de edad,392.213846154,446.217525253,2263,2055,208,0,211,198,13,0
+7,Transportes y comunicaciones,Quintana Roo,202601,Mayor o igual a 40 y menor a 45 años de edad,415.985,433.112745098,1178,1015,163,0,53,51,2,0
+7,Transportes y comunicaciones,San Luis Potosí,202601,Mayor o igual a 40 y menor a 45 años de edad,409.949411765,434.772857143,3438,3031,407,0,269,252,17,0
+7,Transportes y comunicaciones,Sinaloa,202601,Mayor o igual a 40 y menor a 45 años de edad,420.046857143,452.142369565,5745,5019,726,0,495,460,35,0
+7,Transportes y comunicaciones,Sonora,202601,Mayor o igual a 40 y menor a 45 años de edad,382.950540541,447.938146341,4596,3943,653,0,447,410,37,0
+7,Transportes y comunicaciones,Tabasco,202601,Mayor o igual a 40 y menor a 45 años de edad,416.66,436.810233645,3414,3072,342,0,224,214,10,0
+7,Transportes y comunicaciones,Tamaulipas,202601,Mayor o igual a 40 y menor a 45 años de edad,398.568571429,462.627211055,4652,4026,626,0,426,398,28,0
+7,Transportes y comunicaciones,Tlaxcala,202601,Mayor o igual a 40 y menor a 45 años de edad,337.47,455.678245614,986,922,64,0,59,57,2,0
+7,Transportes y comunicaciones,Veracruz,202601,Mayor o igual a 40 y menor a 45 años de edad,393.604285714,451.064149068,10193,9105,1088,0,847,805,42,0
+7,Transportes y comunicaciones,Yucatán,202601,Mayor o igual a 40 y menor a 45 años de edad,415.416923077,451.236009501,5578,4951,627,0,447,421,26,0
+7,Transportes y comunicaciones,Zacatecas,202601,Mayor o igual a 40 y menor a 45 años de edad,483.024285714,443.395698925,1161,1045,116,0,100,93,7,0
+7,Transportes y comunicaciones,Extranjero/Extranjera,202601,Mayor o igual a 45 y menor a 50 años de edad,448.0475,469.531272727,1060,952,108,0,118,110,8,0
+7,Transportes y comunicaciones,Aguascalientes,202601,Mayor o igual a 45 y menor a 50 años de edad,,426.535054945,1095,962,133,0,91,91,0,0
+7,Transportes y comunicaciones,Baja California,202601,Mayor o igual a 45 y menor a 50 años de edad,433.629,480.427777778,1995,1680,315,0,290,270,20,0
+7,Transportes y comunicaciones,Baja California Sur,202601,Mayor o igual a 45 y menor a 50 años de edad,456.762,485.125333333,495,395,100,0,35,30,5,0
+7,Transportes y comunicaciones,Campeche,202601,Mayor o igual a 45 y menor a 50 años de edad,370.67125,451.557619048,1323,1172,151,0,92,84,8,0
+7,Transportes y comunicaciones,Coahuila de Zaragoza,202601,Mayor o igual a 45 y menor a 50 años de edad,382.488461538,450.459376771,3785,3345,440,0,366,353,13,0
+7,Transportes y comunicaciones,Colima,202601,Mayor o igual a 45 y menor a 50 años de edad,431.336666667,452.847659574,527,434,93,0,50,47,3,0
+7,Transportes y comunicaciones,Chiapas,202601,Mayor o igual a 45 y menor a 50 años de edad,380.667647059,434.728273810,2352,2158,194,0,185,168,17,0
+7,Transportes y comunicaciones,Chihuahua,202601,Mayor o igual a 45 y menor a 50 años de edad,393.488,437.669851190,3694,2993,701,0,361,336,25,0
+7,Transportes y comunicaciones,Ciudad de México,202601,Mayor o igual a 45 y menor a 50 años de edad,384.655950413,439.093883663,35233,31769,3464,0,4282,4040,242,0
+7,Transportes y comunicaciones,Durango,202601,Mayor o igual a 45 y menor a 50 años de edad,451.648888889,460.136571429,1502,1278,224,0,149,140,9,0
+7,Transportes y comunicaciones,Guanajuato,202601,Mayor o igual a 45 y menor a 50 años de edad,392.395454545,438.183161593,3994,3606,388,0,438,427,11,0
+7,Transportes y comunicaciones,Guerrero,202601,Mayor o igual a 45 y menor a 50 años de edad,405,462.125903614,1557,1392,165,0,176,166,10,0
+7,Transportes y comunicaciones,Hidalgo,202601,Mayor o igual a 45 y menor a 50 años de edad,410.02375,482.863663366,908,817,91,0,109,101,8,0
+7,Transportes y comunicaciones,Jalisco,202601,Mayor o igual a 45 y menor a 50 años de edad,380.162181818,440.662306220,9732,8632,1100,0,1100,1045,55,0
+7,Transportes y comunicaciones,México,202601,Mayor o igual a 45 y menor a 50 años de edad,400.526111111,438.497824351,6904,6288,616,0,519,501,18,0
+7,Transportes y comunicaciones,Michoacán de Ocampo,202601,Mayor o igual a 45 y menor a 50 años de edad,425.879333333,434.347557604,2067,1817,250,0,232,217,15,0
+7,Transportes y comunicaciones,Morelos,202601,Mayor o igual a 45 y menor a 50 años de edad,387.236666667,427.065242718,1263,1128,135,0,106,103,3,0
+7,Transportes y comunicaciones,Nayarit,202601,Mayor o igual a 45 y menor a 50 años de edad,387.066,463.351,1449,1312,137,0,150,140,10,0
+7,Transportes y comunicaciones,Nuevo León,202601,Mayor o igual a 45 y menor a 50 años de edad,432.858714286,489.881201962,8602,7537,1065,0,1293,1223,70,0
+7,Transportes y comunicaciones,Oaxaca,202601,Mayor o igual a 45 y menor a 50 años de edad,377.227142857,449.294892086,1710,1577,133,0,146,139,7,0
+7,Transportes y comunicaciones,Puebla,202601,Mayor o igual a 45 y menor a 50 años de edad,410.939333333,437.397,4392,4022,370,0,485,470,15,0
+7,Transportes y comunicaciones,Querétaro,202601,Mayor o igual a 45 y menor a 50 años de edad,388.274444444,445.755704225,1572,1423,149,0,151,142,9,0
+7,Transportes y comunicaciones,Quintana Roo,202601,Mayor o igual a 45 y menor a 50 años de edad,,464.865882353,513,452,61,0,17,17,0,0
+7,Transportes y comunicaciones,San Luis Potosí,202601,Mayor o igual a 45 y menor a 50 años de edad,431.153529412,461.983495575,2311,2009,302,0,243,226,17,0
+7,Transportes y comunicaciones,Sinaloa,202601,Mayor o igual a 45 y menor a 50 años de edad,434.255,462.076961326,4132,3602,530,0,388,362,26,0
+7,Transportes y comunicaciones,Sonora,202601,Mayor o igual a 45 y menor a 50 años de edad,397.9903125,448.522069971,3455,2893,562,0,375,343,32,0
+7,Transportes y comunicaciones,Tabasco,202601,Mayor o igual a 45 y menor a 50 años de edad,418.422,446.926062992,2150,1912,238,0,137,127,10,0
+7,Transportes y comunicaciones,Tamaulipas,202601,Mayor o igual a 45 y menor a 50 años de edad,418.924285714,456.516938776,3218,2814,404,0,315,294,21,0
+7,Transportes y comunicaciones,Tlaxcala,202601,Mayor o igual a 45 y menor a 50 años de edad,350.323333333,452.011129032,668,617,51,0,65,62,3,0
+7,Transportes y comunicaciones,Veracruz,202601,Mayor o igual a 45 y menor a 50 años de edad,419.225185185,452.597950413,7073,6404,669,0,632,605,27,0
+7,Transportes y comunicaciones,Yucatán,202601,Mayor o igual a 45 y menor a 50 años de edad,426.000769231,456.733623978,3861,3470,391,0,393,367,26,0
+7,Transportes y comunicaciones,Zacatecas,202601,Mayor o igual a 45 y menor a 50 años de edad,371.172,448.902025316,876,776,100,0,84,79,5,0
+7,Transportes y comunicaciones,Extranjero/Extranjera,202601,Mayor o igual a 50 y menor a 55 años de edad,357.4625,469.110273973,704,587,117,0,77,73,4,0
+7,Transportes y comunicaciones,Aguascalientes,202601,Mayor o igual a 50 y menor a 55 años de edad,,428.420641026,776,702,74,0,78,78,0,0
+7,Transportes y comunicaciones,Baja California,202601,Mayor o igual a 50 y menor a 55 años de edad,436.83,444.146814159,1463,1258,205,0,123,113,10,0
+7,Transportes y comunicaciones,Baja California Sur,202601,Mayor o igual a 50 y menor a 55 años de edad,373.82,443.395555556,269,219,50,0,21,18,3,0
+7,Transportes y comunicaciones,Campeche,202601,Mayor o igual a 50 y menor a 55 años de edad,356.485,448.971568627,858,726,132,0,55,51,4,0
+7,Transportes y comunicaciones,Coahuila de Zaragoza,202601,Mayor o igual a 50 y menor a 55 años de edad,413.87,444.876878307,2508,2219,289,0,196,189,7,0
+7,Transportes y comunicaciones,Colima,202601,Mayor o igual a 50 y menor a 55 años de edad,416.16,434.684074074,383,325,58,0,28,27,1,0
+7,Transportes y comunicaciones,Chiapas,202601,Mayor o igual a 50 y menor a 55 años de edad,333.53,444.725981308,1373,1216,157,0,108,107,1,0
+7,Transportes y comunicaciones,Chihuahua,202601,Mayor o igual a 50 y menor a 55 años de edad,388.545,446.842771084,2565,2095,470,0,178,166,12,0
+7,Transportes y comunicaciones,Ciudad de México,202601,Mayor o igual a 50 y menor a 55 años de edad,391.2845,434.687358708,28023,25295,2728,0,2701,2601,100,0
+7,Transportes y comunicaciones,Durango,202601,Mayor o igual a 50 y menor a 55 años de edad,363.005,446.724852941,977,846,131,0,72,68,4,0
+7,Transportes y comunicaciones,Guanajuato,202601,Mayor o igual a 50 y menor a 55 años de edad,431.28625,438.192915129,2766,2488,278,0,279,271,8,0
+7,Transportes y comunicaciones,Guerrero,202601,Mayor o igual a 50 y menor a 55 años de edad,350.235,474.615825243,1057,965,92,0,105,103,2,0
+7,Transportes y comunicaciones,Hidalgo,202601,Mayor o igual a 50 y menor a 55 años de edad,330.57,430.036129032,675,607,68,0,63,62,1,0
+7,Transportes y comunicaciones,Jalisco,202601,Mayor o igual a 50 y menor a 55 años de edad,412.328055556,448.768422713,6781,6006,775,0,670,634,36,0
+7,Transportes y comunicaciones,México,202601,Mayor o igual a 50 y menor a 55 años de edad,422.377,447.541950355,3957,3635,322,0,292,282,10,0
+7,Transportes y comunicaciones,Michoacán de Ocampo,202601,Mayor o igual a 50 y menor a 55 años de edad,384.725,462.758043478,1464,1309,155,0,144,138,6,0
+7,Transportes y comunicaciones,Morelos,202601,Mayor o igual a 50 y menor a 55 años de edad,,438.368571429,876,789,87,0,49,49,0,0
+7,Transportes y comunicaciones,Nayarit,202601,Mayor o igual a 50 y menor a 55 años de edad,426.925,440.600129870,997,909,88,0,81,77,4,0
+7,Transportes y comunicaciones,Nuevo León,202601,Mayor o igual a 50 y menor a 55 años de edad,426.948292683,487.713884993,5763,5100,663,0,754,713,41,0
+7,Transportes y comunicaciones,Oaxaca,202601,Mayor o igual a 50 y menor a 55 años de edad,378.8775,461.005063291,1069,969,100,0,83,79,4,0
+7,Transportes y comunicaciones,Puebla,202601,Mayor o igual a 50 y menor a 55 años de edad,375.026666667,431.083970037,2980,2732,248,0,270,267,3,0
+7,Transportes y comunicaciones,Querétaro,202601,Mayor o igual a 50 y menor a 55 años de edad,382.903333333,442.2925,1039,968,71,0,75,72,3,0
+7,Transportes y comunicaciones,Quintana Roo,202601,Mayor o igual a 50 y menor a 55 años de edad,481.18,494.999090909,219,185,34,0,12,11,1,0
+7,Transportes y comunicaciones,San Luis Potosí,202601,Mayor o igual a 50 y menor a 55 años de edad,378.663333333,440.685099338,1636,1429,207,0,154,151,3,0
+7,Transportes y comunicaciones,Sinaloa,202601,Mayor o igual a 50 y menor a 55 años de edad,395.6335,445.89125,2778,2441,337,0,220,200,20,0
+7,Transportes y comunicaciones,Sonora,202601,Mayor o igual a 50 y menor a 55 años de edad,409.613333333,436.964378109,2363,1994,369,0,219,201,18,0
+7,Transportes y comunicaciones,Tabasco,202601,Mayor o igual a 50 y menor a 55 años de edad,411.836666667,451.818813559,1261,1122,139,0,65,59,6,0
+7,Transportes y comunicaciones,Tamaulipas,202601,Mayor o igual a 50 y menor a 55 años de edad,457.29,471.694514286,2228,1931,297,0,194,175,19,0
+7,Transportes y comunicaciones,Tlaxcala,202601,Mayor o igual a 50 y menor a 55 años de edad,541.98,452.361666667,448,423,25,0,31,30,1,0
+7,Transportes y comunicaciones,Veracruz,202601,Mayor o igual a 50 y menor a 55 años de edad,392.687857143,453.653869048,4605,4185,420,0,350,336,14,0
+7,Transportes y comunicaciones,Yucatán,202601,Mayor o igual a 50 y menor a 55 años de edad,414.158,451.756901408,2769,2484,285,0,228,213,15,0
+7,Transportes y comunicaciones,Zacatecas,202601,Mayor o igual a 50 y menor a 55 años de edad,501.81,445.446447368,657,596,61,0,77,76,1,0
+7,Transportes y comunicaciones,Extranjero/Extranjera,202601,Mayor o igual a 55 y menor a 60 años de edad,466.98,453.525227273,438,382,56,0,45,44,1,0
+7,Transportes y comunicaciones,Aguascalientes,202601,Mayor o igual a 55 y menor a 60 años de edad,528.87,439.024615385,468,427,41,0,40,39,1,0
+7,Transportes y comunicaciones,Baja California,202601,Mayor o igual a 55 y menor a 60 años de edad,399.42,440.855116279,705,613,92,0,44,43,1,0
+7,Transportes y comunicaciones,Baja California Sur,202601,Mayor o igual a 55 y menor a 60 años de edad,387.42,499.825,151,129,22,0,9,8,1,0
+7,Transportes y comunicaciones,Campeche,202601,Mayor o igual a 55 y menor a 60 años de edad,945.34,458.2016,525,459,66,0,26,25,1,0
+7,Transportes y comunicaciones,Coahuila de Zaragoza,202601,Mayor o igual a 55 y menor a 60 años de edad,446.543333333,435.120555556,1417,1297,120,0,111,108,3,0
+7,Transportes y comunicaciones,Colima,202601,Mayor o igual a 55 y menor a 60 años de edad,330.57,427.765,215,185,30,0,17,16,1,0
+7,Transportes y comunicaciones,Chiapas,202601,Mayor o igual a 55 y menor a 60 años de edad,,401.262121212,796,724,72,0,33,33,0,0
+7,Transportes y comunicaciones,Chihuahua,202601,Mayor o igual a 55 y menor a 60 años de edad,438.8725,432.3428,1526,1305,221,0,79,75,4,0
+7,Transportes y comunicaciones,Ciudad de México,202601,Mayor o igual a 55 y menor a 60 años de edad,375.111724138,428.678041567,17146,15673,1473,0,1280,1251,29,0
+7,Transportes y comunicaciones,Durango,202601,Mayor o igual a 55 y menor a 60 años de edad,315.04,430.228787879,551,488,63,0,34,33,1,0
+7,Transportes y comunicaciones,Guanajuato,202601,Mayor o igual a 55 y menor a 60 años de edad,376.14,427.016803279,1703,1597,106,0,124,122,2,0
+7,Transportes y comunicaciones,Guerrero,202601,Mayor o igual a 55 y menor a 60 años de edad,668.16,472.998809524,586,538,48,0,43,42,1,0
+7,Transportes y comunicaciones,Hidalgo,202601,Mayor o igual a 55 y menor a 60 años de edad,330.57,426.65,466,435,31,0,28,27,1,0
+7,Transportes y comunicaciones,Jalisco,202601,Mayor o igual a 55 y menor a 60 años de edad,346.1575,435.857094340,3886,3510,376,0,273,265,8,0
+7,Transportes y comunicaciones,México,202601,Mayor o igual a 55 y menor a 60 años de edad,335.57,432.942432432,1996,1852,144,0,112,111,1,0
+7,Transportes y comunicaciones,Michoacán de Ocampo,202601,Mayor o igual a 55 y menor a 60 años de edad,,438.35234375,889,821,68,0,64,64,0,0
+7,Transportes y comunicaciones,Morelos,202601,Mayor o igual a 55 y menor a 60 años de edad,315.04,437.421290323,462,421,41,0,32,31,1,0
+7,Transportes y comunicaciones,Nayarit,202601,Mayor o igual a 55 y menor a 60 años de edad,,404.294222222,578,536,42,0,45,45,0,0
+7,Transportes y comunicaciones,Nuevo León,202601,Mayor o igual a 55 y menor a 60 años de edad,423.725,461.146955128,3254,2931,323,0,320,312,8,0
+7,Transportes y comunicaciones,Oaxaca,202601,Mayor o igual a 55 y menor a 60 años de edad,472.99,453.63125,551,502,49,0,49,48,1,0
+7,Transportes y comunicaciones,Puebla,202601,Mayor o igual a 55 y menor a 60 años de edad,334.84,418.043611111,1739,1620,119,0,109,108,1,0
+7,Transportes y comunicaciones,Querétaro,202601,Mayor o igual a 55 y menor a 60 años de edad,,437.528823529,539,504,35,0,34,34,0,0
+7,Transportes y comunicaciones,Quintana Roo,202601,Mayor o igual a 55 y menor a 60 años de edad,,458.39,79,67,12,0,4,4,0,0
+7,Transportes y comunicaciones,San Luis Potosí,202601,Mayor o igual a 55 y menor a 60 años de edad,334.89,448.666233766,954,852,102,0,78,77,1,0
+7,Transportes y comunicaciones,Sinaloa,202601,Mayor o igual a 55 y menor a 60 años de edad,450.144,419.369270833,1639,1461,178,0,101,96,5,0
+7,Transportes y comunicaciones,Sonora,202601,Mayor o igual a 55 y menor a 60 años de edad,552.33,429.762772277,1390,1179,211,0,102,101,1,0
+7,Transportes y comunicaciones,Tabasco,202601,Mayor o igual a 55 y menor a 60 años de edad,426.49,446.141290323,619,552,67,0,32,31,1,0
+7,Transportes y comunicaciones,Tamaulipas,202601,Mayor o igual a 55 y menor a 60 años de edad,569.11,436.299756098,1321,1169,152,0,83,82,1,0
+7,Transportes y comunicaciones,Tlaxcala,202601,Mayor o igual a 55 y menor a 60 años de edad,340.535,448.296315789,219,205,14,0,21,19,2,0
+7,Transportes y comunicaciones,Veracruz,202601,Mayor o igual a 55 y menor a 60 años de edad,441.168,435.799683544,2642,2406,236,0,163,158,5,0
+7,Transportes y comunicaciones,Yucatán,202601,Mayor o igual a 55 y menor a 60 años de edad,343.573333333,443.4725,1598,1432,166,0,87,84,3,0
+7,Transportes y comunicaciones,Zacatecas,202601,Mayor o igual a 55 y menor a 60 años de edad,423.7,449.586458333,496,461,35,0,49,48,1,0
+7,Transportes y comunicaciones,Extranjero/Extranjera,202601,Mayor o igual a 60 y menor a 65 años de edad,,420.092352941,271,246,25,0,17,17,0,0
+7,Transportes y comunicaciones,Aguascalientes,202601,Mayor o igual a 60 y menor a 65 años de edad,,411.065714286,268,250,18,0,14,14,0,0
+7,Transportes y comunicaciones,Baja California,202601,Mayor o igual a 60 y menor a 65 años de edad,,459.909166667,324,289,35,0,12,12,0,0
+7,Transportes y comunicaciones,Baja California Sur,202601,Mayor o igual a 60 y menor a 65 años de edad,,378.305,70,59,11,0,2,2,0,0
+7,Transportes y comunicaciones,Campeche,202601,Mayor o igual a 60 y menor a 65 años de edad,444.69,449.156666667,189,177,12,0,4,3,1,0
+7,Transportes y comunicaciones,Coahuila de Zaragoza,202601,Mayor o igual a 60 y menor a 65 años de edad,412.83,414.0125,758,697,61,0,26,24,2,0
+7,Transportes y comunicaciones,Colima,202601,Mayor o igual a 60 y menor a 65 años de edad,,464.191428571,106,102,4,0,7,7,0,0
+7,Transportes y comunicaciones,Chiapas,202601,Mayor o igual a 60 y menor a 65 años de edad,,438.5825,333,313,20,0,12,12,0,0
+7,Transportes y comunicaciones,Chihuahua,202601,Mayor o igual a 60 y menor a 65 años de edad,,419.797575758,705,630,75,0,33,33,0,0
+7,Transportes y comunicaciones,Ciudad de México,202601,Mayor o igual a 60 y menor a 65 años de edad,416.396666667,414.497234043,8621,8055,566,0,385,376,9,0
+7,Transportes y comunicaciones,Durango,202601,Mayor o igual a 60 y menor a 65 años de edad,,415.111052632,285,251,34,0,19,19,0,0
+7,Transportes y comunicaciones,Guanajuato,202601,Mayor o igual a 60 y menor a 65 años de edad,,428.99225,868,816,52,0,40,40,0,0
+7,Transportes y comunicaciones,Guerrero,202601,Mayor o igual a 60 y menor a 65 años de edad,,425.969473684,344,314,30,0,19,19,0,0
+7,Transportes y comunicaciones,Hidalgo,202601,Mayor o igual a 60 y menor a 65 años de edad,,386.942,210,202,8,0,10,10,0,0
+7,Transportes y comunicaciones,Jalisco,202601,Mayor o igual a 60 y menor a 65 años de edad,,426.709701493,1787,1662,125,0,67,67,0,0
+7,Transportes y comunicaciones,México,202601,Mayor o igual a 60 y menor a 65 años de edad,,404.20225,901,845,56,0,40,40,0,0
+7,Transportes y comunicaciones,Michoacán de Ocampo,202601,Mayor o igual a 60 y menor a 65 años de edad,315.04,414.510689655,551,519,32,0,30,29,1,0
+7,Transportes y comunicaciones,Morelos,202601,Mayor o igual a 60 y menor a 65 años de edad,,446.924,190,174,16,0,5,5,0,0
+7,Transportes y comunicaciones,Nayarit,202601,Mayor o igual a 60 y menor a 65 años de edad,,465.034285714,292,274,18,0,14,14,0,0
+7,Transportes y comunicaciones,Nuevo León,202601,Mayor o igual a 60 y menor a 65 años de edad,345.27,451.748645833,1627,1487,140,0,98,96,2,0
+7,Transportes y comunicaciones,Oaxaca,202601,Mayor o igual a 60 y menor a 65 años de edad,1214.99,440.03375,311,285,26,0,17,16,1,0
+7,Transportes y comunicaciones,Puebla,202601,Mayor o igual a 60 y menor a 65 años de edad,,424.526206897,879,832,47,0,29,29,0,0
+7,Transportes y comunicaciones,Querétaro,202601,Mayor o igual a 60 y menor a 65 años de edad,451.02,461.619166667,228,214,14,0,13,12,1,0
+7,Transportes y comunicaciones,Quintana Roo,202601,Mayor o igual a 60 y menor a 65 años de edad,,589.39,43,40,3,0,1,1,0,0
+7,Transportes y comunicaciones,San Luis Potosí,202601,Mayor o igual a 60 y menor a 65 años de edad,356.83,455.324761905,520,494,26,0,22,21,1,0
+7,Transportes y comunicaciones,Sinaloa,202601,Mayor o igual a 60 y menor a 65 años de edad,,448.0496,758,702,56,0,25,25,0,0
+7,Transportes y comunicaciones,Sonora,202601,Mayor o igual a 60 y menor a 65 años de edad,570.4,441.408095238,739,678,61,0,46,42,4,0
+7,Transportes y comunicaciones,Tabasco,202601,Mayor o igual a 60 y menor a 65 años de edad,,391.332,218,198,20,0,10,10,0,0
+7,Transportes y comunicaciones,Tamaulipas,202601,Mayor o igual a 60 y menor a 65 años de edad,,384.165769231,733,663,70,0,26,26,0,0
+7,Transportes y comunicaciones,Tlaxcala,202601,Mayor o igual a 60 y menor a 65 años de edad,,447.068,166,155,11,0,5,5,0,0
+7,Transportes y comunicaciones,Veracruz,202601,Mayor o igual a 60 y menor a 65 años de edad,434.74,459.910294118,1237,1144,93,0,35,34,1,0
+7,Transportes y comunicaciones,Yucatán,202601,Mayor o igual a 60 y menor a 65 años de edad,,421.185555556,736,681,55,0,27,27,0,0
+7,Transportes y comunicaciones,Zacatecas,202601,Mayor o igual a 60 y menor a 65 años de edad,,445.58625,307,290,17,0,16,16,0,0
+7,Transportes y comunicaciones,Extranjero/Extranjera,202601,Mayor o igual a 65 y menor a 70 años de edad,,351.252857143,108,102,6,0,7,7,0,0
+7,Transportes y comunicaciones,Aguascalientes,202601,Mayor o igual a 65 y menor a 70 años de edad,,407.57,104,102,2,0,3,3,0,0
+7,Transportes y comunicaciones,Baja California,202601,Mayor o igual a 65 y menor a 70 años de edad,,463.908,108,96,12,0,5,5,0,0
+7,Transportes y comunicaciones,Baja California Sur,202601,Mayor o igual a 65 y menor a 70 años de edad,,,29,27,2,0,0,0,0,0
+7,Transportes y comunicaciones,Campeche,202601,Mayor o igual a 65 y menor a 70 años de edad,,348.305,72,67,5,0,2,2,0,0
+7,Transportes y comunicaciones,Coahuila de Zaragoza,202601,Mayor o igual a 65 y menor a 70 años de edad,,416.011,271,252,19,0,10,10,0,0
+7,Transportes y comunicaciones,Colima,202601,Mayor o igual a 65 y menor a 70 años de edad,,508.215,47,46,1,0,2,2,0,0
+7,Transportes y comunicaciones,Chiapas,202601,Mayor o igual a 65 y menor a 70 años de edad,,395.63,111,105,6,0,5,5,0,0
+7,Transportes y comunicaciones,Chihuahua,202601,Mayor o igual a 65 y menor a 70 años de edad,,408.426666667,292,275,17,0,6,6,0,0
+7,Transportes y comunicaciones,Ciudad de México,202601,Mayor o igual a 65 y menor a 70 años de edad,362.945,421.633225806,3537,3341,196,0,95,93,2,0
+7,Transportes y comunicaciones,Durango,202601,Mayor o igual a 65 y menor a 70 años de edad,,491.63,135,123,12,0,2,2,0,0
+7,Transportes y comunicaciones,Guanajuato,202601,Mayor o igual a 65 y menor a 70 años de edad,,382.317,345,323,22,0,10,10,0,0
+7,Transportes y comunicaciones,Guerrero,202601,Mayor o igual a 65 y menor a 70 años de edad,,437.346666667,128,118,10,0,3,3,0,0
+7,Transportes y comunicaciones,Hidalgo,202601,Mayor o igual a 65 y menor a 70 años de edad,,464.59,121,113,8,0,3,3,0,0
+7,Transportes y comunicaciones,Jalisco,202601,Mayor o igual a 65 y menor a 70 años de edad,,383.223333333,673,632,41,0,18,18,0,0
+7,Transportes y comunicaciones,México,202601,Mayor o igual a 65 y menor a 70 años de edad,,415.435,355,332,23,0,10,10,0,0
+7,Transportes y comunicaciones,Michoacán de Ocampo,202601,Mayor o igual a 65 y menor a 70 años de edad,,403.202222222,260,233,27,0,9,9,0,0
+7,Transportes y comunicaciones,Morelos,202601,Mayor o igual a 65 y menor a 70 años de edad,,,72,68,4,0,0,0,0,0
+7,Transportes y comunicaciones,Nayarit,202601,Mayor o igual a 65 y menor a 70 años de edad,,389.87,133,127,6,0,4,4,0,0
+7,Transportes y comunicaciones,Nuevo León,202601,Mayor o igual a 65 y menor a 70 años de edad,,434.592222222,606,563,43,0,18,18,0,0
+7,Transportes y comunicaciones,Oaxaca,202601,Mayor o igual a 65 y menor a 70 años de edad,,437.555,133,128,5,0,2,2,0,0
+7,Transportes y comunicaciones,Puebla,202601,Mayor o igual a 65 y menor a 70 años de edad,,392.914285714,330,312,18,0,14,14,0,0
+7,Transportes y comunicaciones,Querétaro,202601,Mayor o igual a 65 y menor a 70 años de edad,,,99,97,2,0,0,0,0,0
+7,Transportes y comunicaciones,Quintana Roo,202601,Mayor o igual a 65 y menor a 70 años de edad,,,9,7,2,0,0,0,0,0
+7,Transportes y comunicaciones,San Luis Potosí,202601,Mayor o igual a 65 y menor a 70 años de edad,,484.73,221,204,17,0,4,4,0,0
+7,Transportes y comunicaciones,Sinaloa,202601,Mayor o igual a 65 y menor a 70 años de edad,,426.23875,317,284,33,0,8,8,0,0
+7,Transportes y comunicaciones,Sonora,202601,Mayor o igual a 65 y menor a 70 años de edad,,473.98,302,272,30,0,7,7,0,0
+7,Transportes y comunicaciones,Tabasco,202601,Mayor o igual a 65 y menor a 70 años de edad,,338.856,85,80,5,0,5,5,0,0
+7,Transportes y comunicaciones,Tamaulipas,202601,Mayor o igual a 65 y menor a 70 años de edad,,427.488888889,269,251,18,0,9,9,0,0
+7,Transportes y comunicaciones,Tlaxcala,202601,Mayor o igual a 65 y menor a 70 años de edad,,385.9,67,63,4,0,1,1,0,0
+7,Transportes y comunicaciones,Veracruz,202601,Mayor o igual a 65 y menor a 70 años de edad,,423.234666667,448,419,29,0,15,15,0,0
+7,Transportes y comunicaciones,Yucatán,202601,Mayor o igual a 65 y menor a 70 años de edad,,437.577142857,286,270,16,0,7,7,0,0
+7,Transportes y comunicaciones,Zacatecas,202601,Mayor o igual a 65 y menor a 70 años de edad,,434.598,133,125,8,0,5,5,0,0
+7,Transportes y comunicaciones,Extranjero/Extranjera,202601,Mayor o igual a 70 y menor a 75 años de edad,333.32,417.11,38,37,1,0,2,1,1,0
+7,Transportes y comunicaciones,Aguascalientes,202601,Mayor o igual a 70 y menor a 75 años de edad,,,23,23,0,0,0,0,0,0
+7,Transportes y comunicaciones,Baja California,202601,Mayor o igual a 70 y menor a 75 años de edad,,,31,30,1,0,0,0,0,0
+7,Transportes y comunicaciones,Baja California Sur,202601,Mayor o igual a 70 y menor a 75 años de edad,,,1,1,0,0,0,0,0,0
+7,Transportes y comunicaciones,Campeche,202601,Mayor o igual a 70 y menor a 75 años de edad,,,22,20,2,0,0,0,0,0
+7,Transportes y comunicaciones,Coahuila de Zaragoza,202601,Mayor o igual a 70 y menor a 75 años de edad,,454.196666667,81,77,4,0,3,3,0,0
+7,Transportes y comunicaciones,Colima,202601,Mayor o igual a 70 y menor a 75 años de edad,,,18,16,2,0,0,0,0,0
+7,Transportes y comunicaciones,Chiapas,202601,Mayor o igual a 70 y menor a 75 años de edad,,331.565,33,29,4,0,2,2,0,0
+7,Transportes y comunicaciones,Chihuahua,202601,Mayor o igual a 70 y menor a 75 años de edad,,445.27,57,55,2,0,1,1,0,0
+7,Transportes y comunicaciones,Ciudad de México,202601,Mayor o igual a 70 y menor a 75 años de edad,,403.5575,1042,966,76,0,8,8,0,0
+7,Transportes y comunicaciones,Durango,202601,Mayor o igual a 70 y menor a 75 años de edad,,355.7,42,38,4,0,1,1,0,0
+7,Transportes y comunicaciones,Guanajuato,202601,Mayor o igual a 70 y menor a 75 años de edad,,436.67,114,109,5,0,1,1,0,0
+7,Transportes y comunicaciones,Guerrero,202601,Mayor o igual a 70 y menor a 75 años de edad,,439.09,30,26,4,0,1,1,0,0
+7,Transportes y comunicaciones,Hidalgo,202601,Mayor o igual a 70 y menor a 75 años de edad,,,40,35,5,0,0,0,0,0
+7,Transportes y comunicaciones,Jalisco,202601,Mayor o igual a 70 y menor a 75 años de edad,,441.816666667,182,162,20,0,6,6,0,0
+7,Transportes y comunicaciones,México,202601,Mayor o igual a 70 y menor a 75 años de edad,,332.31,106,97,9,0,1,1,0,0
+7,Transportes y comunicaciones,Michoacán de Ocampo,202601,Mayor o igual a 70 y menor a 75 años de edad,,,80,77,3,0,0,0,0,0
+7,Transportes y comunicaciones,Morelos,202601,Mayor o igual a 70 y menor a 75 años de edad,,,23,22,1,0,0,0,0,0
+7,Transportes y comunicaciones,Nayarit,202601,Mayor o igual a 70 y menor a 75 años de edad,,,42,40,2,0,0,0,0,0
+7,Transportes y comunicaciones,Nuevo León,202601,Mayor o igual a 70 y menor a 75 años de edad,,561.97,139,125,14,0,3,3,0,0
+7,Transportes y comunicaciones,Oaxaca,202601,Mayor o igual a 70 y menor a 75 años de edad,,,50,43,7,0,0,0,0,0
+7,Transportes y comunicaciones,Puebla,202601,Mayor o igual a 70 y menor a 75 años de edad,,398.9,106,98,8,0,1,1,0,0
+7,Transportes y comunicaciones,Querétaro,202601,Mayor o igual a 70 y menor a 75 años de edad,,,26,25,1,0,0,0,0,0
+7,Transportes y comunicaciones,Quintana Roo,202601,Mayor o igual a 70 y menor a 75 años de edad,,,1,1,0,0,0,0,0,0
+7,Transportes y comunicaciones,San Luis Potosí,202601,Mayor o igual a 70 y menor a 75 años de edad,,455.64,69,63,6,0,2,2,0,0
+7,Transportes y comunicaciones,Sinaloa,202601,Mayor o igual a 70 y menor a 75 años de edad,,,93,85,8,0,0,0,0,0
+7,Transportes y comunicaciones,Sonora,202601,Mayor o igual a 70 y menor a 75 años de edad,,446.16,102,100,2,0,2,2,0,0
+7,Transportes y comunicaciones,Tabasco,202601,Mayor o igual a 70 y menor a 75 años de edad,,,17,15,2,0,0,0,0,0
+7,Transportes y comunicaciones,Tamaulipas,202601,Mayor o igual a 70 y menor a 75 años de edad,,421.115,84,79,5,0,2,2,0,0
+7,Transportes y comunicaciones,Tlaxcala,202601,Mayor o igual a 70 y menor a 75 años de edad,,,20,19,1,0,0,0,0,0
+7,Transportes y comunicaciones,Veracruz,202601,Mayor o igual a 70 y menor a 75 años de edad,,315.04,142,135,7,0,1,1,0,0
+7,Transportes y comunicaciones,Yucatán,202601,Mayor o igual a 70 y menor a 75 años de edad,,,79,76,3,0,0,0,0,0
+7,Transportes y comunicaciones,Zacatecas,202601,Mayor o igual a 70 y menor a 75 años de edad,,,43,37,6,0,0,0,0,0
+7,Transportes y comunicaciones,Ciudad de México,202601,Mayor o igual a 20 y menor a 25 años de edad,363.544478528,404.187372401,47379,42085,5293,1,2808,2645,163,0
+7,Transportes y comunicaciones,Ciudad de México,202601,Mayor o igual a 15 y menor a 20 años de edad,368.789230769,394.586728697,7927,7098,827,2,1086,1021,65,0
+7,Transportes y comunicaciones,Puebla,202601,Mayor o igual a 25 y menor a 30 años de edad,387.356206897,421.201189024,11496,10549,945,2,685,656,29,0

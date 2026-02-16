@@ -1,0 +1,464 @@
+﻿entidad_nacimiento,Nivel Agregación,Rango_edad_2,fecha,PTPD_Aseg,PTPD_Aseg_H,PTPD_Aseg_M,PTPD_Aseg_NB,PTPD_Puestos,PTPD_Puestos_H,PTPD_Puestos_M,PTPD_Puestos_NB,TOTAL
+Extranjero/Extranjera,subdel,75 años y más,202601,69,61,8,0,81,80,1,0,81
+Aguascalientes,subdel,75 años y más,202601,0,0,0,0,1,1,0,0,1
+Aguascalientes,subdel,75 años y más,202601,71,65,6,0,39,39,0,0,39
+Baja California,subdel,75 años y más,202601,0,0,0,0,7,6,1,0,7
+Baja California,subdel,75 años y más,202601,143,125,18,0,265,257,8,0,265
+Baja California Sur,subdel,75 años y más,202601,0,0,0,0,1,1,0,0,1
+Baja California Sur,subdel,75 años y más,202601,28,28,0,0,34,30,4,0,34
+Campeche,subdel,75 años y más,202601,77,69,8,0,22,22,0,0,22
+Coahuila de Zaragoza,subdel,75 años y más,202601,0,0,0,0,5,4,1,0,5
+Coahuila de Zaragoza,subdel,75 años y más,202601,130,118,12,0,165,158,7,0,165
+Colima,subdel,75 años y más,202601,0,0,0,0,2,2,0,0,2
+Colima,subdel,75 años y más,202601,56,50,6,0,23,23,0,0,23
+Chiapas,subdel,75 años y más,202601,0,0,0,0,6,5,1,0,6
+Chiapas,subdel,75 años y más,202601,136,129,7,0,126,119,7,0,126
+Chihuahua,subdel,75 años y más,202601,0,0,0,0,14,12,2,0,14
+Chihuahua,subdel,75 años y más,202601,228,183,45,0,178,167,11,0,178
+Ciudad de México,subdel,75 años y más,202601,1,1,0,0,0,0,0,0,0
+Ciudad de México,subdel,75 años y más,202601,3,2,1,0,22,21,1,0,22
+Ciudad de México,subdel,75 años y más,202601,1515,1309,206,0,501,463,38,0,501
+Durango,subdel,75 años y más,202601,0,0,0,0,2,2,0,0,2
+Durango,subdel,75 años y más,202601,116,104,12,0,70,65,5,0,70
+Guanajuato,subdel,75 años y más,202601,1,1,0,0,0,0,0,0,0
+Guanajuato,subdel,75 años y más,202601,0,0,0,0,5,4,1,0,5
+Guanajuato,subdel,75 años y más,202601,274,250,24,0,206,200,6,0,206
+Guerrero,subdel,75 años y más,202601,0,0,0,0,4,4,0,0,4
+Guerrero,subdel,75 años y más,202601,64,60,4,0,74,67,7,0,74
+Hidalgo,subdel,75 años y más,202601,0,0,0,0,2,2,0,0,2
+Hidalgo,subdel,75 años y más,202601,54,44,10,0,20,20,0,0,20
+Jalisco,subdel,75 años y más,202601,0,0,0,0,4,4,0,0,4
+Jalisco,subdel,75 años y más,202601,586,516,70,0,601,576,25,0,601
+México,subdel,75 años y más,202601,0,0,0,0,21,21,0,0,21
+México,subdel,75 años y más,202601,1196,1044,152,0,458,439,19,0,458
+Michoacán de Ocampo,subdel,75 años y más,202601,0,0,0,0,6,6,0,0,6
+Michoacán de Ocampo,subdel,75 años y más,202601,157,141,16,0,67,64,3,0,67
+Morelos,subdel,75 años y más,202601,0,0,0,0,3,3,0,0,3
+Morelos,subdel,75 años y más,202601,117,104,13,0,50,47,3,0,50
+Nayarit,subdel,75 años y más,202601,0,0,0,0,5,5,0,0,5
+Nayarit,subdel,75 años y más,202601,85,82,3,0,57,55,2,0,57
+Nuevo León,subdel,75 años y más,202601,0,0,0,0,5,5,0,0,5
+Nuevo León,subdel,75 años y más,202601,218,182,36,0,506,476,30,0,506
+Oaxaca,subdel,75 años y más,202601,0,0,0,0,8,7,1,0,8
+Oaxaca,subdel,75 años y más,202601,108,94,14,0,52,49,3,0,52
+Puebla,subdel,75 años y más,202601,0,0,0,0,8,8,0,0,8
+Puebla,subdel,75 años y más,202601,259,226,33,0,138,132,6,0,138
+Querétaro,subdel,75 años y más,202601,0,0,0,0,2,2,0,0,2
+Querétaro,subdel,75 años y más,202601,88,80,8,0,83,80,3,0,83
+Quintana Roo,subdel,75 años y más,202601,0,0,0,0,8,6,2,0,8
+Quintana Roo,subdel,75 años y más,202601,127,111,16,0,90,88,2,0,90
+San Luis Potosí,subdel,75 años y más,202601,0,0,0,0,8,8,0,0,8
+San Luis Potosí,subdel,75 años y más,202601,155,132,23,0,74,72,2,0,74
+Sinaloa,subdel,75 años y más,202601,0,0,0,0,15,14,1,0,15
+Sinaloa,subdel,75 años y más,202601,195,172,23,0,118,114,4,0,118
+Sonora,subdel,75 años y más,202601,0,0,0,0,4,4,0,0,4
+Sonora,subdel,75 años y más,202601,123,101,22,0,122,116,6,0,122
+Tabasco,subdel,75 años y más,202601,0,0,0,0,1,1,0,0,1
+Tabasco,subdel,75 años y más,202601,95,83,12,0,45,42,3,0,45
+Tamaulipas,subdel,75 años y más,202601,0,0,0,0,9,9,0,0,9
+Tamaulipas,subdel,75 años y más,202601,213,186,27,0,161,149,12,0,161
+Tlaxcala,subdel,75 años y más,202601,42,40,2,0,11,11,0,0,11
+Veracruz,subdel,75 años y más,202601,1,1,0,0,0,0,0,0,0
+Veracruz,subdel,75 años y más,202601,1,1,0,0,0,0,0,0,0
+Veracruz,subdel,75 años y más,202601,0,0,0,0,9,7,2,0,9
+Veracruz,subdel,75 años y más,202601,238,214,24,0,162,154,8,0,162
+Yucatán,subdel,75 años y más,202601,0,0,0,0,5,3,2,0,5
+Yucatán,subdel,75 años y más,202601,130,114,16,0,111,108,3,0,111
+Zacatecas,subdel,75 años y más,202601,0,0,0,0,1,1,0,0,1
+Zacatecas,subdel,75 años y más,202601,53,48,5,0,15,15,0,0,15
+Extranjero/Extranjera,subdel,Mayor o igual a 15 y menor a 20 años de edad,202601,436,383,53,0,22,21,1,0,22
+Aguascalientes,subdel,Mayor o igual a 15 y menor a 20 años de edad,202601,681,631,50,0,76,73,3,0,76
+Baja California,subdel,Mayor o igual a 15 y menor a 20 años de edad,202601,1256,1140,116,0,343,331,12,0,343
+Baja California Sur,subdel,Mayor o igual a 15 y menor a 20 años de edad,202601,303,279,24,0,78,74,4,0,78
+Campeche,subdel,Mayor o igual a 15 y menor a 20 años de edad,202601,377,350,27,0,52,51,1,0,52
+Coahuila de Zaragoza,subdel,Mayor o igual a 15 y menor a 20 años de edad,202601,1078,981,97,0,201,198,3,0,201
+Colima,subdel,Mayor o igual a 15 y menor a 20 años de edad,202601,442,406,36,0,40,38,2,0,40
+Chiapas,subdel,Mayor o igual a 15 y menor a 20 años de edad,202601,975,924,51,0,200,196,4,0,200
+Chihuahua,subdel,Mayor o igual a 15 y menor a 20 años de edad,202601,1925,1683,242,0,288,271,17,0,288
+Durango,subdel,Mayor o igual a 15 y menor a 20 años de edad,202601,788,723,65,0,85,82,3,0,85
+Guanajuato,subdel,Mayor o igual a 15 y menor a 20 años de edad,202601,2158,2018,140,0,222,212,10,0,222
+Guerrero,subdel,Mayor o igual a 15 y menor a 20 años de edad,202601,517,470,47,0,125,119,6,0,125
+Hidalgo,subdel,Mayor o igual a 15 y menor a 20 años de edad,202601,320,296,24,0,59,56,3,0,59
+Jalisco,subdel,Mayor o igual a 15 y menor a 20 años de edad,202601,4502,4092,410,0,805,778,27,0,805
+México,subdel,Mayor o igual a 15 y menor a 20 años de edad,202601,8205,7508,697,0,809,764,45,0,809
+Michoacán de Ocampo,subdel,Mayor o igual a 15 y menor a 20 años de edad,202601,775,734,41,0,84,82,2,0,84
+Morelos,subdel,Mayor o igual a 15 y menor a 20 años de edad,202601,971,889,82,0,84,79,5,0,84
+Nayarit,subdel,Mayor o igual a 15 y menor a 20 años de edad,202601,447,416,31,0,119,114,5,0,119
+Nuevo León,subdel,Mayor o igual a 15 y menor a 20 años de edad,202601,2864,2602,262,0,785,756,29,0,785
+Oaxaca,subdel,Mayor o igual a 15 y menor a 20 años de edad,202601,614,551,63,0,103,99,4,0,103
+Puebla,subdel,Mayor o igual a 15 y menor a 20 años de edad,202601,1491,1388,103,0,228,218,10,0,228
+Querétaro,subdel,Mayor o igual a 15 y menor a 20 años de edad,202601,719,668,51,0,112,109,3,0,112
+Quintana Roo,subdel,Mayor o igual a 15 y menor a 20 años de edad,202601,1099,998,101,0,108,104,4,0,108
+San Luis Potosí,subdel,Mayor o igual a 15 y menor a 20 años de edad,202601,1003,914,89,0,187,178,9,0,187
+Sinaloa,subdel,Mayor o igual a 15 y menor a 20 años de edad,202601,1506,1419,87,0,291,284,7,0,291
+Sonora,subdel,Mayor o igual a 15 y menor a 20 años de edad,202601,950,865,85,0,239,227,12,0,239
+Tabasco,subdel,Mayor o igual a 15 y menor a 20 años de edad,202601,670,613,57,0,126,121,5,0,126
+Tamaulipas,subdel,Mayor o igual a 15 y menor a 20 años de edad,202601,1256,1128,128,0,277,263,14,0,277
+Tlaxcala,subdel,Mayor o igual a 15 y menor a 20 años de edad,202601,248,243,5,0,32,31,1,0,32
+Veracruz,subdel,Mayor o igual a 15 y menor a 20 años de edad,202601,1406,1272,134,0,346,330,16,0,346
+Yucatán,subdel,Mayor o igual a 15 y menor a 20 años de edad,202601,815,734,81,0,156,144,12,0,156
+Zacatecas,subdel,Mayor o igual a 15 y menor a 20 años de edad,202601,346,333,13,0,34,31,3,0,34
+Extranjero/Extranjera,subdel,Mayor o igual a 20 y menor a 25 años de edad,202601,1840,1631,209,0,198,191,7,0,198
+Aguascalientes,subdel,Mayor o igual a 20 y menor a 25 años de edad,202601,3433,3145,288,0,143,141,2,0,143
+Baja California,subdel,Mayor o igual a 20 y menor a 25 años de edad,202601,7408,6641,767,0,716,668,48,0,716
+Baja California Sur,subdel,Mayor o igual a 20 y menor a 25 años de edad,202601,1497,1341,156,0,109,100,9,0,109
+Campeche,subdel,Mayor o igual a 20 y menor a 25 años de edad,202601,2488,2289,199,0,127,114,13,0,127
+Coahuila de Zaragoza,subdel,Mayor o igual a 20 y menor a 25 años de edad,202601,6497,5824,673,0,634,610,24,0,634
+Colima,subdel,Mayor o igual a 20 y menor a 25 años de edad,202601,2137,1905,232,0,86,76,10,0,86
+Chiapas,subdel,Mayor o igual a 20 y menor a 25 años de edad,202601,6488,6000,488,0,488,473,15,0,488
+Chihuahua,subdel,Mayor o igual a 20 y menor a 25 años de edad,202601,11073,9261,1812,0,628,568,60,0,628
+Durango,subdel,Mayor o igual a 20 y menor a 25 años de edad,202601,4279,3858,421,0,196,188,8,0,196
+Guanajuato,subdel,Mayor o igual a 20 y menor a 25 años de edad,202601,11264,10397,867,0,620,592,28,0,620
+Guerrero,subdel,Mayor o igual a 20 y menor a 25 años de edad,202601,3391,3018,373,0,309,288,21,0,309
+Hidalgo,subdel,Mayor o igual a 20 y menor a 25 años de edad,202601,1971,1790,181,0,152,143,9,0,152
+Jalisco,subdel,Mayor o igual a 20 y menor a 25 años de edad,202601,22730,20593,2137,0,1694,1608,86,0,1694
+México,subdel,Mayor o igual a 20 y menor a 25 años de edad,202601,40934,36944,3990,0,1872,1801,71,0,1872
+Michoacán de Ocampo,subdel,Mayor o igual a 20 y menor a 25 años de edad,202601,4718,4363,355,0,236,223,13,0,236
+Morelos,subdel,Mayor o igual a 20 y menor a 25 años de edad,202601,4779,4303,476,0,162,151,11,0,162
+Nayarit,subdel,Mayor o igual a 20 y menor a 25 años de edad,202601,2544,2326,218,0,214,206,8,0,214
+Nuevo León,subdel,Mayor o igual a 20 y menor a 25 años de edad,202601,16038,14218,1820,0,1778,1680,98,0,1778
+Oaxaca,subdel,Mayor o igual a 20 y menor a 25 años de edad,202601,4229,3847,382,0,335,315,20,0,335
+Puebla,subdel,Mayor o igual a 20 y menor a 25 años de edad,202601,9443,8651,792,0,590,571,19,0,590
+Querétaro,subdel,Mayor o igual a 20 y menor a 25 años de edad,202601,3977,3655,322,0,276,261,15,0,276
+Quintana Roo,subdel,Mayor o igual a 20 y menor a 25 años de edad,202601,4922,4383,539,0,221,205,16,0,221
+San Luis Potosí,subdel,Mayor o igual a 20 y menor a 25 años de edad,202601,5846,5244,602,0,383,355,28,0,383
+Sinaloa,subdel,Mayor o igual a 20 y menor a 25 años de edad,202601,8673,7954,719,0,624,600,24,0,624
+Sonora,subdel,Mayor o igual a 20 y menor a 25 años de edad,202601,5975,5418,557,0,552,500,52,0,552
+Tabasco,subdel,Mayor o igual a 20 y menor a 25 años de edad,202601,4879,4431,448,0,332,314,18,0,332
+Tamaulipas,subdel,Mayor o igual a 20 y menor a 25 años de edad,202601,7837,6903,934,0,648,608,40,0,648
+Tlaxcala,subdel,Mayor o igual a 20 y menor a 25 años de edad,202601,1552,1476,76,0,67,64,3,0,67
+Veracruz,subdel,Mayor o igual a 20 y menor a 25 años de edad,202601,11265,10222,1043,0,986,932,54,0,986
+Yucatán,subdel,Mayor o igual a 20 y menor a 25 años de edad,202601,5702,5202,500,0,475,454,21,0,475
+Zacatecas,subdel,Mayor o igual a 20 y menor a 25 años de edad,202601,1811,1692,119,0,85,80,5,0,85
+Extranjero/Extranjera,subdel,Mayor o igual a 25 y menor a 30 años de edad,202601,2011,1810,201,0,233,215,18,0,233
+Aguascalientes,subdel,Mayor o igual a 25 y menor a 30 años de edad,202601,3619,3261,358,0,177,170,7,0,177
+Baja California,subdel,Mayor o igual a 25 y menor a 30 años de edad,202601,8314,7270,1044,0,623,568,55,0,623
+Baja California Sur,subdel,Mayor o igual a 25 y menor a 30 años de edad,202601,1417,1211,206,0,119,103,16,0,119
+Campeche,subdel,Mayor o igual a 25 y menor a 30 años de edad,202601,3481,3102,379,0,160,152,8,0,160
+Coahuila de Zaragoza,subdel,Mayor o igual a 25 y menor a 30 años de edad,202601,8614,7733,881,0,788,750,38,0,788
+Colima,subdel,Mayor o igual a 25 y menor a 30 años de edad,202601,1950,1747,203,0,83,73,10,0,83
+Chiapas,subdel,Mayor o igual a 25 y menor a 30 años de edad,202601,8441,7761,680,0,528,509,19,0,528
+Chihuahua,subdel,Mayor o igual a 25 y menor a 30 años de edad,202601,12090,9800,2290,0,780,704,76,0,780
+Ciudad de México,subdel,Mayor o igual a 25 y menor a 30 años de edad,202601,56108,49870,6238,0,3916,3702,214,0,3916
+Durango,subdel,Mayor o igual a 25 y menor a 30 años de edad,202601,4504,3999,505,0,239,224,15,0,239
+Guanajuato,subdel,Mayor o igual a 25 y menor a 30 años de edad,202601,12088,11039,1049,0,822,779,43,0,822
+Guerrero,subdel,Mayor o igual a 25 y menor a 30 años de edad,202601,4451,3991,460,0,350,328,22,0,350
+Hidalgo,subdel,Mayor o igual a 25 y menor a 30 años de edad,202601,2472,2253,219,0,204,190,14,0,204
+Jalisco,subdel,Mayor o igual a 25 y menor a 30 años de edad,202601,24916,22490,2426,0,1910,1775,135,0,1910
+México,subdel,Mayor o igual a 25 y menor a 30 años de edad,202601,42500,38530,3970,0,2231,2110,121,0,2231
+Michoacán de Ocampo,subdel,Mayor o igual a 25 y menor a 30 años de edad,202601,5591,5138,453,0,339,316,23,0,339
+Morelos,subdel,Mayor o igual a 25 y menor a 30 años de edad,202601,4896,4405,491,0,201,194,7,0,201
+Nayarit,subdel,Mayor o igual a 25 y menor a 30 años de edad,202601,2984,2756,228,0,286,277,9,0,286
+Nuevo León,subdel,Mayor o igual a 25 y menor a 30 años de edad,202601,19545,17119,2426,0,2121,1985,136,0,2121
+Oaxaca,subdel,Mayor o igual a 25 y menor a 30 años de edad,202601,5272,4791,481,0,324,301,23,0,324
+Querétaro,subdel,Mayor o igual a 25 y menor a 30 años de edad,202601,4624,4175,449,0,333,315,18,0,333
+Quintana Roo,subdel,Mayor o igual a 25 y menor a 30 años de edad,202601,4795,4223,572,0,236,220,16,0,236
+San Luis Potosí,subdel,Mayor o igual a 25 y menor a 30 años de edad,202601,7062,6289,773,0,546,519,27,0,546
+Sinaloa,subdel,Mayor o igual a 25 y menor a 30 años de edad,202601,10000,9036,964,0,697,651,46,0,697
+Sonora,subdel,Mayor o igual a 25 y menor a 30 años de edad,202601,7382,6467,915,0,617,561,56,0,617
+Tabasco,subdel,Mayor o igual a 25 y menor a 30 años de edad,202601,6496,5859,637,0,366,343,23,0,366
+Tamaulipas,subdel,Mayor o igual a 25 y menor a 30 años de edad,202601,9319,8196,1123,0,699,658,41,0,699
+Tlaxcala,subdel,Mayor o igual a 25 y menor a 30 años de edad,202601,1937,1819,118,0,102,100,2,0,102
+Veracruz,subdel,Mayor o igual a 25 y menor a 30 años de edad,202601,15872,14254,1618,0,1329,1255,74,0,1329
+Yucatán,subdel,Mayor o igual a 25 y menor a 30 años de edad,202601,7666,6899,767,0,567,517,50,0,567
+Zacatecas,subdel,Mayor o igual a 25 y menor a 30 años de edad,202601,2030,1859,171,0,125,115,10,0,125
+Extranjero/Extranjera,subdel,Mayor o igual a 30 y menor a 35 años de edad,202601,2359,2083,276,0,220,208,12,0,220
+Aguascalientes,subdel,Mayor o igual a 30 y menor a 35 años de edad,202601,3225,2882,343,0,156,145,11,0,156
+Baja California,subdel,Mayor o igual a 30 y menor a 35 años de edad,202601,6586,5602,984,0,519,470,49,0,519
+Baja California Sur,subdel,Mayor o igual a 30 y menor a 35 años de edad,202601,1250,1034,216,0,87,78,9,0,87
+Campeche,subdel,Mayor o igual a 30 y menor a 35 años de edad,202601,3602,3144,458,0,210,188,22,0,210
+Coahuila de Zaragoza,subdel,Mayor o igual a 30 y menor a 35 años de edad,202601,8962,7924,1038,0,701,650,51,0,701
+Colima,subdel,Mayor o igual a 30 y menor a 35 años de edad,202601,1695,1451,244,0,90,85,5,0,90
+Chiapas,subdel,Mayor o igual a 30 y menor a 35 años de edad,202601,7504,6889,615,0,484,460,24,0,484
+Chihuahua,subdel,Mayor o igual a 30 y menor a 35 años de edad,202601,11062,8811,2251,0,673,596,77,0,673
+Ciudad de México,subdel,Mayor o igual a 30 y menor a 35 años de edad,202601,56817,50441,6376,0,4551,4260,291,0,4551
+Durango,subdel,Mayor o igual a 30 y menor a 35 años de edad,202601,4249,3704,545,0,186,171,15,0,186
+Guanajuato,subdel,Mayor o igual a 30 y menor a 35 años de edad,202601,10713,9720,993,0,661,629,32,0,661
+Guerrero,subdel,Mayor o igual a 30 y menor a 35 años de edad,202601,3973,3578,395,0,334,317,17,0,334
+Hidalgo,subdel,Mayor o igual a 30 y menor a 35 años de edad,202601,2486,2249,237,0,170,163,7,0,170
+Jalisco,subdel,Mayor o igual a 30 y menor a 35 años de edad,202601,21585,19233,2352,0,1882,1752,130,0,1882
+México,subdel,Mayor o igual a 30 y menor a 35 años de edad,202601,34916,31663,3253,0,1771,1685,86,0,1771
+Michoacán de Ocampo,subdel,Mayor o igual a 30 y menor a 35 años de edad,202601,5483,4961,522,0,321,304,17,0,321
+Morelos,subdel,Mayor o igual a 30 y menor a 35 años de edad,202601,3961,3564,397,0,180,169,11,0,180
+Nayarit,subdel,Mayor o igual a 30 y menor a 35 años de edad,202601,2982,2738,244,0,307,288,19,0,307
+Nuevo León,subdel,Mayor o igual a 30 y menor a 35 años de edad,202601,18654,16221,2433,0,2149,2001,148,0,2149
+Oaxaca,subdel,Mayor o igual a 30 y menor a 35 años de edad,202601,4594,4155,439,0,301,282,19,0,301
+Puebla,subdel,Mayor o igual a 30 y menor a 35 años de edad,202601,10536,9628,908,0,740,703,37,0,740
+Querétaro,subdel,Mayor o igual a 30 y menor a 35 años de edad,202601,4025,3634,391,0,281,268,13,0,281
+Quintana Roo,subdel,Mayor o igual a 30 y menor a 35 años de edad,202601,3857,3343,514,0,208,186,22,0,208
+San Luis Potosí,subdel,Mayor o igual a 30 y menor a 35 años de edad,202601,6973,6175,798,0,445,413,32,0,445
+Sinaloa,subdel,Mayor o igual a 30 y menor a 35 años de edad,202601,9584,8545,1039,0,699,642,57,0,699
+Sonora,subdel,Mayor o igual a 30 y menor a 35 años de edad,202601,7114,6133,981,0,553,482,71,0,553
+Tabasco,subdel,Mayor o igual a 30 y menor a 35 años de edad,202601,6103,5444,659,0,426,403,23,0,426
+Tamaulipas,subdel,Mayor o igual a 30 y menor a 35 años de edad,202601,8565,7431,1134,0,573,527,46,0,573
+Tlaxcala,subdel,Mayor o igual a 30 y menor a 35 años de edad,202601,1740,1624,116,0,92,87,5,0,92
+Veracruz,subdel,Mayor o igual a 30 y menor a 35 años de edad,202601,17262,15383,1879,0,1199,1126,73,0,1199
+Yucatán,subdel,Mayor o igual a 30 y menor a 35 años de edad,202601,8288,7417,871,0,612,577,35,0,612
+Zacatecas,subdel,Mayor o igual a 30 y menor a 35 años de edad,202601,1774,1593,181,0,133,126,7,0,133
+Extranjero/Extranjera,subdel,Mayor o igual a 35 y menor a 40 años de edad,202601,1977,1745,232,0,195,183,12,0,195
+Aguascalientes,subdel,Mayor o igual a 35 y menor a 40 años de edad,202601,2431,2170,261,0,133,123,10,0,133
+Baja California,subdel,Mayor o igual a 35 y menor a 40 años de edad,202601,4730,4052,678,0,430,388,42,0,430
+Baja California Sur,subdel,Mayor o igual a 35 y menor a 40 años de edad,202601,983,791,192,0,68,60,8,0,68
+Campeche,subdel,Mayor o igual a 35 y menor a 40 años de edad,202601,2928,2546,382,0,170,159,11,0,170
+Coahuila de Zaragoza,subdel,Mayor o igual a 35 y menor a 40 años de edad,202601,7381,6481,900,0,596,565,31,0,596
+Colima,subdel,Mayor o igual a 35 y menor a 40 años de edad,202601,1285,1097,188,0,93,85,8,0,93
+Chiapas,subdel,Mayor o igual a 35 y menor a 40 años de edad,202601,5519,5072,447,0,368,359,9,0,368
+Chihuahua,subdel,Mayor o igual a 35 y menor a 40 años de edad,202601,8277,6567,1710,0,495,431,64,0,495
+Ciudad de México,subdel,Mayor o igual a 35 y menor a 40 años de edad,202601,50618,45536,5082,0,5115,4826,289,0,5115
+Durango,subdel,Mayor o igual a 35 y menor a 40 años de edad,202601,3099,2720,379,0,189,176,13,0,189
+Guanajuato,subdel,Mayor o igual a 35 y menor a 40 años de edad,202601,8110,7350,760,0,667,633,34,0,667
+Guerrero,subdel,Mayor o igual a 35 y menor a 40 años de edad,202601,3124,2786,338,0,270,256,14,0,270
+Hidalgo,subdel,Mayor o igual a 35 y menor a 40 años de edad,202601,1702,1554,148,0,150,143,7,0,150
+Jalisco,subdel,Mayor o igual a 35 y menor a 40 años de edad,202601,18282,16209,2073,0,1718,1594,124,0,1718
+México,subdel,Mayor o igual a 35 y menor a 40 años de edad,202601,22898,20858,2040,0,1106,1048,58,0,1106
+Michoacán de Ocampo,subdel,Mayor o igual a 35 y menor a 40 años de edad,202601,4295,3826,469,0,308,294,14,0,308
+Morelos,subdel,Mayor o igual a 35 y menor a 40 años de edad,202601,2751,2439,312,0,144,133,11,0,144
+Nayarit,subdel,Mayor o igual a 35 y menor a 40 años de edad,202601,2492,2227,265,0,287,274,13,0,287
+Nuevo León,subdel,Mayor o igual a 35 y menor a 40 años de edad,202601,15685,13720,1965,0,2012,1862,150,0,2012
+Oaxaca,subdel,Mayor o igual a 35 y menor a 40 años de edad,202601,3267,2886,381,0,256,233,23,0,256
+Puebla,subdel,Mayor o igual a 35 y menor a 40 años de edad,202601,8063,7351,712,0,656,618,38,0,656
+Querétaro,subdel,Mayor o igual a 35 y menor a 40 años de edad,202601,3082,2774,308,0,245,228,17,0,245
+Quintana Roo,subdel,Mayor o igual a 35 y menor a 40 años de edad,202601,2142,1850,292,0,104,97,7,0,104
+San Luis Potosí,subdel,Mayor o igual a 35 y menor a 40 años de edad,202601,5276,4656,620,0,378,354,24,0,378
+Sinaloa,subdel,Mayor o igual a 35 y menor a 40 años de edad,202601,7541,6608,933,0,634,578,56,0,634
+Sonora,subdel,Mayor o igual a 35 y menor a 40 años de edad,202601,5994,5039,955,0,528,459,69,0,528
+Tabasco,subdel,Mayor o igual a 35 y menor a 40 años de edad,202601,4841,4367,474,0,300,282,18,0,300
+Tamaulipas,subdel,Mayor o igual a 35 y menor a 40 años de edad,202601,6656,5715,941,0,507,470,37,0,507
+Tlaxcala,subdel,Mayor o igual a 35 y menor a 40 años de edad,202601,1298,1200,98,0,94,92,2,0,94
+Veracruz,subdel,Mayor o igual a 35 y menor a 40 años de edad,202601,13864,12424,1440,0,1092,1037,55,0,1092
+Yucatán,subdel,Mayor o igual a 35 y menor a 40 años de edad,202601,7128,6370,758,0,546,508,38,0,546
+Zacatecas,subdel,Mayor o igual a 35 y menor a 40 años de edad,202601,1552,1368,184,0,98,94,4,0,98
+Extranjero/Extranjera,subdel,Mayor o igual a 40 y menor a 45 años de edad,202601,1406,1262,144,0,160,149,11,0,160
+Aguascalientes,subdel,Mayor o igual a 40 y menor a 45 años de edad,202601,1744,1544,200,0,109,105,4,0,109
+Baja California,subdel,Mayor o igual a 40 y menor a 45 años de edad,202601,2997,2502,495,0,322,288,34,0,322
+Baja California Sur,subdel,Mayor o igual a 40 y menor a 45 años de edad,202601,687,554,133,0,70,63,7,0,70
+Campeche,subdel,Mayor o igual a 40 y menor a 45 años de edad,202601,2082,1823,259,0,119,111,8,0,119
+Coahuila de Zaragoza,subdel,Mayor o igual a 40 y menor a 45 años de edad,202601,5513,4848,665,0,440,412,28,0,440
+Colima,subdel,Mayor o igual a 40 y menor a 45 años de edad,202601,909,791,118,0,61,57,4,0,61
+Chiapas,subdel,Mayor o igual a 40 y menor a 45 años de edad,202601,3821,3474,347,0,290,273,17,0,290
+Chihuahua,subdel,Mayor o igual a 40 y menor a 45 años de edad,202601,5384,4358,1026,0,390,352,38,0,390
+Ciudad de México,subdel,Mayor o igual a 40 y menor a 45 años de edad,202601,45638,41287,4351,0,4549,4286,263,0,4549
+Durango,subdel,Mayor o igual a 40 y menor a 45 años de edad,202601,2134,1828,306,0,143,131,12,0,143
+Guanajuato,subdel,Mayor o igual a 40 y menor a 45 años de edad,202601,5804,5272,532,0,514,490,24,0,514
+Guerrero,subdel,Mayor o igual a 40 y menor a 45 años de edad,202601,2142,1917,225,0,242,234,8,0,242
+Hidalgo,subdel,Mayor o igual a 40 y menor a 45 años de edad,202601,1248,1132,116,0,128,120,8,0,128
+Jalisco,subdel,Mayor o igual a 40 y menor a 45 años de edad,202601,13758,12205,1553,0,1310,1215,95,0,1310
+México,subdel,Mayor o igual a 40 y menor a 45 años de edad,202601,11730,10649,1081,0,780,743,37,0,780
+Michoacán de Ocampo,subdel,Mayor o igual a 40 y menor a 45 años de edad,202601,2996,2672,324,0,241,228,13,0,241
+Morelos,subdel,Mayor o igual a 40 y menor a 45 años de edad,202601,1911,1733,178,0,126,119,7,0,126
+Nayarit,subdel,Mayor o igual a 40 y menor a 45 años de edad,202601,2073,1904,169,0,215,206,9,0,215
+Nuevo León,subdel,Mayor o igual a 40 y menor a 45 años de edad,202601,12043,10471,1572,0,1630,1522,108,0,1630
+Oaxaca,subdel,Mayor o igual a 40 y menor a 45 años de edad,202601,2358,2158,200,0,200,190,10,0,200
+Puebla,subdel,Mayor o igual a 40 y menor a 45 años de edad,202601,5891,5358,533,0,569,545,24,0,569
+Querétaro,subdel,Mayor o igual a 40 y menor a 45 años de edad,202601,2263,2055,208,0,211,198,13,0,211
+Quintana Roo,subdel,Mayor o igual a 40 y menor a 45 años de edad,202601,1178,1015,163,0,53,51,2,0,53
+San Luis Potosí,subdel,Mayor o igual a 40 y menor a 45 años de edad,202601,3438,3031,407,0,269,252,17,0,269
+Sinaloa,subdel,Mayor o igual a 40 y menor a 45 años de edad,202601,5745,5019,726,0,495,460,35,0,495
+Sonora,subdel,Mayor o igual a 40 y menor a 45 años de edad,202601,4596,3943,653,0,447,410,37,0,447
+Tabasco,subdel,Mayor o igual a 40 y menor a 45 años de edad,202601,3414,3072,342,0,224,214,10,0,224
+Tamaulipas,subdel,Mayor o igual a 40 y menor a 45 años de edad,202601,4652,4026,626,0,426,398,28,0,426
+Tlaxcala,subdel,Mayor o igual a 40 y menor a 45 años de edad,202601,986,922,64,0,59,57,2,0,59
+Veracruz,subdel,Mayor o igual a 40 y menor a 45 años de edad,202601,10193,9105,1088,0,847,805,42,0,847
+Yucatán,subdel,Mayor o igual a 40 y menor a 45 años de edad,202601,5578,4951,627,0,447,421,26,0,447
+Zacatecas,subdel,Mayor o igual a 40 y menor a 45 años de edad,202601,1161,1045,116,0,100,93,7,0,100
+Extranjero/Extranjera,subdel,Mayor o igual a 45 y menor a 50 años de edad,202601,1060,952,108,0,118,110,8,0,118
+Aguascalientes,subdel,Mayor o igual a 45 y menor a 50 años de edad,202601,1095,962,133,0,91,91,0,0,91
+Baja California,subdel,Mayor o igual a 45 y menor a 50 años de edad,202601,1995,1680,315,0,290,270,20,0,290
+Baja California Sur,subdel,Mayor o igual a 45 y menor a 50 años de edad,202601,495,395,100,0,35,30,5,0,35
+Campeche,subdel,Mayor o igual a 45 y menor a 50 años de edad,202601,1323,1172,151,0,92,84,8,0,92
+Coahuila de Zaragoza,subdel,Mayor o igual a 45 y menor a 50 años de edad,202601,3785,3345,440,0,366,353,13,0,366
+Colima,subdel,Mayor o igual a 45 y menor a 50 años de edad,202601,527,434,93,0,50,47,3,0,50
+Chiapas,subdel,Mayor o igual a 45 y menor a 50 años de edad,202601,2352,2158,194,0,185,168,17,0,185
+Chihuahua,subdel,Mayor o igual a 45 y menor a 50 años de edad,202601,3694,2993,701,0,361,336,25,0,361
+Ciudad de México,subdel,Mayor o igual a 45 y menor a 50 años de edad,202601,35233,31769,3464,0,4282,4040,242,0,4282
+Durango,subdel,Mayor o igual a 45 y menor a 50 años de edad,202601,1502,1278,224,0,149,140,9,0,149
+Guanajuato,subdel,Mayor o igual a 45 y menor a 50 años de edad,202601,3994,3606,388,0,438,427,11,0,438
+Guerrero,subdel,Mayor o igual a 45 y menor a 50 años de edad,202601,1557,1392,165,0,176,166,10,0,176
+Hidalgo,subdel,Mayor o igual a 45 y menor a 50 años de edad,202601,908,817,91,0,109,101,8,0,109
+Jalisco,subdel,Mayor o igual a 45 y menor a 50 años de edad,202601,9732,8632,1100,0,1100,1045,55,0,1100
+México,subdel,Mayor o igual a 45 y menor a 50 años de edad,202601,6904,6288,616,0,519,501,18,0,519
+Michoacán de Ocampo,subdel,Mayor o igual a 45 y menor a 50 años de edad,202601,2067,1817,250,0,232,217,15,0,232
+Morelos,subdel,Mayor o igual a 45 y menor a 50 años de edad,202601,1263,1128,135,0,106,103,3,0,106
+Nayarit,subdel,Mayor o igual a 45 y menor a 50 años de edad,202601,1449,1312,137,0,150,140,10,0,150
+Nuevo León,subdel,Mayor o igual a 45 y menor a 50 años de edad,202601,8602,7537,1065,0,1293,1223,70,0,1293
+Oaxaca,subdel,Mayor o igual a 45 y menor a 50 años de edad,202601,1710,1577,133,0,146,139,7,0,146
+Puebla,subdel,Mayor o igual a 45 y menor a 50 años de edad,202601,4392,4022,370,0,485,470,15,0,485
+Querétaro,subdel,Mayor o igual a 45 y menor a 50 años de edad,202601,1572,1423,149,0,151,142,9,0,151
+Quintana Roo,subdel,Mayor o igual a 45 y menor a 50 años de edad,202601,513,452,61,0,17,17,0,0,17
+San Luis Potosí,subdel,Mayor o igual a 45 y menor a 50 años de edad,202601,2311,2009,302,0,243,226,17,0,243
+Sinaloa,subdel,Mayor o igual a 45 y menor a 50 años de edad,202601,4132,3602,530,0,388,362,26,0,388
+Sonora,subdel,Mayor o igual a 45 y menor a 50 años de edad,202601,3455,2893,562,0,375,343,32,0,375
+Tabasco,subdel,Mayor o igual a 45 y menor a 50 años de edad,202601,2150,1912,238,0,137,127,10,0,137
+Tamaulipas,subdel,Mayor o igual a 45 y menor a 50 años de edad,202601,3218,2814,404,0,315,294,21,0,315
+Tlaxcala,subdel,Mayor o igual a 45 y menor a 50 años de edad,202601,668,617,51,0,65,62,3,0,65
+Veracruz,subdel,Mayor o igual a 45 y menor a 50 años de edad,202601,7073,6404,669,0,632,605,27,0,632
+Yucatán,subdel,Mayor o igual a 45 y menor a 50 años de edad,202601,3861,3470,391,0,393,367,26,0,393
+Zacatecas,subdel,Mayor o igual a 45 y menor a 50 años de edad,202601,876,776,100,0,84,79,5,0,84
+Extranjero/Extranjera,subdel,Mayor o igual a 50 y menor a 55 años de edad,202601,704,587,117,0,77,73,4,0,77
+Aguascalientes,subdel,Mayor o igual a 50 y menor a 55 años de edad,202601,776,702,74,0,78,78,0,0,78
+Baja California,subdel,Mayor o igual a 50 y menor a 55 años de edad,202601,1463,1258,205,0,123,113,10,0,123
+Baja California Sur,subdel,Mayor o igual a 50 y menor a 55 años de edad,202601,269,219,50,0,21,18,3,0,21
+Campeche,subdel,Mayor o igual a 50 y menor a 55 años de edad,202601,858,726,132,0,55,51,4,0,55
+Coahuila de Zaragoza,subdel,Mayor o igual a 50 y menor a 55 años de edad,202601,2508,2219,289,0,196,189,7,0,196
+Colima,subdel,Mayor o igual a 50 y menor a 55 años de edad,202601,383,325,58,0,28,27,1,0,28
+Chiapas,subdel,Mayor o igual a 50 y menor a 55 años de edad,202601,1373,1216,157,0,108,107,1,0,108
+Chihuahua,subdel,Mayor o igual a 50 y menor a 55 años de edad,202601,2565,2095,470,0,178,166,12,0,178
+Ciudad de México,subdel,Mayor o igual a 50 y menor a 55 años de edad,202601,28023,25295,2728,0,2701,2601,100,0,2701
+Durango,subdel,Mayor o igual a 50 y menor a 55 años de edad,202601,977,846,131,0,72,68,4,0,72
+Guanajuato,subdel,Mayor o igual a 50 y menor a 55 años de edad,202601,2766,2488,278,0,279,271,8,0,279
+Guerrero,subdel,Mayor o igual a 50 y menor a 55 años de edad,202601,1057,965,92,0,105,103,2,0,105
+Hidalgo,subdel,Mayor o igual a 50 y menor a 55 años de edad,202601,675,607,68,0,63,62,1,0,63
+Jalisco,subdel,Mayor o igual a 50 y menor a 55 años de edad,202601,6781,6006,775,0,670,634,36,0,670
+México,subdel,Mayor o igual a 50 y menor a 55 años de edad,202601,3957,3635,322,0,292,282,10,0,292
+Michoacán de Ocampo,subdel,Mayor o igual a 50 y menor a 55 años de edad,202601,1464,1309,155,0,144,138,6,0,144
+Morelos,subdel,Mayor o igual a 50 y menor a 55 años de edad,202601,876,789,87,0,49,49,0,0,49
+Nayarit,subdel,Mayor o igual a 50 y menor a 55 años de edad,202601,997,909,88,0,81,77,4,0,81
+Nuevo León,subdel,Mayor o igual a 50 y menor a 55 años de edad,202601,5763,5100,663,0,754,713,41,0,754
+Oaxaca,subdel,Mayor o igual a 50 y menor a 55 años de edad,202601,1069,969,100,0,83,79,4,0,83
+Puebla,subdel,Mayor o igual a 50 y menor a 55 años de edad,202601,2980,2732,248,0,270,267,3,0,270
+Querétaro,subdel,Mayor o igual a 50 y menor a 55 años de edad,202601,1039,968,71,0,75,72,3,0,75
+Quintana Roo,subdel,Mayor o igual a 50 y menor a 55 años de edad,202601,219,185,34,0,12,11,1,0,12
+San Luis Potosí,subdel,Mayor o igual a 50 y menor a 55 años de edad,202601,1636,1429,207,0,154,151,3,0,154
+Sinaloa,subdel,Mayor o igual a 50 y menor a 55 años de edad,202601,2778,2441,337,0,220,200,20,0,220
+Sonora,subdel,Mayor o igual a 50 y menor a 55 años de edad,202601,2363,1994,369,0,219,201,18,0,219
+Tabasco,subdel,Mayor o igual a 50 y menor a 55 años de edad,202601,1261,1122,139,0,65,59,6,0,65
+Tamaulipas,subdel,Mayor o igual a 50 y menor a 55 años de edad,202601,2228,1931,297,0,194,175,19,0,194
+Tlaxcala,subdel,Mayor o igual a 50 y menor a 55 años de edad,202601,448,423,25,0,31,30,1,0,31
+Veracruz,subdel,Mayor o igual a 50 y menor a 55 años de edad,202601,4605,4185,420,0,350,336,14,0,350
+Yucatán,subdel,Mayor o igual a 50 y menor a 55 años de edad,202601,2769,2484,285,0,228,213,15,0,228
+Zacatecas,subdel,Mayor o igual a 50 y menor a 55 años de edad,202601,657,596,61,0,77,76,1,0,77
+Extranjero/Extranjera,subdel,Mayor o igual a 55 y menor a 60 años de edad,202601,438,382,56,0,45,44,1,0,45
+Aguascalientes,subdel,Mayor o igual a 55 y menor a 60 años de edad,202601,468,427,41,0,40,39,1,0,40
+Baja California,subdel,Mayor o igual a 55 y menor a 60 años de edad,202601,705,613,92,0,44,43,1,0,44
+Baja California Sur,subdel,Mayor o igual a 55 y menor a 60 años de edad,202601,151,129,22,0,9,8,1,0,9
+Campeche,subdel,Mayor o igual a 55 y menor a 60 años de edad,202601,525,459,66,0,26,25,1,0,26
+Coahuila de Zaragoza,subdel,Mayor o igual a 55 y menor a 60 años de edad,202601,1417,1297,120,0,111,108,3,0,111
+Colima,subdel,Mayor o igual a 55 y menor a 60 años de edad,202601,215,185,30,0,17,16,1,0,17
+Chiapas,subdel,Mayor o igual a 55 y menor a 60 años de edad,202601,796,724,72,0,33,33,0,0,33
+Chihuahua,subdel,Mayor o igual a 55 y menor a 60 años de edad,202601,1526,1305,221,0,79,75,4,0,79
+Ciudad de México,subdel,Mayor o igual a 55 y menor a 60 años de edad,202601,17146,15673,1473,0,1280,1251,29,0,1280
+Durango,subdel,Mayor o igual a 55 y menor a 60 años de edad,202601,551,488,63,0,34,33,1,0,34
+Guanajuato,subdel,Mayor o igual a 55 y menor a 60 años de edad,202601,1703,1597,106,0,124,122,2,0,124
+Guerrero,subdel,Mayor o igual a 55 y menor a 60 años de edad,202601,586,538,48,0,43,42,1,0,43
+Hidalgo,subdel,Mayor o igual a 55 y menor a 60 años de edad,202601,466,435,31,0,28,27,1,0,28
+Jalisco,subdel,Mayor o igual a 55 y menor a 60 años de edad,202601,3886,3510,376,0,273,265,8,0,273
+México,subdel,Mayor o igual a 55 y menor a 60 años de edad,202601,1996,1852,144,0,112,111,1,0,112
+Michoacán de Ocampo,subdel,Mayor o igual a 55 y menor a 60 años de edad,202601,889,821,68,0,64,64,0,0,64
+Morelos,subdel,Mayor o igual a 55 y menor a 60 años de edad,202601,462,421,41,0,32,31,1,0,32
+Nayarit,subdel,Mayor o igual a 55 y menor a 60 años de edad,202601,578,536,42,0,45,45,0,0,45
+Nuevo León,subdel,Mayor o igual a 55 y menor a 60 años de edad,202601,3254,2931,323,0,320,312,8,0,320
+Oaxaca,subdel,Mayor o igual a 55 y menor a 60 años de edad,202601,551,502,49,0,49,48,1,0,49
+Puebla,subdel,Mayor o igual a 55 y menor a 60 años de edad,202601,1739,1620,119,0,109,108,1,0,109
+Querétaro,subdel,Mayor o igual a 55 y menor a 60 años de edad,202601,539,504,35,0,34,34,0,0,34
+Quintana Roo,subdel,Mayor o igual a 55 y menor a 60 años de edad,202601,79,67,12,0,4,4,0,0,4
+San Luis Potosí,subdel,Mayor o igual a 55 y menor a 60 años de edad,202601,954,852,102,0,78,77,1,0,78
+Sinaloa,subdel,Mayor o igual a 55 y menor a 60 años de edad,202601,1639,1461,178,0,101,96,5,0,101
+Sonora,subdel,Mayor o igual a 55 y menor a 60 años de edad,202601,1390,1179,211,0,102,101,1,0,102
+Tabasco,subdel,Mayor o igual a 55 y menor a 60 años de edad,202601,619,552,67,0,32,31,1,0,32
+Tamaulipas,subdel,Mayor o igual a 55 y menor a 60 años de edad,202601,1321,1169,152,0,83,82,1,0,83
+Tlaxcala,subdel,Mayor o igual a 55 y menor a 60 años de edad,202601,219,205,14,0,21,19,2,0,21
+Veracruz,subdel,Mayor o igual a 55 y menor a 60 años de edad,202601,2642,2406,236,0,163,158,5,0,163
+Yucatán,subdel,Mayor o igual a 55 y menor a 60 años de edad,202601,1598,1432,166,0,87,84,3,0,87
+Zacatecas,subdel,Mayor o igual a 55 y menor a 60 años de edad,202601,496,461,35,0,49,48,1,0,49
+Extranjero/Extranjera,subdel,Mayor o igual a 60 y menor a 65 años de edad,202601,271,246,25,0,17,17,0,0,17
+Aguascalientes,subdel,Mayor o igual a 60 y menor a 65 años de edad,202601,268,250,18,0,14,14,0,0,14
+Baja California,subdel,Mayor o igual a 60 y menor a 65 años de edad,202601,324,289,35,0,12,12,0,0,12
+Baja California Sur,subdel,Mayor o igual a 60 y menor a 65 años de edad,202601,70,59,11,0,2,2,0,0,2
+Campeche,subdel,Mayor o igual a 60 y menor a 65 años de edad,202601,189,177,12,0,4,3,1,0,4
+Coahuila de Zaragoza,subdel,Mayor o igual a 60 y menor a 65 años de edad,202601,758,697,61,0,26,24,2,0,26
+Colima,subdel,Mayor o igual a 60 y menor a 65 años de edad,202601,106,102,4,0,7,7,0,0,7
+Chiapas,subdel,Mayor o igual a 60 y menor a 65 años de edad,202601,333,313,20,0,12,12,0,0,12
+Chihuahua,subdel,Mayor o igual a 60 y menor a 65 años de edad,202601,705,630,75,0,33,33,0,0,33
+Ciudad de México,subdel,Mayor o igual a 60 y menor a 65 años de edad,202601,8621,8055,566,0,385,376,9,0,385
+Durango,subdel,Mayor o igual a 60 y menor a 65 años de edad,202601,285,251,34,0,19,19,0,0,19
+Guanajuato,subdel,Mayor o igual a 60 y menor a 65 años de edad,202601,868,816,52,0,40,40,0,0,40
+Guerrero,subdel,Mayor o igual a 60 y menor a 65 años de edad,202601,344,314,30,0,19,19,0,0,19
+Hidalgo,subdel,Mayor o igual a 60 y menor a 65 años de edad,202601,210,202,8,0,10,10,0,0,10
+Jalisco,subdel,Mayor o igual a 60 y menor a 65 años de edad,202601,1787,1662,125,0,67,67,0,0,67
+México,subdel,Mayor o igual a 60 y menor a 65 años de edad,202601,901,845,56,0,40,40,0,0,40
+Michoacán de Ocampo,subdel,Mayor o igual a 60 y menor a 65 años de edad,202601,551,519,32,0,30,29,1,0,30
+Morelos,subdel,Mayor o igual a 60 y menor a 65 años de edad,202601,190,174,16,0,5,5,0,0,5
+Nayarit,subdel,Mayor o igual a 60 y menor a 65 años de edad,202601,292,274,18,0,14,14,0,0,14
+Nuevo León,subdel,Mayor o igual a 60 y menor a 65 años de edad,202601,1627,1487,140,0,98,96,2,0,98
+Oaxaca,subdel,Mayor o igual a 60 y menor a 65 años de edad,202601,311,285,26,0,17,16,1,0,17
+Puebla,subdel,Mayor o igual a 60 y menor a 65 años de edad,202601,879,832,47,0,29,29,0,0,29
+Querétaro,subdel,Mayor o igual a 60 y menor a 65 años de edad,202601,228,214,14,0,13,12,1,0,13
+Quintana Roo,subdel,Mayor o igual a 60 y menor a 65 años de edad,202601,43,40,3,0,1,1,0,0,1
+San Luis Potosí,subdel,Mayor o igual a 60 y menor a 65 años de edad,202601,520,494,26,0,22,21,1,0,22
+Sinaloa,subdel,Mayor o igual a 60 y menor a 65 años de edad,202601,758,702,56,0,25,25,0,0,25
+Sonora,subdel,Mayor o igual a 60 y menor a 65 años de edad,202601,739,678,61,0,46,42,4,0,46
+Tabasco,subdel,Mayor o igual a 60 y menor a 65 años de edad,202601,218,198,20,0,10,10,0,0,10
+Tamaulipas,subdel,Mayor o igual a 60 y menor a 65 años de edad,202601,733,663,70,0,26,26,0,0,26
+Tlaxcala,subdel,Mayor o igual a 60 y menor a 65 años de edad,202601,166,155,11,0,5,5,0,0,5
+Veracruz,subdel,Mayor o igual a 60 y menor a 65 años de edad,202601,1237,1144,93,0,35,34,1,0,35
+Yucatán,subdel,Mayor o igual a 60 y menor a 65 años de edad,202601,736,681,55,0,27,27,0,0,27
+Zacatecas,subdel,Mayor o igual a 60 y menor a 65 años de edad,202601,307,290,17,0,16,16,0,0,16
+Extranjero/Extranjera,subdel,Mayor o igual a 65 y menor a 70 años de edad,202601,108,102,6,0,7,7,0,0,7
+Aguascalientes,subdel,Mayor o igual a 65 y menor a 70 años de edad,202601,104,102,2,0,3,3,0,0,3
+Baja California,subdel,Mayor o igual a 65 y menor a 70 años de edad,202601,108,96,12,0,5,5,0,0,5
+Baja California Sur,subdel,Mayor o igual a 65 y menor a 70 años de edad,202601,29,27,2,0,0,0,0,0,0
+Campeche,subdel,Mayor o igual a 65 y menor a 70 años de edad,202601,72,67,5,0,2,2,0,0,2
+Coahuila de Zaragoza,subdel,Mayor o igual a 65 y menor a 70 años de edad,202601,271,252,19,0,10,10,0,0,10
+Colima,subdel,Mayor o igual a 65 y menor a 70 años de edad,202601,47,46,1,0,2,2,0,0,2
+Chiapas,subdel,Mayor o igual a 65 y menor a 70 años de edad,202601,111,105,6,0,5,5,0,0,5
+Chihuahua,subdel,Mayor o igual a 65 y menor a 70 años de edad,202601,292,275,17,0,6,6,0,0,6
+Ciudad de México,subdel,Mayor o igual a 65 y menor a 70 años de edad,202601,3537,3341,196,0,95,93,2,0,95
+Durango,subdel,Mayor o igual a 65 y menor a 70 años de edad,202601,135,123,12,0,2,2,0,0,2
+Guanajuato,subdel,Mayor o igual a 65 y menor a 70 años de edad,202601,345,323,22,0,10,10,0,0,10
+Guerrero,subdel,Mayor o igual a 65 y menor a 70 años de edad,202601,128,118,10,0,3,3,0,0,3
+Hidalgo,subdel,Mayor o igual a 65 y menor a 70 años de edad,202601,121,113,8,0,3,3,0,0,3
+Jalisco,subdel,Mayor o igual a 65 y menor a 70 años de edad,202601,673,632,41,0,18,18,0,0,18
+México,subdel,Mayor o igual a 65 y menor a 70 años de edad,202601,355,332,23,0,10,10,0,0,10
+Michoacán de Ocampo,subdel,Mayor o igual a 65 y menor a 70 años de edad,202601,260,233,27,0,9,9,0,0,9
+Morelos,subdel,Mayor o igual a 65 y menor a 70 años de edad,202601,72,68,4,0,0,0,0,0,0
+Nayarit,subdel,Mayor o igual a 65 y menor a 70 años de edad,202601,133,127,6,0,4,4,0,0,4
+Nuevo León,subdel,Mayor o igual a 65 y menor a 70 años de edad,202601,606,563,43,0,18,18,0,0,18
+Oaxaca,subdel,Mayor o igual a 65 y menor a 70 años de edad,202601,133,128,5,0,2,2,0,0,2
+Puebla,subdel,Mayor o igual a 65 y menor a 70 años de edad,202601,330,312,18,0,14,14,0,0,14
+Querétaro,subdel,Mayor o igual a 65 y menor a 70 años de edad,202601,99,97,2,0,0,0,0,0,0
+Quintana Roo,subdel,Mayor o igual a 65 y menor a 70 años de edad,202601,9,7,2,0,0,0,0,0,0
+San Luis Potosí,subdel,Mayor o igual a 65 y menor a 70 años de edad,202601,221,204,17,0,4,4,0,0,4
+Sinaloa,subdel,Mayor o igual a 65 y menor a 70 años de edad,202601,317,284,33,0,8,8,0,0,8
+Sonora,subdel,Mayor o igual a 65 y menor a 70 años de edad,202601,302,272,30,0,7,7,0,0,7
+Tabasco,subdel,Mayor o igual a 65 y menor a 70 años de edad,202601,85,80,5,0,5,5,0,0,5
+Tamaulipas,subdel,Mayor o igual a 65 y menor a 70 años de edad,202601,269,251,18,0,9,9,0,0,9
+Tlaxcala,subdel,Mayor o igual a 65 y menor a 70 años de edad,202601,67,63,4,0,1,1,0,0,1
+Veracruz,subdel,Mayor o igual a 65 y menor a 70 años de edad,202601,448,419,29,0,15,15,0,0,15
+Yucatán,subdel,Mayor o igual a 65 y menor a 70 años de edad,202601,286,270,16,0,7,7,0,0,7
+Zacatecas,subdel,Mayor o igual a 65 y menor a 70 años de edad,202601,133,125,8,0,5,5,0,0,5
+Extranjero/Extranjera,subdel,Mayor o igual a 70 y menor a 75 años de edad,202601,38,37,1,0,2,1,1,0,2
+Aguascalientes,subdel,Mayor o igual a 70 y menor a 75 años de edad,202601,23,23,0,0,0,0,0,0,0
+Baja California,subdel,Mayor o igual a 70 y menor a 75 años de edad,202601,31,30,1,0,0,0,0,0,0
+Baja California Sur,subdel,Mayor o igual a 70 y menor a 75 años de edad,202601,1,1,0,0,0,0,0,0,0
+Campeche,subdel,Mayor o igual a 70 y menor a 75 años de edad,202601,22,20,2,0,0,0,0,0,0
+Coahuila de Zaragoza,subdel,Mayor o igual a 70 y menor a 75 años de edad,202601,81,77,4,0,3,3,0,0,3
+Colima,subdel,Mayor o igual a 70 y menor a 75 años de edad,202601,18,16,2,0,0,0,0,0,0
+Chiapas,subdel,Mayor o igual a 70 y menor a 75 años de edad,202601,33,29,4,0,2,2,0,0,2
+Chihuahua,subdel,Mayor o igual a 70 y menor a 75 años de edad,202601,57,55,2,0,1,1,0,0,1
+Ciudad de México,subdel,Mayor o igual a 70 y menor a 75 años de edad,202601,1042,966,76,0,8,8,0,0,8
+Durango,subdel,Mayor o igual a 70 y menor a 75 años de edad,202601,42,38,4,0,1,1,0,0,1
+Guanajuato,subdel,Mayor o igual a 70 y menor a 75 años de edad,202601,114,109,5,0,1,1,0,0,1
+Guerrero,subdel,Mayor o igual a 70 y menor a 75 años de edad,202601,30,26,4,0,1,1,0,0,1
+Hidalgo,subdel,Mayor o igual a 70 y menor a 75 años de edad,202601,40,35,5,0,0,0,0,0,0
+Jalisco,subdel,Mayor o igual a 70 y menor a 75 años de edad,202601,182,162,20,0,6,6,0,0,6
+México,subdel,Mayor o igual a 70 y menor a 75 años de edad,202601,106,97,9,0,1,1,0,0,1
+Michoacán de Ocampo,subdel,Mayor o igual a 70 y menor a 75 años de edad,202601,80,77,3,0,0,0,0,0,0
+Morelos,subdel,Mayor o igual a 70 y menor a 75 años de edad,202601,23,22,1,0,0,0,0,0,0
+Nayarit,subdel,Mayor o igual a 70 y menor a 75 años de edad,202601,42,40,2,0,0,0,0,0,0
+Nuevo León,subdel,Mayor o igual a 70 y menor a 75 años de edad,202601,139,125,14,0,3,3,0,0,3
+Oaxaca,subdel,Mayor o igual a 70 y menor a 75 años de edad,202601,50,43,7,0,0,0,0,0,0
+Puebla,subdel,Mayor o igual a 70 y menor a 75 años de edad,202601,106,98,8,0,1,1,0,0,1
+Querétaro,subdel,Mayor o igual a 70 y menor a 75 años de edad,202601,26,25,1,0,0,0,0,0,0
+Quintana Roo,subdel,Mayor o igual a 70 y menor a 75 años de edad,202601,1,1,0,0,0,0,0,0,0
+San Luis Potosí,subdel,Mayor o igual a 70 y menor a 75 años de edad,202601,69,63,6,0,2,2,0,0,2
+Sinaloa,subdel,Mayor o igual a 70 y menor a 75 años de edad,202601,93,85,8,0,0,0,0,0,0
+Sonora,subdel,Mayor o igual a 70 y menor a 75 años de edad,202601,102,100,2,0,2,2,0,0,2
+Tabasco,subdel,Mayor o igual a 70 y menor a 75 años de edad,202601,17,15,2,0,0,0,0,0,0
+Tamaulipas,subdel,Mayor o igual a 70 y menor a 75 años de edad,202601,84,79,5,0,2,2,0,0,2
+Tlaxcala,subdel,Mayor o igual a 70 y menor a 75 años de edad,202601,20,19,1,0,0,0,0,0,0
+Veracruz,subdel,Mayor o igual a 70 y menor a 75 años de edad,202601,142,135,7,0,1,1,0,0,1
+Yucatán,subdel,Mayor o igual a 70 y menor a 75 años de edad,202601,79,76,3,0,0,0,0,0,0
+Zacatecas,subdel,Mayor o igual a 70 y menor a 75 años de edad,202601,43,37,6,0,0,0,0,0,0
+Ciudad de México,subdel,Mayor o igual a 20 y menor a 25 años de edad,202601,47379,42085,5293,1,2808,2645,163,0,2808
+Ciudad de México,subdel,Mayor o igual a 15 y menor a 20 años de edad,202601,7927,7098,827,2,1086,1021,65,0,1086
+Puebla,subdel,Mayor o igual a 25 y menor a 30 años de edad,202601,11496,10549,945,2,685,656,29,0,685
