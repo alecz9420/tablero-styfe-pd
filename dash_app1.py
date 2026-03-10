@@ -52,6 +52,7 @@ MESES_CONFIG = [
     {"id": "nov", "label": "Noviembre",  "pd": "PD_nov.csv", "sbc": "sbc_nov.csv"},
     {"id": "dic", "label": "Diciembre",  "pd": "PD_dic.csv", "sbc": "sbc_dic.csv"},
     {"id": "ene", "label": "Enero 2026", "pd": "PD_ene.csv", "sbc": "sbc_ene.csv"},
+    {"id": "feb", "label": "Febrero 2026", "pd": "PD_feb.csv", "sbc": "sbc_feb.csv"},
 ]
 
 # --- Estilos CSS Inline ---
@@ -827,6 +828,7 @@ if __name__ == "__main__":
     import os
     port = int(os.environ.get("PORT", 10000))
     app.run(host="0.0.0.0", port=port)
+
 
 
 
