@@ -1,0 +1,432 @@
+﻿CVE_DIVISION,División,entidad_nacimiento,Rango_edad_2,SalarioFem,SalarioMasc,PTPD_Aseg,PTPD_Aseg_H,PTPD_Aseg_M,PTPD_Aseg_NB,PTPD_Puestos,PTPD_Puestos_H,PTPD_Puestos_M,PTPD_Puestos_NB
+7,Transportes y comunicaciones,Extranjero/Extranjera,75 años y más,,406.313333333,325,280,45,0,3,3,0,0
+7,Transportes y comunicaciones,Aguascalientes,75 años y más,,452.17,359,328,31,0,1,1,0,0
+7,Transportes y comunicaciones,Baja California,75 años y más,,423.94,563,494,69,0,1,1,0,0
+7,Transportes y comunicaciones,Baja California Sur,75 años y más,,,169,160,9,0,0,0,0,0
+7,Transportes y comunicaciones,Campeche,75 años y más,,,325,295,30,0,0,0,0,0
+7,Transportes y comunicaciones,Coahuila de Zaragoza,75 años y más,,505.1,426,371,55,0,3,3,0,0
+7,Transportes y comunicaciones,Colima,75 años y más,,,246,221,25,0,0,0,0,0
+7,Transportes y comunicaciones,Chiapas,75 años y más,,338.82,643,592,51,0,1,1,0,0
+7,Transportes y comunicaciones,Chihuahua,75 años y más,,400.61,783,641,142,0,3,3,0,0
+7,Transportes y comunicaciones,Ciudad de México,75 años y más,315.04,384.048157895,6162,5388,774,0,41,38,3,0
+7,Transportes y comunicaciones,Durango,75 años y más,,461.765,430,373,57,0,2,2,0,0
+7,Transportes y comunicaciones,Guanajuato,75 años y más,,435.15,1104,1016,88,0,2,2,0,0
+7,Transportes y comunicaciones,Guerrero,75 años y más,,450,366,334,32,0,2,2,0,0
+7,Transportes y comunicaciones,Hidalgo,75 años y más,,426.26,206,176,30,0,1,1,0,0
+7,Transportes y comunicaciones,Jalisco,75 años y más,,411.765555556,2387,2104,283,0,9,9,0,0
+7,Transportes y comunicaciones,México,75 años y más,399.04,383.425,5902,5255,647,0,3,2,1,0
+7,Transportes y comunicaciones,Michoacán de Ocampo,75 años y más,,351.61,572,529,43,0,1,1,0,0
+7,Transportes y comunicaciones,Morelos,75 años y más,,,655,587,68,0,0,0,0,0
+7,Transportes y comunicaciones,Nayarit,75 años y más,,,325,306,19,0,0,0,0,0
+7,Transportes y comunicaciones,Nuevo León,75 años y más,428.27,480.91,866,765,101,0,8,7,1,0
+7,Transportes y comunicaciones,Oaxaca,75 años y más,,,477,417,60,0,0,0,0,0
+7,Transportes y comunicaciones,Puebla,75 años y más,,327.82,1190,1088,102,0,1,1,0,0
+7,Transportes y comunicaciones,Querétaro,75 años y más,,315.04,349,332,17,0,1,1,0,0
+7,Transportes y comunicaciones,Quintana Roo,75 años y más,,,632,563,69,0,0,0,0,0
+7,Transportes y comunicaciones,San Luis Potosí,75 años y más,,501.21,523,459,64,0,5,5,0,0
+7,Transportes y comunicaciones,Sinaloa,75 años y más,,402.935,799,730,69,0,2,2,0,0
+7,Transportes y comunicaciones,Sonora,75 años y más,,440.935,428,375,53,0,2,2,0,0
+7,Transportes y comunicaciones,Tabasco,75 años y más,,,410,365,45,0,0,0,0,0
+7,Transportes y comunicaciones,Tamaulipas,75 años y más,,434.716666667,771,660,111,0,3,3,0,0
+7,Transportes y comunicaciones,Tlaxcala,75 años y más,,,214,206,8,0,0,0,0,0
+7,Transportes y comunicaciones,Veracruz,75 años y más,,,916,827,89,0,0,0,0,0
+7,Transportes y comunicaciones,Yucatán,75 años y más,,493.775,560,485,75,0,2,2,0,0
+7,Transportes y comunicaciones,Zacatecas,75 años y más,,387.995,220,204,16,0,2,2,0,0
+7,Transportes y comunicaciones,Ciudad de México,Entre 0 y 5 años,,526.71,1,1,0,0,1,1,0,0
+7,Transportes y comunicaciones,Veracruz,Entre 0 y 5 años,,315.04,0,0,0,0,1,1,0,0
+7,Transportes y comunicaciones,Ciudad de México,Entre 10 y 15 años,,,1,1,0,0,0,0,0,0
+7,Transportes y comunicaciones,Extranjero/Extranjera,Entre 15 y 20 años,,391.36,204,183,21,0,13,13,0,0
+7,Transportes y comunicaciones,Aguascalientes,Entre 15 y 20 años,,425.23,421,394,27,0,7,7,0,0
+7,Transportes y comunicaciones,Baja California,Entre 15 y 20 años,506.66,425.434909091,791,720,71,0,57,55,2,0
+7,Transportes y comunicaciones,Baja California Sur,Entre 15 y 20 años,599.59,418.143529412,196,181,15,0,19,17,2,0
+7,Transportes y comunicaciones,Campeche,Entre 15 y 20 años,,315.04,136,129,7,0,4,4,0,0
+7,Transportes y comunicaciones,Coahuila de Zaragoza,Entre 15 y 20 años,613.95,389.287407407,807,740,67,0,29,27,2,0
+7,Transportes y comunicaciones,Colima,Entre 15 y 20 años,,347.446,245,234,11,0,5,5,0,0
+7,Transportes y comunicaciones,Chiapas,Entre 15 y 20 años,,408.521153846,453,432,21,0,26,26,0,0
+7,Transportes y comunicaciones,Chihuahua,Entre 15 y 20 años,545.05,402.554363636,1283,1143,140,0,61,55,6,0
+7,Transportes y comunicaciones,Durango,Entre 15 y 20 años,482.23,445.722142857,493,464,29,0,15,14,1,0
+7,Transportes y comunicaciones,Guanajuato,Entre 15 y 20 años,348.7,395.450714286,1373,1291,82,0,31,28,3,0
+7,Transportes y comunicaciones,Guerrero,Entre 15 y 20 años,,505.765,268,243,25,0,6,6,0,0
+7,Transportes y comunicaciones,Hidalgo,Entre 15 y 20 años,346.91,391.342,158,149,9,0,6,5,1,0
+7,Transportes y comunicaciones,Jalisco,Entre 15 y 20 años,454.13875,412.421666667,2790,2574,216,0,122,114,8,0
+7,Transportes y comunicaciones,México,Entre 15 y 20 años,327.464,384.747391304,3665,3410,255,0,120,115,5,0
+7,Transportes y comunicaciones,Michoacán de Ocampo,Entre 15 y 20 años,391.45,372.8675,365,350,15,0,13,12,1,0
+7,Transportes y comunicaciones,Morelos,Entre 15 y 20 años,315.04,390.291111111,373,347,26,0,12,9,3,0
+7,Transportes y comunicaciones,Nayarit,Entre 15 y 20 años,,348.674,214,200,14,0,15,15,0,0
+7,Transportes y comunicaciones,Nuevo León,Entre 15 y 20 años,450.702,414.119789474,2273,2057,216,0,100,95,5,0
+7,Transportes y comunicaciones,Oaxaca,Entre 15 y 20 años,330.57,380.891666667,274,247,27,0,13,12,1,0
+7,Transportes y comunicaciones,Puebla,Entre 15 y 20 años,,410.161363636,672,625,47,0,22,22,0,0
+7,Transportes y comunicaciones,Querétaro,Entre 15 y 20 años,,364.144705882,470,435,35,0,17,17,0,0
+7,Transportes y comunicaciones,Quintana Roo,Entre 15 y 20 años,315.04,434.490952381,614,564,50,0,22,21,1,0
+7,Transportes y comunicaciones,San Luis Potosí,Entre 15 y 20 años,389.32,376.611578947,634,572,62,0,20,19,1,0
+7,Transportes y comunicaciones,Sinaloa,Entre 15 y 20 años,350.84,403.465,836,798,38,0,41,40,1,0
+7,Transportes y comunicaciones,Sonora,Entre 15 y 20 años,357.52,385.6571875,634,581,53,0,33,32,1,0
+7,Transportes y comunicaciones,Tabasco,Entre 15 y 20 años,329.3,378.11875,335,308,27,0,9,8,1,0
+7,Transportes y comunicaciones,Tamaulipas,Entre 15 y 20 años,407.4225,410.904905660,713,655,58,0,57,53,4,0
+7,Transportes y comunicaciones,Tlaxcala,Entre 15 y 20 años,,359.1,89,88,1,0,2,2,0,0
+7,Transportes y comunicaciones,Veracruz,Entre 15 y 20 años,,415.139285714,792,724,68,0,28,28,0,0
+7,Transportes y comunicaciones,Yucatán,Entre 15 y 20 años,339.216666667,412.784,389,357,32,0,18,15,3,0
+7,Transportes y comunicaciones,Zacatecas,Entre 15 y 20 años,,458.946666667,181,173,8,0,3,3,0,0
+7,Transportes y comunicaciones,Extranjero/Extranjera,Entre 20 y 25 años,353.345714286,443.191358025,1662,1448,214,0,88,81,7,0
+7,Transportes y comunicaciones,Aguascalientes,Entre 20 y 25 años,331.655,381.062830189,3102,2832,270,0,108,106,2,0
+7,Transportes y comunicaciones,Baja California,Entre 20 y 25 años,406.171071429,429.072294118,6693,5954,739,0,538,510,28,0
+7,Transportes y comunicaciones,Baja California Sur,Entre 20 y 25 años,322.805,433.199793814,1350,1210,140,0,99,97,2,0
+7,Transportes y comunicaciones,Campeche,Entre 20 y 25 años,315.04,386.451641791,2084,1914,170,0,72,67,5,0
+7,Transportes y comunicaciones,Coahuila de Zaragoza,Entre 20 y 25 años,414.422666667,424.671442006,5819,5210,609,0,334,319,15,0
+7,Transportes y comunicaciones,Colima,Entre 20 y 25 años,352.895,438.235909091,1912,1695,217,0,48,44,4,0
+7,Transportes y comunicaciones,Chiapas,Entre 20 y 25 años,517.713,423.808097166,5665,5231,434,0,257,247,10,0
+7,Transportes y comunicaciones,Chihuahua,Entre 20 y 25 años,348.745,392.995336427,9765,8116,1649,0,449,431,18,0
+7,Transportes y comunicaciones,Durango,Entre 20 y 25 años,352.1975,431.19,3900,3494,406,0,117,109,8,0
+7,Transportes y comunicaciones,Guanajuato,Entre 20 y 25 años,390.531428571,383.162727273,10431,9602,829,0,289,275,14,0
+7,Transportes y comunicaciones,Guerrero,Entre 20 y 25 años,473.235454545,441.117936508,3130,2771,359,0,137,126,11,0
+7,Transportes y comunicaciones,Hidalgo,Entre 20 y 25 años,412.06,457.642352941,1849,1693,156,0,69,68,1,0
+7,Transportes y comunicaciones,Jalisco,Entre 20 y 25 años,424.743030303,409.212039258,20813,18860,1953,0,950,917,33,0
+7,Transportes y comunicaciones,México,Entre 20 y 25 años,373.973191489,394.442577210,36119,32451,3668,0,986,939,47,0
+7,Transportes y comunicaciones,Michoacán de Ocampo,Entre 20 y 25 años,379.406666667,389.178071429,4264,3929,335,0,146,140,6,0
+7,Transportes y comunicaciones,Morelos,Entre 20 y 25 años,405.601428571,422.941515152,4044,3627,417,0,106,99,7,0
+7,Transportes y comunicaciones,Nayarit,Entre 20 y 25 años,404.538333333,388.063816794,2291,2085,206,0,137,131,6,0
+7,Transportes y comunicaciones,Nuevo León,Entre 20 y 25 años,466.697105263,449.414689655,14862,13125,1737,0,1053,1015,38,0
+7,Transportes y comunicaciones,Oaxaca,Entre 20 y 25 años,573.876666667,431.746885246,3832,3489,343,0,125,122,3,0
+7,Transportes y comunicaciones,Puebla,Entre 20 y 25 años,405.126153846,408.2273125,8822,8071,751,0,333,320,13,0
+7,Transportes y comunicaciones,Querétaro,Entre 20 y 25 años,334.632,412.728378378,3687,3362,325,0,153,148,5,0
+7,Transportes y comunicaciones,Quintana Roo,Entre 20 y 25 años,375.733333333,414.687007299,4367,3899,468,0,146,137,9,0
+7,Transportes y comunicaciones,San Luis Potosí,Entre 20 y 25 años,337.66625,399.606192308,5380,4821,559,0,268,260,8,0
+7,Transportes y comunicaciones,Sinaloa,Entre 20 y 25 años,428.959285714,419.818983452,7534,6943,591,0,437,423,14,0
+7,Transportes y comunicaciones,Sonora,Entre 20 y 25 años,366.484,403.919937304,5400,4897,503,0,334,319,15,0
+7,Transportes y comunicaciones,Tabasco,Entre 20 y 25 años,380.542222222,413.389636364,4212,3811,401,0,174,165,9,0
+7,Transportes y comunicaciones,Tamaulipas,Entre 20 y 25 años,410.176206897,431.849925,6826,6047,779,0,429,400,29,0
+7,Transportes y comunicaciones,Tlaxcala,Entre 20 y 25 años,626.81,387.458275862,1303,1229,74,0,30,29,1,0
+7,Transportes y comunicaciones,Veracruz,Entre 20 y 25 años,432.516315789,423.704282511,10405,9444,961,0,465,446,19,0
+7,Transportes y comunicaciones,Yucatán,Entre 20 y 25 años,362.811666667,411.982163462,5134,4682,452,0,214,208,6,0
+7,Transportes y comunicaciones,Zacatecas,Entre 20 y 25 años,424.045,430.534054054,1628,1509,119,0,39,37,2,0
+7,Transportes y comunicaciones,Extranjero/Extranjera,Entre 25 y 30 años,475.86,457.158842105,1958,1770,188,0,194,190,4,0
+7,Transportes y comunicaciones,Aguascalientes,Entre 25 y 30 años,356.337777778,394.627098765,3370,3063,307,0,171,162,9,0
+7,Transportes y comunicaciones,Baja California,Entre 25 y 30 años,391.6542,443.764338336,7641,6729,912,0,783,733,50,0
+7,Transportes y comunicaciones,Baja California Sur,Entre 25 y 30 años,500.578571429,443.894263566,1306,1128,178,0,143,129,14,0
+7,Transportes y comunicaciones,Campeche,Entre 25 y 30 años,365.069375,407.768111888,3001,2688,313,0,159,143,16,0
+7,Transportes y comunicaciones,Coahuila de Zaragoza,Entre 25 y 30 años,408.222058824,432.602058394,7701,6906,795,0,719,685,34,0
+7,Transportes y comunicaciones,Colima,Entre 25 y 30 años,462.785,422.387070707,1754,1576,178,0,103,99,4,0
+7,Transportes y comunicaciones,Chiapas,Entre 25 y 30 años,402.86125,424.899441118,7581,6971,610,0,517,501,16,0
+7,Transportes y comunicaciones,Chihuahua,Entre 25 y 30 años,405.004366197,413.355093583,10697,8693,2004,0,819,748,71,0
+7,Transportes y comunicaciones,Ciudad de México,Entre 25 y 30 años,370.031363636,405.050999363,53124,47132,5992,0,3318,3142,176,0
+7,Transportes y comunicaciones,Durango,Entre 25 y 30 años,332.6325,424.565729167,4102,3630,472,0,204,192,12,0
+7,Transportes y comunicaciones,Guanajuato,Entre 25 y 30 años,363.32,383.907931034,11347,10379,968,0,548,522,26,0
+7,Transportes y comunicaciones,Guerrero,Entre 25 y 30 años,481.11125,437.201823899,4232,3772,460,0,334,318,16,0
+7,Transportes y comunicaciones,Hidalgo,Entre 25 y 30 años,364.389,441.431314286,2375,2168,207,0,185,175,10,0
+7,Transportes y comunicaciones,Jalisco,Entre 25 y 30 años,375.436543210,417.360075949,23346,21080,2266,0,1661,1580,81,0
+7,Transportes y comunicaciones,México,Entre 25 y 30 años,375.162727273,407.029740759,39016,35217,3799,0,2171,2083,88,0
+7,Transportes y comunicaciones,Michoacán de Ocampo,Entre 25 y 30 años,375.531666667,411.132862745,5114,4695,419,0,267,255,12,0
+7,Transportes y comunicaciones,Morelos,Entre 25 y 30 años,355.7225,410.439421965,4452,3981,471,0,181,173,8,0
+7,Transportes y comunicaciones,Nayarit,Entre 25 y 30 años,352.151666667,405.777920792,2757,2551,206,0,214,202,12,0
+7,Transportes y comunicaciones,Nuevo León,Entre 25 y 30 años,411.996145833,460.961449203,17649,15453,2196,0,2104,2008,96,0
+7,Transportes y comunicaciones,Oaxaca,Entre 25 y 30 años,374.1075,443.57,4960,4506,454,0,347,335,12,0
+7,Transportes y comunicaciones,Querétaro,Entre 25 y 30 años,369.597222222,413.164350649,4350,3911,439,0,326,308,18,0
+7,Transportes y comunicaciones,Quintana Roo,Entre 25 y 30 años,336.981,422.051330275,4316,3786,530,0,228,218,10,0
+7,Transportes y comunicaciones,San Luis Potosí,Entre 25 y 30 años,379.461153846,421.347176221,6605,5896,709,0,497,471,26,0
+7,Transportes y comunicaciones,Sinaloa,Entre 25 y 30 años,385.126511628,431.354446023,9133,8284,849,0,747,704,43,0
+7,Transportes y comunicaciones,Sonora,Entre 25 y 30 años,365.612156863,419.365602190,6636,5835,801,0,599,548,51,0
+7,Transportes y comunicaciones,Tabasco,Entre 25 y 30 años,378.259444444,428.332318059,5754,5185,569,0,389,371,18,0
+7,Transportes y comunicaciones,Tamaulipas,Entre 25 y 30 años,430.651833333,449.614921316,8241,7199,1042,0,759,699,60,0
+7,Transportes y comunicaciones,Tlaxcala,Entre 25 y 30 años,397.816,420.769411765,1740,1637,103,0,73,68,5,0
+7,Transportes y comunicaciones,Veracruz,Entre 25 y 30 años,390.40484375,436.244204444,14901,13362,1539,0,1189,1125,64,0
+7,Transportes y comunicaciones,Yucatán,Entre 25 y 30 años,369.988571429,418.199026764,7071,6340,731,0,439,411,28,0
+7,Transportes y comunicaciones,Zacatecas,Entre 25 y 30 años,408.331428571,401.786631579,1830,1682,148,0,102,95,7,0
+7,Transportes y comunicaciones,Extranjero/Extranjera,Entre 30 y 35 años,390.7535,456.592443609,2271,2004,267,0,286,266,20,0
+7,Transportes y comunicaciones,Aguascalientes,Entre 30 y 35 años,339.490714286,399.806199095,2995,2681,314,0,235,221,14,0
+7,Transportes y comunicaciones,Baja California,Entre 30 y 35 años,413.250833333,448.236412429,6113,5219,894,0,768,708,60,0
+7,Transportes y comunicaciones,Baja California Sur,Entre 30 y 35 años,406.789,448.324068966,1098,911,187,0,165,145,20,0
+7,Transportes y comunicaciones,Campeche,Entre 30 y 35 años,349.999285714,422.8775,3046,2658,388,0,222,208,14,0
+7,Transportes y comunicaciones,Coahuila de Zaragoza,Entre 30 y 35 años,405.003970588,442.600316384,8035,7126,909,0,953,885,68,0
+7,Transportes y comunicaciones,Colima,Entre 30 y 35 años,358.553,432.206170213,1494,1285,209,0,104,94,10,0
+7,Transportes y comunicaciones,Chiapas,Entre 30 y 35 años,404.119333333,433.913348837,6626,6115,511,0,675,645,30,0
+7,Transportes y comunicaciones,Chihuahua,Entre 30 y 35 años,388.716571429,424.801666667,9949,7927,2022,0,927,822,105,0
+7,Transportes y comunicaciones,Ciudad de México,Entre 30 y 35 años,367.163306452,414.169453762,53107,47144,5963,0,4660,4412,248,0
+7,Transportes y comunicaciones,Durango,Entre 30 y 35 años,384.232352941,450.669635628,3814,3309,505,0,264,247,17,0
+7,Transportes y comunicaciones,Guerrero,Entre 30 y 35 años,430.599615385,452.024273743,3727,3361,366,0,384,358,26,0
+7,Transportes y comunicaciones,Hidalgo,Entre 30 y 35 años,454.528333333,459.691194690,2306,2082,224,0,244,226,18,0
+7,Transportes y comunicaciones,Jalisco,Entre 30 y 35 años,387.562288136,423.824571269,20129,17929,2200,0,1914,1796,118,0
+7,Transportes y comunicaciones,México,Entre 30 y 35 años,364.019504132,413.288327374,31863,28881,2982,0,2638,2517,121,0
+7,Transportes y comunicaciones,Michoacán de Ocampo,Entre 30 y 35 años,376.677826087,413.720125945,4998,4514,484,0,420,397,23,0
+7,Transportes y comunicaciones,Morelos,Entre 30 y 35 años,367.017272727,409.878544601,3540,3172,368,0,224,213,11,0
+7,Transportes y comunicaciones,Nayarit,Entre 30 y 35 años,376.948888889,420.201469534,2619,2407,212,0,297,279,18,0
+7,Transportes y comunicaciones,Nuevo León,Entre 30 y 35 años,432.546289308,473.093327738,16809,14627,2182,0,2542,2383,159,0
+7,Transportes y comunicaciones,Oaxaca,Entre 30 y 35 años,427.910769231,440.106209476,4379,3963,416,0,427,401,26,0
+7,Transportes y comunicaciones,Puebla,Entre 30 y 35 años,394.915151515,411.929601293,10040,9141,899,0,961,928,33,0
+7,Transportes y comunicaciones,Querétaro,Entre 30 y 35 años,431.175625,422.145342105,3826,3452,374,0,396,380,16,0
+7,Transportes y comunicaciones,Quintana Roo,Entre 30 y 35 años,369.066923077,441.861538462,3471,3037,434,0,273,247,26,0
+7,Transportes y comunicaciones,San Luis Potosí,Entre 30 y 35 años,372.014385965,429.486342944,6446,5715,731,0,716,659,57,0
+7,Transportes y comunicaciones,Sinaloa,Entre 30 y 35 años,381.164385965,445.030712560,8608,7707,901,0,885,828,57,0
+7,Transportes y comunicaciones,Sonora,Entre 30 y 35 años,368.345294118,436.654246795,6405,5549,856,0,692,624,68,0
+7,Transportes y comunicaciones,Tabasco,Entre 30 y 35 años,408.599487179,441.796032864,5412,4835,577,0,465,426,39,0
+7,Transportes y comunicaciones,Tamaulipas,Entre 30 y 35 años,450.170161290,459.170238095,7491,6507,984,0,902,840,62,0
+7,Transportes y comunicaciones,Tlaxcala,Entre 30 y 35 años,403.26,416.552,1573,1484,89,0,107,105,2,0
+7,Transportes y comunicaciones,Veracruz,Entre 30 y 35 años,377.132282609,441.657336683,15882,14162,1720,0,1684,1592,92,0
+7,Transportes y comunicaciones,Yucatán,Entre 30 y 35 años,399.415531915,422.770277325,7660,6859,801,0,660,613,47,0
+7,Transportes y comunicaciones,Zacatecas,Entre 30 y 35 años,458.071428571,423.138449612,1629,1469,160,0,136,129,7,0
+7,Transportes y comunicaciones,Extranjero/Extranjera,Entre 35 y 40 años,428.857857143,447.281222707,1955,1738,217,0,243,229,14,0
+7,Transportes y comunicaciones,Baja California,Entre 35 y 40 años,437.763606557,466.209429477,4380,3760,620,0,692,631,61,0
+7,Transportes y comunicaciones,Baja California Sur,Entre 35 y 40 años,442.369285714,456.759210526,892,725,167,0,128,114,14,0
+7,Transportes y comunicaciones,Campeche,Entre 35 y 40 años,367.826666667,433.114429224,2436,2143,293,0,246,219,27,0
+7,Transportes y comunicaciones,Coahuila de Zaragoza,Entre 35 y 40 años,397.030563380,437.006341757,6629,5820,809,0,902,831,71,0
+7,Transportes y comunicaciones,Colima,Entre 35 y 40 años,409.451428571,430.498666667,1125,963,162,0,112,105,7,0
+7,Transportes y comunicaciones,Chiapas,Entre 35 y 40 años,409.504615385,444.639605489,4817,4438,379,0,609,583,26,0
+7,Transportes y comunicaciones,Ciudad de México,Entre 35 y 40 años,377.964444444,421.877485881,47459,42643,4816,0,5468,5135,333,0
+7,Transportes y comunicaciones,Durango,Entre 35 y 40 años,416.232142857,437.033647059,2789,2452,337,0,269,255,14,0
+7,Transportes y comunicaciones,Guanajuato,Entre 35 y 40 años,362.728620690,404.981126565,7553,6873,680,0,748,719,29,0
+7,Transportes y comunicaciones,Guerrero,Entre 35 y 40 años,391.935454545,453.539845758,2910,2604,306,0,411,389,22,0
+7,Transportes y comunicaciones,Hidalgo,Entre 35 y 40 años,383.605,455.882714286,1578,1443,135,0,220,210,10,0
+7,Transportes y comunicaciones,Jalisco,Entre 35 y 40 años,374.597434211,422.265496313,16817,14904,1913,0,1915,1763,152,0
+7,Transportes y comunicaciones,México,Entre 35 y 40 años,377.095463918,419.299512195,20966,19062,1904,0,2311,2214,97,0
+7,Transportes y comunicaciones,Michoacán de Ocampo,Entre 35 y 40 años,387.924242424,426.74055,4012,3560,452,0,433,400,33,0
+7,Transportes y comunicaciones,Morelos,Entre 35 y 40 años,358.321764706,412.654634146,2545,2263,282,0,222,205,17,0
+7,Transportes y comunicaciones,Nayarit,Entre 35 y 40 años,403.146666667,426.893589744,2299,2053,246,0,333,312,21,0
+7,Transportes y comunicaciones,Nuevo León,Entre 35 y 40 años,433.576595745,475.362014563,14082,12378,1704,0,2660,2472,188,0
+7,Transportes y comunicaciones,Oaxaca,Entre 35 y 40 años,427.728387097,442.136540698,3081,2719,362,0,375,344,31,0
+7,Transportes y comunicaciones,Puebla,Entre 35 y 40 años,397.446304348,426.443701773,7709,7029,680,0,1005,959,46,0
+7,Transportes y comunicaciones,Querétaro,Entre 35 y 40 años,402.006666667,420.941540785,2903,2614,289,0,352,331,21,0
+7,Transportes y comunicaciones,Quintana Roo,Entre 35 y 40 años,409.976956522,441.977277487,1922,1663,259,0,214,191,23,0
+7,Transportes y comunicaciones,San Luis Potosí,Entre 35 y 40 años,395.170217391,427.447669421,4965,4370,595,0,651,605,46,0
+7,Transportes y comunicaciones,Sinaloa,Entre 35 y 40 años,402.301186441,444.764524715,6842,6047,795,0,848,789,59,0
+7,Transportes y comunicaciones,Sonora,Entre 35 y 40 años,386.90425,435.533244147,5466,4636,830,0,678,598,80,0
+7,Transportes y comunicaciones,Tabasco,Entre 35 y 40 años,451.34,445.354940048,4291,3842,449,0,442,417,25,0
+7,Transportes y comunicaciones,Tamaulipas,Entre 35 y 40 años,405.64,464.244529332,5871,5052,819,0,802,733,69,0
+7,Transportes y comunicaciones,Tlaxcala,Entre 35 y 40 años,330.57,434.728660714,1191,1096,95,0,114,112,2,0
+7,Transportes y comunicaciones,Veracruz,Entre 35 y 40 años,403.369595960,444.446029216,12649,11334,1315,0,1605,1506,99,0
+7,Transportes y comunicaciones,Yucatán,Entre 35 y 40 años,400.841860465,436.043957307,6592,5904,688,0,652,609,43,0
+7,Transportes y comunicaciones,Zacatecas,Entre 35 y 40 años,466.060833333,419.135283019,1389,1234,155,0,171,159,12,0
+7,Transportes y comunicaciones,Extranjero/Extranjera,Entre 40 y 45 años,416.655384615,489.149866071,1424,1268,156,0,237,224,13,0
+7,Transportes y comunicaciones,Aguascalientes,Entre 40 y 45 años,434.102307692,422.986464088,1593,1411,182,0,194,181,13,0
+7,Transportes y comunicaciones,Baja California,Entre 40 y 45 años,429.878936170,464.365902778,2743,2275,468,0,479,432,47,0
+7,Transportes y comunicaciones,Baja California Sur,Entre 40 y 45 años,459.014615385,462.322619048,636,517,119,0,97,84,13,0
+7,Transportes y comunicaciones,Campeche,Entre 40 y 45 años,400.551818182,429.490253807,1753,1554,199,0,219,197,22,0
+7,Transportes y comunicaciones,Coahuila de Zaragoza,Entre 40 y 45 años,394.603255814,446.510788732,4978,4397,581,0,753,710,43,0
+7,Transportes y comunicaciones,Colima,Entre 40 y 45 años,382.585,440.620927835,815,713,102,0,105,97,8,0
+7,Transportes y comunicaciones,Chiapas,Entre 40 y 45 años,430.1075,442.697283105,3365,3066,299,0,462,438,24,0
+7,Transportes y comunicaciones,Chihuahua,Entre 40 y 45 años,407.064935065,434.677781955,4804,3889,915,0,609,532,77,0
+7,Transportes y comunicaciones,Ciudad de México,Entre 40 y 45 años,371.798952096,427.707001748,42655,38559,4096,0,6054,5720,334,0
+7,Transportes y comunicaciones,Durango,Entre 40 y 45 años,362.862105263,451.699497207,1921,1636,285,0,198,179,19,0
+7,Transportes y comunicaciones,Guanajuato,Entre 40 y 45 años,386.9509375,407.371796117,5416,4897,519,0,650,618,32,0
+7,Transportes y comunicaciones,Guerrero,Entre 40 y 45 años,415.6725,459.221883562,2027,1803,224,0,308,292,16,0
+7,Transportes y comunicaciones,Hidalgo,Entre 40 y 45 años,438.758333333,454.6884,1150,1034,116,0,181,175,6,0
+7,Transportes y comunicaciones,Jalisco,Entre 40 y 45 años,386.946893939,431.195962356,12830,11354,1476,0,1779,1647,132,0
+7,Transportes y comunicaciones,México,Entre 40 y 45 años,386.245875,427.943917526,10764,9743,1021,0,1438,1358,80,0
+7,Transportes y comunicaciones,Michoacán de Ocampo,Entre 40 y 45 años,388.79375,425.285625,2760,2445,315,0,336,320,16,0
+7,Transportes y comunicaciones,Morelos,Entre 40 y 45 años,396.318571429,418.043703704,1687,1519,168,0,169,162,7,0
+7,Transportes y comunicaciones,Nayarit,Entre 40 y 45 años,447.249,438.895776173,1869,1716,153,0,287,277,10,0
+7,Transportes y comunicaciones,Nuevo León,Entre 40 y 45 años,432.375955056,484.633477283,10864,9456,1408,0,2401,2223,178,0
+7,Transportes y comunicaciones,Oaxaca,Entre 40 y 45 años,389.96375,447.495063694,2217,2024,193,0,330,314,16,0
+7,Transportes y comunicaciones,Puebla,Entre 40 y 45 años,391.045652174,424.327016030,5674,5153,521,0,857,811,46,0
+7,Transportes y comunicaciones,Querétaro,Entre 40 y 45 años,394.485882353,423.4608,2113,1916,197,0,292,275,17,0
+7,Transportes y comunicaciones,Quintana Roo,Entre 40 y 45 años,369.178,469.468444444,1076,937,139,0,145,135,10,0
+7,Transportes y comunicaciones,San Luis Potosí,Entre 40 y 45 años,406.179444444,442.498235294,3163,2799,364,0,478,442,36,0
+7,Transportes y comunicaciones,Sinaloa,Entre 40 y 45 años,399.970307692,451.628357810,5250,4576,674,0,814,749,65,0
+7,Transportes y comunicaciones,Sonora,Entre 40 y 45 años,389.892388060,448.554349442,4242,3640,602,0,605,538,67,0
+7,Transportes y comunicaciones,Tabasco,Entre 40 y 45 años,394.2995,433.858780488,3038,2762,276,0,389,369,20,0
+7,Transportes y comunicaciones,Tamaulipas,Entre 40 y 45 años,418.407,454.701464968,4021,3501,520,0,688,628,60,0
+7,Transportes y comunicaciones,Tlaxcala,Entre 40 y 45 años,326.7,455.692990654,903,850,53,0,108,107,1,0
+7,Transportes y comunicaciones,Veracruz,Entre 40 y 45 años,400.980617284,449.386813105,9204,8205,999,0,1424,1343,81,0
+7,Transportes y comunicaciones,Yucatán,Entre 40 y 45 años,416.46925,438.259563758,5194,4605,589,0,636,596,40,0
+7,Transportes y comunicaciones,Zacatecas,Entre 40 y 45 años,367.434,451.674122137,1086,969,117,0,136,131,5,0
+7,Transportes y comunicaciones,Extranjero/Extranjera,Entre 45 y 50 años,362.624,471.118,1053,939,114,0,195,185,10,0
+7,Transportes y comunicaciones,Aguascalientes,Entre 45 y 50 años,342.24125,412.406865672,998,874,124,0,142,134,8,0
+7,Transportes y comunicaciones,Baja California,Entre 45 y 50 años,425.935641026,459.654912791,1864,1553,311,0,383,344,39,0
+7,Transportes y comunicaciones,Baja California Sur,Entre 45 y 50 años,430.526,507.260508475,464,370,94,0,64,59,5,0
+7,Transportes y comunicaciones,Campeche,Entre 45 y 50 años,378.441111111,437.354513889,1157,1030,127,0,153,144,9,0
+7,Transportes y comunicaciones,Coahuila de Zaragoza,Entre 45 y 50 años,400.417441860,438.836370510,3441,3042,399,0,572,529,43,0
+7,Transportes y comunicaciones,Colima,Entre 45 y 50 años,376.381111111,438.910563380,491,402,89,0,80,71,9,0
+7,Transportes y comunicaciones,Chiapas,Entre 45 y 50 años,432.566470588,453.105851393,2096,1927,169,0,340,323,17,0
+7,Transportes y comunicaciones,Chihuahua,Entre 45 y 50 años,391.818870968,439.317725410,3358,2741,617,0,550,488,62,0
+7,Transportes y comunicaciones,Ciudad de México,Entre 45 y 50 años,376.255066667,430.432301152,33176,29924,3252,0,5593,5293,300,0
+7,Transportes y comunicaciones,Durango,Entre 45 y 50 años,400.318181818,436.474879518,1348,1162,186,0,177,166,11,0
+7,Transportes y comunicaciones,Guanajuato,Entre 45 y 50 años,368.292692308,415.722524655,3743,3384,359,0,533,507,26,0
+7,Transportes y comunicaciones,Guerrero,Entre 45 y 50 años,410.631818182,461.920333333,1438,1284,154,0,281,270,11,0
+7,Transportes y comunicaciones,Hidalgo,Entre 45 y 50 años,361.656666667,449.151466667,863,779,84,0,156,150,6,0
+7,Transportes y comunicaciones,Jalisco,Entre 45 y 50 años,381.257473684,428.396589684,9024,8002,1022,0,1394,1299,95,0
+7,Transportes y comunicaciones,México,Entre 45 y 50 años,402.9988,430.146673797,6374,5793,581,0,985,935,50,0
+7,Transportes y comunicaciones,Michoacán de Ocampo,Entre 45 y 50 años,359.797777778,435.468424908,1947,1690,257,0,282,273,9,0
+7,Transportes y comunicaciones,Morelos,Entre 45 y 50 años,448.438333333,426.453453237,1166,1050,116,0,145,139,6,0
+7,Transportes y comunicaciones,Nayarit,Entre 45 y 50 años,357.5675,432.816293103,1326,1210,116,0,244,232,12,0
+7,Transportes y comunicaciones,Nuevo León,Entre 45 y 50 años,449.009025974,487.221664835,7868,6935,933,0,1974,1820,154,0
+7,Transportes y comunicaciones,Oaxaca,Entre 45 y 50 años,398.217777778,456.914025974,1584,1461,123,0,240,231,9,0
+7,Transportes y comunicaciones,Puebla,Entre 45 y 50 años,396.365652174,430.839849315,4254,3890,364,0,753,730,23,0
+7,Transportes y comunicaciones,Querétaro,Entre 45 y 50 años,399.342142857,426.536521739,1491,1341,150,0,244,230,14,0
+7,Transportes y comunicaciones,Quintana Roo,Entre 45 y 50 años,366.763333333,421.735714286,478,428,50,0,73,70,3,0
+7,Transportes y comunicaciones,San Luis Potosí,Entre 45 y 50 años,379.503846154,444.588508772,2147,1877,270,0,368,342,26,0
+7,Transportes y comunicaciones,Sinaloa,Entre 45 y 50 años,440.849444444,451.075714286,3739,3248,491,0,607,553,54,0
+7,Transportes y comunicaciones,Sonora,Entre 45 y 50 años,405.172884615,451.035875831,3112,2608,504,0,503,451,52,0
+7,Transportes y comunicaciones,Tabasco,Entre 45 y 50 años,441.712666667,450.285525292,1894,1678,216,0,272,257,15,0
+7,Transportes y comunicaciones,Tamaulipas,Entre 45 y 50 años,396.354523810,460.201770833,2824,2462,362,0,522,480,42,0
+7,Transportes y comunicaciones,Tlaxcala,Entre 45 y 50 años,414.204,439.738625,607,566,41,0,85,80,5,0
+7,Transportes y comunicaciones,Veracruz,Entre 45 y 50 años,374.335576923,443.999361493,6409,5818,591,0,1070,1018,52,0
+7,Transportes y comunicaciones,Yucatán,Entre 45 y 50 años,442.722,446.073905930,3573,3216,357,0,519,489,30,0
+7,Transportes y comunicaciones,Zacatecas,Entre 45 y 50 años,448.953333333,440.40536,795,705,90,0,137,125,12,0
+7,Transportes y comunicaciones,Extranjero/Extranjera,Entre 50 y 55 años,377.798571429,468.832764228,698,592,106,0,130,123,7,0
+7,Transportes y comunicaciones,Aguascalientes,Entre 50 y 55 años,358.936666667,427.363305085,714,639,75,0,121,118,3,0
+7,Transportes y comunicaciones,Baja California,Entre 50 y 55 años,410.605517241,473.104703833,1351,1166,185,0,316,287,29,0
+7,Transportes y comunicaciones,Baja California Sur,Entre 50 y 55 años,404.404285714,491.656170213,258,210,48,0,54,47,7,0
+7,Transportes y comunicaciones,Campeche,Entre 50 y 55 años,370.668888889,442.597156863,724,607,117,0,111,102,9,0
+7,Transportes y comunicaciones,Coahuila de Zaragoza,Entre 50 y 55 años,381.928181818,454.678411458,2304,2042,262,0,406,384,22,0
+7,Transportes y comunicaciones,Colima,Entre 50 y 55 años,480.355,431.947884615,351,295,56,0,54,52,2,0
+7,Transportes y comunicaciones,Chiapas,Entre 50 y 55 años,392.502105263,455.721762115,1210,1073,137,0,246,227,19,0
+7,Transportes y comunicaciones,Chihuahua,Entre 50 y 55 años,386.61925,435.900389610,2334,1913,421,0,425,385,40,0
+7,Transportes y comunicaciones,Ciudad de México,Entre 50 y 55 años,381.607764706,431.568081384,26212,23693,2519,0,5170,4915,255,0
+7,Transportes y comunicaciones,Durango,Entre 50 y 55 años,455.395833333,464.593571429,906,790,116,0,166,154,12,0
+7,Transportes y comunicaciones,Guanajuato,Entre 50 y 55 años,387.670454545,429.234502370,2576,2305,271,0,444,422,22,0
+7,Transportes y comunicaciones,Guerrero,Entre 50 y 55 años,406.53375,465.649684211,983,892,91,0,198,190,8,0
+7,Transportes y comunicaciones,Hidalgo,Entre 50 y 55 años,445.911428571,441.212032520,665,599,66,0,130,123,7,0
+7,Transportes y comunicaciones,Jalisco,Entre 50 y 55 años,388.085344828,426.232879227,6442,5701,741,0,1093,1035,58,0
+7,Transportes y comunicaciones,México,Entre 50 y 55 años,376.200416667,432.620774092,3696,3380,316,0,657,633,24,0
+7,Transportes y comunicaciones,Michoacán de Ocampo,Entre 50 y 55 años,407.194736842,438.307984496,1406,1250,156,0,277,258,19,0
+7,Transportes y comunicaciones,Morelos,Entre 50 y 55 años,425.504285714,416.856578947,786,700,86,0,121,114,7,0
+7,Transportes y comunicaciones,Nayarit,Entre 50 y 55 años,443.54,438.502621951,903,821,82,0,171,164,7,0
+7,Transportes y comunicaciones,Nuevo León,Entre 50 y 55 años,446.358452381,498.982154997,5306,4728,578,0,1555,1471,84,0
+7,Transportes y comunicaciones,Oaxaca,Entre 50 y 55 años,396.667272727,439.692011173,1001,901,100,0,190,179,11,0
+7,Transportes y comunicaciones,Puebla,Entre 50 y 55 años,423.734814815,436.192679181,2885,2637,248,0,613,586,27,0
+7,Transportes y comunicaciones,Querétaro,Entre 50 y 55 años,360.574444444,442.303604651,986,921,65,0,181,172,9,0
+7,Transportes y comunicaciones,Quintana Roo,Entre 50 y 55 años,327.906666667,414.185833333,209,181,28,0,27,24,3,0
+7,Transportes y comunicaciones,San Luis Potosí,Entre 50 y 55 años,409.514090909,450.815951557,1539,1336,203,0,311,289,22,0
+7,Transportes y comunicaciones,Sinaloa,Entre 50 y 55 años,439.488292683,446.818652632,2554,2254,300,0,516,475,41,0
+7,Transportes y comunicaciones,Sonora,Entre 50 y 55 años,404.899,451.179160305,2181,1843,338,0,433,393,40,0
+7,Transportes y comunicaciones,Tabasco,Entre 50 y 55 años,374.938571429,451.388260870,1109,972,137,0,175,161,14,0
+7,Transportes y comunicaciones,Tamaulipas,Entre 50 y 55 años,403.990344828,460.019489796,2037,1780,257,0,421,392,29,0
+7,Transportes y comunicaciones,Tlaxcala,Entre 50 y 55 años,323.62,450.851384615,421,396,25,0,67,65,2,0
+7,Transportes y comunicaciones,Veracruz,Entre 50 y 55 años,384.581388889,446.886884236,4289,3911,378,0,848,812,36,0
+7,Transportes y comunicaciones,Yucatán,Entre 50 y 55 años,401.208846154,457.923019802,2607,2342,265,0,430,404,26,0
+7,Transportes y comunicaciones,Zacatecas,Entre 50 y 55 años,364.65,433.895510204,585,528,57,0,104,98,6,0
+7,Transportes y comunicaciones,Extranjero/Extranjera,Entre 55 y 60 años,373.696,448.84,398,343,55,0,95,90,5,0
+7,Transportes y comunicaciones,Aguascalientes,Entre 55 y 60 años,414.19,431.466813187,439,400,39,0,92,91,1,0
+7,Transportes y comunicaciones,Baja California,Entre 55 y 60 años,394.287272727,450.7651875,656,573,83,0,171,160,11,0
+7,Transportes y comunicaciones,Baja California Sur,Entre 55 y 60 años,415.19,446.697368421,136,118,18,0,23,19,4,0
+7,Transportes y comunicaciones,Campeche,Entre 55 y 60 años,315.105,452.837540984,435,384,51,0,63,61,2,0
+7,Transportes y comunicaciones,Coahuila de Zaragoza,Entre 55 y 60 años,445.772222222,453.652923077,1293,1187,106,0,269,260,9,0
+7,Transportes y comunicaciones,Colima,Entre 55 y 60 años,392.135,427.8,197,175,22,0,38,36,2,0
+7,Transportes y comunicaciones,Chiapas,Entre 55 y 60 años,412.465,458.226585366,684,626,58,0,127,123,4,0
+7,Transportes y comunicaciones,Chihuahua,Entre 55 y 60 años,398.894285714,431.4175,1389,1174,215,0,285,264,21,0
+7,Transportes y comunicaciones,Ciudad de México,Entre 55 y 60 años,385.116491228,436.743874034,16126,14736,1390,0,3537,3366,171,0
+7,Transportes y comunicaciones,Durango,Entre 55 y 60 años,422.28125,454.2994,530,474,56,0,108,100,8,0
+7,Transportes y comunicaciones,Guanajuato,Entre 55 y 60 años,420.3625,424.760553506,1595,1502,93,0,275,271,4,0
+7,Transportes y comunicaciones,Guerrero,Entre 55 y 60 años,419.875,466.572520325,557,511,46,0,127,123,4,0
+7,Transportes y comunicaciones,Hidalgo,Entre 55 y 60 años,330.57,433.470329670,427,396,31,0,92,91,1,0
+7,Transportes y comunicaciones,Jalisco,Entre 55 y 60 años,391.408571429,432.239884226,3607,3260,347,0,726,691,35,0
+7,Transportes y comunicaciones,México,Entre 55 y 60 años,434.836666667,436.669809783,1821,1683,138,0,377,368,9,0
+7,Transportes y comunicaciones,Michoacán de Ocampo,Entre 55 y 60 años,389.811428571,450.720406977,863,797,66,0,179,172,7,0
+7,Transportes y comunicaciones,Morelos,Entre 55 y 60 años,372.83,440.95296875,429,389,40,0,66,64,2,0
+7,Transportes y comunicaciones,Nayarit,Entre 55 y 60 años,385.705,423.161530612,541,498,43,0,102,98,4,0
+7,Transportes y comunicaciones,Nuevo León,Entre 55 y 60 años,457.037619048,493.716959911,2950,2663,287,0,940,898,42,0
+7,Transportes y comunicaciones,Oaxaca,Entre 55 y 60 años,364.555714286,449.206145833,531,480,51,0,103,96,7,0
+7,Transportes y comunicaciones,Puebla,Entre 55 y 60 años,365.205555556,435.205740260,1659,1538,121,0,394,385,9,0
+7,Transportes y comunicaciones,Querétaro,Entre 55 y 60 años,455.625,432.338787879,492,462,30,0,103,99,4,0
+7,Transportes y comunicaciones,Quintana Roo,Entre 55 y 60 años,,433.115555556,77,70,7,0,9,9,0,0
+7,Transportes y comunicaciones,San Luis Potosí,Entre 55 y 60 años,412.117777778,450.890327869,888,793,95,0,192,183,9,0
+7,Transportes y comunicaciones,Sinaloa,Entre 55 y 60 años,386.1688,443.680922509,1484,1328,156,0,296,271,25,0
+7,Transportes y comunicaciones,Sonora,Entre 55 y 60 años,405.515833333,444.419609375,1281,1085,196,0,292,256,36,0
+7,Transportes y comunicaciones,Tabasco,Entre 55 y 60 años,392.931428571,432.68,545,489,56,0,107,100,7,0
+7,Transportes y comunicaciones,Tamaulipas,Entre 55 y 60 años,472.798333333,463.394710744,1176,1045,131,0,260,242,18,0
+7,Transportes y comunicaciones,Tlaxcala,Entre 55 y 60 años,422.606666667,436.256904762,218,206,12,0,45,42,3,0
+7,Transportes y comunicaciones,Veracruz,Entre 55 y 60 años,408.756521739,439.246581741,2391,2173,218,0,494,471,23,0
+7,Transportes y comunicaciones,Yucatán,Entre 55 y 60 años,415.775238095,443.786296296,1491,1341,150,0,291,270,21,0
+7,Transportes y comunicaciones,Zacatecas,Entre 55 y 60 años,,456.380989011,449,422,27,0,91,91,0,0
+7,Transportes y comunicaciones,Extranjero/Extranjera,Entre 60 y 65 años,574.73,466.034915254,261,235,26,0,60,59,1,0
+7,Transportes y comunicaciones,Aguascalientes,Entre 60 y 65 años,494.03,457.804222222,245,227,18,0,46,45,1,0
+7,Transportes y comunicaciones,Baja California,Entre 60 y 65 años,595.516666667,460.738928571,285,256,29,0,59,56,3,0
+7,Transportes y comunicaciones,Baja California Sur,Entre 60 y 65 años,,432.366,55,47,8,0,10,10,0,0
+7,Transportes y comunicaciones,Campeche,Entre 60 y 65 años,563.685,439.470666667,172,159,13,0,32,30,2,0
+7,Transportes y comunicaciones,Coahuila de Zaragoza,Entre 60 y 65 años,572.196666667,445.158837209,665,608,57,0,132,129,3,0
+7,Transportes y comunicaciones,Colima,Entre 60 y 65 años,330.57,398.795625,92,88,4,0,17,16,1,0
+7,Transportes y comunicaciones,Chiapas,Entre 60 y 65 años,,424.497142857,263,249,14,0,56,56,0,0
+7,Transportes y comunicaciones,Chihuahua,Entre 60 y 65 años,437.052,444.156666667,626,558,68,0,110,105,5,0
+7,Transportes y comunicaciones,Ciudad de México,Entre 60 y 65 años,395.397826087,426.752306709,8048,7497,551,0,1611,1565,46,0
+7,Transportes y comunicaciones,Durango,Entre 60 y 65 años,370.85,463.626666667,258,223,35,0,43,42,1,0
+7,Transportes y comunicaciones,Guanajuato,Entre 60 y 65 años,385.225,411.6465,808,765,43,0,142,140,2,0
+7,Transportes y comunicaciones,Guerrero,Entre 60 y 65 años,,471.905076923,329,303,26,0,65,65,0,0
+7,Transportes y comunicaciones,Hidalgo,Entre 60 y 65 años,330.57,409.669,197,186,11,0,31,30,1,0
+7,Transportes y comunicaciones,Jalisco,Entre 60 y 65 años,395.245,420.962738854,1656,1531,125,0,320,314,6,0
+7,Transportes y comunicaciones,México,Entre 60 y 65 años,,422.128826816,831,779,52,0,179,179,0,0
+7,Transportes y comunicaciones,Michoacán de Ocampo,Entre 60 y 65 años,330.57,433.238271605,510,485,25,0,83,81,2,0
+7,Transportes y comunicaciones,Morelos,Entre 60 y 65 años,333.96,421.343103448,173,161,12,0,30,29,1,0
+7,Transportes y comunicaciones,Nayarit,Entre 60 y 65 años,,400.661090909,261,243,18,0,55,55,0,0
+7,Transportes y comunicaciones,Nuevo León,Entre 60 y 65 años,427.944117647,462.352803970,1462,1329,133,0,420,403,17,0
+7,Transportes y comunicaciones,Oaxaca,Entre 60 y 65 años,419.295,435.879868421,297,275,22,0,78,76,2,0
+7,Transportes y comunicaciones,Puebla,Entre 60 y 65 años,,412.870555556,840,793,47,0,162,162,0,0
+7,Transportes y comunicaciones,Querétaro,Entre 60 y 65 años,315.04,406.99475,220,206,14,0,41,40,1,0
+7,Transportes y comunicaciones,Quintana Roo,Entre 60 y 65 años,,478.961428571,40,38,2,0,7,7,0,0
+7,Transportes y comunicaciones,San Luis Potosí,Entre 60 y 65 años,513.84,465.574583333,477,450,27,0,97,96,1,0
+7,Transportes y comunicaciones,Sinaloa,Entre 60 y 65 años,395.815,430.130610687,684,631,53,0,133,131,2,0
+7,Transportes y comunicaciones,Sonora,Entre 60 y 65 años,414.478,435.135446429,657,605,52,0,117,112,5,0
+7,Transportes y comunicaciones,Tabasco,Entre 60 y 65 años,367.316666667,452.548918919,194,179,15,0,40,37,3,0
+7,Transportes y comunicaciones,Tamaulipas,Entre 60 y 65 años,464.66,439.959423077,641,569,72,0,110,104,6,0
+7,Transportes y comunicaciones,Tlaxcala,Entre 60 y 65 años,315.04,435.984090909,155,147,8,0,23,22,1,0
+7,Transportes y comunicaciones,Veracruz,Entre 60 y 65 años,385.211428571,439.752422680,1138,1041,97,0,201,194,7,0
+7,Transportes y comunicaciones,Yucatán,Entre 60 y 65 años,344.871666667,429.623725490,663,615,48,0,108,102,6,0
+7,Transportes y comunicaciones,Zacatecas,Entre 60 y 65 años,507.86,439.755185185,266,253,13,0,55,54,1,0
+7,Transportes y comunicaciones,Extranjero/Extranjera,Entre 65 y 70 años,,429.472380952,115,113,2,0,21,21,0,0
+7,Transportes y comunicaciones,Aguascalientes,Entre 65 y 70 años,,439.2165,98,95,3,0,20,20,0,0
+7,Transportes y comunicaciones,Baja California,Entre 65 y 70 años,350.585,432.952,110,99,11,0,22,20,2,0
+7,Transportes y comunicaciones,Baja California Sur,Entre 65 y 70 años,,423.815,23,21,2,0,4,4,0,0
+7,Transportes y comunicaciones,Campeche,Entre 65 y 70 años,436.74,402.241111111,60,56,4,0,10,9,1,0
+7,Transportes y comunicaciones,Coahuila de Zaragoza,Entre 65 y 70 años,499.4,421.165416667,248,228,20,0,49,48,1,0
+7,Transportes y comunicaciones,Colima,Entre 65 y 70 años,,454.342857143,48,47,1,0,7,7,0,0
+7,Transportes y comunicaciones,Chiapas,Entre 65 y 70 años,,479.18,106,101,5,0,11,11,0,0
+7,Transportes y comunicaciones,Chihuahua,Entre 65 y 70 años,338.08,409.531555556,277,260,17,0,46,45,1,0
+7,Transportes y comunicaciones,Ciudad de México,Entre 65 y 70 años,373.268888889,419.871029412,3428,3237,191,0,621,612,9,0
+7,Transportes y comunicaciones,Durango,Entre 65 y 70 años,,419.290344828,122,110,12,0,29,29,0,0
+7,Transportes y comunicaciones,Guanajuato,Entre 65 y 70 años,,408.011956522,329,306,23,0,46,46,0,0
+7,Transportes y comunicaciones,Guerrero,Entre 65 y 70 años,693.84,426.160333333,117,106,11,0,31,30,1,0
+7,Transportes y comunicaciones,Hidalgo,Entre 65 y 70 años,,410.386111111,108,104,4,0,18,18,0,0
+7,Transportes y comunicaciones,Jalisco,Entre 65 y 70 años,424.195,408.933116883,617,577,40,0,79,77,2,0
+7,Transportes y comunicaciones,México,Entre 65 y 70 años,,408.373030303,314,292,22,0,66,66,0,0
+7,Transportes y comunicaciones,Michoacán de Ocampo,Entre 65 y 70 años,674.21,423.456216216,248,221,27,0,38,37,1,0
+7,Transportes y comunicaciones,Morelos,Entre 65 y 70 años,,380.106666667,72,68,4,0,6,6,0,0
+7,Transportes y comunicaciones,Nayarit,Entre 65 y 70 años,,413.7888,121,115,6,0,25,25,0,0
+7,Transportes y comunicaciones,Nuevo León,Entre 65 y 70 años,414.035,443.5992,554,509,45,0,152,150,2,0
+7,Transportes y comunicaciones,Oaxaca,Entre 65 y 70 años,623.78,443.765333333,135,129,6,0,32,30,2,0
+7,Transportes y comunicaciones,Puebla,Entre 65 y 70 años,,408.518085106,318,300,18,0,47,47,0,0
+7,Transportes y comunicaciones,Querétaro,Entre 65 y 70 años,464.84,434.331666667,89,87,2,0,19,18,1,0
+7,Transportes y comunicaciones,Quintana Roo,Entre 65 y 70 años,,465.77,9,7,2,0,1,1,0,0
+7,Transportes y comunicaciones,San Luis Potosí,Entre 65 y 70 años,,438.805789474,204,191,13,0,38,38,0,0
+7,Transportes y comunicaciones,Sinaloa,Entre 65 y 70 años,392.13,422.615675676,285,253,32,0,39,37,2,0
+7,Transportes y comunicaciones,Sonora,Entre 65 y 70 años,554.768,426.266470588,270,244,26,0,56,51,5,0
+7,Transportes y comunicaciones,Tabasco,Entre 65 y 70 años,,431.113333333,76,72,4,0,12,12,0,0
+7,Transportes y comunicaciones,Tamaulipas,Entre 65 y 70 años,410.59,425.642222222,253,231,22,0,46,45,1,0
+7,Transportes y comunicaciones,Tlaxcala,Entre 65 y 70 años,,414.627777778,62,58,4,0,9,9,0,0
+7,Transportes y comunicaciones,Veracruz,Entre 65 y 70 años,370.23,424.063968254,422,396,26,0,65,63,2,0
+7,Transportes y comunicaciones,Yucatán,Entre 65 y 70 años,315.04,427.566222222,283,258,25,0,46,45,1,0
+7,Transportes y comunicaciones,Zacatecas,Entre 65 y 70 años,,435.235517241,127,117,10,0,29,29,0,0
+7,Transportes y comunicaciones,Extranjero/Extranjera,Entre 70 y 75 años,,377.678,38,36,2,0,10,10,0,0
+7,Transportes y comunicaciones,Aguascalientes,Entre 70 y 75 años,,402.168333333,26,25,1,0,6,6,0,0
+7,Transportes y comunicaciones,Baja California,Entre 70 y 75 años,,364.752,28,27,1,0,5,5,0,0
+7,Transportes y comunicaciones,Campeche,Entre 70 y 75 años,,431.75,17,16,1,0,1,1,0,0
+7,Transportes y comunicaciones,Coahuila de Zaragoza,Entre 70 y 75 años,340.57,390.276875,78,74,4,0,17,16,1,0
+7,Transportes y comunicaciones,Colima,Entre 70 y 75 años,,549.436666667,15,13,2,0,3,3,0,0
+7,Transportes y comunicaciones,Chiapas,Entre 70 y 75 años,,401.974285714,31,25,6,0,7,7,0,0
+7,Transportes y comunicaciones,Chihuahua,Entre 70 y 75 años,,440.302857143,54,51,3,0,7,7,0,0
+7,Transportes y comunicaciones,Ciudad de México,Entre 70 y 75 años,380.865,404.979870968,1012,927,85,0,157,155,2,0
+7,Transportes y comunicaciones,Durango,Entre 70 y 75 años,,407.234,38,34,4,0,5,5,0,0
+7,Transportes y comunicaciones,Guanajuato,Entre 70 y 75 años,,398.175,115,109,6,0,20,20,0,0
+7,Transportes y comunicaciones,Guerrero,Entre 70 y 75 años,,456.552,34,28,6,0,5,5,0,0
+7,Transportes y comunicaciones,Hidalgo,Entre 70 y 75 años,,377.42,40,36,4,0,5,5,0,0
+7,Transportes y comunicaciones,Jalisco,Entre 70 y 75 años,,393.799130435,176,159,17,0,23,23,0,0
+7,Transportes y comunicaciones,México,Entre 70 y 75 años,315.04,409.144,92,84,8,0,16,15,1,0
+7,Transportes y comunicaciones,Michoacán de Ocampo,Entre 70 y 75 años,,391.308666667,82,79,3,0,15,15,0,0
+7,Transportes y comunicaciones,Morelos,Entre 70 y 75 años,,338.32,21,21,0,0,3,3,0,0
+7,Transportes y comunicaciones,Nayarit,Entre 70 y 75 años,,368.883333333,39,37,2,0,6,6,0,0
+7,Transportes y comunicaciones,Nuevo León,Entre 70 y 75 años,361.6,452.736060606,134,123,11,0,34,33,1,0
+7,Transportes y comunicaciones,Oaxaca,Entre 70 y 75 años,,438.1875,42,37,5,0,4,4,0,0
+7,Transportes y comunicaciones,Puebla,Entre 70 y 75 años,438.89,436.648333333,91,85,6,0,13,12,1,0
+7,Transportes y comunicaciones,Querétaro,Entre 70 y 75 años,,468.465,24,23,1,0,2,2,0,0
+7,Transportes y comunicaciones,Quintana Roo,Entre 70 y 75 años,,,2,2,0,0,0,0,0,0
+7,Transportes y comunicaciones,San Luis Potosí,Entre 70 y 75 años,366.6,477.961111111,65,59,6,0,10,9,1,0
+7,Transportes y comunicaciones,Sinaloa,Entre 70 y 75 años,,443.140625,83,75,8,0,16,16,0,0
+7,Transportes y comunicaciones,Sonora,Entre 70 y 75 años,,470.831875,100,98,2,0,16,16,0,0
+7,Transportes y comunicaciones,Tabasco,Entre 70 y 75 años,443.59,337.13,17,15,2,0,4,3,1,0
+7,Transportes y comunicaciones,Tamaulipas,Entre 70 y 75 años,,468.065,82,76,6,0,14,14,0,0
+7,Transportes y comunicaciones,Tlaxcala,Entre 70 y 75 años,,399.6,19,18,1,0,1,1,0,0
+7,Transportes y comunicaciones,Veracruz,Entre 70 y 75 años,,398.852857143,131,124,7,0,21,21,0,0
+7,Transportes y comunicaciones,Yucatán,Entre 70 y 75 años,,433.111538462,67,64,3,0,13,13,0,0
+7,Transportes y comunicaciones,Zacatecas,Entre 70 y 75 años,,447.75875,44,38,6,0,8,8,0,0
+7,Transportes y comunicaciones,Ciudad de México,Entre 15 y 20 años,341.362857143,376.194081633,3578,3238,339,1,105,98,7,0
+7,Transportes y comunicaciones,Ciudad de México,Entre 20 y 25 años,373.678055556,394.162694829,42714,37844,4869,1,1445,1373,72,0
+7,Transportes y comunicaciones,Guanajuato,Entre 30 y 35 años,358.304545455,399.882268456,9849,8936,912,1,789,745,44,0
+7,Transportes y comunicaciones,Aguascalientes,Entre 35 y 40 años,411.584,409.4612,2259,2033,225,1,210,200,10,0
+7,Transportes y comunicaciones,Chihuahua,Entre 35 y 40 años,393.551747573,423.128296569,7439,5932,1506,1,919,816,103,0
+7,Transportes y comunicaciones,Puebla,Entre 25 y 30 años,369.250740741,410.327994825,11288,10317,969,2,800,773,27,0
