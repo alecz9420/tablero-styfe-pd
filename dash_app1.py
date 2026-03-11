@@ -45,14 +45,14 @@ FONT_FAMILY = "'Montserrat', sans-serif"
 
 # --- Configuración de Archivos ---
 MESES_CONFIG = [
-    {"id": "jul", "label": "Julio",      "pd": "PD_jul.csv", "sbc": "sbc_jul.csv"},
-    {"id": "ago", "label": "Agosto",     "pd": "PD_ago.csv", "sbc": "sbc_ago.csv"},
-    {"id": "sep", "label": "Septiembre", "pd": "PD_sep.csv", "sbc": "sbc_sep.csv"},
-    {"id": "oct", "label": "Octubre",    "pd": "PD_oct.csv", "sbc": "sbc_oct.csv"},
-    {"id": "nov", "label": "Noviembre",  "pd": "PD_nov.csv", "sbc": "sbc_nov.csv"},
-    {"id": "dic", "label": "Diciembre",  "pd": "PD_dic.csv", "sbc": "sbc_dic.csv"},
-    {"id": "ene", "label": "Enero 2026", "pd": "PD_ene.csv", "sbc": "sbc_ene.csv"},
-    {"id": "feb", "label": "Febrero 2026", "pd": "PD_feb.csv", "sbc": "sbc_feb.csv"},
+    {"id": "jul", "label": "Jul-25",      "pd": "PD_jul.csv", "sbc": "sbc_jul.csv"},
+    {"id": "ago", "label": "Ago-25",     "pd": "PD_ago.csv", "sbc": "sbc_ago.csv"},
+    {"id": "sep", "label": "Sep-25", "pd": "PD_sep.csv", "sbc": "sbc_sep.csv"},
+    {"id": "oct", "label": "Oct-25",    "pd": "PD_oct.csv", "sbc": "sbc_oct.csv"},
+    {"id": "nov", "label": "Nov-25",  "pd": "PD_nov.csv", "sbc": "sbc_nov.csv"},
+    {"id": "dic", "label": "Dic-25",  "pd": "PD_dic.csv", "sbc": "sbc_dic.csv"},
+    {"id": "ene", "label": "Ene-26", "pd": "PD_ene.csv", "sbc": "sbc_ene.csv"},
+    {"id": "feb", "label": "Feb-26", "pd": "PD_feb.csv", "sbc": "sbc_feb.csv"},
 ]
 
 # --- Estilos CSS Inline ---
@@ -828,6 +828,7 @@ if __name__ == "__main__":
     import os
     port = int(os.environ.get("PORT", 10000))
     app.run(host="0.0.0.0", port=port)
+
 
 
 
