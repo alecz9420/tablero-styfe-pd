@@ -53,6 +53,7 @@ MESES_CONFIG = [
     {"id": "dic", "label": "Dic-25",  "pd": "PD_dic.csv", "sbc": "sbc_dic.csv"},
     {"id": "ene", "label": "Ene-26", "pd": "PD_ene.csv", "sbc": "sbc_ene.csv"},
     {"id": "feb", "label": "Feb-26", "pd": "PD_feb.csv", "sbc": "sbc_feb.csv"},
+    {"id": "mar", "label": "Mar-26", "pd": "PD_mar.csv", "sbc": "sbc_mar.csv"},
 ]
 
 # --- Estilos CSS Inline ---
