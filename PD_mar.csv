@@ -1,0 +1,431 @@
+﻿entidad_nacimiento,Nivel Agregación,Rango_edad_2,fecha,PTPD_Aseg,PTPD_Aseg_H,PTPD_Aseg_M,PTPD_Aseg_NB,PTPD_Puestos,PTPD_Puestos_H,PTPD_Puestos_M,PTPD_Puestos_NB,TOTAL
+Extranjero/Extranjera,subdel,75 años y más,202603,87,78,9,0,3,3,0,0,3
+Aguascalientes,subdel,75 años y más,202603,78,71,7,0,1,1,0,0,1
+Baja California,subdel,75 años y más,202603,139,122,17,0,6,6,0,0,6
+Baja California Sur,subdel,75 años y más,202603,31,28,3,0,1,0,1,0,1
+Campeche,subdel,75 años y más,202603,96,91,5,0,1,1,0,0,1
+Coahuila de Zaragoza,subdel,75 años y más,202603,127,118,9,0,5,5,0,0,5
+Colima,subdel,75 años y más,202603,45,38,7,0,0,0,0,0,0
+Chiapas,subdel,75 años y más,202603,119,112,7,0,4,4,0,0,4
+Chihuahua,subdel,75 años y más,202603,203,173,30,0,8,8,0,0,8
+Ciudad de México,subdel,75 años y más,202603,1,1,0,0,0,0,0,0,0
+Ciudad de México,subdel,75 años y más,202603,3,2,1,0,0,0,0,0,0
+Ciudad de México,subdel,75 años y más,202603,1479,1321,158,0,43,40,3,0,43
+Durango,subdel,75 años y más,202603,97,80,17,0,2,2,0,0,2
+Guanajuato,subdel,75 años y más,202603,288,256,32,0,1,1,0,0,1
+Guerrero,subdel,75 años y más,202603,79,67,12,0,3,3,0,0,3
+Hidalgo,subdel,75 años y más,202603,73,62,11,0,2,2,0,0,2
+Jalisco,subdel,75 años y más,202603,563,509,54,0,19,18,1,0,19
+México,subdel,75 años y más,202603,1225,1103,122,0,10,9,1,0,10
+Michoacán de Ocampo,subdel,75 años y más,202603,170,152,18,0,4,3,1,0,4
+Morelos,subdel,75 años y más,202603,147,127,20,0,0,0,0,0,0
+Nayarit,subdel,75 años y más,202603,138,132,6,0,4,4,0,0,4
+Nuevo León,subdel,75 años y más,202603,246,217,29,0,14,13,1,0,14
+Oaxaca,subdel,75 años y más,202603,121,109,12,0,3,3,0,0,3
+Puebla,subdel,75 años y más,202603,280,259,21,0,2,2,0,0,2
+Querétaro,subdel,75 años y más,202603,94,90,4,0,1,1,0,0,1
+Quintana Roo,subdel,75 años y más,202603,161,141,20,0,0,0,0,0,0
+San Luis Potosí,subdel,75 años y más,202603,163,146,17,0,6,6,0,0,6
+Sinaloa,subdel,75 años y más,202603,225,211,14,0,2,2,0,0,2
+Sonora,subdel,75 años y más,202603,134,118,16,0,5,4,1,0,5
+Tabasco,subdel,75 años y más,202603,93,88,5,0,2,2,0,0,2
+Tamaulipas,subdel,75 años y más,202603,206,179,27,0,5,4,1,0,5
+Tlaxcala,subdel,75 años y más,202603,49,47,2,0,2,2,0,0,2
+Veracruz,subdel,75 años y más,202603,247,226,21,0,2,2,0,0,2
+Yucatán,subdel,75 años y más,202603,146,138,8,0,2,2,0,0,2
+Zacatecas,subdel,75 años y más,202603,67,57,10,0,2,2,0,0,2
+Extranjero/Extranjera,subdel,Entre 15 y 20 años,202603,464,405,59,0,14,14,0,0,14
+Aguascalientes,subdel,Entre 15 y 20 años,202603,702,651,51,0,10,10,0,0,10
+Baja California,subdel,Entre 15 y 20 años,202603,1287,1156,131,0,45,41,4,0,45
+Baja California Sur,subdel,Entre 15 y 20 años,202603,326,299,27,0,25,24,1,0,25
+Campeche,subdel,Entre 15 y 20 años,202603,362,333,29,0,3,3,0,0,3
+Coahuila de Zaragoza,subdel,Entre 15 y 20 años,202603,1155,1041,114,0,24,23,1,0,24
+Colima,subdel,Entre 15 y 20 años,202603,465,432,33,0,7,7,0,0,7
+Chiapas,subdel,Entre 15 y 20 años,202603,998,939,59,0,30,29,1,0,30
+Chihuahua,subdel,Entre 15 y 20 años,202603,1992,1726,266,0,52,46,6,0,52
+Durango,subdel,Entre 15 y 20 años,202603,863,794,69,0,21,20,1,0,21
+Guanajuato,subdel,Entre 15 y 20 años,202603,2380,2224,156,0,25,24,1,0,25
+Guerrero,subdel,Entre 15 y 20 años,202603,587,538,49,0,9,8,1,0,9
+Hidalgo,subdel,Entre 15 y 20 años,202603,328,295,33,0,3,3,0,0,3
+Jalisco,subdel,Entre 15 y 20 años,202603,4734,4294,440,0,127,121,6,0,127
+México,subdel,Entre 15 y 20 años,202603,8854,8065,789,0,108,106,2,0,108
+Michoacán de Ocampo,subdel,Entre 15 y 20 años,202603,836,783,53,0,10,8,2,0,10
+Morelos,subdel,Entre 15 y 20 años,202603,963,880,83,0,15,14,1,0,15
+Nayarit,subdel,Entre 15 y 20 años,202603,427,400,27,0,5,5,0,0,5
+Nuevo León,subdel,Entre 15 y 20 años,202603,3073,2766,307,0,94,89,5,0,94
+Oaxaca,subdel,Entre 15 y 20 años,202603,687,606,81,0,15,14,1,0,15
+Puebla,subdel,Entre 15 y 20 años,202603,1624,1501,123,0,20,20,0,0,20
+Querétaro,subdel,Entre 15 y 20 años,202603,772,723,49,0,12,12,0,0,12
+Quintana Roo,subdel,Entre 15 y 20 años,202603,1183,1080,103,0,22,21,1,0,22
+San Luis Potosí,subdel,Entre 15 y 20 años,202603,1051,945,106,0,25,22,3,0,25
+Sinaloa,subdel,Entre 15 y 20 años,202603,1445,1338,107,0,32,31,1,0,32
+Sonora,subdel,Entre 15 y 20 años,202603,961,860,101,0,33,33,0,0,33
+Tabasco,subdel,Entre 15 y 20 años,202603,691,627,64,0,11,11,0,0,11
+Tamaulipas,subdel,Entre 15 y 20 años,202603,1355,1201,154,0,41,39,2,0,41
+Tlaxcala,subdel,Entre 15 y 20 años,202603,252,247,5,0,5,5,0,0,5
+Veracruz,subdel,Entre 15 y 20 años,202603,1551,1425,126,0,29,29,0,0,29
+Yucatán,subdel,Entre 15 y 20 años,202603,859,771,88,0,21,20,1,0,21
+Zacatecas,subdel,Entre 15 y 20 años,202603,344,330,14,0,6,6,0,0,6
+Extranjero/Extranjera,subdel,Entre 20 y 25 años,202603,1880,1653,227,0,74,70,4,0,74
+Aguascalientes,subdel,Entre 20 y 25 años,202603,3454,3159,295,0,97,95,2,0,97
+Baja California,subdel,Entre 20 y 25 años,202603,7294,6490,804,0,495,469,26,0,495
+Baja California Sur,subdel,Entre 20 y 25 años,202603,1477,1318,159,0,80,77,3,0,80
+Campeche,subdel,Entre 20 y 25 años,202603,2314,2125,189,0,48,48,0,0,48
+Coahuila de Zaragoza,subdel,Entre 20 y 25 años,202603,6307,5656,651,0,315,302,13,0,315
+Colima,subdel,Entre 20 y 25 años,202603,2061,1828,233,0,45,44,1,0,45
+Chiapas,subdel,Entre 20 y 25 años,202603,6265,5790,475,0,268,259,9,0,268
+Chihuahua,subdel,Entre 20 y 25 años,202603,10647,8896,1751,0,375,361,14,0,375
+Durango,subdel,Entre 20 y 25 años,202603,4303,3857,446,0,125,120,5,0,125
+Guanajuato,subdel,Entre 20 y 25 años,202603,11710,10751,959,0,320,313,7,0,320
+Guerrero,subdel,Entre 20 y 25 años,202603,3523,3135,388,0,127,120,7,0,127
+Hidalgo,subdel,Entre 20 y 25 años,202603,2002,1831,171,0,88,86,2,0,88
+Jalisco,subdel,Entre 20 y 25 años,202603,23108,20938,2170,0,1016,981,35,0,1016
+México,subdel,Entre 20 y 25 años,202603,41310,37174,4136,0,992,945,47,0,992
+Michoacán de Ocampo,subdel,Entre 20 y 25 años,202603,4846,4487,359,0,130,124,6,0,130
+Morelos,subdel,Entre 20 y 25 años,202603,4551,4093,458,0,115,107,8,0,115
+Nayarit,subdel,Entre 20 y 25 años,202603,2435,2215,220,0,101,99,2,0,101
+Nuevo León,subdel,Entre 20 y 25 años,202603,16213,14370,1843,0,998,957,41,0,998
+Oaxaca,subdel,Entre 20 y 25 años,202603,4318,3920,398,0,137,129,8,0,137
+Puebla,subdel,Entre 20 y 25 años,202603,9872,9031,841,0,278,266,12,0,278
+Querétaro,subdel,Entre 20 y 25 años,202603,4195,3852,343,0,143,140,3,0,143
+Quintana Roo,subdel,Entre 20 y 25 años,202603,5008,4478,530,0,120,117,3,0,120
+San Luis Potosí,subdel,Entre 20 y 25 años,202603,5864,5253,611,0,216,209,7,0,216
+Sinaloa,subdel,Entre 20 y 25 años,202603,8194,7549,645,0,381,371,10,0,381
+Sonora,subdel,Entre 20 y 25 años,202603,5886,5316,570,0,326,311,15,0,326
+Tabasco,subdel,Entre 20 y 25 años,202603,4773,4316,457,0,139,135,4,0,139
+Tamaulipas,subdel,Entre 20 y 25 años,202603,7460,6608,852,0,399,374,25,0,399
+Tlaxcala,subdel,Entre 20 y 25 años,202603,1531,1456,75,0,28,25,3,0,28
+Veracruz,subdel,Entre 20 y 25 años,202603,11366,10310,1056,0,429,412,17,0,429
+Yucatán,subdel,Entre 20 y 25 años,202603,5802,5326,476,0,192,187,5,0,192
+Zacatecas,subdel,Entre 20 y 25 años,202603,1768,1642,126,0,41,38,3,0,41
+Extranjero/Extranjera,subdel,Entre 25 y 30 años,202603,2195,1968,227,0,198,193,5,0,198
+Aguascalientes,subdel,Entre 25 y 30 años,202603,3621,3279,342,0,167,162,5,0,167
+Baja California,subdel,Entre 25 y 30 años,202603,8202,7182,1020,0,770,722,48,0,770
+Baja California Sur,subdel,Entre 25 y 30 años,202603,1437,1232,205,0,126,112,14,0,126
+Campeche,subdel,Entre 25 y 30 años,202603,3212,2871,341,0,122,116,6,0,122
+Coahuila de Zaragoza,subdel,Entre 25 y 30 años,202603,8321,7473,848,0,692,660,32,0,692
+Colima,subdel,Entre 25 y 30 años,202603,1901,1713,188,0,92,89,3,0,92
+Chiapas,subdel,Entre 25 y 30 años,202603,7894,7251,643,0,521,505,16,0,521
+Chihuahua,subdel,Entre 25 y 30 años,202603,11673,9508,2165,0,735,671,64,0,735
+Ciudad de México,subdel,Entre 25 y 30 años,202603,58111,51788,6323,0,2993,2826,167,0,2993
+Durango,subdel,Entre 25 y 30 años,202603,4525,3992,533,0,199,185,14,0,199
+Guanajuato,subdel,Entre 25 y 30 años,202603,12485,11452,1033,0,580,543,37,0,580
+Guerrero,subdel,Entre 25 y 30 años,202603,4512,4025,487,0,299,280,19,0,299
+Hidalgo,subdel,Entre 25 y 30 años,202603,2543,2332,211,0,162,155,7,0,162
+Jalisco,subdel,Entre 25 y 30 años,202603,25352,22914,2438,0,1814,1716,98,0,1814
+México,subdel,Entre 25 y 30 años,202603,42785,38789,3996,0,2024,1938,86,0,2024
+Michoacán de Ocampo,subdel,Entre 25 y 30 años,202603,5600,5184,416,0,253,243,10,0,253
+Morelos,subdel,Entre 25 y 30 años,202603,4839,4337,502,0,163,153,10,0,163
+Nayarit,subdel,Entre 25 y 30 años,202603,2864,2642,222,0,194,184,10,0,194
+Nuevo León,subdel,Entre 25 y 30 años,202603,19136,16779,2357,0,1952,1858,94,0,1952
+Oaxaca,subdel,Entre 25 y 30 años,202603,5368,4885,483,0,345,329,16,0,345
+Querétaro,subdel,Entre 25 y 30 años,202603,4795,4324,471,0,314,296,18,0,314
+Quintana Roo,subdel,Entre 25 y 30 años,202603,4758,4177,581,0,210,203,7,0,210
+San Luis Potosí,subdel,Entre 25 y 30 años,202603,7313,6518,795,0,415,394,21,0,415
+Sinaloa,subdel,Entre 25 y 30 años,202603,9629,8728,901,0,646,611,35,0,646
+Sonora,subdel,Entre 25 y 30 años,202603,7018,6196,822,0,585,528,57,0,585
+Tabasco,subdel,Entre 25 y 30 años,202603,6304,5676,628,0,339,327,12,0,339
+Tamaulipas,subdel,Entre 25 y 30 años,202603,8788,7690,1098,0,743,683,60,0,743
+Tlaxcala,subdel,Entre 25 y 30 años,202603,1972,1871,101,0,74,70,4,0,74
+Veracruz,subdel,Entre 25 y 30 años,202603,15872,14245,1627,0,1017,971,46,0,1017
+Yucatán,subdel,Entre 25 y 30 años,202603,7613,6841,772,0,380,359,21,0,380
+Zacatecas,subdel,Entre 25 y 30 años,202603,1932,1762,170,0,98,90,8,0,98
+Extranjero/Extranjera,subdel,Entre 30 y 35 años,202603,2556,2269,287,0,322,302,20,0,322
+Aguascalientes,subdel,Entre 30 y 35 años,202603,3249,2900,349,0,213,203,10,0,213
+Baja California,subdel,Entre 30 y 35 años,202603,6535,5588,947,0,769,704,65,0,769
+Baja California Sur,subdel,Entre 30 y 35 años,202603,1177,980,197,0,143,129,14,0,143
+Campeche,subdel,Entre 30 y 35 años,202603,3153,2766,387,0,171,166,5,0,171
+Coahuila de Zaragoza,subdel,Entre 30 y 35 años,202603,8508,7553,955,0,941,879,62,0,941
+Colima,subdel,Entre 30 y 35 años,202603,1628,1402,226,0,94,86,8,0,94
+Chiapas,subdel,Entre 30 y 35 años,202603,7041,6501,540,0,661,639,22,0,661
+Chihuahua,subdel,Entre 30 y 35 años,202603,10714,8548,2166,0,813,733,80,0,813
+Ciudad de México,subdel,Entre 30 y 35 años,202603,58466,52067,6399,0,4139,3915,224,0,4139
+Durango,subdel,Entre 30 y 35 años,202603,4118,3568,550,0,253,239,14,0,253
+Guerrero,subdel,Entre 30 y 35 años,202603,4031,3645,386,0,374,357,17,0,374
+Hidalgo,subdel,Entre 30 y 35 años,202603,2558,2313,245,0,243,226,17,0,243
+Jalisco,subdel,Entre 30 y 35 años,202603,21779,19483,2296,0,2025,1909,116,0,2025
+México,subdel,Entre 30 y 35 años,202603,35237,32107,3130,0,2434,2326,108,0,2434
+Michoacán de Ocampo,subdel,Entre 30 y 35 años,202603,5460,4930,530,0,369,351,18,0,369
+Morelos,subdel,Entre 30 y 35 años,202603,3849,3434,415,0,185,176,9,0,185
+Nayarit,subdel,Entre 30 y 35 años,202603,2787,2549,238,0,260,249,11,0,260
+Nuevo León,subdel,Entre 30 y 35 años,202603,18060,15718,2342,0,2424,2281,143,0,2424
+Oaxaca,subdel,Entre 30 y 35 años,202603,4704,4253,451,0,394,368,26,0,394
+Puebla,subdel,Entre 30 y 35 años,202603,10809,9883,926,0,827,786,41,0,827
+Querétaro,subdel,Entre 30 y 35 años,202603,4164,3731,433,0,334,313,21,0,334
+Quintana Roo,subdel,Entre 30 y 35 años,202603,3830,3344,486,0,244,219,25,0,244
+San Luis Potosí,subdel,Entre 30 y 35 años,202603,7005,6234,771,0,586,546,40,0,586
+Sinaloa,subdel,Entre 30 y 35 años,202603,9075,8120,955,0,831,786,45,0,831
+Sonora,subdel,Entre 30 y 35 años,202603,6858,5922,936,0,707,642,65,0,707
+Tabasco,subdel,Entre 30 y 35 años,202603,5933,5294,639,0,429,401,28,0,429
+Tamaulipas,subdel,Entre 30 y 35 años,202603,8045,7011,1034,0,856,805,51,0,856
+Tlaxcala,subdel,Entre 30 y 35 años,202603,1764,1660,104,0,101,98,3,0,101
+Veracruz,subdel,Entre 30 y 35 años,202603,17098,15306,1792,0,1488,1408,80,0,1488
+Yucatán,subdel,Entre 30 y 35 años,202603,8314,7451,863,0,599,559,40,0,599
+Zacatecas,subdel,Entre 30 y 35 años,202603,1790,1608,182,0,138,129,9,0,138
+Extranjero/Extranjera,subdel,Entre 35 y 40 años,202603,2152,1924,228,0,270,256,14,0,270
+Aguascalientes,subdel,Entre 35 y 40 años,202603,2423,2178,245,0,214,204,10,0,214
+Baja California,subdel,Entre 35 y 40 años,202603,4775,4103,672,0,679,619,60,0,679
+Baja California Sur,subdel,Entre 35 y 40 años,202603,985,794,191,0,126,110,16,0,126
+Campeche,subdel,Entre 35 y 40 años,202603,2540,2238,302,0,194,177,17,0,194
+Coahuila de Zaragoza,subdel,Entre 35 y 40 años,202603,6987,6142,845,0,851,789,62,0,851
+Colima,subdel,Entre 35 y 40 años,202603,1218,1044,174,0,109,100,9,0,109
+Chiapas,subdel,Entre 35 y 40 años,202603,5149,4745,404,0,580,554,26,0,580
+Ciudad de México,subdel,Entre 35 y 40 años,202603,51972,46758,5214,0,4895,4604,291,0,4895
+Durango,subdel,Entre 35 y 40 años,202603,3133,2753,380,0,263,246,17,0,263
+Guanajuato,subdel,Entre 35 y 40 años,202603,8256,7498,758,0,743,702,41,0,743
+Guerrero,subdel,Entre 35 y 40 años,202603,3116,2797,319,0,387,364,23,0,387
+Hidalgo,subdel,Entre 35 y 40 años,202603,1755,1596,159,0,202,197,5,0,202
+Jalisco,subdel,Entre 35 y 40 años,202603,18170,16113,2057,0,1991,1839,152,0,1991
+México,subdel,Entre 35 y 40 años,202603,23211,21168,2043,0,2088,2000,88,0,2088
+Michoacán de Ocampo,subdel,Entre 35 y 40 años,202603,4388,3899,489,0,383,349,34,0,383
+Morelos,subdel,Entre 35 y 40 años,202603,2745,2445,300,0,195,179,16,0,195
+Nayarit,subdel,Entre 35 y 40 años,202603,2431,2174,257,0,307,291,16,0,307
+Nuevo León,subdel,Entre 35 y 40 años,202603,15149,13269,1880,0,2493,2324,169,0,2493
+Oaxaca,subdel,Entre 35 y 40 años,202603,3345,2960,385,0,376,344,32,0,376
+Puebla,subdel,Entre 35 y 40 años,202603,8328,7607,721,0,884,830,54,0,884
+Querétaro,subdel,Entre 35 y 40 años,202603,3224,2899,325,0,327,302,25,0,327
+Quintana Roo,subdel,Entre 35 y 40 años,202603,2175,1886,289,0,188,173,15,0,188
+San Luis Potosí,subdel,Entre 35 y 40 años,202603,5383,4739,644,0,554,513,41,0,554
+Sinaloa,subdel,Entre 35 y 40 años,202603,7311,6462,849,0,792,731,61,0,792
+Sonora,subdel,Entre 35 y 40 años,202603,5824,4952,872,0,700,615,85,0,700
+Tabasco,subdel,Entre 35 y 40 años,202603,4671,4195,476,0,417,390,27,0,417
+Tamaulipas,subdel,Entre 35 y 40 años,202603,6306,5432,874,0,753,687,66,0,753
+Tlaxcala,subdel,Entre 35 y 40 años,202603,1339,1234,105,0,118,114,4,0,118
+Veracruz,subdel,Entre 35 y 40 años,202603,13571,12176,1395,0,1472,1386,86,0,1472
+Yucatán,subdel,Entre 35 y 40 años,202603,7130,6377,753,0,656,610,46,0,656
+Zacatecas,subdel,Entre 35 y 40 años,202603,1476,1305,171,0,157,147,10,0,157
+Extranjero/Extranjera,subdel,Entre 40 y 45 años,202603,1506,1331,175,0,248,234,14,0,248
+Aguascalientes,subdel,Entre 40 y 45 años,202603,1746,1551,195,0,198,182,16,0,198
+Baja California,subdel,Entre 40 y 45 años,202603,2909,2426,483,0,494,439,55,0,494
+Baja California Sur,subdel,Entre 40 y 45 años,202603,708,577,131,0,93,81,12,0,93
+Campeche,subdel,Entre 40 y 45 años,202603,1855,1655,200,0,202,190,12,0,202
+Coahuila de Zaragoza,subdel,Entre 40 y 45 años,202603,5391,4771,620,0,734,689,45,0,734
+Colima,subdel,Entre 40 y 45 años,202603,900,781,119,0,106,99,7,0,106
+Chiapas,subdel,Entre 40 y 45 años,202603,3669,3363,306,0,448,428,20,0,448
+Chihuahua,subdel,Entre 40 y 45 años,202603,5269,4268,1001,0,608,537,71,0,608
+Ciudad de México,subdel,Entre 40 y 45 años,202603,46541,42136,4405,0,5559,5203,356,0,5559
+Durango,subdel,Entre 40 y 45 años,202603,2114,1801,313,0,194,181,13,0,194
+Guanajuato,subdel,Entre 40 y 45 años,202603,5986,5418,568,0,645,610,35,0,645
+Guerrero,subdel,Entre 40 y 45 años,202603,2158,1910,248,0,308,290,18,0,308
+Hidalgo,subdel,Entre 40 y 45 años,202603,1249,1121,128,0,180,168,12,0,180
+Jalisco,subdel,Entre 40 y 45 años,202603,13791,12252,1539,0,1815,1682,133,0,1815
+México,subdel,Entre 40 y 45 años,202603,11873,10805,1068,0,1300,1233,67,0,1300
+Michoacán de Ocampo,subdel,Entre 40 y 45 años,202603,3028,2683,345,0,322,307,15,0,322
+Morelos,subdel,Entre 40 y 45 años,202603,1880,1705,175,0,146,141,5,0,146
+Nayarit,subdel,Entre 40 y 45 años,202603,1976,1808,168,0,275,262,13,0,275
+Nuevo León,subdel,Entre 40 y 45 años,202603,11704,10194,1510,0,2278,2107,171,0,2278
+Oaxaca,subdel,Entre 40 y 45 años,202603,2388,2191,197,0,320,304,16,0,320
+Puebla,subdel,Entre 40 y 45 años,202603,6098,5546,552,0,773,736,37,0,773
+Querétaro,subdel,Entre 40 y 45 años,202603,2275,2063,212,0,264,245,19,0,264
+Quintana Roo,subdel,Entre 40 y 45 años,202603,1154,997,157,0,124,119,5,0,124
+San Luis Potosí,subdel,Entre 40 y 45 años,202603,3424,3039,385,0,417,391,26,0,417
+Sinaloa,subdel,Entre 40 y 45 años,202603,5663,4960,703,0,771,701,70,0,771
+Sonora,subdel,Entre 40 y 45 años,202603,4582,3922,660,0,671,586,85,0,671
+Tabasco,subdel,Entre 40 y 45 años,202603,3335,3007,328,0,382,366,16,0,382
+Tamaulipas,subdel,Entre 40 y 45 años,202603,4374,3816,558,0,618,566,52,0,618
+Tlaxcala,subdel,Entre 40 y 45 años,202603,988,929,59,0,97,93,4,0,97
+Veracruz,subdel,Entre 40 y 45 años,202603,9974,8897,1077,0,1322,1258,64,0,1322
+Yucatán,subdel,Entre 40 y 45 años,202603,5625,5009,616,0,595,558,37,0,595
+Zacatecas,subdel,Entre 40 y 45 años,202603,1164,1040,124,0,131,129,2,0,131
+Extranjero/Extranjera,subdel,Entre 45 y 50 años,202603,1138,1013,125,0,199,186,13,0,199
+Aguascalientes,subdel,Entre 45 y 50 años,202603,1107,977,130,0,148,141,7,0,148
+Baja California,subdel,Entre 45 y 50 años,202603,2005,1681,324,0,377,327,50,0,377
+Baja California Sur,subdel,Entre 45 y 50 años,202603,489,398,91,0,73,67,6,0,73
+Campeche,subdel,Entre 45 y 50 años,202603,1216,1077,139,0,132,124,8,0,132
+Coahuila de Zaragoza,subdel,Entre 45 y 50 años,202603,3657,3239,418,0,547,505,42,0,547
+Colima,subdel,Entre 45 y 50 años,202603,539,442,97,0,81,75,6,0,81
+Chiapas,subdel,Entre 45 y 50 años,202603,2214,2037,177,0,341,326,15,0,341
+Chihuahua,subdel,Entre 45 y 50 años,202603,3650,2983,667,0,538,490,48,0,538
+Ciudad de México,subdel,Entre 45 y 50 años,202603,35905,32485,3420,0,5100,4832,268,0,5100
+Durango,subdel,Entre 45 y 50 años,202603,1517,1302,215,0,186,173,13,0,186
+Guanajuato,subdel,Entre 45 y 50 años,202603,4052,3661,391,0,518,484,34,0,518
+Guerrero,subdel,Entre 45 y 50 años,202603,1561,1402,159,0,281,268,13,0,281
+Hidalgo,subdel,Entre 45 y 50 años,202603,953,857,96,0,145,137,8,0,145
+Jalisco,subdel,Entre 45 y 50 años,202603,9701,8634,1067,0,1451,1355,96,0,1451
+México,subdel,Entre 45 y 50 años,202603,7071,6433,638,0,946,902,44,0,946
+Michoacán de Ocampo,subdel,Entre 45 y 50 años,202603,2104,1826,278,0,291,270,21,0,291
+Morelos,subdel,Entre 45 y 50 años,202603,1281,1158,123,0,125,118,7,0,125
+Nayarit,subdel,Entre 45 y 50 años,202603,1390,1270,120,0,228,220,8,0,228
+Nuevo León,subdel,Entre 45 y 50 años,202603,8367,7382,985,0,1897,1759,138,0,1897
+Oaxaca,subdel,Entre 45 y 50 años,202603,1739,1603,136,0,246,236,10,0,246
+Puebla,subdel,Entre 45 y 50 años,202603,4591,4206,385,0,702,676,26,0,702
+Querétaro,subdel,Entre 45 y 50 años,202603,1639,1473,166,0,219,209,10,0,219
+Quintana Roo,subdel,Entre 45 y 50 años,202603,514,467,47,0,60,58,2,0,60
+San Luis Potosí,subdel,Entre 45 y 50 años,202603,2316,2027,289,0,335,321,14,0,335
+Sinaloa,subdel,Entre 45 y 50 años,202603,4025,3505,520,0,595,546,49,0,595
+Sonora,subdel,Entre 45 y 50 años,202603,3346,2800,546,0,516,459,57,0,516
+Tabasco,subdel,Entre 45 y 50 años,202603,2068,1834,234,0,259,239,20,0,259
+Tamaulipas,subdel,Entre 45 y 50 años,202603,3074,2683,391,0,527,483,44,0,527
+Tlaxcala,subdel,Entre 45 y 50 años,202603,691,648,43,0,70,65,5,0,70
+Veracruz,subdel,Entre 45 y 50 años,202603,6871,6231,640,0,960,909,51,0,960
+Yucatán,subdel,Entre 45 y 50 años,202603,3822,3438,384,0,509,481,28,0,509
+Zacatecas,subdel,Entre 45 y 50 años,202603,849,759,90,0,135,127,8,0,135
+Extranjero/Extranjera,subdel,Entre 50 y 55 años,202603,765,652,113,0,140,132,8,0,140
+Aguascalientes,subdel,Entre 50 y 55 años,202603,781,697,84,0,122,118,4,0,122
+Baja California,subdel,Entre 50 y 55 años,202603,1476,1267,209,0,322,291,31,0,322
+Baja California Sur,subdel,Entre 50 y 55 años,202603,269,218,51,0,45,38,7,0,45
+Campeche,subdel,Entre 50 y 55 años,202603,781,653,128,0,110,100,10,0,110
+Coahuila de Zaragoza,subdel,Entre 50 y 55 años,202603,2462,2173,289,0,400,381,19,0,400
+Colima,subdel,Entre 50 y 55 años,202603,371,312,59,0,58,54,4,0,58
+Chiapas,subdel,Entre 50 y 55 años,202603,1287,1134,153,0,245,229,16,0,245
+Chihuahua,subdel,Entre 50 y 55 años,202603,2551,2099,452,0,430,395,35,0,430
+Ciudad de México,subdel,Entre 50 y 55 años,202603,28570,25926,2644,0,4816,4573,243,0,4816
+Durango,subdel,Entre 50 y 55 años,202603,1002,868,134,0,177,160,17,0,177
+Guanajuato,subdel,Entre 50 y 55 años,202603,2818,2551,267,0,460,439,21,0,460
+Guerrero,subdel,Entre 50 y 55 años,202603,1059,963,96,0,197,187,10,0,197
+Hidalgo,subdel,Entre 50 y 55 años,202603,694,631,63,0,102,98,4,0,102
+Jalisco,subdel,Entre 50 y 55 años,202603,6951,6160,791,0,1176,1111,65,0,1176
+México,subdel,Entre 50 y 55 años,202603,4111,3786,325,0,652,624,28,0,652
+Michoacán de Ocampo,subdel,Entre 50 y 55 años,202603,1548,1376,172,0,270,252,18,0,270
+Morelos,subdel,Entre 50 y 55 años,202603,873,789,84,0,109,104,5,0,109
+Nayarit,subdel,Entre 50 y 55 años,202603,944,865,79,0,150,145,5,0,150
+Nuevo León,subdel,Entre 50 y 55 años,202603,5730,5097,633,0,1542,1462,80,0,1542
+Oaxaca,subdel,Entre 50 y 55 años,202603,1075,969,106,0,184,178,6,0,184
+Puebla,subdel,Entre 50 y 55 años,202603,3106,2835,271,0,573,539,34,0,573
+Querétaro,subdel,Entre 50 y 55 años,202603,1064,988,76,0,187,179,8,0,187
+Quintana Roo,subdel,Entre 50 y 55 años,202603,235,200,35,0,26,24,2,0,26
+San Luis Potosí,subdel,Entre 50 y 55 años,202603,1687,1459,228,0,274,252,22,0,274
+Sinaloa,subdel,Entre 50 y 55 años,202603,2813,2498,315,0,513,476,37,0,513
+Sonora,subdel,Entre 50 y 55 años,202603,2372,2007,365,0,458,418,40,0,458
+Tabasco,subdel,Entre 50 y 55 años,202603,1221,1077,144,0,183,172,11,0,183
+Tamaulipas,subdel,Entre 50 y 55 años,202603,2178,1904,274,0,399,375,24,0,399
+Tlaxcala,subdel,Entre 50 y 55 años,202603,465,441,24,0,67,66,1,0,67
+Veracruz,subdel,Entre 50 y 55 años,202603,4586,4184,402,0,776,749,27,0,776
+Yucatán,subdel,Entre 50 y 55 años,202603,2797,2514,283,0,422,394,28,0,422
+Zacatecas,subdel,Entre 50 y 55 años,202603,645,582,63,0,111,107,4,0,111
+Extranjero/Extranjera,subdel,Entre 55 y 60 años,202603,455,398,57,0,91,86,5,0,91
+Aguascalientes,subdel,Entre 55 y 60 años,202603,470,425,45,0,94,92,2,0,94
+Baja California,subdel,Entre 55 y 60 años,202603,704,614,90,0,183,171,12,0,183
+Baja California Sur,subdel,Entre 55 y 60 años,202603,148,126,22,0,27,24,3,0,27
+Campeche,subdel,Entre 55 y 60 años,202603,456,398,58,0,59,56,3,0,59
+Coahuila de Zaragoza,subdel,Entre 55 y 60 años,202603,1387,1269,118,0,263,250,13,0,263
+Colima,subdel,Entre 55 y 60 años,202603,222,197,25,0,44,42,2,0,44
+Chiapas,subdel,Entre 55 y 60 años,202603,722,669,53,0,142,137,5,0,142
+Chihuahua,subdel,Entre 55 y 60 años,202603,1515,1268,247,0,295,273,22,0,295
+Ciudad de México,subdel,Entre 55 y 60 años,202603,17500,15981,1519,0,3379,3224,155,0,3379
+Durango,subdel,Entre 55 y 60 años,202603,586,520,66,0,102,98,4,0,102
+Guanajuato,subdel,Entre 55 y 60 años,202603,1747,1639,108,0,314,305,9,0,314
+Guerrero,subdel,Entre 55 y 60 años,202603,626,572,54,0,128,121,7,0,128
+Hidalgo,subdel,Entre 55 y 60 años,202603,457,426,31,0,86,84,2,0,86
+Jalisco,subdel,Entre 55 y 60 años,202603,3879,3510,369,0,765,727,38,0,765
+México,subdel,Entre 55 y 60 años,202603,2030,1886,144,0,371,360,11,0,371
+Michoacán de Ocampo,subdel,Entre 55 y 60 años,202603,921,847,74,0,182,173,9,0,182
+Morelos,subdel,Entre 55 y 60 años,202603,442,408,34,0,76,74,2,0,76
+Nayarit,subdel,Entre 55 y 60 años,202603,567,521,46,0,104,102,2,0,104
+Nuevo León,subdel,Entre 55 y 60 años,202603,3245,2921,324,0,941,896,45,0,941
+Oaxaca,subdel,Entre 55 y 60 años,202603,560,506,54,0,100,93,7,0,100
+Puebla,subdel,Entre 55 y 60 años,202603,1756,1628,128,0,350,340,10,0,350
+Querétaro,subdel,Entre 55 y 60 años,202603,528,486,42,0,95,92,3,0,95
+Quintana Roo,subdel,Entre 55 y 60 años,202603,92,83,9,0,10,10,0,0,10
+San Luis Potosí,subdel,Entre 55 y 60 años,202603,936,826,110,0,166,156,10,0,166
+Sinaloa,subdel,Entre 55 y 60 años,202603,1571,1402,169,0,294,275,19,0,294
+Sonora,subdel,Entre 55 y 60 años,202603,1386,1166,220,0,320,285,35,0,320
+Tabasco,subdel,Entre 55 y 60 años,202603,607,544,63,0,107,96,11,0,107
+Tamaulipas,subdel,Entre 55 y 60 años,202603,1243,1102,141,0,258,235,23,0,258
+Tlaxcala,subdel,Entre 55 y 60 años,202603,233,221,12,0,44,43,1,0,44
+Veracruz,subdel,Entre 55 y 60 años,202603,2601,2367,234,0,458,434,24,0,458
+Yucatán,subdel,Entre 55 y 60 años,202603,1606,1457,149,0,281,266,15,0,281
+Zacatecas,subdel,Entre 55 y 60 años,202603,486,456,30,0,97,95,2,0,97
+Extranjero/Extranjera,subdel,Entre 60 y 65 años,202603,269,247,22,0,67,63,4,0,67
+Aguascalientes,subdel,Entre 60 y 65 años,202603,270,252,18,0,53,53,0,0,53
+Baja California,subdel,Entre 60 y 65 años,202603,316,281,35,0,69,65,4,0,69
+Baja California Sur,subdel,Entre 60 y 65 años,202603,61,52,9,0,14,14,0,0,14
+Campeche,subdel,Entre 60 y 65 años,202603,181,170,11,0,29,28,1,0,29
+Coahuila de Zaragoza,subdel,Entre 60 y 65 años,202603,720,664,56,0,144,137,7,0,144
+Colima,subdel,Entre 60 y 65 años,202603,100,97,3,0,15,14,1,0,15
+Chiapas,subdel,Entre 60 y 65 años,202603,282,266,16,0,52,52,0,0,52
+Chihuahua,subdel,Entre 60 y 65 años,202603,682,608,74,0,111,108,3,0,111
+Ciudad de México,subdel,Entre 60 y 65 años,202603,8630,8066,564,0,1566,1508,58,0,1566
+Durango,subdel,Entre 60 y 65 años,202603,276,244,32,0,48,48,0,0,48
+Guanajuato,subdel,Entre 60 y 65 años,202603,865,817,48,0,151,149,2,0,151
+Guerrero,subdel,Entre 60 y 65 años,202603,341,312,29,0,67,64,3,0,67
+Hidalgo,subdel,Entre 60 y 65 años,202603,207,194,13,0,34,33,1,0,34
+Jalisco,subdel,Entre 60 y 65 años,202603,1801,1685,116,0,341,332,9,0,341
+México,subdel,Entre 60 y 65 años,202603,905,853,52,0,152,150,2,0,152
+Michoacán de Ocampo,subdel,Entre 60 y 65 años,202603,536,511,25,0,81,81,0,0,81
+Morelos,subdel,Entre 60 y 65 años,202603,198,186,12,0,35,35,0,0,35
+Nayarit,subdel,Entre 60 y 65 años,202603,268,248,20,0,48,46,2,0,48
+Nuevo León,subdel,Entre 60 y 65 años,202603,1531,1389,142,0,403,387,16,0,403
+Oaxaca,subdel,Entre 60 y 65 años,202603,318,294,24,0,66,64,2,0,66
+Puebla,subdel,Entre 60 y 65 años,202603,893,851,42,0,149,145,4,0,149
+Querétaro,subdel,Entre 60 y 65 años,202603,232,216,16,0,43,42,1,0,43
+Quintana Roo,subdel,Entre 60 y 65 años,202603,47,45,2,0,9,9,0,0,9
+San Luis Potosí,subdel,Entre 60 y 65 años,202603,506,477,29,0,111,110,1,0,111
+Sinaloa,subdel,Entre 60 y 65 años,202603,733,670,63,0,142,138,4,0,142
+Sonora,subdel,Entre 60 y 65 años,202603,697,642,55,0,113,105,8,0,113
+Tabasco,subdel,Entre 60 y 65 años,202603,210,190,20,0,36,34,2,0,36
+Tamaulipas,subdel,Entre 60 y 65 años,202603,674,601,73,0,115,108,7,0,115
+Tlaxcala,subdel,Entre 60 y 65 años,202603,167,159,8,0,17,17,0,0,17
+Veracruz,subdel,Entre 60 y 65 años,202603,1197,1105,92,0,197,188,9,0,197
+Yucatán,subdel,Entre 60 y 65 años,202603,732,672,60,0,117,111,6,0,117
+Zacatecas,subdel,Entre 60 y 65 años,202603,295,279,16,0,62,60,2,0,62
+Extranjero/Extranjera,subdel,Entre 65 y 70 años,202603,113,108,5,0,19,19,0,0,19
+Aguascalientes,subdel,Entre 65 y 70 años,202603,102,99,3,0,23,23,0,0,23
+Baja California,subdel,Entre 65 y 70 años,202603,116,105,11,0,19,17,2,0,19
+Baja California Sur,subdel,Entre 65 y 70 años,202603,27,25,2,0,5,5,0,0,5
+Campeche,subdel,Entre 65 y 70 años,202603,69,64,5,0,6,6,0,0,6
+Coahuila de Zaragoza,subdel,Entre 65 y 70 años,202603,275,255,20,0,49,48,1,0,49
+Colima,subdel,Entre 65 y 70 años,202603,48,48,0,0,10,10,0,0,10
+Chiapas,subdel,Entre 65 y 70 años,202603,110,105,5,0,18,18,0,0,18
+Chihuahua,subdel,Entre 65 y 70 años,202603,297,277,20,0,46,45,1,0,46
+Ciudad de México,subdel,Entre 65 y 70 años,202603,3660,3464,196,0,552,546,6,0,552
+Durango,subdel,Entre 65 y 70 años,202603,139,127,12,0,27,27,0,0,27
+Guanajuato,subdel,Entre 65 y 70 años,202603,345,322,23,0,55,55,0,0,55
+Guerrero,subdel,Entre 65 y 70 años,202603,128,115,13,0,25,23,2,0,25
+Hidalgo,subdel,Entre 65 y 70 años,202603,109,105,4,0,16,16,0,0,16
+Jalisco,subdel,Entre 65 y 70 años,202603,662,621,41,0,90,89,1,0,90
+México,subdel,Entre 65 y 70 años,202603,327,305,22,0,56,56,0,0,56
+Michoacán de Ocampo,subdel,Entre 65 y 70 años,202603,252,223,29,0,44,42,2,0,44
+Morelos,subdel,Entre 65 y 70 años,202603,76,73,3,0,5,5,0,0,5
+Nayarit,subdel,Entre 65 y 70 años,202603,124,117,7,0,22,22,0,0,22
+Nuevo León,subdel,Entre 65 y 70 años,202603,607,559,48,0,155,154,1,0,155
+Oaxaca,subdel,Entre 65 y 70 años,202603,146,140,6,0,32,30,2,0,32
+Puebla,subdel,Entre 65 y 70 años,202603,346,323,23,0,51,51,0,0,51
+Querétaro,subdel,Entre 65 y 70 años,202603,91,88,3,0,17,16,1,0,17
+Quintana Roo,subdel,Entre 65 y 70 años,202603,9,7,2,0,2,2,0,0,2
+San Luis Potosí,subdel,Entre 65 y 70 años,202603,228,213,15,0,37,37,0,0,37
+Sinaloa,subdel,Entre 65 y 70 años,202603,307,276,31,0,38,37,1,0,38
+Sonora,subdel,Entre 65 y 70 años,202603,296,269,27,0,58,55,3,0,58
+Tabasco,subdel,Entre 65 y 70 años,202603,77,75,2,0,11,11,0,0,11
+Tamaulipas,subdel,Entre 65 y 70 años,202603,257,233,24,0,48,46,2,0,48
+Tlaxcala,subdel,Entre 65 y 70 años,202603,60,57,3,0,7,6,1,0,7
+Veracruz,subdel,Entre 65 y 70 años,202603,451,426,25,0,64,61,3,0,64
+Yucatán,subdel,Entre 65 y 70 años,202603,288,263,25,0,36,35,1,0,36
+Zacatecas,subdel,Entre 65 y 70 años,202603,139,126,13,0,21,21,0,0,21
+Extranjero/Extranjera,subdel,Entre 70 y 75 años,202603,40,38,2,0,10,10,0,0,10
+Aguascalientes,subdel,Entre 70 y 75 años,202603,27,26,1,0,4,4,0,0,4
+Baja California,subdel,Entre 70 y 75 años,202603,30,28,2,0,4,4,0,0,4
+Campeche,subdel,Entre 70 y 75 años,202603,22,21,1,0,1,1,0,0,1
+Coahuila de Zaragoza,subdel,Entre 70 y 75 años,202603,86,80,6,0,16,16,0,0,16
+Colima,subdel,Entre 70 y 75 años,202603,14,12,2,0,4,4,0,0,4
+Chiapas,subdel,Entre 70 y 75 años,202603,28,24,4,0,4,4,0,0,4
+Chihuahua,subdel,Entre 70 y 75 años,202603,61,57,4,0,10,10,0,0,10
+Ciudad de México,subdel,Entre 70 y 75 años,202603,1067,980,87,0,152,148,4,0,152
+Durango,subdel,Entre 70 y 75 años,202603,43,40,3,0,5,5,0,0,5
+Guanajuato,subdel,Entre 70 y 75 años,202603,112,105,7,0,18,18,0,0,18
+Guerrero,subdel,Entre 70 y 75 años,202603,36,29,7,0,3,3,0,0,3
+Hidalgo,subdel,Entre 70 y 75 años,202603,49,43,6,0,4,4,0,0,4
+Jalisco,subdel,Entre 70 y 75 años,202603,187,171,16,0,26,25,1,0,26
+México,subdel,Entre 70 y 75 años,202603,105,96,9,0,12,12,0,0,12
+Michoacán de Ocampo,subdel,Entre 70 y 75 años,202603,94,88,6,0,19,19,0,0,19
+Morelos,subdel,Entre 70 y 75 años,202603,25,24,1,0,0,0,0,0,0
+Nayarit,subdel,Entre 70 y 75 años,202603,39,37,2,0,4,4,0,0,4
+Nuevo León,subdel,Entre 70 y 75 años,202603,148,132,16,0,29,28,1,0,29
+Oaxaca,subdel,Entre 70 y 75 años,202603,45,40,5,0,3,3,0,0,3
+Puebla,subdel,Entre 70 y 75 años,202603,95,91,4,0,15,14,1,0,15
+Querétaro,subdel,Entre 70 y 75 años,202603,21,21,0,0,2,2,0,0,2
+Quintana Roo,subdel,Entre 70 y 75 años,202603,2,2,0,0,0,0,0,0,0
+San Luis Potosí,subdel,Entre 70 y 75 años,202603,75,69,6,0,9,8,1,0,9
+Sinaloa,subdel,Entre 70 y 75 años,202603,92,84,8,0,16,16,0,0,16
+Sonora,subdel,Entre 70 y 75 años,202603,103,101,2,0,13,13,0,0,13
+Tabasco,subdel,Entre 70 y 75 años,202603,20,19,1,0,2,2,0,0,2
+Tamaulipas,subdel,Entre 70 y 75 años,202603,89,83,6,0,12,12,0,0,12
+Tlaxcala,subdel,Entre 70 y 75 años,202603,24,22,2,0,1,1,0,0,1
+Veracruz,subdel,Entre 70 y 75 años,202603,139,134,5,0,18,18,0,0,18
+Yucatán,subdel,Entre 70 y 75 años,202603,69,67,2,0,11,11,0,0,11
+Zacatecas,subdel,Entre 70 y 75 años,202603,48,42,6,0,7,7,0,0,7
+Ciudad de México,subdel,Entre 15 y 20 años,202603,8622,7658,963,1,108,101,7,0,108
+Ciudad de México,subdel,Entre 20 y 25 años,202603,48483,43115,5367,1,1339,1272,67,0,1339
+Guanajuato,subdel,Entre 30 y 35 años,202603,10895,9876,1018,1,805,752,53,0,805
+Chihuahua,subdel,Entre 35 y 40 años,202603,8053,6411,1641,1,856,771,85,0,856
+Puebla,subdel,Entre 25 y 30 años,202603,12000,10971,1027,2,705,674,31,0,705
