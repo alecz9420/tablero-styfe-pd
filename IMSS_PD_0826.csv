@@ -1,0 +1,850 @@
+﻿CVE_DIVISION,División,Entidad,ENTIDAD (entidades.shp),entidad_nacimiento,fecha,Geometría,masa_aseg_H,masa_aseg_M,masa_aseg_NB,masa_puestos_H,masa_puestos_M,masa_puestos_NB,Nivel Agregación,NOTA,NUM_EDO,PTPD_Aseg,PTPD_Aseg_H,PTPD_Aseg_M,PTPD_Aseg_NB,PTPD_Puestos,PTPD_Puestos_H,PTPD_Puestos_M,PTPD_Puestos_NB,Rango_edad_2,SalarioFem,SalarioMasc,SalarioNB,TOTAL
+7,Transportes y comunicaciones,EXTRANJERO/EXTRANJERA,,Extranjero/Extranjera,202608,,65126.749999999,6693.490000000,,0,0,,subdel,1,,226,205,21,0,0,0,0,0,75 o más años,,,,0
+7,Transportes y comunicaciones,EXTRANJERO/EXTRANJERA,,Extranjero/Extranjera,202608,,0,0,,863.27,423.11,,subdel,1,,0,0,0,0,3,2,1,0,75 o más años,423.11,431.635,,3
+7,Transportes y comunicaciones,AGUASCALIENTES,AGUASCALIENTES,Aguascalientes,202608,Polygon,0,,,1847.25,,,subdel,1,1,0,0,0,0,5,5,0,0,75 o más años,,369.45,,5
+7,Transportes y comunicaciones,AGUASCALIENTES,AGUASCALIENTES,Aguascalientes,202608,Polygon,57530.289999999,5056.170000000,,0,0,,subdel,1,1,196,180,16,0,0,0,0,0,75 o más años,,,,0
+7,Transportes y comunicaciones,BAJA CALIFORNIA,BAJA CALIFORNIA,Baja California,202608,MultiPolygon,0,,,988.56,,,subdel,1,2,0,0,0,0,2,2,0,0,75 o más años,,494.28,,2
+7,Transportes y comunicaciones,BAJA CALIFORNIA,BAJA CALIFORNIA,Baja California,202608,MultiPolygon,106155.159999998,9859.420000000,,0,0,,subdel,1,2,365,334,31,0,0,0,0,0,75 o más años,,,,0
+7,Transportes y comunicaciones,BAJA CALIFORNIA SUR,BAJA CALIFORNIA SUR,Baja California Sur,202608,MultiPolygon,37154.749999999,4126.580000000,,0,0,,subdel,1,3,130,117,13,0,0,0,0,0,75 o más años,,,,0
+7,Transportes y comunicaciones,CAMPECHE,CAMPECHE,Campeche,202608,MultiPolygon,0,,,669.98,,,subdel,1,4,0,0,0,0,2,2,0,0,75 o más años,,334.99,,2
+7,Transportes y comunicaciones,CAMPECHE,CAMPECHE,Campeche,202608,MultiPolygon,64547.699999999,2850.890000000,,0,0,,subdel,1,4,213,204,9,0,0,0,0,0,75 o más años,,,,0
+7,Transportes y comunicaciones,COAHUILA DE ZARAGOZA,COAHUILA DE ZARAGOZA,Coahuila de Zaragoza,202608,Polygon,0,,,1126.24,,,subdel,1,5,0,0,0,0,3,3,0,0,75 o más años,,375.413333333,,3
+7,Transportes y comunicaciones,COAHUILA DE ZARAGOZA,COAHUILA DE ZARAGOZA,Coahuila de Zaragoza,202608,Polygon,83760.699999998,8284.220000000,,0,0,,subdel,1,5,290,264,26,0,0,0,0,0,75 o más años,,,,0
+7,Transportes y comunicaciones,COLIMA,COLIMA,Colima,202608,MultiPolygon,38414.909999999,6677.960000000,,0,0,,subdel,1,6,142,121,21,0,0,0,0,0,75 o más años,,,,0
+7,Transportes y comunicaciones,CHIAPAS,CHIAPAS,Chiapas,202608,MultiPolygon,0,,,330.57,,,subdel,1,7,0,0,0,0,1,1,0,0,75 o más años,,330.57,,1
+7,Transportes y comunicaciones,CHIAPAS,CHIAPAS,Chiapas,202608,MultiPolygon,116839.899999997,6316.330000000,,0,0,,subdel,1,7,389,369,20,0,0,0,0,0,75 o más años,,,,0
+7,Transportes y comunicaciones,CHIHUAHUA,CHIHUAHUA,Chihuahua,202608,Polygon,0,,,2186.53,,,subdel,1,8,0,0,0,0,5,5,0,0,75 o más años,,437.306,,5
+7,Transportes y comunicaciones,CHIHUAHUA,CHIHUAHUA,Chihuahua,202608,Polygon,146134.179999997,26603.129999999,,0,0,,subdel,1,8,545,461,84,0,0,0,0,0,75 o más años,,,,0
+7,Transportes y comunicaciones,CIUDAD DE MÉXICO,CIUDAD DE MÉXICO,Ciudad de México,202608,Polygon,330.570000000,,,0,,,subdel,1,9,1,1,0,0,0,0,0,0,75 o más años,,,,0
+7,Transportes y comunicaciones,CIUDAD DE MÉXICO,CIUDAD DE MÉXICO,Ciudad de México,202608,Polygon,630.080000000,315.040000000,,0,0,,subdel,1,9,3,2,1,0,0,0,0,0,75 o más años,,,,0
+7,Transportes y comunicaciones,CIUDAD DE MÉXICO,CIUDAD DE MÉXICO,Ciudad de México,202608,Polygon,1062141.73999998,103417.419999998,,0,0,,subdel,1,9,3666,3340,326,0,0,0,0,0,75 o más años,,,,0
+7,Transportes y comunicaciones,CIUDAD DE MÉXICO,CIUDAD DE MÉXICO,Ciudad de México,202608,Polygon,0,0,,16667.22,532.86,,subdel,1,9,0,0,0,0,42,41,1,0,75 o más años,532.86,406.517560976,,42
+7,Transportes y comunicaciones,DURANGO,DURANGO,Durango,202608,Polygon,0,,,1529.59,,,subdel,1,10,0,0,0,0,4,4,0,0,75 o más años,,382.3975,,4
+7,Transportes y comunicaciones,DURANGO,DURANGO,Durango,202608,Polygon,69144.619999998,6001.290000000,,0,0,,subdel,1,10,237,218,19,0,0,0,0,0,75 o más años,,,,0
+7,Transportes y comunicaciones,GUANAJUATO,GUANAJUATO,Guanajuato,202608,Polygon,0,,,1034.04,,,subdel,1,11,0,0,0,0,3,3,0,0,75 o más años,,344.68,,3
+7,Transportes y comunicaciones,GUANAJUATO,GUANAJUATO,Guanajuato,202608,Polygon,161934.979999996,17435.910000000,,0,0,,subdel,1,11,563,508,55,0,0,0,0,0,75 o más años,,,,0
+7,Transportes y comunicaciones,GUERRERO,GUERRERO,Guerrero,202608,MultiPolygon,0,,,435.68,,,subdel,1,12,0,0,0,0,1,1,0,0,75 o más años,,435.68,,1
+7,Transportes y comunicaciones,GUERRERO,GUERRERO,Guerrero,202608,MultiPolygon,62431.159999999,4188.700000000,,0,0,,subdel,1,12,209,196,13,0,0,0,0,0,75 o más años,,,,0
+7,Transportes y comunicaciones,HIDALGO,HIDALGO,Hidalgo,202608,Polygon,0,,,419.72,,,subdel,1,13,0,0,0,0,1,1,0,0,75 o más años,,419.72,,1
+7,Transportes y comunicaciones,HIDALGO,HIDALGO,Hidalgo,202608,Polygon,32790.779999999,5448.860000000,,0,0,,subdel,1,13,120,103,17,0,0,0,0,0,75 o más años,,,,0
+7,Transportes y comunicaciones,JALISCO,JALISCO,Jalisco,202608,MultiPolygon,0,,,7069.78,,,subdel,1,14,0,0,0,0,18,18,0,0,75 o más años,,392.765555556,,18
+7,Transportes y comunicaciones,JALISCO,JALISCO,Jalisco,202608,MultiPolygon,356618.589999992,27248.739999999,,0,0,,subdel,1,14,1206,1120,86,0,0,0,0,0,75 o más años,,,,0
+7,Transportes y comunicaciones,MÉXICO,MÉXICO,México,202608,Polygon,1189302.55999997,105167.889999998,,0,0,,subdel,1,15,4085,3753,332,0,0,0,0,0,75 o más años,,,,0
+7,Transportes y comunicaciones,MÉXICO,MÉXICO,México,202608,Polygon,0,0,,2235.84,359.86,,subdel,1,15,0,0,0,0,6,5,1,0,75 o más años,359.86,447.168,,6
+7,Transportes y comunicaciones,MICHOACÁN DE OCAMPO,MICHOACÁN DE OCAMPO,Michoacán de Ocampo,202608,MultiPolygon,93704.419999998,8330.810000000,,0,0,,subdel,1,16,319,293,26,0,0,0,0,0,75 o más años,,,,0
+7,Transportes y comunicaciones,MICHOACÁN DE OCAMPO,MICHOACÁN DE OCAMPO,Michoacán de Ocampo,202608,MultiPolygon,,0,,,448.77,,subdel,1,16,0,0,0,0,1,0,1,0,75 o más años,448.77,,,1
+7,Transportes y comunicaciones,MORELOS,MORELOS,Morelos,202608,Polygon,135882.069999997,12648.190000000,,0,0,,subdel,1,17,469,429,40,0,0,0,0,0,75 o más años,,,,0
+7,Transportes y comunicaciones,NAYARIT,NAYARIT,Nayarit,202608,MultiPolygon,59837.629999999,1575.200000000,,0,0,,subdel,1,18,194,189,5,0,0,0,0,0,75 o más años,,,,0
+7,Transportes y comunicaciones,NUEVO LEÓN,NUEVO LEÓN,Nuevo León,202608,Polygon,0,,,4300.6,,,subdel,1,19,0,0,0,0,9,9,0,0,75 o más años,,477.844444444,,9
+7,Transportes y comunicaciones,NUEVO LEÓN,NUEVO LEÓN,Nuevo León,202608,Polygon,155576.499999996,17151.930000000,,0,0,,subdel,1,19,543,489,54,0,0,0,0,0,75 o más años,,,,0
+7,Transportes y comunicaciones,OAXACA,OAXACA,Oaxaca,202608,MultiPolygon,86378.639999998,6977.470000000,,0,0,,subdel,1,20,295,273,22,0,0,0,0,0,75 o más años,,,,0
+7,Transportes y comunicaciones,PUEBLA,PUEBLA,Puebla,202608,Polygon,0,,,1740.29,,,subdel,1,21,0,0,0,0,5,5,0,0,75 o más años,,348.058,,5
+7,Transportes y comunicaciones,PUEBLA,PUEBLA,Puebla,202608,Polygon,161531.199999996,13418.040000000,,0,0,,subdel,1,21,550,508,42,0,0,0,0,0,75 o más años,,,,0
+7,Transportes y comunicaciones,QUERÉTARO,QUERÉTARO,Querétaro,202608,Polygon,61299.679999999,5071.700000000,,0,0,,subdel,1,22,209,193,16,0,0,0,0,0,75 o más años,,,,0
+7,Transportes y comunicaciones,QUINTANA ROO,QUINTANA ROO,Quintana Roo,202608,MultiPolygon,112584.639999997,8599.260000000,,0,0,,subdel,1,23,382,355,27,0,0,0,0,0,75 o más años,,,,0
+7,Transportes y comunicaciones,SAN LUIS POTOSÍ,SAN LUIS POTOSÍ,San Luis Potosí,202608,Polygon,0,,,2408.76,,,subdel,1,24,0,0,0,0,5,5,0,0,75 o más años,,481.752,,5
+7,Transportes y comunicaciones,SAN LUIS POTOSÍ,SAN LUIS POTOSÍ,San Luis Potosí,202608,Polygon,87505.679999998,6961.940000000,,0,0,,subdel,1,24,297,275,22,0,0,0,0,0,75 o más años,,,,0
+7,Transportes y comunicaciones,SINALOA,SINALOA,Sinaloa,202608,MultiPolygon,0,,,2403,,,subdel,1,25,0,0,0,0,5,5,0,0,75 o más años,,480.6,,5
+7,Transportes y comunicaciones,SINALOA,SINALOA,Sinaloa,202608,MultiPolygon,181986.619999996,15798.590000000,,0,0,,subdel,1,25,625,575,50,0,0,0,0,0,75 o más años,,,,0
+7,Transportes y comunicaciones,SONORA,SONORA,Sonora,202608,MultiPolygon,84989.799999998,10442.910000000,,0,0,,subdel,1,26,301,268,33,0,0,0,0,0,75 o más años,,,,0
+7,Transportes y comunicaciones,TABASCO,TABASCO,Tabasco,202608,MultiPolygon,78910.859999998,7592.020000000,,0,0,,subdel,1,27,273,249,24,0,0,0,0,0,75 o más años,,,,0
+7,Transportes y comunicaciones,TAMAULIPAS,TAMAULIPAS,Tamaulipas,202608,MultiPolygon,0,,,2070.61,,,subdel,1,28,0,0,0,0,5,5,0,0,75 o más años,,414.122,,5
+7,Transportes y comunicaciones,TAMAULIPAS,TAMAULIPAS,Tamaulipas,202608,MultiPolygon,128496.379999997,18980.050000000,,0,0,,subdel,1,28,466,406,60,0,0,0,0,0,75 o más años,,,,0
+7,Transportes y comunicaciones,TLAXCALA,TLAXCALA,Tlaxcala,202608,Polygon,58448.789999999,1275.690000000,,0,0,,subdel,1,29,188,184,4,0,0,0,0,0,75 o más años,,,,0
+7,Transportes y comunicaciones,VERACRUZ,VERACRUZ,Veracruz,202608,MultiPolygon,0,,,1124.27,,,subdel,1,30,0,0,0,0,3,3,0,0,75 o más años,,374.756666667,,3
+7,Transportes y comunicaciones,VERACRUZ,VERACRUZ,Veracruz,202608,MultiPolygon,172262.529999996,15860.710000000,,0,0,,subdel,1,30,593,543,50,0,0,0,0,0,75 o más años,,,,0
+7,Transportes y comunicaciones,YUCATÁN,YUCATÁN,Yucatán,202608,MultiPolygon,0,,,773.77,,,subdel,1,31,0,0,0,0,2,2,0,0,75 o más años,,386.885,,2
+7,Transportes y comunicaciones,YUCATÁN,YUCATÁN,Yucatán,202608,MultiPolygon,108753.129999998,7922.590000000,,0,0,,subdel,1,31,367,342,25,0,0,0,0,0,75 o más años,,,,0
+7,Transportes y comunicaciones,ZACATECAS,ZACATECAS,Zacatecas,202608,Polygon,0,,,1074.14,,,subdel,1,32,0,0,0,0,3,3,0,0,75 o más años,,358.046666667,,3
+7,Transportes y comunicaciones,ZACATECAS,ZACATECAS,Zacatecas,202608,Polygon,46177.759999999,2866.420000000,,0,0,,subdel,1,32,154,145,9,0,0,0,0,0,75 o más años,,,,0
+7,Transportes y comunicaciones,EXTRANJERO/EXTRANJERA,,Extranjero/Extranjera,202608,,108759.779999998,13056.410000000,,0,0,,subdel,1,,381,340,41,0,0,0,0,0,Entre 15 y 20 años,,,,0
+7,Transportes y comunicaciones,EXTRANJERO/EXTRANJERA,,Extranjero/Extranjera,202608,,0,0,,8417.31,716.05,,subdel,1,,0,0,0,0,21,20,1,0,Entre 15 y 20 años,716.05,420.8655,,21
+7,Transportes y comunicaciones,AGUASCALIENTES,AGUASCALIENTES,Aguascalientes,202608,Polygon,0,,,5398.86,,,subdel,1,1,0,0,0,0,13,13,0,0,Entre 15 y 20 años,,415.296923077,,13
+7,Transportes y comunicaciones,AGUASCALIENTES,AGUASCALIENTES,Aguascalientes,202608,Polygon,151560.839999997,11481.210000000,,0,0,,subdel,1,1,509,473,36,0,0,0,0,0,Entre 15 y 20 años,,,,0
+7,Transportes y comunicaciones,BAJA CALIFORNIA,BAJA CALIFORNIA,Baja California,202608,MultiPolygon,267136.139999994,27987.529999999,,0,0,,subdel,1,2,925,837,88,0,0,0,0,0,Entre 15 y 20 años,,,,0
+7,Transportes y comunicaciones,BAJA CALIFORNIA,BAJA CALIFORNIA,Baja California,202608,MultiPolygon,0,0,,29915.69,1233.86,,subdel,1,2,0,0,0,0,75,72,3,0,Entre 15 y 20 años,411.286666667,415.495694444,,75
+7,Transportes y comunicaciones,BAJA CALIFORNIA SUR,BAJA CALIFORNIA SUR,Baja California Sur,202608,MultiPolygon,84603.759999998,5102.760000000,,0,0,,subdel,1,3,281,265,16,0,0,0,0,0,Entre 15 y 20 años,,,,0
+7,Transportes y comunicaciones,BAJA CALIFORNIA SUR,BAJA CALIFORNIA SUR,Baja California Sur,202608,MultiPolygon,0,0,,7630.63,1273.65,,subdel,1,3,0,0,0,0,22,19,3,0,Entre 15 y 20 años,424.55,401.612105263,,22
+7,Transportes y comunicaciones,CAMPECHE,CAMPECHE,Campeche,202608,MultiPolygon,0,,,2493.67,,,subdel,1,4,0,0,0,0,5,5,0,0,Entre 15 y 20 años,,498.734,,5
+7,Transportes y comunicaciones,CAMPECHE,CAMPECHE,Campeche,202608,MultiPolygon,90181.299999998,8408.460000000,,0,0,,subdel,1,4,309,283,26,0,0,0,0,0,Entre 15 y 20 años,,,,0
+7,Transportes y comunicaciones,COAHUILA DE ZARAGOZA,COAHUILA DE ZARAGOZA,Coahuila de Zaragoza,202608,Polygon,254026.489999994,23685.679999999,,0,0,,subdel,1,5,872,798,74,0,0,0,0,0,Entre 15 y 20 años,,,,0
+7,Transportes y comunicaciones,COAHUILA DE ZARAGOZA,COAHUILA DE ZARAGOZA,Coahuila de Zaragoza,202608,Polygon,0,0,,12889.06,316.47,,subdel,1,5,0,0,0,0,32,31,1,0,Entre 15 y 20 años,316.47,415.776129032,,32
+7,Transportes y comunicaciones,COLIMA,COLIMA,Colima,202608,MultiPolygon,0,,,6128.71,,,subdel,1,6,0,0,0,0,16,16,0,0,Entre 15 y 20 años,,383.044375,,16
+7,Transportes y comunicaciones,COLIMA,COLIMA,Colima,202608,MultiPolygon,97948.589999998,10520.560000000,,0,0,,subdel,1,6,341,308,33,0,0,0,0,0,Entre 15 y 20 años,,,,0
+7,Transportes y comunicaciones,CHIAPAS,CHIAPAS,Chiapas,202608,MultiPolygon,191364.589999996,11259.350000000,,0,0,,subdel,1,7,634,599,35,0,0,0,0,0,Entre 15 y 20 años,,,,0
+7,Transportes y comunicaciones,CHIAPAS,CHIAPAS,Chiapas,202608,MultiPolygon,0,0,,8969.52,370.75,,subdel,1,7,0,0,0,0,23,22,1,0,Entre 15 y 20 años,370.75,407.705454545,,23
+7,Transportes y comunicaciones,CHIHUAHUA,CHIHUAHUA,Chihuahua,202608,Polygon,376894.299999991,52700.419999999,,0,0,,subdel,1,8,1351,1185,166,0,0,0,0,0,Entre 15 y 20 años,,,,0
+7,Transportes y comunicaciones,CHIHUAHUA,CHIHUAHUA,Chihuahua,202608,Polygon,0,0,,23137.86,1497.94,,subdel,1,8,0,0,0,0,62,58,4,0,Entre 15 y 20 años,374.485,398.928620690,,62
+7,Transportes y comunicaciones,CIUDAD DE MÉXICO,CIUDAD DE MÉXICO,Ciudad de México,202608,Polygon,1835683.78999996,182823.009999996,,0,0,,subdel,1,9,6299,5728,571,0,0,0,0,0,Entre 15 y 20 años,,,,0
+7,Transportes y comunicaciones,CIUDAD DE MÉXICO,CIUDAD DE MÉXICO,Ciudad de México,202608,Polygon,0,0,,53153.59,661.14,,subdel,1,9,0,0,0,0,146,144,2,0,Entre 15 y 20 años,330.57,369.122152778,,146
+7,Transportes y comunicaciones,DURANGO,DURANGO,Durango,202608,Polygon,192107.819999996,10773.480000000,,0,0,,subdel,1,10,636,602,34,0,0,0,0,0,Entre 15 y 20 años,,,,0
+7,Transportes y comunicaciones,DURANGO,DURANGO,Durango,202608,Polygon,0,0,,8008.26,1094.22,,subdel,1,10,0,0,0,0,23,20,3,0,Entre 15 y 20 años,364.74,400.413,,23
+7,Transportes y comunicaciones,GUANAJUATO,GUANAJUATO,Guanajuato,202608,Polygon,579653.549999987,38508.089999999,,0,0,,subdel,1,11,1932,1811,121,0,0,0,0,0,Entre 15 y 20 años,,,,0
+7,Transportes y comunicaciones,GUANAJUATO,GUANAJUATO,Guanajuato,202608,Polygon,0,0,,22417.49,823.36,,subdel,1,11,0,0,0,0,61,59,2,0,Entre 15 y 20 años,411.68,379.957457627,,61
+7,Transportes y comunicaciones,GUERRERO,GUERRERO,Guerrero,202608,MultiPolygon,0,,,4147.37,,,subdel,1,12,0,0,0,0,11,11,0,0,Entre 15 y 20 años,,377.033636364,,11
+7,Transportes y comunicaciones,GUERRERO,GUERRERO,Guerrero,202608,MultiPolygon,134517.619999997,11543.330000000,,0,0,,subdel,1,12,455,419,36,0,0,0,0,0,Entre 15 y 20 años,,,,0
+7,Transportes y comunicaciones,HIDALGO,HIDALGO,Hidalgo,202608,Polygon,82409.569999998,4457.150000000,,0,0,,subdel,1,13,271,257,14,0,0,0,0,0,Entre 15 y 20 años,,,,0
+7,Transportes y comunicaciones,HIDALGO,HIDALGO,Hidalgo,202608,Polygon,0,0,,632.22,572.81,,subdel,1,13,0,0,0,0,3,2,1,0,Entre 15 y 20 años,572.81,316.11,,3
+7,Transportes y comunicaciones,JALISCO,JALISCO,Jalisco,202608,MultiPolygon,1129884.98999997,95661.219999998,,0,0,,subdel,1,14,3826,3526,300,0,0,0,0,0,Entre 15 y 20 años,,,,0
+7,Transportes y comunicaciones,JALISCO,JALISCO,Jalisco,202608,MultiPolygon,0,0,,64196.17,1439.21,,subdel,1,14,0,0,0,0,166,162,4,0,Entre 15 y 20 años,359.8025,396.272654321,,166
+7,Transportes y comunicaciones,MÉXICO,MÉXICO,México,202608,Polygon,1945892.83999996,154700.149999996,,0,0,,subdel,1,15,6574,6090,484,0,0,0,0,0,Entre 15 y 20 años,,,,0
+7,Transportes y comunicaciones,MÉXICO,MÉXICO,México,202608,Polygon,0,0,,58545.13,1434.36,,subdel,1,15,0,0,0,0,160,156,4,0,Entre 15 y 20 años,358.59,375.289294872,,160
+7,Transportes y comunicaciones,MICHOACÁN DE OCAMPO,MICHOACÁN DE OCAMPO,Michoacán de Ocampo,202608,MultiPolygon,0,,,8247.4,,,subdel,1,16,0,0,0,0,21,21,0,0,Entre 15 y 20 años,,392.733333333,,21
+7,Transportes y comunicaciones,MICHOACÁN DE OCAMPO,MICHOACÁN DE OCAMPO,Michoacán de Ocampo,202608,MultiPolygon,201170.749999995,8377.400000000,,0,0,,subdel,1,16,651,625,26,0,0,0,0,0,Entre 15 y 20 años,,,,0
+7,Transportes y comunicaciones,MORELOS,MORELOS,Morelos,202608,Polygon,0,,,3885.42,,,subdel,1,17,0,0,0,0,10,10,0,0,Entre 15 y 20 años,,388.542,,10
+7,Transportes y comunicaciones,MORELOS,MORELOS,Morelos,202608,Polygon,199544.539999995,20096.000000000,,0,0,,subdel,1,17,689,626,63,0,0,0,0,0,Entre 15 y 20 años,,,,0
+7,Transportes y comunicaciones,NAYARIT,NAYARIT,Nayarit,202608,MultiPolygon,0,,,5233.22,,,subdel,1,18,0,0,0,0,11,11,0,0,Entre 15 y 20 años,,475.747272727,,11
+7,Transportes y comunicaciones,NAYARIT,NAYARIT,Nayarit,202608,MultiPolygon,94813.719999998,5371.210000000,,0,0,,subdel,1,18,315,298,17,0,0,0,0,0,Entre 15 y 20 años,,,,0
+7,Transportes y comunicaciones,NUEVO LEÓN,NUEVO LEÓN,Nuevo León,202608,Polygon,650419.959999985,56869.149999999,,0,0,,subdel,1,19,2212,2034,178,0,0,0,0,0,Entre 15 y 20 años,,,,0
+7,Transportes y comunicaciones,NUEVO LEÓN,NUEVO LEÓN,Nuevo León,202608,Polygon,0,0,,46732.21,2077.78,,subdel,1,19,0,0,0,0,114,109,5,0,Entre 15 y 20 años,415.556,428.735871560,,114
+7,Transportes y comunicaciones,OAXACA,OAXACA,Oaxaca,202608,MultiPolygon,144989.379999997,12095.760000000,,0,0,,subdel,1,20,493,455,38,0,0,0,0,0,Entre 15 y 20 años,,,,0
+7,Transportes y comunicaciones,OAXACA,OAXACA,Oaxaca,202608,MultiPolygon,0,0,,8382.06,330.57,,subdel,1,20,0,0,0,0,22,21,1,0,Entre 15 y 20 años,330.57,399.145714286,,22
+7,Transportes y comunicaciones,PUEBLA,PUEBLA,Puebla,202608,Polygon,372328.339999991,24992.429999999,,0,0,,subdel,1,21,1238,1160,78,0,0,0,0,0,Entre 15 y 20 años,,,,0
+7,Transportes y comunicaciones,PUEBLA,PUEBLA,Puebla,202608,Polygon,0,0,,18317.78,661.15,,subdel,1,21,0,0,0,0,50,48,2,0,Entre 15 y 20 años,330.575,381.620416667,,50
+7,Transportes y comunicaciones,QUERÉTARO,QUERÉTARO,Querétaro,202608,Polygon,0,,,8371.51,,,subdel,1,22,0,0,0,0,22,22,0,0,Entre 15 y 20 años,,380.523181818,,22
+7,Transportes y comunicaciones,QUERÉTARO,QUERÉTARO,Querétaro,202608,Polygon,188287.399999996,9229.340000000,,0,0,,subdel,1,22,617,588,29,0,0,0,0,0,Entre 15 y 20 años,,,,0
+7,Transportes y comunicaciones,QUINTANA ROO,QUINTANA ROO,Quintana Roo,202608,MultiPolygon,0,,,9059.43,,,subdel,1,23,0,0,0,0,22,22,0,0,Entre 15 y 20 años,,411.792272727,,22
+7,Transportes y comunicaciones,QUINTANA ROO,QUINTANA ROO,Quintana Roo,202608,MultiPolygon,258969.509999994,16490.790000000,,0,0,,subdel,1,23,865,813,52,0,0,0,0,0,Entre 15 y 20 años,,,,0
+7,Transportes y comunicaciones,SAN LUIS POTOSÍ,SAN LUIS POTOSÍ,San Luis Potosí,202608,Polygon,251013.629999994,25560.389999999,,0,0,,subdel,1,24,864,784,80,0,0,0,0,0,Entre 15 y 20 años,,,,0
+7,Transportes y comunicaciones,SAN LUIS POTOSÍ,SAN LUIS POTOSÍ,San Luis Potosí,202608,Polygon,0,0,,12104.78,705.53,,subdel,1,24,0,0,0,0,34,32,2,0,Entre 15 y 20 años,352.765,378.274375,,34
+7,Transportes y comunicaciones,SINALOA,SINALOA,Sinaloa,202608,MultiPolygon,326296.519999993,22270.219999999,,0,0,,subdel,1,25,1096,1026,70,0,0,0,0,0,Entre 15 y 20 años,,,,0
+7,Transportes y comunicaciones,SINALOA,SINALOA,Sinaloa,202608,MultiPolygon,0,0,,24372.55,432.05,,subdel,1,25,0,0,0,0,64,63,1,0,Entre 15 y 20 años,432.05,386.865873016,,64
+7,Transportes y comunicaciones,SONORA,SONORA,Sonora,202608,MultiPolygon,216423.579999995,23923.069999999,,0,0,,subdel,1,26,753,678,75,0,0,0,0,0,Entre 15 y 20 años,,,,0
+7,Transportes y comunicaciones,SONORA,SONORA,Sonora,202608,MultiPolygon,0,0,,18425.08,1105.94,,subdel,1,26,0,0,0,0,48,45,3,0,Entre 15 y 20 años,368.646666667,409.446222222,,48
+7,Transportes y comunicaciones,TABASCO,TABASCO,Tabasco,202608,MultiPolygon,135378.439999997,12725.840000000,,0,0,,subdel,1,27,464,424,40,0,0,0,0,0,Entre 15 y 20 años,,,,0
+7,Transportes y comunicaciones,TABASCO,TABASCO,Tabasco,202608,MultiPolygon,0,0,,7065.66,371.69,,subdel,1,27,0,0,0,0,18,17,1,0,Entre 15 y 20 años,371.69,415.627058824,,18
+7,Transportes y comunicaciones,TAMAULIPAS,TAMAULIPAS,Tamaulipas,202608,MultiPolygon,271364.779999994,28617.609999999,,0,0,,subdel,1,28,942,852,90,0,0,0,0,0,Entre 15 y 20 años,,,,0
+7,Transportes y comunicaciones,TAMAULIPAS,TAMAULIPAS,Tamaulipas,202608,MultiPolygon,0,0,,23050.67,1903.05,,subdel,1,28,0,0,0,0,58,53,5,0,Entre 15 y 20 años,380.61,434.918301887,,58
+7,Transportes y comunicaciones,TLAXCALA,TLAXCALA,Tlaxcala,202608,Polygon,0,,,2149.18,,,subdel,1,29,0,0,0,0,6,6,0,0,Entre 15 y 20 años,,358.196666667,,6
+7,Transportes y comunicaciones,TLAXCALA,TLAXCALA,Tlaxcala,202608,Polygon,63908.739999999,2897.480000000,,0,0,,subdel,1,29,209,200,9,0,0,0,0,0,Entre 15 y 20 años,,,,0
+7,Transportes y comunicaciones,VERACRUZ,VERACRUZ,Veracruz,202608,MultiPolygon,356250.289999992,29134.539999999,,0,0,,subdel,1,30,1205,1114,91,0,0,0,0,0,Entre 15 y 20 años,,,,0
+7,Transportes y comunicaciones,VERACRUZ,VERACRUZ,Veracruz,202608,MultiPolygon,0,0,,14692.62,1015.07,,subdel,1,30,0,0,0,0,41,38,3,0,Entre 15 y 20 años,338.356666667,386.647894737,,41
+7,Transportes y comunicaciones,YUCATÁN,YUCATÁN,Yucatán,202608,MultiPolygon,171661.279999996,10913.250000000,,0,0,,subdel,1,31,571,537,34,0,0,0,0,0,Entre 15 y 20 años,,,,0
+7,Transportes y comunicaciones,YUCATÁN,YUCATÁN,Yucatán,202608,MultiPolygon,0,0,,4572.36,395.44,,subdel,1,31,0,0,0,0,12,11,1,0,Entre 15 y 20 años,395.44,415.669090909,,12
+7,Transportes y comunicaciones,ZACATECAS,ZACATECAS,Zacatecas,202608,Polygon,0,,,2227.35,,,subdel,1,32,0,0,0,0,5,5,0,0,Entre 15 y 20 años,,445.47,,5
+7,Transportes y comunicaciones,ZACATECAS,ZACATECAS,Zacatecas,202608,Polygon,76727.759999998,3796.010000000,,0,0,,subdel,1,32,252,240,12,0,0,0,0,0,Entre 15 y 20 años,,,,0
+7,Transportes y comunicaciones,EXTRANJERO/EXTRANJERA,,Extranjero/Extranjera,202608,,564032.499999987,59926.369999999,,0,0,,subdel,1,,1946,1758,188,0,0,0,0,0,Entre 20 y 25 años,,,,0
+7,Transportes y comunicaciones,EXTRANJERO/EXTRANJERA,,Extranjero/Extranjera,202608,,0,0,,62103.16,1933.21,,subdel,1,,0,0,0,0,148,144,4,0,Entre 20 y 25 años,483.3025,431.271944444,,148
+7,Transportes y comunicaciones,AGUASCALIENTES,AGUASCALIENTES,Aguascalientes,202608,Polygon,876942.27999998,72854.099999998,,0,0,,subdel,1,1,2956,2728,228,0,0,0,0,0,Entre 20 y 25 años,,,,0
+7,Transportes y comunicaciones,AGUASCALIENTES,AGUASCALIENTES,Aguascalientes,202608,Polygon,0,0,,46584.37,2335.7,,subdel,1,1,0,0,0,0,128,121,7,0,Entre 20 y 25 años,333.671428571,384.994793388,,128
+7,Transportes y comunicaciones,BAJA CALIFORNIA,BAJA CALIFORNIA,Baja California,202608,MultiPolygon,1870580.60999996,177894.149999996,,0,0,,subdel,1,2,6399,5841,558,0,0,0,0,0,Entre 20 y 25 años,,,,0
+7,Transportes y comunicaciones,BAJA CALIFORNIA,BAJA CALIFORNIA,Baja California,202608,MultiPolygon,0,0,,245637.21,8711.38,,subdel,1,2,0,0,0,0,595,572,23,0,Entre 20 y 25 años,378.755652174,429.435681818,,595
+7,Transportes y comunicaciones,BAJA CALIFORNIA SUR,BAJA CALIFORNIA SUR,Baja California Sur,202608,MultiPolygon,422041.73999999,43502.139999999,,0,0,,subdel,1,3,1457,1320,137,0,0,0,0,0,Entre 20 y 25 años,,,,0
+7,Transportes y comunicaciones,BAJA CALIFORNIA SUR,BAJA CALIFORNIA SUR,Baja California Sur,202608,MultiPolygon,0,0,,38812.31,2546.91,,subdel,1,3,0,0,0,0,104,97,7,0,Entre 20 y 25 años,363.844285714,400.126907216,,104
+7,Transportes y comunicaciones,CAMPECHE,CAMPECHE,Campeche,202608,MultiPolygon,637467.369999986,48114.589999999,,0,0,,subdel,1,4,2154,2003,151,0,0,0,0,0,Entre 20 y 25 años,,,,0
+7,Transportes y comunicaciones,CAMPECHE,CAMPECHE,Campeche,202608,MultiPolygon,0,0,,30053.72,1302.73,,subdel,1,4,0,0,0,0,79,76,3,0,Entre 20 y 25 años,434.243333333,395.443684211,,79
+7,Transportes y comunicaciones,COAHUILA DE ZARAGOZA,COAHUILA DE ZARAGOZA,Coahuila de Zaragoza,202608,Polygon,1663679.49999996,141755.119999997,,0,0,,subdel,1,5,5660,5215,445,0,0,0,0,0,Entre 20 y 25 años,,,,0
+7,Transportes y comunicaciones,COAHUILA DE ZARAGOZA,COAHUILA DE ZARAGOZA,Coahuila de Zaragoza,202608,Polygon,0,0,,143250.33,7507.81,,subdel,1,5,0,0,0,0,358,340,18,0,Entre 20 y 25 años,417.100555556,421.3245,,358
+7,Transportes y comunicaciones,COLIMA,COLIMA,Colima,202608,MultiPolygon,487309.139999989,56904.649999999,,0,0,,subdel,1,6,1706,1527,179,0,0,0,0,0,Entre 20 y 25 años,,,,0
+7,Transportes y comunicaciones,COLIMA,COLIMA,Colima,202608,MultiPolygon,0,0,,30035.79,1462.46,,subdel,1,6,0,0,0,0,78,74,4,0,Entre 20 y 25 años,365.615,405.889054054,,78
+7,Transportes y comunicaciones,CHIAPAS,CHIAPAS,Chiapas,202608,MultiPolygon,1621571.57999996,106368.139999998,,0,0,,subdel,1,7,5409,5076,333,0,0,0,0,0,Entre 20 y 25 años,,,,0
+7,Transportes y comunicaciones,CHIAPAS,CHIAPAS,Chiapas,202608,MultiPolygon,0,0,,141871.35,6121.42,,subdel,1,7,0,0,0,0,347,334,13,0,Entre 20 y 25 años,470.878461538,424.764520958,,347
+7,Transportes y comunicaciones,CHIHUAHUA,CHIHUAHUA,Chihuahua,202608,Polygon,2404037.27999995,386372.719999991,,0,0,,subdel,1,8,8749,7536,1213,0,0,0,0,0,Entre 20 y 25 años,,,,0
+7,Transportes y comunicaciones,CHIHUAHUA,CHIHUAHUA,Chihuahua,202608,Polygon,0,0,,200515.88,10913.14,,subdel,1,8,0,0,0,0,520,491,29,0,Entre 20 y 25 años,376.315172414,408.382647658,,520
+7,Transportes y comunicaciones,CIUDAD DE MÉXICO,CIUDAD DE MÉXICO,Ciudad de México,202608,Polygon,0,0,,582801.04,33668.25,,subdel,1,9,0,0,0,0,1637,1545,92,0,Entre 20 y 25 años,365.959239130,377.217501618,,1637
+7,Transportes y comunicaciones,DURANGO,DURANGO,Durango,202608,Polygon,1014659.39999998,93444.849999998,,0,0,,subdel,1,10,3468,3174,294,0,0,0,0,0,Entre 20 y 25 años,,,,0
+7,Transportes y comunicaciones,DURANGO,DURANGO,Durango,202608,Polygon,0,0,,60424.79,3009.63,,subdel,1,10,0,0,0,0,158,151,7,0,Entre 20 y 25 años,429.947142857,400.164172185,,158
+7,Transportes y comunicaciones,GUANAJUATO,GUANAJUATO,Guanajuato,202608,Polygon,3201022.02999993,214673.109999995,,0,0,,subdel,1,11,10632,9960,672,0,0,0,0,0,Entre 20 y 25 años,,,,0
+7,Transportes y comunicaciones,GUANAJUATO,GUANAJUATO,Guanajuato,202608,Polygon,0,0,,193311.61,5147.78,,subdel,1,11,0,0,0,0,524,510,14,0,Entre 20 y 25 años,367.698571429,379.042372549,,524
+7,Transportes y comunicaciones,GUERRERO,GUERRERO,Guerrero,202608,MultiPolygon,973156.169999977,83055.179999998,,0,0,,subdel,1,12,3288,3029,259,0,0,0,0,0,Entre 20 y 25 años,,,,0
+7,Transportes y comunicaciones,GUERRERO,GUERRERO,Guerrero,202608,MultiPolygon,0,0,,74821.02,1430.79,,subdel,1,12,0,0,0,0,186,182,4,0,Entre 20 y 25 años,357.6975,411.104505495,,186
+7,Transportes y comunicaciones,HIDALGO,HIDALGO,Hidalgo,202608,Polygon,552400.349999987,45589.829999999,,0,0,,subdel,1,13,1859,1717,142,0,0,0,0,0,Entre 20 y 25 años,,,,0
+7,Transportes y comunicaciones,HIDALGO,HIDALGO,Hidalgo,202608,Polygon,0,0,,35846.15,330.47,,subdel,1,13,0,0,0,0,91,90,1,0,Entre 20 y 25 años,330.47,398.290555556,,91
+7,Transportes y comunicaciones,JALISCO,JALISCO,Jalisco,202608,MultiPolygon,6519532.72999985,503731.139999988,,0,0,,subdel,1,14,21838,20264,1574,0,0,0,0,0,Entre 20 y 25 años,,,,0
+7,Transportes y comunicaciones,JALISCO,JALISCO,Jalisco,202608,MultiPolygon,0,0,,548714.33,17457.3,,subdel,1,14,0,0,0,0,1413,1367,46,0,Entre 20 y 25 años,379.506521739,401.400387710,,1413
+7,Transportes y comunicaciones,MÉXICO,MÉXICO,México,202608,Polygon,11828529.2099997,928835.389999979,,0,0,,subdel,1,15,39827,36923,2904,0,0,0,0,0,Entre 20 y 25 años,,,,0
+7,Transportes y comunicaciones,MÉXICO,MÉXICO,México,202608,Polygon,0,0,,540502.94,16890.48,,subdel,1,15,0,0,0,0,1459,1414,45,0,Entre 20 y 25 años,375.344,382.251018388,,1459
+7,Transportes y comunicaciones,MICHOACÁN DE OCAMPO,MICHOACÁN DE OCAMPO,Michoacán de Ocampo,202608,MultiPolygon,1450408.74999997,90514.079999998,,0,0,,subdel,1,16,4776,4495,281,0,0,0,0,0,Entre 20 y 25 años,,,,0
+7,Transportes y comunicaciones,MICHOACÁN DE OCAMPO,MICHOACÁN DE OCAMPO,Michoacán de Ocampo,202608,MultiPolygon,0,0,,83448.05,2470.94,,subdel,1,16,0,0,0,0,224,218,6,0,Entre 20 y 25 años,411.823333333,382.789220183,,224
+7,Transportes y comunicaciones,MORELOS,MORELOS,Morelos,202608,Polygon,1292822.49999997,114166.489999997,,0,0,,subdel,1,17,4402,4044,358,0,0,0,0,0,Entre 20 y 25 años,,,,0
+7,Transportes y comunicaciones,MORELOS,MORELOS,Morelos,202608,Polygon,0,0,,62047.1,1733.51,,subdel,1,17,0,0,0,0,154,149,5,0,Entre 20 y 25 años,346.702,416.423489933,,154
+7,Transportes y comunicaciones,NAYARIT,NAYARIT,Nayarit,202608,MultiPolygon,606116.139999986,45423.439999999,,0,0,,subdel,1,18,2049,1906,143,0,0,0,0,0,Entre 20 y 25 años,,,,0
+7,Transportes y comunicaciones,NAYARIT,NAYARIT,Nayarit,202608,MultiPolygon,0,0,,37769.54,724.06,,subdel,1,18,0,0,0,0,96,94,2,0,Entre 20 y 25 años,362.03,401.803617021,,96
+7,Transportes y comunicaciones,NUEVO LEÓN,NUEVO LEÓN,Nuevo León,202608,Polygon,3996139.24999991,396846.069999991,,0,0,,subdel,1,19,13672,12432,1240,0,0,0,0,0,Entre 20 y 25 años,,,,0
+7,Transportes y comunicaciones,NUEVO LEÓN,NUEVO LEÓN,Nuevo León,202608,Polygon,0,0,,516237.44,22960.95,,subdel,1,19,0,0,0,0,1241,1191,50,0,Entre 20 y 25 años,459.219,433.448732158,,1241
+7,Transportes y comunicaciones,OAXACA,OAXACA,Oaxaca,202608,MultiPolygon,1155928.48999997,75658.399999998,,0,0,,subdel,1,20,3857,3620,237,0,0,0,0,0,Entre 20 y 25 años,,,,0
+7,Transportes y comunicaciones,OAXACA,OAXACA,Oaxaca,202608,MultiPolygon,0,0,,77519.01,3154.02,,subdel,1,20,0,0,0,0,197,190,7,0,Entre 20 y 25 años,450.574285714,407.994789474,,197
+7,Transportes y comunicaciones,PUEBLA,PUEBLA,Puebla,202608,Polygon,2684520.07999994,171179.089999996,,0,0,,subdel,1,21,8880,8346,534,0,0,0,0,0,Entre 20 y 25 años,,,,0
+7,Transportes y comunicaciones,PUEBLA,PUEBLA,Puebla,202608,Polygon,0,0,,163689.9,4366.05,,subdel,1,21,0,0,0,0,421,409,12,0,Entre 20 y 25 años,363.8375,400.219804401,,421
+7,Transportes y comunicaciones,QUERÉTARO,QUERÉTARO,Querétaro,202608,Polygon,1171138.80999997,80111.109999998,,0,0,,subdel,1,22,3896,3646,250,0,0,0,0,0,Entre 20 y 25 años,,,,0
+7,Transportes y comunicaciones,QUERÉTARO,QUERÉTARO,Querétaro,202608,Polygon,0,0,,77237.76,645.61,,subdel,1,22,0,0,0,0,197,195,2,0,Entre 20 y 25 años,322.805,396.091076923,,197
+7,Transportes y comunicaciones,QUINTANA ROO,QUINTANA ROO,Quintana Roo,202608,MultiPolygon,1366233.40999997,133126.569999997,,0,0,,subdel,1,23,4693,4276,417,0,0,0,0,0,Entre 20 y 25 años,,,,0
+7,Transportes y comunicaciones,QUINTANA ROO,QUINTANA ROO,Quintana Roo,202608,MultiPolygon,0,0,,64325.59,4750.43,,subdel,1,23,0,0,0,0,164,153,11,0,Entre 20 y 25 años,431.857272727,420.428692810,,164
+7,Transportes y comunicaciones,SAN LUIS POTOSÍ,SAN LUIS POTOSÍ,San Luis Potosí,202608,Polygon,1620457.41999996,163768.679999996,,0,0,,subdel,1,24,5562,5051,511,0,0,0,0,0,Entre 20 y 25 años,,,,0
+7,Transportes y comunicaciones,SAN LUIS POTOSÍ,SAN LUIS POTOSÍ,San Luis Potosí,202608,Polygon,0,0,,101265.93,4124.71,,subdel,1,24,0,0,0,0,260,249,11,0,Entre 20 y 25 años,374.973636364,406.690481928,,260
+7,Transportes y comunicaciones,SINALOA,SINALOA,Sinaloa,202608,MultiPolygon,2150188.30999995,148696.649999997,,0,0,,subdel,1,25,7225,6757,468,0,0,0,0,0,Entre 20 y 25 años,,,,0
+7,Transportes y comunicaciones,SINALOA,SINALOA,Sinaloa,202608,MultiPolygon,0,0,,169182.14,8164.29,,subdel,1,25,0,0,0,0,428,407,21,0,Entre 20 y 25 años,388.775714286,415.680933661,,428
+7,Transportes y comunicaciones,SONORA,SONORA,Sonora,202608,MultiPolygon,1491771.56999997,162203.429999996,,0,0,,subdel,1,26,5179,4670,509,0,0,0,0,0,Entre 20 y 25 años,,,,0
+7,Transportes y comunicaciones,SONORA,SONORA,Sonora,202608,MultiPolygon,0,0,,145005.63,4543.82,,subdel,1,26,0,0,0,0,361,349,12,0,Entre 20 y 25 años,378.651666667,415.488911175,,361
+7,Transportes y comunicaciones,TABASCO,TABASCO,Tabasco,202608,MultiPolygon,1367787.28999997,99281.959999998,,0,0,,subdel,1,27,4592,4281,311,0,0,0,0,0,Entre 20 y 25 años,,,,0
+7,Transportes y comunicaciones,TABASCO,TABASCO,Tabasco,202608,MultiPolygon,0,0,,76992.02,1659.24,,subdel,1,27,0,0,0,0,191,186,5,0,Entre 20 y 25 años,331.848,413.935591398,,191
+7,Transportes y comunicaciones,TAMAULIPAS,TAMAULIPAS,Tamaulipas,202608,MultiPolygon,1805081.24999996,207285.209999995,,0,0,,subdel,1,28,6318,5666,652,0,0,0,0,0,Entre 20 y 25 años,,,,0
+7,Transportes y comunicaciones,TAMAULIPAS,TAMAULIPAS,Tamaulipas,202608,MultiPolygon,0,0,,202760.12,13647.31,,subdel,1,28,0,0,0,0,491,456,35,0,Entre 20 y 25 años,389.923142857,444.649385965,,491
+7,Transportes y comunicaciones,TLAXCALA,TLAXCALA,Tlaxcala,202608,Polygon,461954.389999989,16299.990000000,,0,0,,subdel,1,29,1496,1445,51,0,0,0,0,0,Entre 20 y 25 años,,,,0
+7,Transportes y comunicaciones,TLAXCALA,TLAXCALA,Tlaxcala,202608,Polygon,0,0,,19438.05,1166.46,,subdel,1,29,0,0,0,0,53,50,3,0,Entre 20 y 25 años,388.82,388.761,,53
+7,Transportes y comunicaciones,VERACRUZ,VERACRUZ,Veracruz,202608,MultiPolygon,3005132.79999993,264757.519999994,,0,0,,subdel,1,30,10224,9398,826,0,0,0,0,0,Entre 20 y 25 años,,,,0
+7,Transportes y comunicaciones,VERACRUZ,VERACRUZ,Veracruz,202608,MultiPolygon,0,0,,215928.3,9363.27,,subdel,1,30,0,0,0,0,528,504,24,0,Entre 20 y 25 años,390.13625,428.429166667,,528
+7,Transportes y comunicaciones,YUCATÁN,YUCATÁN,Yucatán,202608,MultiPolygon,1623139.72999996,130643.959999997,,0,0,,subdel,1,31,5478,5071,407,0,0,0,0,0,Entre 20 y 25 años,,,,0
+7,Transportes y comunicaciones,YUCATÁN,YUCATÁN,Yucatán,202608,MultiPolygon,0,0,,87362.82,5147.57,,subdel,1,31,0,0,0,0,226,212,14,0,Entre 20 y 25 años,367.683571429,412.088773585,,226
+7,Transportes y comunicaciones,ZACATECAS,ZACATECAS,Zacatecas,202608,Polygon,458263.319999989,37418.759999999,,0,0,,subdel,1,32,1545,1428,117,0,0,0,0,0,Entre 20 y 25 años,,,,0
+7,Transportes y comunicaciones,ZACATECAS,ZACATECAS,Zacatecas,202608,Polygon,0,0,,24301.23,634.3,,subdel,1,32,0,0,0,0,62,61,1,0,Entre 20 y 25 años,634.3,398.380819672,,62
+7,Transportes y comunicaciones,EXTRANJERO/EXTRANJERA,,Extranjero/Extranjera,202608,,782520.379999982,75894.659999998,,0,0,,subdel,1,,2667,2431,236,0,0,0,0,0,Entre 25 y 30 años,,,,0
+7,Transportes y comunicaciones,EXTRANJERO/EXTRANJERA,,Extranjero/Extranjera,202608,,0,0,,151145.03,4747.36,,subdel,1,,0,0,0,0,342,330,12,0,Entre 25 y 30 años,395.613333333,458.015242424,,342
+7,Transportes y comunicaciones,AGUASCALIENTES,AGUASCALIENTES,Aguascalientes,202608,Polygon,1015700.12999998,108600.039999998,,0,0,,subdel,1,1,3502,3163,339,0,0,0,0,0,Entre 25 y 30 años,,,,0
+7,Transportes y comunicaciones,AGUASCALIENTES,AGUASCALIENTES,Aguascalientes,202608,Polygon,0,0,,72759.37,4823.18,,subdel,1,1,0,0,0,0,196,182,14,0,Entre 25 y 30 años,344.512857143,399.776758242,,196
+7,Transportes y comunicaciones,BAJA CALIFORNIA,BAJA CALIFORNIA,Baja California,202608,MultiPolygon,2224044.53999995,274898.989999994,,0,0,,subdel,1,2,7798,6937,861,0,0,0,0,0,Entre 25 y 30 años,,,,0
+7,Transportes y comunicaciones,BAJA CALIFORNIA,BAJA CALIFORNIA,Baja California,202608,MultiPolygon,0,0,,391314.8,18711.95,,subdel,1,2,0,0,0,0,962,913,49,0,Entre 25 y 30 años,381.876530612,428.603285871,,962
+7,Transportes y comunicaciones,BAJA CALIFORNIA SUR,BAJA CALIFORNIA SUR,Baja California Sur,202608,MultiPolygon,408249.629999991,63691.319999999,,0,0,,subdel,1,3,1476,1276,200,0,0,0,0,0,Entre 25 y 30 años,,,,0
+7,Transportes y comunicaciones,BAJA CALIFORNIA SUR,BAJA CALIFORNIA SUR,Baja California Sur,202608,MultiPolygon,0,0,,51643.2,4569.05,,subdel,1,3,0,0,0,0,134,122,12,0,Entre 25 y 30 años,380.754166667,423.304918033,,134
+7,Transportes y comunicaciones,CAMPECHE,CAMPECHE,Campeche,202608,MultiPolygon,869500.78999998,112650.989999997,,0,0,,subdel,1,4,3083,2731,352,0,0,0,0,0,Entre 25 y 30 años,,,,0
+7,Transportes y comunicaciones,CAMPECHE,CAMPECHE,Campeche,202608,MultiPolygon,0,0,,67449.81,3304.43,,subdel,1,4,0,0,0,0,173,164,9,0,Entre 25 y 30 años,367.158888889,411.279329268,,173
+7,Transportes y comunicaciones,COAHUILA DE ZARAGOZA,COAHUILA DE ZARAGOZA,Coahuila de Zaragoza,202608,Polygon,2353372.21999995,253336.479999994,,0,0,,subdel,1,5,8171,7377,794,0,0,0,0,0,Entre 25 y 30 años,,,,0
+7,Transportes y comunicaciones,COAHUILA DE ZARAGOZA,COAHUILA DE ZARAGOZA,Coahuila de Zaragoza,202608,Polygon,0,0,,303187.9,17923.56,,subdel,1,5,0,0,0,0,750,706,44,0,Entre 25 y 30 años,407.353636364,429.444617564,,750
+7,Transportes y comunicaciones,COLIMA,COLIMA,Colima,202608,MultiPolygon,500320.729999989,62100.589999999,,0,0,,subdel,1,6,1759,1564,195,0,0,0,0,0,Entre 25 y 30 años,,,,0
+7,Transportes y comunicaciones,COLIMA,COLIMA,Colima,202608,MultiPolygon,0,0,,34809.32,2813.33,,subdel,1,6,0,0,0,0,88,83,5,0,Entre 25 y 30 años,562.666,419.389397590,,88
+7,Transportes y comunicaciones,CHIAPAS,CHIAPAS,Chiapas,202608,MultiPolygon,2286502.30999995,173189.889999996,,0,0,,subdel,1,7,7692,7150,542,0,0,0,0,0,Entre 25 y 30 años,,,,0
+7,Transportes y comunicaciones,CHIAPAS,CHIAPAS,Chiapas,202608,MultiPolygon,0,0,,263061.12,12381.62,,subdel,1,7,0,0,0,0,652,622,30,0,Entre 25 y 30 años,412.720666667,422.927845659,,652
+7,Transportes y comunicaciones,CHIHUAHUA,CHIHUAHUA,Chihuahua,202608,Polygon,2828099.51999994,561910.699999987,,0,0,,subdel,1,8,10618,8855,1763,0,0,0,0,0,Entre 25 y 30 años,,,,0
+7,Transportes y comunicaciones,CHIHUAHUA,CHIHUAHUA,Chihuahua,202608,Polygon,0,0,,362694.38,36107.7,,subdel,1,8,0,0,0,0,942,848,94,0,Entre 25 y 30 años,384.124468085,427.705636792,,942
+7,Transportes y comunicaciones,CIUDAD DE MÉXICO,CIUDAD DE MÉXICO,Ciudad de México,202608,Polygon,17514366.7299996,1761118.91999996,,0,0,,subdel,1,9,59886,54416,5470,0,0,0,0,0,Entre 25 y 30 años,,,,0
+7,Transportes y comunicaciones,CIUDAD DE MÉXICO,CIUDAD DE MÉXICO,Ciudad de México,202608,Polygon,0,0,,1328077.66,80089.35,,subdel,1,9,0,0,0,0,3608,3402,206,0,Entre 25 y 30 años,388.783252427,390.381440329,,3608
+7,Transportes y comunicaciones,DURANGO,DURANGO,Durango,202608,Polygon,1216355.71999997,141452.939999997,,0,0,,subdel,1,10,4238,3796,442,0,0,0,0,0,Entre 25 y 30 años,,,,0
+7,Transportes y comunicaciones,DURANGO,DURANGO,Durango,202608,Polygon,0,0,,94716.21,6713.61,,subdel,1,10,0,0,0,0,251,233,18,0,Entre 25 y 30 años,372.978333333,406.507339056,,251
+7,Transportes y comunicaciones,GUANAJUATO,GUANAJUATO,Guanajuato,202608,Polygon,3684060.07999991,284575.019999993,,0,0,,subdel,1,11,12342,11456,886,0,0,0,0,0,Entre 25 y 30 años,,,,0
+7,Transportes y comunicaciones,GUANAJUATO,GUANAJUATO,Guanajuato,202608,Polygon,0,0,,333452.42,12349.07,,subdel,1,11,0,0,0,0,897,862,35,0,Entre 25 y 30 años,352.830571429,386.835754060,,897
+7,Transportes y comunicaciones,GUERRERO,GUERRERO,Guerrero,202608,MultiPolygon,1342910.74999997,130530.809999997,,0,0,,subdel,1,12,4581,4175,406,0,0,0,0,0,Entre 25 y 30 años,,,,0
+7,Transportes y comunicaciones,GUERRERO,GUERRERO,Guerrero,202608,MultiPolygon,0,0,,147817.29,7832.83,,subdel,1,12,0,0,0,0,358,336,22,0,Entre 25 y 30 años,356.037727273,439.932410714,,358
+7,Transportes y comunicaciones,HIDALGO,HIDALGO,Hidalgo,202608,Polygon,765015.819999982,64343.579999999,,0,0,,subdel,1,13,2576,2376,200,0,0,0,0,0,Entre 25 y 30 años,,,,0
+7,Transportes y comunicaciones,HIDALGO,HIDALGO,Hidalgo,202608,Polygon,0,0,,86401.71,4277.26,,subdel,1,13,0,0,0,0,207,195,12,0,Entre 25 y 30 años,356.438333333,443.085692308,,207
+7,Transportes y comunicaciones,JALISCO,JALISCO,Jalisco,202608,MultiPolygon,7786162.79999982,673589.069999984,,0,0,,subdel,1,14,26262,24166,2096,0,0,0,0,0,Entre 25 y 30 años,,,,0
+7,Transportes y comunicaciones,JALISCO,JALISCO,Jalisco,202608,MultiPolygon,0,0,,958412.14,39854.72,,subdel,1,14,0,0,0,0,2425,2314,111,0,Entre 25 y 30 años,359.051531532,414.179835782,,2425
+7,Transportes y comunicaciones,MÉXICO,MÉXICO,México,202608,Polygon,13632660.2099997,1111844.74999997,,0,0,,subdel,1,15,45931,42467,3464,0,0,0,0,0,Entre 25 y 30 años,,,,0
+7,Transportes y comunicaciones,MÉXICO,MÉXICO,México,202608,Polygon,0,0,,993688.9,38887.94,,subdel,1,15,0,0,0,0,2626,2523,103,0,Entre 25 y 30 años,377.552815534,393.852120491,,2626
+7,Transportes y comunicaciones,MICHOACÁN DE OCAMPO,MICHOACÁN DE OCAMPO,Michoacán de Ocampo,202608,MultiPolygon,1761809.81999996,129631.899999997,,0,0,,subdel,1,16,5863,5461,402,0,0,0,0,0,Entre 25 y 30 años,,,,0
+7,Transportes y comunicaciones,MICHOACÁN DE OCAMPO,MICHOACÁN DE OCAMPO,Michoacán de Ocampo,202608,MultiPolygon,0,0,,159721.89,7902.89,,subdel,1,16,0,0,0,0,425,403,22,0,Entre 25 y 30 años,359.222272727,396.332233251,,425
+7,Transportes y comunicaciones,MORELOS,MORELOS,Morelos,202608,Polygon,1394411.21999997,146648.879999997,,0,0,,subdel,1,17,4817,4359,458,0,0,0,0,0,Entre 25 y 30 años,,,,0
+7,Transportes y comunicaciones,MORELOS,MORELOS,Morelos,202608,Polygon,0,0,,86368.18,5084.54,,subdel,1,17,0,0,0,0,227,215,12,0,Entre 25 y 30 años,423.711666667,401.712465116,,227
+7,Transportes y comunicaciones,NAYARIT,NAYARIT,Nayarit,202608,MultiPolygon,766356.309999983,57312.869999999,,0,0,,subdel,1,18,2587,2407,180,0,0,0,0,0,Entre 25 y 30 años,,,,0
+7,Transportes y comunicaciones,NAYARIT,NAYARIT,Nayarit,202608,MultiPolygon,0,0,,69924.76,2811.84,,subdel,1,18,0,0,0,0,181,173,8,0,Entre 25 y 30 años,351.48,404.189364162,,181
+7,Transportes y comunicaciones,NUEVO LEÓN,NUEVO LEÓN,Nuevo León,202608,Polygon,5252894.08999988,587629.039999986,,0,0,,subdel,1,19,18155,16326,1829,0,0,0,0,0,Entre 25 y 30 años,,,,0
+7,Transportes y comunicaciones,NUEVO LEÓN,NUEVO LEÓN,Nuevo León,202608,Polygon,0,0,,1025790.68,48166.87,,subdel,1,19,0,0,0,0,2391,2270,121,0,Entre 25 y 30 años,398.073305785,451.890167401,,2391
+7,Transportes y comunicaciones,OAXACA,OAXACA,Oaxaca,202608,MultiPolygon,1589032.80999996,129516.919999997,,0,0,,subdel,1,20,5367,4962,405,0,0,0,0,0,Entre 25 y 30 años,,,,0
+7,Transportes y comunicaciones,OAXACA,OAXACA,Oaxaca,202608,MultiPolygon,0,0,,175131.72,7038.39,,subdel,1,20,0,0,0,0,414,396,18,0,Entre 25 y 30 años,391.021666667,442.251818182,,414
+7,Transportes y comunicaciones,PUEBLA,PUEBLA,Puebla,202608,Polygon,0,0,,356241.63,15403.84,,subdel,1,21,0,0,0,0,928,888,40,0,Entre 25 y 30 años,385.096,401.173006757,,928
+7,Transportes y comunicaciones,QUERÉTARO,QUERÉTARO,Querétaro,202608,Polygon,1387661.46999997,144155.179999997,,0,0,,subdel,1,22,4766,4317,449,0,0,0,0,0,Entre 25 y 30 años,,,,0
+7,Transportes y comunicaciones,QUERÉTARO,QUERÉTARO,Querétaro,202608,Polygon,0,0,,142412.37,9255.93,,subdel,1,22,0,0,0,0,378,352,26,0,Entre 25 y 30 años,355.997307692,404.580596591,,378
+7,Transportes y comunicaciones,QUINTANA ROO,QUINTANA ROO,Quintana Roo,202608,MultiPolygon,1518965.12999996,172406.719999996,,0,0,,subdel,1,23,5278,4741,537,0,0,0,0,0,Entre 25 y 30 años,,,,0
+7,Transportes y comunicaciones,QUINTANA ROO,QUINTANA ROO,Quintana Roo,202608,MultiPolygon,0,0,,131775.35,4278.06,,subdel,1,23,0,0,0,0,319,307,12,0,Entre 25 y 30 años,356.505,429.235667752,,319
+7,Transportes y comunicaciones,SAN LUIS POTOSÍ,SAN LUIS POTOSÍ,San Luis Potosí,202608,Polygon,2116369.64999995,242400.389999994,,0,0,,subdel,1,24,7356,6600,756,0,0,0,0,0,Entre 25 y 30 años,,,,0
+7,Transportes y comunicaciones,SAN LUIS POTOSÍ,SAN LUIS POTOSÍ,San Luis Potosí,202608,Polygon,0,0,,194879.52,9723.77,,subdel,1,24,0,0,0,0,492,465,27,0,Entre 25 y 30 años,360.139629630,419.095741935,,492
+7,Transportes y comunicaciones,SINALOA,SINALOA,Sinaloa,202608,MultiPolygon,2660488.38999994,259912.489999994,,0,0,,subdel,1,25,9165,8349,816,0,0,0,0,0,Entre 25 y 30 años,,,,0
+7,Transportes y comunicaciones,SINALOA,SINALOA,Sinaloa,202608,MultiPolygon,0,0,,296124.35,14502.08,,subdel,1,25,0,0,0,0,731,694,37,0,Entre 25 y 30 años,391.948108108,426.692146974,,731
+7,Transportes y comunicaciones,SONORA,SONORA,Sonora,202608,MultiPolygon,1955377.28999996,240579.739999994,,0,0,,subdel,1,26,6878,6125,753,0,0,0,0,0,Entre 25 y 30 años,,,,0
+7,Transportes y comunicaciones,SONORA,SONORA,Sonora,202608,MultiPolygon,0,0,,270628.61,22701.05,,subdel,1,26,0,0,0,0,697,636,61,0,Entre 25 y 30 años,372.148360656,425.516682390,,697
+7,Transportes y comunicaciones,TABASCO,TABASCO,Tabasco,202608,MultiPolygon,1824080.00999996,159203.889999996,,0,0,,subdel,1,27,6201,5703,498,0,0,0,0,0,Entre 25 y 30 años,,,,0
+7,Transportes y comunicaciones,TABASCO,TABASCO,Tabasco,202608,MultiPolygon,0,0,,170212.63,8054.62,,subdel,1,27,0,0,0,0,411,390,21,0,Entre 25 y 30 años,383.553333333,436.442641026,,411
+7,Transportes y comunicaciones,TAMAULIPAS,TAMAULIPAS,Tamaulipas,202608,MultiPolygon,2334101.92999995,304335.269999993,,0,0,,subdel,1,28,8272,7315,957,0,0,0,0,0,Entre 25 y 30 años,,,,0
+7,Transportes y comunicaciones,TAMAULIPAS,TAMAULIPAS,Tamaulipas,202608,MultiPolygon,0,0,,382737.3,28372.57,,subdel,1,28,0,0,0,0,918,850,68,0,Entre 25 y 30 años,417.243676471,450.279176471,,918
+7,Transportes y comunicaciones,TLAXCALA,TLAXCALA,Tlaxcala,202608,Polygon,653949.729999985,32770.809999999,,0,0,,subdel,1,29,2144,2042,102,0,0,0,0,0,Entre 25 y 30 años,,,,0
+7,Transportes y comunicaciones,TLAXCALA,TLAXCALA,Tlaxcala,202608,Polygon,0,0,,37448.07,681.92,,subdel,1,29,0,0,0,0,95,93,2,0,Entre 25 y 30 años,340.96,402.667419355,,95
+7,Transportes y comunicaciones,VERACRUZ,VERACRUZ,Veracruz,202608,MultiPolygon,4571942.20999989,436417.21999999,,0,0,,subdel,1,30,15652,14289,1363,0,0,0,0,0,Entre 25 y 30 años,,,,0
+7,Transportes y comunicaciones,VERACRUZ,VERACRUZ,Veracruz,202608,MultiPolygon,0,0,,531540.92,26745.46,,subdel,1,30,0,0,0,0,1261,1200,61,0,Entre 25 y 30 años,438.450163934,442.950766667,,1261
+7,Transportes y comunicaciones,YUCATÁN,YUCATÁN,Yucatán,202608,MultiPolygon,2263186.65999995,230917.629999995,,0,0,,subdel,1,31,7791,7070,721,0,0,0,0,0,Entre 25 y 30 años,,,,0
+7,Transportes y comunicaciones,YUCATÁN,YUCATÁN,Yucatán,202608,MultiPolygon,0,0,,179980.9,10573.52,,subdel,1,31,0,0,0,0,462,434,28,0,Entre 25 y 30 años,377.625714286,414.702534562,,462
+7,Transportes y comunicaciones,ZACATECAS,ZACATECAS,Zacatecas,202608,Polygon,560637.979999987,57541.379999999,,0,0,,subdel,1,32,1922,1743,179,0,0,0,0,0,Entre 25 y 30 años,,,,0
+7,Transportes y comunicaciones,ZACATECAS,ZACATECAS,Zacatecas,202608,Polygon,0,0,,42235.96,4158.69,,subdel,1,32,0,0,0,0,115,104,11,0,Entre 25 y 30 años,378.062727273,406.115,,115
+7,Transportes y comunicaciones,EXTRANJERO/EXTRANJERA,,Extranjero/Extranjera,202608,,932763.549999978,97783.609999998,,0,0,,subdel,1,,3200,2896,304,0,0,0,0,0,Entre 30 y 35 años,,,,0
+7,Transportes y comunicaciones,EXTRANJERO/EXTRANJERA,,Extranjero/Extranjera,202608,,0,0,,209829.5,12569.18,,subdel,1,,0,0,0,0,498,466,32,0,Entre 30 y 35 años,392.786875,450.277896996,,498
+7,Transportes y comunicaciones,AGUASCALIENTES,AGUASCALIENTES,Aguascalientes,202608,Polygon,972845.569999977,108662.159999998,,0,0,,subdel,1,1,3368,3029,339,0,0,0,0,0,Entre 30 y 35 años,,,,0
+7,Transportes y comunicaciones,AGUASCALIENTES,AGUASCALIENTES,Aguascalientes,202608,Polygon,0,0,,99521.5,6955.03,,subdel,1,1,0,0,0,0,269,250,19,0,Entre 30 y 35 años,366.054210526,398.086,,269
+7,Transportes y comunicaciones,BAJA CALIFORNIA,BAJA CALIFORNIA,Baja California,202608,MultiPolygon,1778861.39999996,285321.589999993,,0,0,,subdel,1,2,6442,5549,893,0,0,0,0,0,Entre 30 y 35 años,,,,0
+7,Transportes y comunicaciones,BAJA CALIFORNIA,BAJA CALIFORNIA,Baja California,202608,MultiPolygon,0,0,,353174.11,37036.84,,subdel,1,2,0,0,0,0,900,810,90,0,Entre 30 y 35 años,411.520444444,436.017419753,,900
+7,Transportes y comunicaciones,BAJA CALIFORNIA SUR,BAJA CALIFORNIA SUR,Baja California Sur,202608,MultiPolygon,350382.119999992,69186.769999998,,0,0,,subdel,1,3,1314,1097,217,0,0,0,0,0,Entre 30 y 35 años,,,,0
+7,Transportes y comunicaciones,BAJA CALIFORNIA SUR,BAJA CALIFORNIA SUR,Baja California Sur,202608,MultiPolygon,0,0,,49989.89,5943.77,,subdel,1,3,0,0,0,0,133,117,16,0,Entre 30 y 35 años,371.485625,427.264017094,,133
+7,Transportes y comunicaciones,CAMPECHE,CAMPECHE,Campeche,202608,MultiPolygon,892649.76999998,118794.469999997,,0,0,,subdel,1,4,3175,2803,372,0,0,0,0,0,Entre 30 y 35 años,,,,0
+7,Transportes y comunicaciones,CAMPECHE,CAMPECHE,Campeche,202608,MultiPolygon,0,0,,91018.06,5122.51,,subdel,1,4,0,0,0,0,231,217,14,0,Entre 30 y 35 años,365.893571429,419.438064516,,231
+7,Transportes y comunicaciones,COAHUILA DE ZARAGOZA,COAHUILA DE ZARAGOZA,Coahuila de Zaragoza,202608,Polygon,2459102.50999994,300452.199999993,,0,0,,subdel,1,5,8667,7724,943,0,0,0,0,0,Entre 30 y 35 años,,,,0
+7,Transportes y comunicaciones,COAHUILA DE ZARAGOZA,COAHUILA DE ZARAGOZA,Coahuila de Zaragoza,202608,Polygon,0,0,,414246.11,24892.76,,subdel,1,5,0,0,0,0,994,938,56,0,Entre 30 y 35 años,444.513571429,441.626982942,,994
+7,Transportes y comunicaciones,COLIMA,COLIMA,Colima,202608,MultiPolygon,426315.56999999,69135.739999998,,0,0,,subdel,1,6,1547,1331,216,0,0,0,0,0,Entre 30 y 35 años,,,,0
+7,Transportes y comunicaciones,COLIMA,COLIMA,Colima,202608,MultiPolygon,0,0,,52026.56,4353.61,,subdel,1,6,0,0,0,0,136,124,12,0,Entre 30 y 35 años,362.800833333,419.569032258,,136
+7,Transportes y comunicaciones,CHIAPAS,CHIAPAS,Chiapas,202608,MultiPolygon,2223427.17999995,175617.029999996,,0,0,,subdel,1,7,7502,6952,550,0,0,0,0,0,Entre 30 y 35 años,,,,0
+7,Transportes y comunicaciones,CHIAPAS,CHIAPAS,Chiapas,202608,MultiPolygon,0,0,,337969.29,11440.51,,subdel,1,7,0,0,0,0,797,767,30,0,Entre 30 y 35 años,381.350333333,440.637926988,,797
+7,Transportes y comunicaciones,CHIHUAHUA,CHIHUAHUA,Chihuahua,202608,Polygon,2649063.66999994,582618.409999987,,0,0,,subdel,1,8,10115,8288,1827,0,0,0,0,0,Entre 30 y 35 años,,,,0
+7,Transportes y comunicaciones,CHIHUAHUA,CHIHUAHUA,Chihuahua,202608,Polygon,0,0,,417197.65,50127.71,,subdel,1,8,0,0,0,0,1089,959,130,0,Entre 30 y 35 años,385.597769231,435.034045881,,1089
+7,Transportes y comunicaciones,CIUDAD DE MÉXICO,CIUDAD DE MÉXICO,Ciudad de México,202608,Polygon,18147631.7099996,1885472.69999996,,0,0,,subdel,1,9,62203,56360,5843,0,0,0,0,0,Entre 30 y 35 años,,,,0
+7,Transportes y comunicaciones,CIUDAD DE MÉXICO,CIUDAD DE MÉXICO,Ciudad de México,202608,Polygon,0,0,,2163576.54,119666.82,,subdel,1,9,0,0,0,0,5724,5396,328,0,Entre 30 y 35 años,364.837865854,400.959329133,,5724
+7,Transportes y comunicaciones,DURANGO,DURANGO,Durango,202608,Polygon,1108956.15999997,155557.369999996,,0,0,,subdel,1,10,3949,3462,487,0,0,0,0,0,Entre 30 y 35 años,,,,0
+7,Transportes y comunicaciones,DURANGO,DURANGO,Durango,202608,Polygon,0,0,,135640.56,11434.73,,subdel,1,10,0,0,0,0,346,316,30,0,Entre 30 y 35 años,381.157666667,429.242278481,,346
+7,Transportes y comunicaciones,GUANAJUATO,GUANAJUATO,Guanajuato,202608,Polygon,3469446.40999992,307146.199999993,,0,0,,subdel,1,11,11741,10784,957,0,0,0,0,0,Entre 30 y 35 años,,,,0
+7,Transportes y comunicaciones,GUANAJUATO,GUANAJUATO,Guanajuato,202608,Polygon,0,0,,433948.73,32638.44,,subdel,1,11,0,0,0,0,1182,1094,88,0,Entre 30 y 35 años,370.891363636,396.662458867,,1182
+7,Transportes y comunicaciones,GUERRERO,GUERRERO,Guerrero,202608,MultiPolygon,1302033.81999997,126171.279999997,,0,0,,subdel,1,12,4441,4048,393,0,0,0,0,0,Entre 30 y 35 años,,,,0
+7,Transportes y comunicaciones,GUERRERO,GUERRERO,Guerrero,202608,MultiPolygon,0,0,,183485.95,10607.24,,subdel,1,12,0,0,0,0,451,425,26,0,Entre 30 y 35 años,407.970769231,431.731647059,,451
+7,Transportes y comunicaciones,HIDALGO,HIDALGO,Hidalgo,202608,Polygon,775506.309999982,68532.279999998,,0,0,,subdel,1,13,2623,2410,213,0,0,0,0,0,Entre 30 y 35 años,,,,0
+7,Transportes y comunicaciones,HIDALGO,HIDALGO,Hidalgo,202608,Polygon,0,0,,124676.07,7539.9,,subdel,1,13,0,0,0,0,291,274,17,0,Entre 30 y 35 años,443.523529412,455.022153285,,291
+7,Transportes y comunicaciones,JALISCO,JALISCO,Jalisco,202608,MultiPolygon,6822531.33999984,712682.749999984,,0,0,,subdel,1,14,23395,21179,2216,0,0,0,0,0,Entre 30 y 35 años,,,,0
+7,Transportes y comunicaciones,JALISCO,JALISCO,Jalisco,202608,MultiPolygon,0,0,,1077304.26,64688.35,,subdel,1,14,0,0,0,0,2727,2559,168,0,Entre 30 y 35 años,385.049702381,420.986424385,,2727
+7,Transportes y comunicaciones,MÉXICO,MÉXICO,México,202608,Polygon,11755972.3399997,965663.949999978,,0,0,,subdel,1,15,39584,36580,3004,0,0,0,0,0,Entre 30 y 35 años,,,,0
+7,Transportes y comunicaciones,MÉXICO,MÉXICO,México,202608,Polygon,0,0,,1228786.29,56967.12,,subdel,1,15,0,0,0,0,3203,3052,151,0,Entre 30 y 35 años,377.265695364,402.616739843,,3203
+7,Transportes y comunicaciones,MICHOACÁN DE OCAMPO,MICHOACÁN DE OCAMPO,Michoacán de Ocampo,202608,MultiPolygon,1756710.95999996,163064.479999996,,0,0,,subdel,1,16,5956,5450,506,0,0,0,0,0,Entre 30 y 35 años,,,,0
+7,Transportes y comunicaciones,MICHOACÁN DE OCAMPO,MICHOACÁN DE OCAMPO,Michoacán de Ocampo,202608,MultiPolygon,0,0,,207378.41,14971.82,,subdel,1,16,0,0,0,0,551,510,41,0,Entre 30 y 35 años,365.166341463,406.624333333,,551
+7,Transportes y comunicaciones,MORELOS,MORELOS,Morelos,202608,Polygon,1211588.32999997,128443.119999997,,0,0,,subdel,1,17,4185,3784,401,0,0,0,0,0,Entre 30 y 35 años,,,,0
+7,Transportes y comunicaciones,MORELOS,MORELOS,Morelos,202608,Polygon,0,0,,101003.37,3011.14,,subdel,1,17,0,0,0,0,260,251,9,0,Entre 30 y 35 años,334.571111111,402.403864542,,260
+7,Transportes y comunicaciones,NAYARIT,NAYARIT,Nayarit,202608,MultiPolygon,788173.739999982,73214.059999998,,0,0,,subdel,1,18,2708,2478,230,0,0,0,0,0,Entre 30 y 35 años,,,,0
+7,Transportes y comunicaciones,NAYARIT,NAYARIT,Nayarit,202608,MultiPolygon,0,0,,92030.63,5782.44,,subdel,1,18,0,0,0,0,236,221,15,0,Entre 30 y 35 años,385.496,416.428190045,,236
+7,Transportes y comunicaciones,NUEVO LEÓN,NUEVO LEÓN,Nuevo León,202608,Polygon,5077011.25999988,653037.589999985,,0,0,,subdel,1,19,17826,15791,2035,0,0,0,0,0,Entre 30 y 35 años,,,,0
+7,Transportes y comunicaciones,NUEVO LEÓN,NUEVO LEÓN,Nuevo León,202608,Polygon,0,0,,1325412.66,83950.66,,subdel,1,19,0,0,0,0,3042,2843,199,0,Entre 30 y 35 años,421.862613065,466.202131551,,3042
+7,Transportes y comunicaciones,OAXACA,OAXACA,Oaxaca,202608,MultiPolygon,1463782.84999997,131710.179999997,,0,0,,subdel,1,20,4982,4571,411,0,0,0,0,0,Entre 30 y 35 años,,,,0
+7,Transportes y comunicaciones,OAXACA,OAXACA,Oaxaca,202608,MultiPolygon,0,0,,214933.29,10442.95,,subdel,1,20,0,0,0,0,510,484,26,0,Entre 30 y 35 años,401.651923077,444.077045455,,510
+7,Transportes y comunicaciones,PUEBLA,PUEBLA,Puebla,202608,Polygon,3451980.48999992,264429.439999994,,0,0,,subdel,1,21,11546,10724,822,0,0,0,0,0,Entre 30 y 35 años,,,,0
+7,Transportes y comunicaciones,PUEBLA,PUEBLA,Puebla,202608,Polygon,0,0,,470688.71,19869.05,,subdel,1,21,0,0,0,0,1205,1153,52,0,Entre 30 y 35 años,382.097115385,408.229583695,,1205
+7,Transportes y comunicaciones,QUERÉTARO,QUERÉTARO,Querétaro,202608,Polygon,1297796.98999997,136010.729999997,,0,0,,subdel,1,22,4464,4041,423,0,0,0,0,0,Entre 30 y 35 años,,,,0
+7,Transportes y comunicaciones,QUERÉTARO,QUERÉTARO,Querétaro,202608,Polygon,0,0,,165061.63,11108.91,,subdel,1,22,0,0,0,0,415,385,30,0,Entre 30 y 35 años,370.297,428.731506494,,415
+7,Transportes y comunicaciones,QUINTANA ROO,QUINTANA ROO,Quintana Roo,202608,MultiPolygon,1200783.79999997,164932.359999996,,0,0,,subdel,1,23,4265,3751,514,0,0,0,0,0,Entre 30 y 35 años,,,,0
+7,Transportes y comunicaciones,QUINTANA ROO,QUINTANA ROO,Quintana Roo,202608,MultiPolygon,0,0,,119315.08,14105.72,,subdel,1,23,0,0,0,0,307,271,36,0,Entre 30 y 35 años,391.825555556,440.277047970,,307
+7,Transportes y comunicaciones,SAN LUIS POTOSÍ,SAN LUIS POTOSÍ,San Luis Potosí,202608,Polygon,2094364.79999995,258953.929999994,,0,0,,subdel,1,24,7348,6539,809,0,0,0,0,0,Entre 30 y 35 años,,,,0
+7,Transportes y comunicaciones,SAN LUIS POTOSÍ,SAN LUIS POTOSÍ,San Luis Potosí,202608,Polygon,0,0,,276355.65,19051.72,,subdel,1,24,0,0,0,0,685,637,48,0,Entre 30 y 35 años,396.910833333,433.839324961,,685
+7,Transportes y comunicaciones,SINALOA,SINALOA,Sinaloa,202608,MultiPolygon,2620229.64999994,303440.609999993,,0,0,,subdel,1,25,9175,8222,953,0,0,0,0,0,Entre 30 y 35 años,,,,0
+7,Transportes y comunicaciones,SINALOA,SINALOA,Sinaloa,202608,MultiPolygon,0,0,,398117.09,22822.68,,subdel,1,25,0,0,0,0,969,908,61,0,Entre 30 y 35 años,374.142295082,438.454944934,,969
+7,Transportes y comunicaciones,SONORA,SONORA,Sonora,202608,MultiPolygon,1900616.15999996,296844.979999993,,0,0,,subdel,1,26,6881,5952,929,0,0,0,0,0,Entre 30 y 35 años,,,,0
+7,Transportes y comunicaciones,SONORA,SONORA,Sonora,202608,MultiPolygon,0,0,,329185.58,36620.13,,subdel,1,26,0,0,0,0,850,754,96,0,Entre 30 y 35 años,381.4596875,436.585649867,,850
+7,Transportes y comunicaciones,TABASCO,TABASCO,Tabasco,202608,MultiPolygon,1847723.90999996,192765.349999996,,0,0,,subdel,1,27,6372,5770,602,0,0,0,0,0,Entre 30 y 35 años,,,,0
+7,Transportes y comunicaciones,TABASCO,TABASCO,Tabasco,202608,MultiPolygon,0,0,,235129.17,12575.54,,subdel,1,27,0,0,0,0,562,529,33,0,Entre 30 y 35 años,381.076969697,444.478582231,,562
+7,Transportes y comunicaciones,TAMAULIPAS,TAMAULIPAS,Tamaulipas,202608,MultiPolygon,2196302.22999995,311292.769999993,,0,0,,subdel,1,28,7864,6886,978,0,0,0,0,0,Entre 30 y 35 años,,,,0
+7,Transportes y comunicaciones,TAMAULIPAS,TAMAULIPAS,Tamaulipas,202608,MultiPolygon,0,0,,438667.02,36115.51,,subdel,1,28,0,0,0,0,1050,963,87,0,Entre 30 y 35 años,415.120804598,455.521308411,,1050
+7,Transportes y comunicaciones,TLAXCALA,TLAXCALA,Tlaxcala,202608,Polygon,656399.689999985,32471.299999999,,0,0,,subdel,1,29,2148,2047,101,0,0,0,0,0,Entre 30 y 35 años,,,,0
+7,Transportes y comunicaciones,TLAXCALA,TLAXCALA,Tlaxcala,202608,Polygon,0,0,,61286.67,2532.21,,subdel,1,29,0,0,0,0,157,150,7,0,Entre 30 y 35 años,361.744285714,408.5778,,157
+7,Transportes y comunicaciones,VERACRUZ,VERACRUZ,Veracruz,202608,MultiPolygon,5124852.70999988,544892.599999988,,0,0,,subdel,1,30,17732,16029,1703,0,0,0,0,0,Entre 30 y 35 años,,,,0
+7,Transportes y comunicaciones,VERACRUZ,VERACRUZ,Veracruz,202608,MultiPolygon,0,0,,767839.6,44271.69,,subdel,1,30,0,0,0,0,1797,1688,109,0,Entre 30 y 35 años,406.162293578,454.881279621,,1797
+7,Transportes y comunicaciones,YUCATÁN,YUCATÁN,Yucatán,202608,MultiPolygon,2542705.20999994,272511.589999994,,0,0,,subdel,1,31,8802,7951,851,0,0,0,0,0,Entre 30 y 35 años,,,,0
+7,Transportes y comunicaciones,YUCATÁN,YUCATÁN,Yucatán,202608,MultiPolygon,0,0,,286313.76,17640.14,,subdel,1,31,0,0,0,0,711,668,43,0,Entre 30 y 35 años,410.235813953,428.613413174,,711
+7,Transportes y comunicaciones,ZACATECAS,ZACATECAS,Zacatecas,202608,Polygon,544928.129999987,51245.019999999,,0,0,,subdel,1,32,1852,1692,160,0,0,0,0,0,Entre 30 y 35 años,,,,0
+7,Transportes y comunicaciones,ZACATECAS,ZACATECAS,Zacatecas,202608,Polygon,0,0,,78873.91,3732.72,,subdel,1,32,0,0,0,0,195,186,9,0,Entre 30 y 35 años,414.746666667,424.053279570,,195
+7,Transportes y comunicaciones,EXTRANJERO/EXTRANJERA,,Extranjero/Extranjera,202608,,823370.319999981,74719.929999998,,0,0,,subdel,1,,2791,2559,232,0,0,0,0,0,Entre 35 y 40 años,,,,0
+7,Transportes y comunicaciones,EXTRANJERO/EXTRANJERA,,Extranjero/Extranjera,202608,,0,0,,205821.36,7087.73,,subdel,1,,0,0,0,0,451,433,18,0,Entre 35 y 40 años,393.762777778,475.338013857,,451
+7,Transportes y comunicaciones,AGUASCALIENTES,AGUASCALIENTES,Aguascalientes,202608,Polygon,762743.229999982,92852.479999998,,0,0,,subdel,1,1,2666,2376,290,0,0,0,0,0,Entre 35 y 40 años,,,,0
+7,Transportes y comunicaciones,AGUASCALIENTES,AGUASCALIENTES,Aguascalientes,202608,Polygon,0,0,,99239.47,4366.55,,subdel,1,1,0,0,0,0,258,246,12,0,Entre 35 y 40 años,363.879166667,403.412479675,,258
+7,Transportes y comunicaciones,BAJA CALIFORNIA,BAJA CALIFORNIA,Baja California,202608,MultiPolygon,1384726.71999997,223655.219999995,,0,0,,subdel,1,2,5021,4322,699,0,0,0,0,0,Entre 35 y 40 años,,,,0
+7,Transportes y comunicaciones,BAJA CALIFORNIA,BAJA CALIFORNIA,Baja California,202608,MultiPolygon,0,0,,321294.86,28516.86,,subdel,1,2,0,0,0,0,767,701,66,0,Entre 35 y 40 años,432.073636364,458.337888730,,767
+7,Transportes y comunicaciones,BAJA CALIFORNIA SUR,BAJA CALIFORNIA SUR,Baja California Sur,202608,MultiPolygon,273989.369999994,65235.459999999,,0,0,,subdel,1,3,1064,859,205,0,0,0,0,0,Entre 35 y 40 años,,,,0
+7,Transportes y comunicaciones,BAJA CALIFORNIA SUR,BAJA CALIFORNIA SUR,Baja California Sur,202608,MultiPolygon,0,0,,51520.39,5929.9,,subdel,1,3,0,0,0,0,131,116,15,0,Entre 35 y 40 años,395.326666667,444.141293103,,131
+7,Transportes y comunicaciones,CAMPECHE,CAMPECHE,Campeche,202608,MultiPolygon,719052.559999984,107661.879999998,,0,0,,subdel,1,4,2598,2260,338,0,0,0,0,0,Entre 35 y 40 años,,,,0
+7,Transportes y comunicaciones,CAMPECHE,CAMPECHE,Campeche,202608,MultiPolygon,0,0,,100906.65,6384.88,,subdel,1,4,0,0,0,0,245,229,16,0,Entre 35 y 40 años,399.055,440.640393013,,245
+7,Transportes y comunicaciones,COAHUILA DE ZARAGOZA,COAHUILA DE ZARAGOZA,Coahuila de Zaragoza,202608,Polygon,2065975.71999995,290484.599999993,,0,0,,subdel,1,5,7403,6491,912,0,0,0,0,0,Entre 35 y 40 años,,,,0
+7,Transportes y comunicaciones,COAHUILA DE ZARAGOZA,COAHUILA DE ZARAGOZA,Coahuila de Zaragoza,202608,Polygon,0,0,,379696.26,41486.78,,subdel,1,5,0,0,0,0,960,860,100,0,Entre 35 y 40 años,414.8678,441.507279070,,960
+7,Transportes y comunicaciones,COLIMA,COLIMA,Colima,202608,MultiPolygon,351636.699999992,61917.469999999,,0,0,,subdel,1,6,1292,1098,194,0,0,0,0,0,Entre 35 y 40 años,,,,0
+7,Transportes y comunicaciones,COLIMA,COLIMA,Colima,202608,MultiPolygon,0,0,,46414.29,7136.86,,subdel,1,6,0,0,0,0,135,115,20,0,Entre 35 y 40 años,356.843,403.602521739,,135
+7,Transportes y comunicaciones,CHIAPAS,CHIAPAS,Chiapas,202608,MultiPolygon,1666628.62999996,139097.979999997,,0,0,,subdel,1,7,5652,5217,435,0,0,0,0,0,Entre 35 y 40 años,,,,0
+7,Transportes y comunicaciones,CHIAPAS,CHIAPAS,Chiapas,202608,MultiPolygon,0,0,,292715.58,11062.27,,subdel,1,7,0,0,0,0,690,661,29,0,Entre 35 y 40 años,381.457586207,442.837488654,,690
+7,Transportes y comunicaciones,CHIHUAHUA,CHIHUAHUA,Chihuahua,202608,Polygon,0,0,,419128.42,47340.1,,subdel,1,8,0,0,0,0,1082,962,120,0,Entre 35 y 40 años,394.500833333,435.684428274,,1082
+7,Transportes y comunicaciones,CIUDAD DE MÉXICO,CIUDAD DE MÉXICO,Ciudad de México,202608,Polygon,16729008.9199996,1695050.22999996,,0,0,,subdel,1,9,57204,51950,5254,0,0,0,0,0,Entre 35 y 40 años,,,,0
+7,Transportes y comunicaciones,CIUDAD DE MÉXICO,CIUDAD DE MÉXICO,Ciudad de México,202608,Polygon,0,0,,2436588.62,148049.2,,subdel,1,9,0,0,0,0,6311,5924,387,0,Entre 35 y 40 años,382.556072351,411.308004727,,6311
+7,Transportes y comunicaciones,DURANGO,DURANGO,Durango,202608,Polygon,948538.709999978,120871.069999997,,0,0,,subdel,1,10,3340,2962,378,0,0,0,0,0,Entre 35 y 40 años,,,,0
+7,Transportes y comunicaciones,DURANGO,DURANGO,Durango,202608,Polygon,0,0,,135842.92,9237.32,,subdel,1,10,0,0,0,0,345,323,22,0,Entre 35 y 40 años,419.878181818,420.566315789,,345
+7,Transportes y comunicaciones,GUANAJUATO,GUANAJUATO,Guanajuato,202608,Polygon,2683691.43999994,261238.659999994,,0,0,,subdel,1,11,9159,8346,813,0,0,0,0,0,Entre 35 y 40 años,,,,0
+7,Transportes y comunicaciones,GUANAJUATO,GUANAJUATO,Guanajuato,202608,Polygon,0,0,,425956.22,23047.64,,subdel,1,11,0,0,0,0,1111,1049,62,0,Entre 35 y 40 años,371.736129032,406.059313632,,1111
+7,Transportes y comunicaciones,GUERRERO,GUERRERO,Guerrero,202608,MultiPolygon,1060331.27999998,116092.679999997,,0,0,,subdel,1,12,3661,3300,361,0,0,0,0,0,Entre 35 y 40 años,,,,0
+7,Transportes y comunicaciones,GUERRERO,GUERRERO,Guerrero,202608,MultiPolygon,0,0,,184079.01,11038.62,,subdel,1,12,0,0,0,0,449,421,28,0,Entre 35 y 40 años,394.236428571,437.242304038,,449
+7,Transportes y comunicaciones,HIDALGO,HIDALGO,Hidalgo,202608,Polygon,589881.959999986,52567.299999999,,0,0,,subdel,1,13,2000,1836,164,0,0,0,0,0,Entre 35 y 40 años,,,,0
+7,Transportes y comunicaciones,HIDALGO,HIDALGO,Hidalgo,202608,Polygon,0,0,,115114.44,3703.13,,subdel,1,13,0,0,0,0,269,259,10,0,Entre 35 y 40 años,370.313,444.457297297,,269
+7,Transportes y comunicaciones,JALISCO,JALISCO,Jalisco,202608,MultiPolygon,5835091.35999987,650755.699999985,,0,0,,subdel,1,14,20143,18121,2022,0,0,0,0,0,Entre 35 y 40 años,,,,0
+7,Transportes y comunicaciones,JALISCO,JALISCO,Jalisco,202608,MultiPolygon,0,0,,1098647.64,77379.65,,subdel,1,14,0,0,0,0,2818,2615,203,0,Entre 35 y 40 años,381.180541872,420.132940727,,2818
+7,Transportes y comunicaciones,MÉXICO,MÉXICO,México,202608,Polygon,8175256.73999981,703305.599999984,,0,0,,subdel,1,15,27633,25446,2187,0,0,0,0,0,Entre 35 y 40 años,,,,0
+7,Transportes y comunicaciones,MÉXICO,MÉXICO,México,202608,Polygon,0,0,,1107665.72,52867.95,,subdel,1,15,0,0,0,0,2848,2707,141,0,Entre 35 y 40 años,374.95,409.185711119,,2848
+7,Transportes y comunicaciones,MICHOACÁN DE OCAMPO,MICHOACÁN DE OCAMPO,Michoacán de Ocampo,202608,MultiPolygon,1470968.99999997,171242.099999996,,0,0,,subdel,1,16,5090,4560,530,0,0,0,0,0,Entre 35 y 40 años,,,,0
+7,Transportes y comunicaciones,MICHOACÁN DE OCAMPO,MICHOACÁN DE OCAMPO,Michoacán de Ocampo,202608,MultiPolygon,0,0,,215852.78,19389.57,,subdel,1,16,0,0,0,0,567,514,53,0,Entre 35 y 40 años,365.840943396,419.947042802,,567
+7,Transportes y comunicaciones,MORELOS,MORELOS,Morelos,202608,Polygon,910402.129999979,99877.609999998,,0,0,,subdel,1,17,3153,2842,311,0,0,0,0,0,Entre 35 y 40 años,,,,0
+7,Transportes y comunicaciones,MORELOS,MORELOS,Morelos,202608,Polygon,0,0,,96278.62,5410.2,,subdel,1,17,0,0,0,0,247,232,15,0,Entre 35 y 40 años,360.68,414.994051724,,247
+7,Transportes y comunicaciones,NAYARIT,NAYARIT,Nayarit,202608,MultiPolygon,706540.529999984,74258.129999998,,0,0,,subdel,1,18,2453,2220,233,0,0,0,0,0,Entre 35 y 40 años,,,,0
+7,Transportes y comunicaciones,NAYARIT,NAYARIT,Nayarit,202608,MultiPolygon,0,0,,109384.83,4996.04,,subdel,1,18,0,0,0,0,273,260,13,0,Entre 35 y 40 años,384.310769231,420.710884615,,273
+7,Transportes y comunicaciones,NUEVO LEÓN,NUEVO LEÓN,Nuevo León,202608,Polygon,4603875.13999989,604716.309999986,,0,0,,subdel,1,19,16220,14335,1885,0,0,0,0,0,Entre 35 y 40 años,,,,0
+7,Transportes y comunicaciones,NUEVO LEÓN,NUEVO LEÓN,Nuevo León,202608,Polygon,0,0,,1414652.95,97290.93,,subdel,1,19,0,0,0,0,3153,2928,225,0,Entre 35 y 40 años,432.404133333,483.146499317,,3153
+7,Transportes y comunicaciones,OAXACA,OAXACA,Oaxaca,202608,MultiPolygon,1087293.03999997,109131.219999997,,0,0,,subdel,1,20,3732,3392,340,0,0,0,0,0,Entre 35 y 40 años,,,,0
+7,Transportes y comunicaciones,OAXACA,OAXACA,Oaxaca,202608,MultiPolygon,0,0,,181470.98,12224.67,,subdel,1,20,0,0,0,0,444,414,30,0,Entre 35 y 40 años,407.489,438.335700483,,444
+7,Transportes y comunicaciones,PUEBLA,PUEBLA,Puebla,202608,Polygon,2691850.54999994,219618.459999995,,0,0,,subdel,1,21,9043,8364,679,0,0,0,0,0,Entre 35 y 40 años,,,,0
+7,Transportes y comunicaciones,PUEBLA,PUEBLA,Puebla,202608,Polygon,0,0,,459201.88,29993.28,,subdel,1,21,0,0,0,0,1198,1118,80,0,Entre 35 y 40 años,374.916,410.735134168,,1198
+7,Transportes y comunicaciones,QUERÉTARO,QUERÉTARO,Querétaro,202608,Polygon,1018297.47999998,117790.779999997,,0,0,,subdel,1,22,3542,3175,367,0,0,0,0,0,Entre 35 y 40 años,,,,0
+7,Transportes y comunicaciones,QUERÉTARO,QUERÉTARO,Querétaro,202608,Polygon,0,0,,169423.65,11370.89,,subdel,1,22,0,0,0,0,428,399,29,0,Entre 35 y 40 años,392.099655172,424.620676692,,428
+7,Transportes y comunicaciones,QUINTANA ROO,QUINTANA ROO,Quintana Roo,202608,MultiPolygon,701808.479999984,110823.389999997,,0,0,,subdel,1,23,2535,2189,346,0,0,0,0,0,Entre 35 y 40 años,,,,0
+7,Transportes y comunicaciones,QUINTANA ROO,QUINTANA ROO,Quintana Roo,202608,MultiPolygon,0,0,,101825.57,8791.81,,subdel,1,23,0,0,0,0,245,221,24,0,Entre 35 y 40 años,366.325416667,460.749185520,,245
+7,Transportes y comunicaciones,SAN LUIS POTOSÍ,SAN LUIS POTOSÍ,San Luis Potosí,202608,Polygon,1657201.03999996,200888.969999995,,0,0,,subdel,1,24,5808,5180,628,0,0,0,0,0,Entre 35 y 40 años,,,,0
+7,Transportes y comunicaciones,SAN LUIS POTOSÍ,SAN LUIS POTOSÍ,San Luis Potosí,202608,Polygon,0,0,,254173.07,24406.28,,subdel,1,24,0,0,0,0,650,587,63,0,Entre 35 y 40 años,387.401269841,433.003526405,,650
+7,Transportes y comunicaciones,SINALOA,SINALOA,Sinaloa,202608,MultiPolygon,2115577.96999995,291631.609999993,,0,0,,subdel,1,25,7553,6638,915,0,0,0,0,0,Entre 35 y 40 años,,,,0
+7,Transportes y comunicaciones,SINALOA,SINALOA,Sinaloa,202608,MultiPolygon,0,0,,387757.65,33784.26,,subdel,1,25,0,0,0,0,957,871,86,0,Entre 35 y 40 años,392.840232558,445.186739380,,957
+7,Transportes y comunicaciones,SONORA,SONORA,Sonora,202608,MultiPolygon,1595995.47999996,301056.509999993,,0,0,,subdel,1,26,5945,5002,943,0,0,0,0,0,Entre 35 y 40 años,,,,0
+7,Transportes y comunicaciones,SONORA,SONORA,Sonora,202608,MultiPolygon,0,0,,344189.26,36060.44,,subdel,1,26,0,0,0,0,878,785,93,0,Entre 35 y 40 años,387.746666667,438.457656051,,878
+7,Transportes y comunicaciones,TABASCO,TABASCO,Tabasco,202608,MultiPolygon,1482619.67999997,176300.349999996,,0,0,,subdel,1,27,5177,4627,550,0,0,0,0,0,Entre 35 y 40 años,,,,0
+7,Transportes y comunicaciones,TABASCO,TABASCO,Tabasco,202608,MultiPolygon,0,0,,235387.99,15863.22,,subdel,1,27,0,0,0,0,546,507,39,0,Entre 35 y 40 años,406.749230769,464.276114398,,546
+7,Transportes y comunicaciones,TAMAULIPAS,TAMAULIPAS,Tamaulipas,202608,MultiPolygon,1819670.00999996,277980.619999994,,0,0,,subdel,1,28,6576,5703,873,0,0,0,0,0,Entre 35 y 40 años,,,,0
+7,Transportes y comunicaciones,TAMAULIPAS,TAMAULIPAS,Tamaulipas,202608,MultiPolygon,0,0,,402205.51,35430.88,,subdel,1,28,0,0,0,0,958,878,80,0,Entre 35 y 40 años,442.886,458.092835991,,958
+7,Transportes y comunicaciones,TLAXCALA,TLAXCALA,Tlaxcala,202608,Polygon,485149.199999989,34077.559999999,,0,0,,subdel,1,29,1616,1510,106,0,0,0,0,0,Entre 35 y 40 años,,,,0
+7,Transportes y comunicaciones,TLAXCALA,TLAXCALA,Tlaxcala,202608,Polygon,0,0,,50016.88,2832.21,,subdel,1,29,0,0,0,0,130,123,7,0,Entre 35 y 40 años,404.601428571,406.641300813,,130
+7,Transportes y comunicaciones,VERACRUZ,VERACRUZ,Veracruz,202608,MultiPolygon,4301183.8599999,452971.24999999,,0,0,,subdel,1,30,14872,13455,1417,0,0,0,0,0,Entre 35 y 40 años,,,,0
+7,Transportes y comunicaciones,VERACRUZ,VERACRUZ,Veracruz,202608,MultiPolygon,0,0,,768521.39,39883.28,,subdel,1,30,0,0,0,0,1790,1695,95,0,Entre 35 y 40 años,419.824,453.404949853,,1790
+7,Transportes y comunicaciones,YUCATÁN,YUCATÁN,Yucatán,202608,MultiPolygon,2214029.74999995,264167.659999994,,0,0,,subdel,1,31,7747,6921,826,0,0,0,0,0,Entre 35 y 40 años,,,,0
+7,Transportes y comunicaciones,YUCATÁN,YUCATÁN,Yucatán,202608,MultiPolygon,0,0,,321163.04,19613.82,,subdel,1,31,0,0,0,0,777,728,49,0,Entre 35 y 40 años,400.282040816,441.158021978,,777
+7,Transportes y comunicaciones,ZACATECAS,ZACATECAS,Zacatecas,202608,Polygon,449796.36999999,53574.539999999,,0,0,,subdel,1,32,1567,1400,167,0,0,0,0,0,Entre 35 y 40 años,,,,0
+7,Transportes y comunicaciones,ZACATECAS,ZACATECAS,Zacatecas,202608,Polygon,0,0,,75532.26,4901.13,,subdel,1,32,0,0,0,0,189,178,11,0,Entre 35 y 40 años,445.557272727,424.338539326,,189
+7,Transportes y comunicaciones,EXTRANJERO/EXTRANJERA,,Extranjero/Extranjera,202608,,592824.449999986,63834.869999999,,0,0,,subdel,1,,2037,1839,198,0,0,0,0,0,Entre 40 y 45 años,,,,0
+7,Transportes y comunicaciones,EXTRANJERO/EXTRANJERA,,Extranjero/Extranjera,202608,,0,0,,157791.96,9372.09,,subdel,1,,0,0,0,0,355,331,24,0,Entre 40 y 45 años,390.50375,476.712870091,,355
+7,Transportes y comunicaciones,AGUASCALIENTES,AGUASCALIENTES,Aguascalientes,202608,Polygon,528011.019999988,67560.539999998,,0,0,,subdel,1,1,1856,1645,211,0,0,0,0,0,Entre 40 y 45 años,,,,0
+7,Transportes y comunicaciones,AGUASCALIENTES,AGUASCALIENTES,Aguascalientes,202608,Polygon,0,0,,80704.85,7358.56,,subdel,1,1,0,0,0,0,213,194,19,0,Entre 40 y 45 años,387.292631579,416.004381443,,213
+7,Transportes y comunicaciones,BAJA CALIFORNIA,BAJA CALIFORNIA,Baja California,202608,MultiPolygon,847719.25999998,161957.159999996,,0,0,,subdel,1,2,3150,2644,506,0,0,0,0,0,Entre 40 y 45 años,,,,0
+7,Transportes y comunicaciones,BAJA CALIFORNIA,BAJA CALIFORNIA,Baja California,202608,MultiPolygon,0,0,,240373.37,23009.46,,subdel,1,2,0,0,0,0,593,538,55,0,Entre 40 y 45 años,418.353818182,446.790650558,,593
+7,Transportes y comunicaciones,BAJA CALIFORNIA SUR,BAJA CALIFORNIA SUR,Baja California Sur,202608,MultiPolygon,204148.289999995,47541.979999999,,0,0,,subdel,1,3,788,639,149,0,0,0,0,0,Entre 40 y 45 años,,,,0
+7,Transportes y comunicaciones,BAJA CALIFORNIA SUR,BAJA CALIFORNIA SUR,Baja California Sur,202608,MultiPolygon,0,0,,34280.22,6098.27,,subdel,1,3,0,0,0,0,96,80,16,0,Entre 40 y 45 años,381.141875,428.50275,,96
+7,Transportes y comunicaciones,CAMPECHE,CAMPECHE,Campeche,202608,MultiPolygon,566379.069999987,70071.519999998,,0,0,,subdel,1,4,1999,1779,220,0,0,0,0,0,Entre 40 y 45 años,,,,0
+7,Transportes y comunicaciones,CAMPECHE,CAMPECHE,Campeche,202608,MultiPolygon,0,0,,91438.5,7600.74,,subdel,1,4,0,0,0,0,217,201,16,0,Entre 40 y 45 años,475.04625,454.917910448,,217
+7,Transportes y comunicaciones,COAHUILA DE ZARAGOZA,COAHUILA DE ZARAGOZA,Coahuila de Zaragoza,202608,Polygon,1653290.02999996,210171.629999995,,0,0,,subdel,1,5,5853,5193,660,0,0,0,0,0,Entre 40 y 45 años,,,,0
+7,Transportes y comunicaciones,COAHUILA DE ZARAGOZA,COAHUILA DE ZARAGOZA,Coahuila de Zaragoza,202608,Polygon,0,0,,366864.46,23957.76,,subdel,1,5,0,0,0,0,880,821,59,0,Entre 40 y 45 años,406.063728814,446.850742996,,880
+7,Transportes y comunicaciones,COLIMA,COLIMA,Colima,202608,MultiPolygon,270242.159999994,47861.669999999,,0,0,,subdel,1,6,994,844,150,0,0,0,0,0,Entre 40 y 45 años,,,,0
+7,Transportes y comunicaciones,COLIMA,COLIMA,Colima,202608,MultiPolygon,0,0,,50949.73,5046.11,,subdel,1,6,0,0,0,0,132,120,12,0,Entre 40 y 45 años,420.509166667,424.581083333,,132
+7,Transportes y comunicaciones,CHIAPAS,CHIAPAS,Chiapas,202608,MultiPolygon,1257738.23999997,97877.589999998,,0,0,,subdel,1,7,4241,3935,306,0,0,0,0,0,Entre 40 y 45 años,,,,0
+7,Transportes y comunicaciones,CHIAPAS,CHIAPAS,Chiapas,202608,MultiPolygon,0,0,,262636.5,11110.36,,subdel,1,7,0,0,0,0,624,600,24,0,Entre 40 y 45 años,462.931666667,437.7275,,624
+7,Transportes y comunicaciones,CHIHUAHUA,CHIHUAHUA,Chihuahua,202608,Polygon,1441101.01999997,332591.249999992,,0,0,,subdel,1,8,5547,4508,1039,0,0,0,0,0,Entre 40 y 45 años,,,,0
+7,Transportes y comunicaciones,CHIHUAHUA,CHIHUAHUA,Chihuahua,202608,Polygon,0,0,,316069.29,39945.88,,subdel,1,8,0,0,0,0,803,707,96,0,Entre 40 y 45 años,416.102916667,447.056987270,,803
+7,Transportes y comunicaciones,CIUDAD DE MÉXICO,CIUDAD DE MÉXICO,Ciudad de México,202608,Polygon,15478090.7299996,1483870.00999997,,0,0,,subdel,1,9,52664,48075,4589,0,0,0,0,0,Entre 40 y 45 años,,,,0
+7,Transportes y comunicaciones,CIUDAD DE MÉXICO,CIUDAD DE MÉXICO,Ciudad de México,202608,Polygon,0,0,,2729318.09,154698.4,,subdel,1,9,0,0,0,0,6921,6511,410,0,Entre 40 y 45 años,377.313170732,419.185699585,,6921
+7,Transportes y comunicaciones,DURANGO,DURANGO,Durango,202608,Polygon,593523.329999986,94653.979999998,,0,0,,subdel,1,10,2151,1854,297,0,0,0,0,0,Entre 40 y 45 años,,,,0
+7,Transportes y comunicaciones,DURANGO,DURANGO,Durango,202608,Polygon,0,0,,105390.04,8378.16,,subdel,1,10,0,0,0,0,261,239,22,0,Entre 40 y 45 años,380.825454545,440.962510460,,261
+7,Transportes y comunicaciones,GUANAJUATO,GUANAJUATO,Guanajuato,202608,Polygon,2012642.67999995,185633.059999996,,0,0,,subdel,1,11,6839,6262,577,0,0,0,0,0,Entre 40 y 45 años,,,,0
+7,Transportes y comunicaciones,GUANAJUATO,GUANAJUATO,Guanajuato,202608,Polygon,0,0,,335461.64,20201.82,,subdel,1,11,0,0,0,0,881,830,51,0,Entre 40 y 45 años,396.114117647,404.170650602,,881
+7,Transportes y comunicaciones,GUERRERO,GUERRERO,Guerrero,202608,MultiPolygon,756678.779999983,83654.199999998,,0,0,,subdel,1,12,2614,2353,261,0,0,0,0,0,Entre 40 y 45 años,,,,0
+7,Transportes y comunicaciones,GUERRERO,GUERRERO,Guerrero,202608,MultiPolygon,0,0,,173138.49,9521.41,,subdel,1,12,0,0,0,0,401,379,22,0,Entre 40 y 45 años,432.791363636,456.829788918,,401
+7,Transportes y comunicaciones,HIDALGO,HIDALGO,Hidalgo,202608,Polygon,431123.28999999,43590.879999999,,0,0,,subdel,1,13,1478,1342,136,0,0,0,0,0,Entre 40 y 45 años,,,,0
+7,Transportes y comunicaciones,HIDALGO,HIDALGO,Hidalgo,202608,Polygon,0,0,,93469.34,9284.6,,subdel,1,13,0,0,0,0,226,205,21,0,Entre 40 y 45 años,442.123809524,455.948,,226
+7,Transportes y comunicaciones,JALISCO,JALISCO,Jalisco,202608,MultiPolygon,4572864.10999989,535924.779999988,,0,0,,subdel,1,14,15858,14193,1665,0,0,0,0,0,Entre 40 y 45 años,,,,0
+7,Transportes y comunicaciones,JALISCO,JALISCO,Jalisco,202608,MultiPolygon,0,0,,1030908.02,64185.26,,subdel,1,14,0,0,0,0,2573,2410,163,0,Entre 40 y 45 años,393.774601227,427.762663900,,2573
+7,Transportes y comunicaciones,MÉXICO,MÉXICO,México,202608,Polygon,4287103.1099999,383858.689999991,,0,0,,subdel,1,15,14535,13342,1193,0,0,0,0,0,Entre 40 y 45 años,,,,0
+7,Transportes y comunicaciones,MÉXICO,MÉXICO,México,202608,Polygon,0,0,,722488.35,39812.87,,subdel,1,15,0,0,0,0,1822,1718,104,0,Entre 40 y 45 años,382.816057692,420.540366705,,1822
+7,Transportes y comunicaciones,MICHOACÁN DE OCAMPO,MICHOACÁN DE OCAMPO,Michoacán de Ocampo,202608,MultiPolygon,1033381.29999998,121427.199999997,,0,0,,subdel,1,16,3581,3205,376,0,0,0,0,0,Entre 40 y 45 años,,,,0
+7,Transportes y comunicaciones,MICHOACÁN DE OCAMPO,MICHOACÁN DE OCAMPO,Michoacán de Ocampo,202608,MultiPolygon,0,0,,189441.54,12490.97,,subdel,1,16,0,0,0,0,477,445,32,0,Entre 40 y 45 años,390.3428125,425.711325843,,477
+7,Transportes y comunicaciones,MORELOS,MORELOS,Morelos,202608,Polygon,643764.179999985,61683.489999999,,0,0,,subdel,1,17,2203,2011,192,0,0,0,0,0,Entre 40 y 45 años,,,,0
+7,Transportes y comunicaciones,MORELOS,MORELOS,Morelos,202608,Polygon,0,0,,69436.81,5312.14,,subdel,1,17,0,0,0,0,184,170,14,0,Entre 40 y 45 años,379.438571429,408.451823529,,184
+7,Transportes y comunicaciones,NAYARIT,NAYARIT,Nayarit,202608,MultiPolygon,603119.549999986,51657.679999999,,0,0,,subdel,1,18,2058,1896,162,0,0,0,0,0,Entre 40 y 45 años,,,,0
+7,Transportes y comunicaciones,NAYARIT,NAYARIT,Nayarit,202608,MultiPolygon,0,0,,111604.3,5410.9,,subdel,1,18,0,0,0,0,271,257,14,0,Entre 40 y 45 años,386.492857143,434.257976654,,271
+7,Transportes y comunicaciones,NUEVO LEÓN,NUEVO LEÓN,Nuevo León,202608,Polygon,3608966.43999992,452467.03999999,,0,0,,subdel,1,19,12646,11237,1409,0,0,0,0,0,Entre 40 y 45 años,,,,0
+7,Transportes y comunicaciones,NUEVO LEÓN,NUEVO LEÓN,Nuevo León,202608,Polygon,0,0,,1337470.74,100950.43,,subdel,1,19,0,0,0,0,2940,2711,229,0,Entre 40 y 45 años,440.831572052,493.349590557,,2940
+7,Transportes y comunicaciones,OAXACA,OAXACA,Oaxaca,202608,MultiPolygon,811469.219999981,68738.609999998,,0,0,,subdel,1,20,2741,2527,214,0,0,0,0,0,Entre 40 y 45 años,,,,0
+7,Transportes y comunicaciones,OAXACA,OAXACA,Oaxaca,202608,MultiPolygon,0,0,,170415.67,11833.84,,subdel,1,20,0,0,0,0,413,384,29,0,Entre 40 y 45 años,408.063448276,443.790807292,,413
+7,Transportes y comunicaciones,PUEBLA,PUEBLA,Puebla,202608,Polygon,2025832.54999995,178583.119999996,,0,0,,subdel,1,21,6850,6297,553,0,0,0,0,0,Entre 40 y 45 años,,,,0
+7,Transportes y comunicaciones,PUEBLA,PUEBLA,Puebla,202608,Polygon,0,0,,390759.23,21690.39,,subdel,1,21,0,0,0,0,1003,944,59,0,Entre 40 y 45 años,367.633728814,413.939862288,,1003
+7,Transportes y comunicaciones,QUERÉTARO,QUERÉTARO,Querétaro,202608,Polygon,744907.059999983,67385.269999998,,0,0,,subdel,1,22,2534,2324,210,0,0,0,0,0,Entre 40 y 45 años,,,,0
+7,Transportes y comunicaciones,QUERÉTARO,QUERÉTARO,Querétaro,202608,Polygon,0,0,,141815.76,7082.94,,subdel,1,22,0,0,0,0,339,322,17,0,Entre 40 y 45 años,416.643529412,440.421614907,,339
+7,Transportes y comunicaciones,QUINTANA ROO,QUINTANA ROO,Quintana Roo,202608,MultiPolygon,377735.659999991,58315.669999999,,0,0,,subdel,1,23,1361,1179,182,0,0,0,0,0,Entre 40 y 45 años,,,,0
+7,Transportes y comunicaciones,QUINTANA ROO,QUINTANA ROO,Quintana Roo,202608,MultiPolygon,0,0,,61258.55,5606.78,,subdel,1,23,0,0,0,0,145,131,14,0,Entre 40 y 45 años,400.484285714,467.622519084,,145
+7,Transportes y comunicaciones,SAN LUIS POTOSÍ,SAN LUIS POTOSÍ,San Luis Potosí,202608,Polygon,1149817.04999997,146551.259999997,,0,0,,subdel,1,24,4050,3593,457,0,0,0,0,0,Entre 40 y 45 años,,,,0
+7,Transportes y comunicaciones,SAN LUIS POTOSÍ,SAN LUIS POTOSÍ,San Luis Potosí,202608,Polygon,0,0,,217762.98,14238.22,,subdel,1,24,0,0,0,0,524,485,39,0,Entre 40 y 45 años,365.082564103,448.995835052,,524
+7,Transportes y comunicaciones,SINALOA,SINALOA,Sinaloa,202608,MultiPolygon,1669009.41999996,240352.149999995,,0,0,,subdel,1,25,5984,5231,753,0,0,0,0,0,Entre 40 y 45 años,,,,0
+7,Transportes y comunicaciones,SINALOA,SINALOA,Sinaloa,202608,MultiPolygon,0,0,,357304.75,33841.47,,subdel,1,25,0,0,0,0,870,788,82,0,Entre 40 y 45 años,412.700853659,453.432423858,,870
+7,Transportes y comunicaciones,SONORA,SONORA,Sonora,202608,MultiPolygon,1328373.71999997,232481.539999995,,0,0,,subdel,1,26,4888,4159,729,0,0,0,0,0,Entre 40 y 45 años,,,,0
+7,Transportes y comunicaciones,SONORA,SONORA,Sonora,202608,MultiPolygon,0,0,,317043.24,42870.99,,subdel,1,26,0,0,0,0,819,711,108,0,Entre 40 y 45 años,396.953611111,445.911729958,,819
+7,Transportes y comunicaciones,TABASCO,TABASCO,Tabasco,202608,MultiPolygon,1091873.84999997,116378.419999997,,0,0,,subdel,1,27,3768,3405,363,0,0,0,0,0,Entre 40 y 45 años,,,,0
+7,Transportes y comunicaciones,TABASCO,TABASCO,Tabasco,202608,MultiPolygon,0,0,,217033.39,11550.15,,subdel,1,27,0,0,0,0,498,470,28,0,Entre 40 y 45 años,412.505357143,461.773170213,,498
+7,Transportes y comunicaciones,TAMAULIPAS,TAMAULIPAS,Tamaulipas,202608,MultiPolygon,1305645.86999997,187974.959999996,,0,0,,subdel,1,28,4679,4090,589,0,0,0,0,0,Entre 40 y 45 años,,,,0
+7,Transportes y comunicaciones,TAMAULIPAS,TAMAULIPAS,Tamaulipas,202608,MultiPolygon,0,0,,338507.97,34399.81,,subdel,1,28,0,0,0,0,815,738,77,0,Entre 40 y 45 años,446.750779221,458.682886179,,815
+7,Transportes y comunicaciones,TLAXCALA,TLAXCALA,Tlaxcala,202608,Polygon,391581.339999991,28189.419999999,,0,0,,subdel,1,29,1307,1219,88,0,0,0,0,0,Entre 40 y 45 años,,,,0
+7,Transportes y comunicaciones,TLAXCALA,TLAXCALA,Tlaxcala,202608,Polygon,0,0,,50625.72,3536.6,,subdel,1,29,0,0,0,0,125,116,9,0,Entre 40 y 45 años,392.955555556,436.428620690,,125
+7,Transportes y comunicaciones,VERACRUZ,VERACRUZ,Veracruz,202608,MultiPolygon,3180427.20999993,353084.359999992,,0,0,,subdel,1,30,11072,9968,1104,0,0,0,0,0,Entre 40 y 45 años,,,,0
+7,Transportes y comunicaciones,VERACRUZ,VERACRUZ,Veracruz,202608,MultiPolygon,0,0,,658825.58,39218.57,,subdel,1,30,0,0,0,0,1559,1461,98,0,Entre 40 y 45 años,400.189489796,450.941533196,,1559
+7,Transportes y comunicaciones,YUCATÁN,YUCATÁN,Yucatán,202608,MultiPolygon,1788741.78999996,218650.259999995,,0,0,,subdel,1,31,6282,5598,684,0,0,0,0,0,Entre 40 y 45 años,,,,0
+7,Transportes y comunicaciones,YUCATÁN,YUCATÁN,Yucatán,202608,MultiPolygon,0,0,,321374.35,16553.6,,subdel,1,31,0,0,0,0,733,692,41,0,Entre 40 y 45 años,403.746341463,464.413800578,,733
+7,Transportes y comunicaciones,ZACATECAS,ZACATECAS,Zacatecas,202608,Polygon,385331.569999991,48786.819999999,,0,0,,subdel,1,32,1352,1200,152,0,0,0,0,0,Entre 40 y 45 años,,,,0
+7,Transportes y comunicaciones,ZACATECAS,ZACATECAS,Zacatecas,202608,Polygon,0,0,,70559.56,4777.99,,subdel,1,32,0,0,0,0,173,161,12,0,Entre 40 y 45 años,398.165833333,438.258136646,,173
+7,Transportes y comunicaciones,EXTRANJERO/EXTRANJERA,,Extranjero/Extranjera,202608,,410879.24999999,46881.829999999,,0,0,,subdel,1,,1419,1274,145,0,0,0,0,0,Entre 45 y 50 años,,,,0
+7,Transportes y comunicaciones,EXTRANJERO/EXTRANJERA,,Extranjero/Extranjera,202608,,0,0,,123696.82,7220.21,,subdel,1,,0,0,0,0,284,268,16,0,Entre 45 y 50 años,451.263125,461.555298507,,284
+7,Transportes y comunicaciones,AGUASCALIENTES,AGUASCALIENTES,Aguascalientes,202608,Polygon,362263.039999992,44059.839999999,,0,0,,subdel,1,1,1264,1127,137,0,0,0,0,0,Entre 45 y 50 años,,,,0
+7,Transportes y comunicaciones,AGUASCALIENTES,AGUASCALIENTES,Aguascalientes,202608,Polygon,0,0,,68966.2,2210.94,,subdel,1,1,0,0,0,0,173,167,6,0,Entre 45 y 50 años,368.49,412.971257485,,173
+7,Transportes y comunicaciones,BAJA CALIFORNIA,BAJA CALIFORNIA,Baja California,202608,MultiPolygon,590454.999999986,101198.819999998,,0,0,,subdel,1,2,2157,1841,316,0,0,0,0,0,Entre 45 y 50 años,,,,0
+7,Transportes y comunicaciones,BAJA CALIFORNIA,BAJA CALIFORNIA,Baja California,202608,MultiPolygon,0,0,,186420.13,19447.87,,subdel,1,2,0,0,0,0,454,407,47,0,Entre 45 y 50 años,413.784468085,458.034717445,,454
+7,Transportes y comunicaciones,BAJA CALIFORNIA SUR,BAJA CALIFORNIA SUR,Baja California Sur,202608,MultiPolygon,142598.919999997,29877.769999999,,0,0,,subdel,1,3,541,447,94,0,0,0,0,0,Entre 45 y 50 años,,,,0
+7,Transportes y comunicaciones,BAJA CALIFORNIA SUR,BAJA CALIFORNIA SUR,Baja California Sur,202608,MultiPolygon,0,0,,33119.31,4613.24,,subdel,1,3,0,0,0,0,86,74,12,0,Entre 45 y 50 años,384.436666667,447.558243243,,86
+7,Transportes y comunicaciones,CAMPECHE,CAMPECHE,Campeche,202608,MultiPolygon,373604.919999991,41627.429999999,,0,0,,subdel,1,4,1305,1174,131,0,0,0,0,0,Entre 45 y 50 años,,,,0
+7,Transportes y comunicaciones,CAMPECHE,CAMPECHE,Campeche,202608,MultiPolygon,0,0,,64437.87,2730.03,,subdel,1,4,0,0,0,0,147,140,7,0,Entre 45 y 50 años,390.004285714,460.2705,,147
+7,Transportes y comunicaciones,COAHUILA DE ZARAGOZA,COAHUILA DE ZARAGOZA,Coahuila de Zaragoza,202608,Polygon,1162096.19999997,149392.719999997,,0,0,,subdel,1,5,4119,3650,469,0,0,0,0,0,Entre 45 y 50 años,,,,0
+7,Transportes y comunicaciones,COAHUILA DE ZARAGOZA,COAHUILA DE ZARAGOZA,Coahuila de Zaragoza,202608,Polygon,0,0,,279825.59,23443.94,,subdel,1,5,0,0,0,0,684,627,57,0,Entre 45 y 50 años,411.297192982,446.292807018,,684
+7,Transportes y comunicaciones,COLIMA,COLIMA,Colima,202608,MultiPolygon,164240.089999996,33167.939999999,,0,0,,subdel,1,6,617,513,104,0,0,0,0,0,Entre 45 y 50 años,,,,0
+7,Transportes y comunicaciones,COLIMA,COLIMA,Colima,202608,MultiPolygon,0,0,,36627.38,3769.62,,subdel,1,6,0,0,0,0,93,83,10,0,Entre 45 y 50 años,376.962,441.293734940,,93
+7,Transportes y comunicaciones,CHIAPAS,CHIAPAS,Chiapas,202608,MultiPolygon,768110.399999982,57323.959999999,,0,0,,subdel,1,7,2585,2406,179,0,0,0,0,0,Entre 45 y 50 años,,,,0
+7,Transportes y comunicaciones,CHIAPAS,CHIAPAS,Chiapas,202608,MultiPolygon,0,0,,197011.91,5411.39,,subdel,1,7,0,0,0,0,441,428,13,0,Entre 45 y 50 años,416.260769231,460.308200935,,441
+7,Transportes y comunicaciones,CHIHUAHUA,CHIHUAHUA,Chihuahua,202608,Polygon,1036544.44999998,221942.029999995,,0,0,,subdel,1,8,3929,3236,693,0,0,0,0,0,Entre 45 y 50 años,,,,0
+7,Transportes y comunicaciones,CHIHUAHUA,CHIHUAHUA,Chihuahua,202608,Polygon,0,0,,275588.08,29080.34,,subdel,1,8,0,0,0,0,696,623,73,0,Entre 45 y 50 años,398.360821918,442.356468700,,696
+7,Transportes y comunicaciones,CIUDAD DE MÉXICO,CIUDAD DE MÉXICO,Ciudad de México,202608,Polygon,12081200.7399997,1210895.76999997,,0,0,,subdel,1,9,41266,37524,3742,0,0,0,0,0,Entre 45 y 50 años,,,,0
+7,Transportes y comunicaciones,CIUDAD DE MÉXICO,CIUDAD DE MÉXICO,Ciudad de México,202608,Polygon,0,0,,2595607.57,136167.66,,subdel,1,9,0,0,0,0,6459,6098,361,0,Entre 45 y 50 años,377.195734072,425.648994752,,6459
+7,Transportes y comunicaciones,DURANGO,DURANGO,Durango,202608,Polygon,474048.449999989,65171.159999999,,0,0,,subdel,1,10,1685,1481,204,0,0,0,0,0,Entre 45 y 50 años,,,,0
+7,Transportes y comunicaciones,DURANGO,DURANGO,Durango,202608,Polygon,0,0,,106165.77,9099.44,,subdel,1,10,0,0,0,0,274,251,23,0,Entre 45 y 50 años,395.627826087,422.971195219,,274
+7,Transportes y comunicaciones,GUANAJUATO,GUANAJUATO,Guanajuato,202608,Polygon,1390764.38999997,135321.209999997,,0,0,,subdel,1,11,4743,4323,420,0,0,0,0,0,Entre 45 y 50 años,,,,0
+7,Transportes y comunicaciones,GUANAJUATO,GUANAJUATO,Guanajuato,202608,Polygon,0,0,,288395.16,15505.81,,subdel,1,11,0,0,0,0,746,704,42,0,Entre 45 y 50 años,369.185952381,409.652215909,,746
+7,Transportes y comunicaciones,GUERRERO,GUERRERO,Guerrero,202608,MultiPolygon,553030.989999987,53053.169999999,,0,0,,subdel,1,12,1885,1720,165,0,0,0,0,0,Entre 45 y 50 años,,,,0
+7,Transportes y comunicaciones,GUERRERO,GUERRERO,Guerrero,202608,MultiPolygon,0,0,,156339.98,5593.3,,subdel,1,12,0,0,0,0,357,343,14,0,Entre 45 y 50 años,399.521428571,455.801690962,,357
+7,Transportes y comunicaciones,HIDALGO,HIDALGO,Hidalgo,202608,Polygon,318985.489999993,29282.079999999,,0,0,,subdel,1,13,1085,994,91,0,0,0,0,0,Entre 45 y 50 años,,,,0
+7,Transportes y comunicaciones,HIDALGO,HIDALGO,Hidalgo,202608,Polygon,0,0,,74147,2707.31,,subdel,1,13,0,0,0,0,172,165,7,0,Entre 45 y 50 años,386.758571429,449.375757576,,172
+7,Transportes y comunicaciones,JALISCO,JALISCO,Jalisco,202608,MultiPolygon,3256160.24999992,367972.039999991,,0,0,,subdel,1,14,11248,10105,1143,0,0,0,0,0,Entre 45 y 50 años,,,,0
+7,Transportes y comunicaciones,JALISCO,JALISCO,Jalisco,202608,MultiPolygon,0,0,,830105.73,52289.46,,subdel,1,14,0,0,0,0,2060,1929,131,0,Entre 45 y 50 años,399.156183206,430.329564541,,2060
+7,Transportes y comunicaciones,MÉXICO,MÉXICO,México,202608,Polygon,2519874.88999994,221750.349999995,,0,0,,subdel,1,15,8527,7837,690,0,0,0,0,0,Entre 45 y 50 años,,,,0
+7,Transportes y comunicaciones,MÉXICO,MÉXICO,México,202608,Polygon,0,0,,491418.02,22242.92,,subdel,1,15,0,0,0,0,1243,1189,54,0,Entre 45 y 50 años,411.905925926,413.303633305,,1243
+7,Transportes y comunicaciones,MICHOACÁN DE OCAMPO,MICHOACÁN DE OCAMPO,Michoacán de Ocampo,202608,MultiPolygon,700605.809999984,90431.989999998,,0,0,,subdel,1,16,2453,2173,280,0,0,0,0,0,Entre 45 y 50 años,,,,0
+7,Transportes y comunicaciones,MICHOACÁN DE OCAMPO,MICHOACÁN DE OCAMPO,Michoacán de Ocampo,202608,MultiPolygon,0,0,,162324.88,10426.06,,subdel,1,16,0,0,0,0,399,373,26,0,Entre 45 y 50 años,401.002307692,435.187345845,,399
+7,Transportes y comunicaciones,MORELOS,MORELOS,Morelos,202608,Polygon,421360.31999999,41969.089999999,,0,0,,subdel,1,17,1446,1315,131,0,0,0,0,0,Entre 45 y 50 años,,,,0
+7,Transportes y comunicaciones,MORELOS,MORELOS,Morelos,202608,Polygon,0,0,,60346.63,3102.13,,subdel,1,17,0,0,0,0,158,149,9,0,Entre 45 y 50 años,344.681111111,405.010939597,,158
+7,Transportes y comunicaciones,NAYARIT,NAYARIT,Nayarit,202608,MultiPolygon,437098.44999999,40666.779999999,,0,0,,subdel,1,18,1501,1373,128,0,0,0,0,0,Entre 45 y 50 años,,,,0
+7,Transportes y comunicaciones,NAYARIT,NAYARIT,Nayarit,202608,MultiPolygon,0,0,,92522.04,2766,,subdel,1,18,0,0,0,0,220,213,7,0,Entre 45 y 50 años,395.142857143,434.375774648,,220
+7,Transportes y comunicaciones,NUEVO LEÓN,NUEVO LEÓN,Nuevo León,202608,Polygon,2677062.01999994,329253.829999992,,0,0,,subdel,1,19,9355,8333,1022,0,0,0,0,0,Entre 45 y 50 años,,,,0
+7,Transportes y comunicaciones,NUEVO LEÓN,NUEVO LEÓN,Nuevo León,202608,Polygon,0,0,,1106758.49,87981.43,,subdel,1,19,0,0,0,0,2441,2250,191,0,Entre 45 y 50 años,460.635759162,491.892662222,,2441
+7,Transportes y comunicaciones,OAXACA,OAXACA,Oaxaca,202608,MultiPolygon,623353.119999986,41132.679999999,,0,0,,subdel,1,20,2068,1940,128,0,0,0,0,0,Entre 45 y 50 años,,,,0
+7,Transportes y comunicaciones,OAXACA,OAXACA,Oaxaca,202608,MultiPolygon,0,0,,142780.49,6836.16,,subdel,1,20,0,0,0,0,345,329,16,0,Entre 45 y 50 años,427.26,433.983252280,,345
+7,Transportes y comunicaciones,PUEBLA,PUEBLA,Puebla,202608,Polygon,1562835.79999996,128150.259999997,,0,0,,subdel,1,21,5256,4858,398,0,0,0,0,0,Entre 45 y 50 años,,,,0
+7,Transportes y comunicaciones,PUEBLA,PUEBLA,Puebla,202608,Polygon,0,0,,356218.01,15562.78,,subdel,1,21,0,0,0,0,889,849,40,0,Entre 45 y 50 años,389.0695,419.573627797,,889
+7,Transportes y comunicaciones,QUERÉTARO,QUERÉTARO,Querétaro,202608,Polygon,512978.949999988,63702.409999999,,0,0,,subdel,1,22,1800,1601,199,0,0,0,0,0,Entre 45 y 50 años,,,,0
+7,Transportes y comunicaciones,QUERÉTARO,QUERÉTARO,Querétaro,202608,Polygon,0,0,,113905.08,7797.84,,subdel,1,22,0,0,0,0,281,261,20,0,Entre 45 y 50 años,389.892,436.417931034,,281
+7,Transportes y comunicaciones,QUINTANA ROO,QUINTANA ROO,Quintana Roo,202608,MultiPolygon,194797.549999996,25700.159999999,,0,0,,subdel,1,23,687,607,80,0,0,0,0,0,Entre 45 y 50 años,,,,0
+7,Transportes y comunicaciones,QUINTANA ROO,QUINTANA ROO,Quintana Roo,202608,MultiPolygon,0,0,,43722.75,3457.85,,subdel,1,23,0,0,0,0,100,91,9,0,Entre 45 y 50 años,384.205555556,480.469780220,,100
+7,Transportes y comunicaciones,SAN LUIS POTOSÍ,SAN LUIS POTOSÍ,San Luis Potosí,202608,Polygon,713753.049999984,92211.109999998,,0,0,,subdel,1,24,2519,2231,288,0,0,0,0,0,Entre 45 y 50 años,,,,0
+7,Transportes y comunicaciones,SAN LUIS POTOSÍ,SAN LUIS POTOSÍ,San Luis Potosí,202608,Polygon,0,0,,156954.93,5830,,subdel,1,24,0,0,0,0,368,352,16,0,Entre 45 y 50 años,364.375,445.8946875,,368
+7,Transportes y comunicaciones,SINALOA,SINALOA,Sinaloa,202608,MultiPolygon,1224766.50999997,177735.939999996,,0,0,,subdel,1,25,4397,3841,556,0,0,0,0,0,Entre 45 y 50 años,,,,0
+7,Transportes y comunicaciones,SINALOA,SINALOA,Sinaloa,202608,MultiPolygon,0,0,,304741.08,21017.31,,subdel,1,25,0,0,0,0,732,683,49,0,Entre 45 y 50 años,428.924693878,446.180204978,,732
+7,Transportes y comunicaciones,SONORA,SONORA,Sonora,202608,MultiPolygon,957809.529999978,195737.429999996,,0,0,,subdel,1,26,3608,2996,612,0,0,0,0,0,Entre 45 y 50 años,,,,0
+7,Transportes y comunicaciones,SONORA,SONORA,Sonora,202608,MultiPolygon,0,0,,259399.67,36158.23,,subdel,1,26,0,0,0,0,667,573,94,0,Entre 45 y 50 años,384.662021277,452.704485166,,667
+7,Transportes y comunicaciones,TABASCO,TABASCO,Tabasco,202608,MultiPolygon,711197.939999984,88865.669999998,,0,0,,subdel,1,27,2493,2216,277,0,0,0,0,0,Entre 45 y 50 años,,,,0
+7,Transportes y comunicaciones,TABASCO,TABASCO,Tabasco,202608,MultiPolygon,0,0,,165217.29,11916.29,,subdel,1,27,0,0,0,0,389,361,28,0,Entre 45 y 50 años,425.581785714,457.665623269,,389
+7,Transportes y comunicaciones,TAMAULIPAS,TAMAULIPAS,Tamaulipas,202608,MultiPolygon,938425.439999979,145872.739999997,,0,0,,subdel,1,28,3396,2939,457,0,0,0,0,0,Entre 45 y 50 años,,,,0
+7,Transportes y comunicaciones,TAMAULIPAS,TAMAULIPAS,Tamaulipas,202608,MultiPolygon,0,0,,281800.19,25281.51,,subdel,1,28,0,0,0,0,665,608,57,0,Entre 45 y 50 años,443.535263158,463.487154605,,665
+7,Transportes y comunicaciones,TLAXCALA,TLAXCALA,Tlaxcala,202608,Polygon,251705.049999994,14864.560000000,,0,0,,subdel,1,29,829,783,46,0,0,0,0,0,Entre 45 y 50 años,,,,0
+7,Transportes y comunicaciones,TLAXCALA,TLAXCALA,Tlaxcala,202608,Polygon,0,0,,33449.39,1298.84,,subdel,1,29,0,0,0,0,79,76,3,0,Entre 45 y 50 años,432.946666667,440.123552632,,79
+7,Transportes y comunicaciones,VERACRUZ,VERACRUZ,Veracruz,202608,MultiPolygon,2248340.63999995,224224.609999995,,0,0,,subdel,1,30,7745,7045,700,0,0,0,0,0,Entre 45 y 50 años,,,,0
+7,Transportes y comunicaciones,VERACRUZ,VERACRUZ,Veracruz,202608,MultiPolygon,0,0,,550521.48,34113.92,,subdel,1,30,0,0,0,0,1301,1219,82,0,Entre 45 y 50 años,416.023414634,451.617292863,,1301
+7,Transportes y comunicaciones,YUCATÁN,YUCATÁN,Yucatán,202608,MultiPolygon,1264348.40999997,149477.369999997,,0,0,,subdel,1,31,4421,3955,466,0,0,0,0,0,Entre 45 y 50 años,,,,0
+7,Transportes y comunicaciones,YUCATÁN,YUCATÁN,Yucatán,202608,MultiPolygon,0,0,,245520.2,18032.48,,subdel,1,31,0,0,0,0,589,544,45,0,Entre 45 y 50 años,400.721777778,451.323897059,,589
+7,Transportes y comunicaciones,ZACATECAS,ZACATECAS,Zacatecas,202608,Polygon,281284.329999993,29496.169999999,,0,0,,subdel,1,32,967,875,92,0,0,0,0,0,Entre 45 y 50 años,,,,0
+7,Transportes y comunicaciones,ZACATECAS,ZACATECAS,Zacatecas,202608,Polygon,0,0,,60498.34,3278.74,,subdel,1,32,0,0,0,0,151,143,8,0,Entre 45 y 50 años,409.8425,423.065314685,,151
+7,Transportes y comunicaciones,EXTRANJERO/EXTRANJERA,,Extranjero/Extranjera,202608,,282859.699999993,40959.119999999,,0,0,,subdel,1,,1001,875,126,0,0,0,0,0,Entre 50 y 55 años,,,,0
+7,Transportes y comunicaciones,EXTRANJERO/EXTRANJERA,,Extranjero/Extranjera,202608,,0,0,,89769.51,4068.3,,subdel,1,,0,0,0,0,203,195,8,0,Entre 50 y 55 años,508.5375,460.356461538,,203
+7,Transportes y comunicaciones,AGUASCALIENTES,AGUASCALIENTES,Aguascalientes,202608,Polygon,254372.569999994,33762.519999999,,0,0,,subdel,1,1,897,792,105,0,0,0,0,0,Entre 50 y 55 años,,,,0
+7,Transportes y comunicaciones,AGUASCALIENTES,AGUASCALIENTES,Aguascalientes,202608,Polygon,0,0,,60160.16,1027.12,,subdel,1,1,0,0,0,0,147,144,3,0,Entre 50 y 55 años,342.373333333,417.778888889,,147
+7,Transportes y comunicaciones,BAJA CALIFORNIA,BAJA CALIFORNIA,Baja California,202608,MultiPolygon,432575.45999999,73308.909999998,,0,0,,subdel,1,2,1576,1347,229,0,0,0,0,0,Entre 50 y 55 años,,,,0
+7,Transportes y comunicaciones,BAJA CALIFORNIA,BAJA CALIFORNIA,Baja California,202608,MultiPolygon,0,0,,155989.54,14853.37,,subdel,1,2,0,0,0,0,376,338,38,0,Entre 50 y 55 años,390.878157895,461.507514793,,376
+7,Transportes y comunicaciones,BAJA CALIFORNIA SUR,BAJA CALIFORNIA SUR,Baja California Sur,202608,MultiPolygon,76991.029999998,16899.010000000,,0,0,,subdel,1,3,294,241,53,0,0,0,0,0,Entre 50 y 55 años,,,,0
+7,Transportes y comunicaciones,BAJA CALIFORNIA SUR,BAJA CALIFORNIA SUR,Baja California Sur,202608,MultiPolygon,0,0,,22548.65,2085.72,,subdel,1,3,0,0,0,0,55,50,5,0,Entre 50 y 55 años,417.144,450.973,,55
+7,Transportes y comunicaciones,CAMPECHE,CAMPECHE,Campeche,202608,MultiPolygon,237254.859999995,35641.719999999,,0,0,,subdel,1,4,858,746,112,0,0,0,0,0,Entre 50 y 55 años,,,,0
+7,Transportes y comunicaciones,CAMPECHE,CAMPECHE,Campeche,202608,MultiPolygon,0,0,,58323.7,3936.39,,subdel,1,4,0,0,0,0,140,129,11,0,Entre 50 y 55 años,357.853636364,452.121705426,,140
+7,Transportes y comunicaciones,COAHUILA DE ZARAGOZA,COAHUILA DE ZARAGOZA,Coahuila de Zaragoza,202608,Polygon,787271.389999982,79583.089999998,,0,0,,subdel,1,5,2724,2474,250,0,0,0,0,0,Entre 50 y 55 años,,,,0
+7,Transportes y comunicaciones,COAHUILA DE ZARAGOZA,COAHUILA DE ZARAGOZA,Coahuila de Zaragoza,202608,Polygon,0,0,,215523.58,7161.4,,subdel,1,5,0,0,0,0,487,468,19,0,Entre 50 y 55 años,376.915789474,460.520470085,,487
+7,Transportes y comunicaciones,COLIMA,COLIMA,Colima,202608,MultiPolygon,114947.429999997,20173.650000000,,0,0,,subdel,1,6,422,359,63,0,0,0,0,0,Entre 50 y 55 años,,,,0
+7,Transportes y comunicaciones,COLIMA,COLIMA,Colima,202608,MultiPolygon,0,0,,27943.44,1812.91,,subdel,1,6,0,0,0,0,71,66,5,0,Entre 50 y 55 años,362.582,423.385454545,,71
+7,Transportes y comunicaciones,CHIAPAS,CHIAPAS,Chiapas,202608,MultiPolygon,437159.41999999,43275.839999999,,0,0,,subdel,1,7,1503,1368,135,0,0,0,0,0,Entre 50 y 55 años,,,,0
+7,Transportes y comunicaciones,CHIAPAS,CHIAPAS,Chiapas,202608,MultiPolygon,0,0,,130340.66,7068.06,,subdel,1,7,0,0,0,0,308,290,18,0,Entre 50 y 55 años,392.67,449.450551724,,308
+7,Transportes y comunicaciones,CHIHUAHUA,CHIHUAHUA,Chihuahua,202608,Polygon,737992.989999983,137956.439999997,,0,0,,subdel,1,8,2736,2305,431,0,0,0,0,0,Entre 50 y 55 años,,,,0
+7,Transportes y comunicaciones,CHIHUAHUA,CHIHUAHUA,Chihuahua,202608,Polygon,0,0,,223848.74,21106.62,,subdel,1,8,0,0,0,0,550,500,50,0,Entre 50 y 55 años,422.1324,447.69748,,550
+7,Transportes y comunicaciones,CIUDAD DE MÉXICO,CIUDAD DE MÉXICO,Ciudad de México,202608,Polygon,9795399.85999977,924816.699999978,,0,0,,subdel,1,9,33271,30415,2856,0,0,0,0,0,Entre 50 y 55 años,,,,0
+7,Transportes y comunicaciones,CIUDAD DE MÉXICO,CIUDAD DE MÉXICO,Ciudad de México,202608,Polygon,0,0,,2436336.35,138227.3,,subdel,1,9,0,0,0,0,6089,5728,361,0,Entre 50 y 55 años,382.901108033,425.338049930,,6089
+7,Transportes y comunicaciones,DURANGO,DURANGO,Durango,202608,Polygon,333856.999999992,38916.309999999,,0,0,,subdel,1,10,1164,1042,122,0,0,0,0,0,Entre 50 y 55 años,,,,0
+7,Transportes y comunicaciones,DURANGO,DURANGO,Durango,202608,Polygon,0,0,,84705.67,5710.84,,subdel,1,10,0,0,0,0,200,187,13,0,Entre 50 y 55 años,439.295384615,452.971497326,,200
+7,Transportes y comunicaciones,GUANAJUATO,GUANAJUATO,Guanajuato,202608,Polygon,995127.519999977,90667.099999998,,0,0,,subdel,1,11,3371,3090,281,0,0,0,0,0,Entre 50 y 55 años,,,,0
+7,Transportes y comunicaciones,GUANAJUATO,GUANAJUATO,Guanajuato,202608,Polygon,0,0,,254033.99,11657.65,,subdel,1,11,0,0,0,0,638,608,30,0,Entre 50 y 55 años,388.588333333,417.8190625,,638
+7,Transportes y comunicaciones,GUERRERO,GUERRERO,Guerrero,202608,MultiPolygon,401285.979999991,42723.409999999,,0,0,,subdel,1,12,1382,1249,133,0,0,0,0,0,Entre 50 y 55 años,,,,0
+7,Transportes y comunicaciones,GUERRERO,GUERRERO,Guerrero,202608,MultiPolygon,0,0,,109208.08,6362.61,,subdel,1,12,0,0,0,0,257,242,15,0,Entre 50 y 55 años,424.174,451.273057851,,257
+7,Transportes y comunicaciones,HIDALGO,HIDALGO,Hidalgo,202608,Polygon,254607.729999994,24486.589999999,,0,0,,subdel,1,13,865,789,76,0,0,0,0,0,Entre 50 y 55 años,,,,0
+7,Transportes y comunicaciones,HIDALGO,HIDALGO,Hidalgo,202608,Polygon,0,0,,54764.91,2391.35,,subdel,1,13,0,0,0,0,126,120,6,0,Entre 50 y 55 años,398.558333333,456.37425,,126
+7,Transportes y comunicaciones,JALISCO,JALISCO,Jalisco,202608,MultiPolygon,2350193.58999995,269368.839999994,,0,0,,subdel,1,14,8128,7292,836,0,0,0,0,0,Entre 50 y 55 años,,,,0
+7,Transportes y comunicaciones,JALISCO,JALISCO,Jalisco,202608,MultiPolygon,0,0,,659806.75,42116.96,,subdel,1,14,0,0,0,0,1665,1553,112,0,Entre 50 y 55 años,376.044285714,424.859465551,,1665
+7,Transportes y comunicaciones,MÉXICO,MÉXICO,México,202608,Polygon,1498798.75999997,125930.469999997,,0,0,,subdel,1,15,5057,4666,391,0,0,0,0,0,Entre 50 y 55 años,,,,0
+7,Transportes y comunicaciones,MÉXICO,MÉXICO,México,202608,Polygon,0,0,,316881.47,11392.09,,subdel,1,15,0,0,0,0,774,742,32,0,Entre 50 y 55 años,356.0028125,427.063975741,,774
+7,Transportes y comunicaciones,MICHOACÁN DE OCAMPO,MICHOACÁN DE OCAMPO,Michoacán de Ocampo,202608,MultiPolygon,532781.339999988,65622.309999998,,0,0,,subdel,1,16,1856,1653,203,0,0,0,0,0,Entre 50 y 55 años,,,,0
+7,Transportes y comunicaciones,MICHOACÁN DE OCAMPO,MICHOACÁN DE OCAMPO,Michoacán de Ocampo,202608,MultiPolygon,0,0,,133735.41,6805.85,,subdel,1,16,0,0,0,0,337,319,18,0,Entre 50 y 55 años,378.102777778,419.233260188,,337
+7,Transportes y comunicaciones,MORELOS,MORELOS,Morelos,202608,Polygon,294981.669999993,27636.989999999,,0,0,,subdel,1,17,1007,921,86,0,0,0,0,0,Entre 50 y 55 años,,,,0
+7,Transportes y comunicaciones,MORELOS,MORELOS,Morelos,202608,Polygon,0,0,,61842.39,2588.51,,subdel,1,17,0,0,0,0,156,149,7,0,Entre 50 y 55 años,369.787142857,415.049597315,,156
+7,Transportes y comunicaciones,NAYARIT,NAYARIT,Nayarit,202608,MultiPolygon,306358.569999993,24945.839999999,,0,0,,subdel,1,18,1041,963,78,0,0,0,0,0,Entre 50 y 55 años,,,,0
+7,Transportes y comunicaciones,NAYARIT,NAYARIT,Nayarit,202608,MultiPolygon,0,0,,67278.85,6322.79,,subdel,1,18,0,0,0,0,168,153,15,0,Entre 50 y 55 años,421.519333333,439.731045752,,168
+7,Transportes y comunicaciones,NUEVO LEÓN,NUEVO LEÓN,Nuevo León,202608,Polygon,1840638.89999996,201042.079999995,,0,0,,subdel,1,19,6353,5729,624,0,0,0,0,0,Entre 50 y 55 años,,,,0
+7,Transportes y comunicaciones,NUEVO LEÓN,NUEVO LEÓN,Nuevo León,202608,Polygon,0,0,,909278.96,54608.58,,subdel,1,19,0,0,0,0,1947,1825,122,0,Entre 50 y 55 años,447.611311475,498.235046575,,1947
+7,Transportes y comunicaciones,OAXACA,OAXACA,Oaxaca,202608,MultiPolygon,384452.089999991,26707.399999999,,0,0,,subdel,1,20,1280,1197,83,0,0,0,0,0,Entre 50 y 55 años,,,,0
+7,Transportes y comunicaciones,OAXACA,OAXACA,Oaxaca,202608,MultiPolygon,0,0,,102732.76,4159.19,,subdel,1,20,0,0,0,0,242,232,10,0,Entre 50 y 55 años,415.919,442.813620690,,242
+7,Transportes y comunicaciones,PUEBLA,PUEBLA,Puebla,202608,Polygon,1063652.78999998,84177.069999998,,0,0,,subdel,1,21,3567,3306,261,0,0,0,0,0,Entre 50 y 55 años,,,,0
+7,Transportes y comunicaciones,PUEBLA,PUEBLA,Puebla,202608,Polygon,0,0,,285540.54,15746.77,,subdel,1,21,0,0,0,0,731,689,42,0,Entre 50 y 55 años,374.923095238,414.427489115,,731
+7,Transportes y comunicaciones,QUERÉTARO,QUERÉTARO,Querétaro,202608,Polygon,339799.349999992,26330.239999999,,0,0,,subdel,1,22,1142,1060,82,0,0,0,0,0,Entre 50 y 55 años,,,,0
+7,Transportes y comunicaciones,QUERÉTARO,QUERÉTARO,Querétaro,202608,Polygon,0,0,,95583.33,3140.98,,subdel,1,22,0,0,0,0,220,212,8,0,Entre 50 y 55 años,392.6225,450.864764151,,220
+7,Transportes y comunicaciones,QUINTANA ROO,QUINTANA ROO,Quintana Roo,202608,MultiPolygon,0,,,17210.96,,,subdel,1,23,0,0,0,0,36,36,0,0,Entre 50 y 55 años,,478.082222222,,36
+7,Transportes y comunicaciones,QUINTANA ROO,QUINTANA ROO,Quintana Roo,202608,MultiPolygon,82123.979999998,10613.740000000,,0,0,,subdel,1,23,288,255,33,0,0,0,0,0,Entre 50 y 55 años,,,,0
+7,Transportes y comunicaciones,SAN LUIS POTOSÍ,SAN LUIS POTOSÍ,San Luis Potosí,202608,Polygon,544412.709999988,72596.739999998,,0,0,,subdel,1,24,1927,1701,226,0,0,0,0,0,Entre 50 y 55 años,,,,0
+7,Transportes y comunicaciones,SAN LUIS POTOSÍ,SAN LUIS POTOSÍ,San Luis Potosí,202608,Polygon,0,0,,148902.85,8774.29,,subdel,1,24,0,0,0,0,351,329,22,0,Entre 50 y 55 años,398.831363636,452.592249240,,351
+7,Transportes y comunicaciones,SINALOA,SINALOA,Sinaloa,202608,MultiPolygon,892496.52999998,124635.369999997,,0,0,,subdel,1,25,3188,2798,390,0,0,0,0,0,Entre 50 y 55 años,,,,0
+7,Transportes y comunicaciones,SINALOA,SINALOA,Sinaloa,202608,MultiPolygon,0,0,,276271.08,18007.66,,subdel,1,25,0,0,0,0,649,606,43,0,Entre 50 y 55 años,418.782790698,455.892871287,,649
+7,Transportes y comunicaciones,SONORA,SONORA,Sonora,202608,MultiPolygon,691440.319999984,123843.319999997,,0,0,,subdel,1,26,2549,2162,387,0,0,0,0,0,Entre 50 y 55 años,,,,0
+7,Transportes y comunicaciones,SONORA,SONORA,Sonora,202608,MultiPolygon,0,0,,226090.51,25017.94,,subdel,1,26,0,0,0,0,565,503,62,0,Entre 50 y 55 años,403.515161290,449.484115308,,565
+7,Transportes y comunicaciones,TABASCO,TABASCO,Tabasco,202608,MultiPolygon,434439.35999999,53368.209999999,,0,0,,subdel,1,27,1518,1352,166,0,0,0,0,0,Entre 50 y 55 años,,,,0
+7,Transportes y comunicaciones,TABASCO,TABASCO,Tabasco,202608,MultiPolygon,0,0,,111422.18,7571.18,,subdel,1,27,0,0,0,0,263,244,19,0,Entre 50 y 55 años,398.483157895,456.648278689,,263
+7,Transportes y comunicaciones,TAMAULIPAS,TAMAULIPAS,Tamaulipas,202608,MultiPolygon,699797.719999984,92957.919999998,,0,0,,subdel,1,28,2483,2192,291,0,0,0,0,0,Entre 50 y 55 años,,,,0
+7,Transportes y comunicaciones,TAMAULIPAS,TAMAULIPAS,Tamaulipas,202608,MultiPolygon,0,0,,233517.87,13283.79,,subdel,1,28,0,0,0,0,531,496,35,0,Entre 50 y 55 años,379.536857143,470.802157258,,531
+7,Transportes y comunicaciones,TLAXCALA,TLAXCALA,Tlaxcala,202608,Polygon,176683.339999996,9069.600000000,,0,0,,subdel,1,29,578,550,28,0,0,0,0,0,Entre 50 y 55 años,,,,0
+7,Transportes y comunicaciones,TLAXCALA,TLAXCALA,Tlaxcala,202608,Polygon,0,0,,36398.87,661.14,,subdel,1,29,0,0,0,0,87,85,2,0,Entre 50 y 55 años,330.57,428.222,,87
+7,Transportes y comunicaciones,VERACRUZ,VERACRUZ,Veracruz,202608,MultiPolygon,1547708.73999996,149171.179999997,,0,0,,subdel,1,30,5311,4846,465,0,0,0,0,0,Entre 50 y 55 años,,,,0
+7,Transportes y comunicaciones,VERACRUZ,VERACRUZ,Veracruz,202608,MultiPolygon,0,0,,432915.52,18766.18,,subdel,1,30,0,0,0,0,993,944,49,0,Entre 50 y 55 años,382.983265306,458.596949153,,993
+7,Transportes y comunicaciones,YUCATÁN,YUCATÁN,Yucatán,202608,MultiPolygon,943686.209999978,96473.219999998,,0,0,,subdel,1,31,3250,2949,301,0,0,0,0,0,Entre 50 y 55 años,,,,0
+7,Transportes y comunicaciones,YUCATÁN,YUCATÁN,Yucatán,202608,MultiPolygon,0,0,,248718.04,14105.01,,subdel,1,31,0,0,0,0,568,533,35,0,Entre 50 y 55 años,403.000285714,466.637973734,,568
+7,Transportes y comunicaciones,ZACATECAS,ZACATECAS,Zacatecas,202608,Polygon,217509.239999995,23207.649999999,,0,0,,subdel,1,32,749,677,72,0,0,0,0,0,Entre 50 y 55 años,,,,0
+7,Transportes y comunicaciones,ZACATECAS,ZACATECAS,Zacatecas,202608,Polygon,0,0,,60001.39,3502.38,,subdel,1,32,0,0,0,0,148,140,8,0,Entre 50 y 55 años,437.7975,428.581357143,,148
+7,Transportes y comunicaciones,EXTRANJERO/EXTRANJERA,,Extranjero/Extranjera,202608,,163165.669999996,21413.839999999,,0,0,,subdel,1,,571,505,66,0,0,0,0,0,Entre 55 y 60 años,,,,0
+7,Transportes y comunicaciones,EXTRANJERO/EXTRANJERA,,Extranjero/Extranjera,202608,,0,0,,61084.91,3009.38,,subdel,1,,0,0,0,0,146,138,8,0,Entre 55 y 60 años,376.1725,442.644275362,,146
+7,Transportes y comunicaciones,AGUASCALIENTES,AGUASCALIENTES,Aguascalientes,202608,Polygon,158980.149999996,8914.300000000,,0,0,,subdel,1,1,522,494,28,0,0,0,0,0,Entre 55 y 60 años,,,,0
+7,Transportes y comunicaciones,AGUASCALIENTES,AGUASCALIENTES,Aguascalientes,202608,Polygon,0,0,,42263.07,675.5,,subdel,1,1,0,0,0,0,107,105,2,0,Entre 55 y 60 años,337.75,402.505428571,,107
+7,Transportes y comunicaciones,BAJA CALIFORNIA,BAJA CALIFORNIA,Baja California,202608,MultiPolygon,233227.179999995,28825.019999999,,0,0,,subdel,1,2,816,727,89,0,0,0,0,0,Entre 55 y 60 años,,,,0
+7,Transportes y comunicaciones,BAJA CALIFORNIA,BAJA CALIFORNIA,Baja California,202608,MultiPolygon,0,0,,95557.55,5504.46,,subdel,1,2,0,0,0,0,222,211,11,0,Entre 55 y 60 años,500.405454545,452.879383886,,222
+7,Transportes y comunicaciones,BAJA CALIFORNIA SUR,BAJA CALIFORNIA SUR,Baja California Sur,202608,MultiPolygon,44995.249999999,7654.140000000,,0,0,,subdel,1,3,165,141,24,0,0,0,0,0,Entre 55 y 60 años,,,,0
+7,Transportes y comunicaciones,BAJA CALIFORNIA SUR,BAJA CALIFORNIA SUR,Baja California Sur,202608,MultiPolygon,0,0,,9656.14,1557.11,,subdel,1,3,0,0,0,0,24,21,3,0,Entre 55 y 60 años,519.036666667,459.816190476,,24
+7,Transportes y comunicaciones,CAMPECHE,CAMPECHE,Campeche,202608,MultiPolygon,140831.739999997,15246.160000000,,0,0,,subdel,1,4,490,442,48,0,0,0,0,0,Entre 55 y 60 años,,,,0
+7,Transportes y comunicaciones,CAMPECHE,CAMPECHE,Campeche,202608,MultiPolygon,0,0,,29963.33,2056.92,,subdel,1,4,0,0,0,0,71,66,5,0,Entre 55 y 60 años,411.384,453.989848485,,71
+7,Transportes y comunicaciones,COAHUILA DE ZARAGOZA,COAHUILA DE ZARAGOZA,Coahuila de Zaragoza,202608,Polygon,468550.579999989,36427.049999999,,0,0,,subdel,1,5,1584,1470,114,0,0,0,0,0,Entre 55 y 60 años,,,,0
+7,Transportes y comunicaciones,COAHUILA DE ZARAGOZA,COAHUILA DE ZARAGOZA,Coahuila de Zaragoza,202608,Polygon,0,0,,133413.69,6085.08,,subdel,1,5,0,0,0,0,310,295,15,0,Entre 55 y 60 años,405.672,452.249796610,,310
+7,Transportes y comunicaciones,COLIMA,COLIMA,Colima,202608,MultiPolygon,74379.739999998,9606.500000000,,0,0,,subdel,1,6,262,232,30,0,0,0,0,0,Entre 55 y 60 años,,,,0
+7,Transportes y comunicaciones,COLIMA,COLIMA,Colima,202608,MultiPolygon,0,0,,23355.77,662,,subdel,1,6,0,0,0,0,56,54,2,0,Entre 55 y 60 años,331,432.514259259,,56
+7,Transportes y comunicaciones,CHIAPAS,CHIAPAS,Chiapas,202608,MultiPolygon,245071.969999994,15700.970000000,,0,0,,subdel,1,7,816,767,49,0,0,0,0,0,Entre 55 y 60 años,,,,0
+7,Transportes y comunicaciones,CHIAPAS,CHIAPAS,Chiapas,202608,MultiPolygon,0,0,,76619.83,2904.77,,subdel,1,7,0,0,0,0,179,172,7,0,Entre 55 y 60 años,414.967142857,445.464127907,,179
+7,Transportes y comunicaciones,CHIHUAHUA,CHIHUAHUA,Chihuahua,202608,Polygon,456163.28999999,82172.179999998,,0,0,,subdel,1,8,1678,1422,256,0,0,0,0,0,Entre 55 y 60 años,,,,0
+7,Transportes y comunicaciones,CHIHUAHUA,CHIHUAHUA,Chihuahua,202608,Polygon,0,0,,150958.27,11503.06,,subdel,1,8,0,0,0,0,373,343,30,0,Entre 55 y 60 años,383.435333333,440.111574344,,373
+7,Transportes y comunicaciones,CIUDAD DE MÉXICO,CIUDAD DE MÉXICO,Ciudad de México,202608,Polygon,6121788.75999986,555968.159999987,,0,0,,subdel,1,9,20698,18985,1713,0,0,0,0,0,Entre 55 y 60 años,,,,0
+7,Transportes y comunicaciones,CIUDAD DE MÉXICO,CIUDAD DE MÉXICO,Ciudad de México,202608,Polygon,0,0,,1711094.3,90561.2,,subdel,1,9,0,0,0,0,4237,4007,230,0,Entre 55 y 60 años,393.744347826,427.026279012,,4237
+7,Transportes y comunicaciones,DURANGO,DURANGO,Durango,202608,Polygon,191880.209999996,20158.960000000,,0,0,,subdel,1,10,661,598,63,0,0,0,0,0,Entre 55 y 60 años,,,,0
+7,Transportes y comunicaciones,DURANGO,DURANGO,Durango,202608,Polygon,0,0,,60540.5,2728.93,,subdel,1,10,0,0,0,0,139,133,6,0,Entre 55 y 60 años,454.821666667,455.191729323,,139
+7,Transportes y comunicaciones,GUANAJUATO,GUANAJUATO,Guanajuato,202608,Polygon,604552.549999986,37290.079999999,,0,0,,subdel,1,11,1995,1879,116,0,0,0,0,0,Entre 55 y 60 años,,,,0
+7,Transportes y comunicaciones,GUANAJUATO,GUANAJUATO,Guanajuato,202608,Polygon,0,0,,162620.8,5270.99,,subdel,1,11,0,0,0,0,412,398,14,0,Entre 55 y 60 años,376.499285714,408.594974874,,412
+7,Transportes y comunicaciones,GUERRERO,GUERRERO,Guerrero,202608,MultiPolygon,227537.039999995,18677.870000000,,0,0,,subdel,1,12,764,707,57,0,0,0,0,0,Entre 55 y 60 años,,,,0
+7,Transportes y comunicaciones,GUERRERO,GUERRERO,Guerrero,202608,MultiPolygon,0,0,,68037.01,1308.25,,subdel,1,12,0,0,0,0,155,152,3,0,Entre 55 y 60 años,436.083333333,447.611907895,,155
+7,Transportes y comunicaciones,HIDALGO,HIDALGO,Hidalgo,202608,Polygon,178232.499999996,9791.440000000,,0,0,,subdel,1,13,580,550,30,0,0,0,0,0,Entre 55 y 60 años,,,,0
+7,Transportes y comunicaciones,HIDALGO,HIDALGO,Hidalgo,202608,Polygon,0,0,,40810.73,1899.05,,subdel,1,13,0,0,0,0,100,95,5,0,Entre 55 y 60 años,379.81,429.586631579,,100
+7,Transportes y comunicaciones,JALISCO,JALISCO,Jalisco,202608,MultiPolygon,1314976.97999997,130878.629999997,,0,0,,subdel,1,14,4481,4075,406,0,0,0,0,0,Entre 55 y 60 años,,,,0
+7,Transportes y comunicaciones,JALISCO,JALISCO,Jalisco,202608,MultiPolygon,0,0,,408157.73,16976.79,,subdel,1,14,0,0,0,0,1004,960,44,0,Entre 55 y 60 años,385.836136364,425.164302083,,1004
+7,Transportes y comunicaciones,MÉXICO,MÉXICO,México,202608,Polygon,745024.579999983,42517.079999999,,0,0,,subdel,1,15,2450,2318,132,0,0,0,0,0,Entre 55 y 60 años,,,,0
+7,Transportes y comunicaciones,MÉXICO,MÉXICO,México,202608,Polygon,0,0,,187605.47,4520.17,,subdel,1,15,0,0,0,0,455,444,11,0,Entre 55 y 60 años,410.924545455,422.534842342,,455
+7,Transportes y comunicaciones,MICHOACÁN DE OCAMPO,MICHOACÁN DE OCAMPO,Michoacán de Ocampo,202608,MultiPolygon,355591.919999992,30473.889999999,,0,0,,subdel,1,16,1195,1101,94,0,0,0,0,0,Entre 55 y 60 años,,,,0
+7,Transportes y comunicaciones,MICHOACÁN DE OCAMPO,MICHOACÁN DE OCAMPO,Michoacán de Ocampo,202608,MultiPolygon,0,0,,103096.58,6079.94,,subdel,1,16,0,0,0,0,254,238,16,0,Entre 55 y 60 años,379.99625,433.178907563,,254
+7,Transportes y comunicaciones,MORELOS,MORELOS,Morelos,202608,Polygon,167515.579999996,13899.620000000,,0,0,,subdel,1,17,565,522,43,0,0,0,0,0,Entre 55 y 60 años,,,,0
+7,Transportes y comunicaciones,MORELOS,MORELOS,Morelos,202608,Polygon,0,0,,36937.15,1842.28,,subdel,1,17,0,0,0,0,92,87,5,0,Entre 55 y 60 años,368.456,424.564942529,,92
+7,Transportes y comunicaciones,NAYARIT,NAYARIT,Nayarit,202608,MultiPolygon,176841.279999996,14063.650000000,,0,0,,subdel,1,18,599,555,44,0,0,0,0,0,Entre 55 y 60 años,,,,0
+7,Transportes y comunicaciones,NAYARIT,NAYARIT,Nayarit,202608,MultiPolygon,0,0,,45554.85,346.15,,subdel,1,18,0,0,0,0,104,103,1,0,Entre 55 y 60 años,346.15,442.280097087,,104
+7,Transportes y comunicaciones,NUEVO LEÓN,NUEVO LEÓN,Nuevo León,202608,Polygon,1055938.66999998,109436.489999997,,0,0,,subdel,1,19,3621,3283,338,0,0,0,0,0,Entre 55 y 60 años,,,,0
+7,Transportes y comunicaciones,NUEVO LEÓN,NUEVO LEÓN,Nuevo León,202608,Polygon,0,0,,574994.57,30206.54,,subdel,1,19,0,0,0,0,1234,1169,65,0,Entre 55 y 60 años,464.716,491.868751069,,1234
+7,Transportes y comunicaciones,OAXACA,OAXACA,Oaxaca,202608,MultiPolygon,207994.639999995,16140.250000000,,0,0,,subdel,1,20,697,647,50,0,0,0,0,0,Entre 55 y 60 años,,,,0
+7,Transportes y comunicaciones,OAXACA,OAXACA,Oaxaca,202608,MultiPolygon,0,0,,55349.89,2134.37,,subdel,1,20,0,0,0,0,130,124,6,0,Entre 55 y 60 años,355.728333333,446.370080645,,130
+7,Transportes y comunicaciones,PUEBLA,PUEBLA,Puebla,202608,Polygon,615820.039999986,40931.729999999,,0,0,,subdel,1,21,2037,1911,126,0,0,0,0,0,Entre 55 y 60 años,,,,0
+7,Transportes y comunicaciones,PUEBLA,PUEBLA,Puebla,202608,Polygon,0,0,,193032.67,7572.57,,subdel,1,21,0,0,0,0,479,461,18,0,Entre 55 y 60 años,420.698333333,418.725965293,,479
+7,Transportes y comunicaciones,QUERÉTARO,QUERÉTARO,Querétaro,202608,Polygon,178237.179999996,15070.890000000,,0,0,,subdel,1,22,603,556,47,0,0,0,0,0,Entre 55 y 60 años,,,,0
+7,Transportes y comunicaciones,QUERÉTARO,QUERÉTARO,Querétaro,202608,Polygon,0,0,,53154.45,2371.49,,subdel,1,22,0,0,0,0,127,121,6,0,Entre 55 y 60 años,395.248333333,439.292975207,,127
+7,Transportes y comunicaciones,QUINTANA ROO,QUINTANA ROO,Quintana Roo,202608,MultiPolygon,0,,,7489.59,,,subdel,1,23,0,0,0,0,17,17,0,0,Entre 55 y 60 años,,440.564117647,,17
+7,Transportes y comunicaciones,QUINTANA ROO,QUINTANA ROO,Quintana Roo,202608,MultiPolygon,29542.759999999,3827.070000000,,0,0,,subdel,1,23,104,92,12,0,0,0,0,0,Entre 55 y 60 años,,,,0
+7,Transportes y comunicaciones,SAN LUIS POTOSÍ,SAN LUIS POTOSÍ,San Luis Potosí,202608,Polygon,314314.469999993,36360.489999999,,0,0,,subdel,1,24,1093,980,113,0,0,0,0,0,Entre 55 y 60 años,,,,0
+7,Transportes y comunicaciones,SAN LUIS POTOSÍ,SAN LUIS POTOSÍ,San Luis Potosí,202608,Polygon,0,0,,87296.34,5405.86,,subdel,1,24,0,0,0,0,208,194,14,0,Entre 55 y 60 años,386.132857143,449.981134021,,208
+7,Transportes y comunicaciones,SINALOA,SINALOA,Sinaloa,202608,MultiPolygon,521776.899999988,54125.569999999,,0,0,,subdel,1,25,1803,1634,169,0,0,0,0,0,Entre 55 y 60 años,,,,0
+7,Transportes y comunicaciones,SINALOA,SINALOA,Sinaloa,202608,MultiPolygon,0,0,,160569.35,8616.88,,subdel,1,25,0,0,0,0,379,359,20,0,Entre 55 y 60 años,430.844,447.268384401,,379
+7,Transportes y comunicaciones,SONORA,SONORA,Sonora,202608,MultiPolygon,406630.379999991,71479.289999998,,0,0,,subdel,1,26,1494,1273,221,0,0,0,0,0,Entre 55 y 60 años,,,,0
+7,Transportes y comunicaciones,SONORA,SONORA,Sonora,202608,MultiPolygon,0,0,,141669.34,18818.91,,subdel,1,26,0,0,0,0,370,324,46,0,Entre 55 y 60 años,409.106739130,437.251049383,,370
+7,Transportes y comunicaciones,TABASCO,TABASCO,Tabasco,202608,MultiPolygon,213929.649999995,23872.039999999,,0,0,,subdel,1,27,739,665,74,0,0,0,0,0,Entre 55 y 60 años,,,,0
+7,Transportes y comunicaciones,TABASCO,TABASCO,Tabasco,202608,MultiPolygon,0,0,,61970.19,3997.23,,subdel,1,27,0,0,0,0,147,136,11,0,Entre 55 y 60 años,363.384545455,455.663161765,,147
+7,Transportes y comunicaciones,TAMAULIPAS,TAMAULIPAS,Tamaulipas,202608,MultiPolygon,390925.829999991,51126.279999999,,0,0,,subdel,1,28,1384,1224,160,0,0,0,0,0,Entre 55 y 60 años,,,,0
+7,Transportes y comunicaciones,TAMAULIPAS,TAMAULIPAS,Tamaulipas,202608,MultiPolygon,0,0,,144468.4,8087.55,,subdel,1,28,0,0,0,0,323,305,18,0,Entre 55 y 60 años,449.308333333,473.666885246,,323
+7,Transportes y comunicaciones,TLAXCALA,TLAXCALA,Tlaxcala,202608,Polygon,91918.449999998,4204.230000000,,0,0,,subdel,1,29,299,286,13,0,0,0,0,0,Entre 55 y 60 años,,,,0
+7,Transportes y comunicaciones,TLAXCALA,TLAXCALA,Tlaxcala,202608,Polygon,0,0,,19138.24,370.2,,subdel,1,29,0,0,0,0,48,47,1,0,Entre 55 y 60 años,370.2,407.196595745,,48
+7,Transportes y comunicaciones,VERACRUZ,VERACRUZ,Veracruz,202608,MultiPolygon,886236.74999998,84869.689999998,,0,0,,subdel,1,30,3040,2775,265,0,0,0,0,0,Entre 55 y 60 años,,,,0
+7,Transportes y comunicaciones,VERACRUZ,VERACRUZ,Veracruz,202608,MultiPolygon,0,0,,260110.07,14492.02,,subdel,1,30,0,0,0,0,617,581,36,0,Entre 55 y 60 años,402.556111111,447.693752151,,617
+7,Transportes y comunicaciones,YUCATÁN,YUCATÁN,Yucatán,202608,MultiPolygon,543246.929999988,56185.959999999,,0,0,,subdel,1,31,1871,1696,175,0,0,0,0,0,Entre 55 y 60 años,,,,0
+7,Transportes y comunicaciones,YUCATÁN,YUCATÁN,Yucatán,202608,MultiPolygon,0,0,,164352.96,9773.24,,subdel,1,31,0,0,0,0,385,361,24,0,Entre 55 y 60 años,407.218333333,455.271357341,,385
+7,Transportes y comunicaciones,ZACATECAS,ZACATECAS,Zacatecas,202608,Polygon,151003.969999997,14440.810000000,,0,0,,subdel,1,32,515,470,45,0,0,0,0,0,Entre 55 y 60 años,,,,0
+7,Transportes y comunicaciones,ZACATECAS,ZACATECAS,Zacatecas,202608,Polygon,0,0,,46466.92,1633.98,,subdel,1,32,0,0,0,0,106,102,4,0,Entre 55 y 60 años,408.495,455.558039216,,106
+7,Transportes y comunicaciones,EXTRANJERO/EXTRANJERA,,Extranjero/Extranjera,202608,,108975.609999997,15959.980000000,,0,0,,subdel,1,,386,337,49,0,0,0,0,0,Entre 60 y 65 años,,,,0
+7,Transportes y comunicaciones,EXTRANJERO/EXTRANJERA,,Extranjero/Extranjera,202608,,0,0,,37843.82,1908.02,,subdel,1,,0,0,0,0,86,81,5,0,Entre 60 y 65 años,381.604,467.207654321,,86
+7,Transportes y comunicaciones,AGUASCALIENTES,AGUASCALIENTES,Aguascalientes,202608,Polygon,86216.669999998,4188.700000000,,0,0,,subdel,1,1,281,268,13,0,0,0,0,0,Entre 60 y 65 años,,,,0
+7,Transportes y comunicaciones,AGUASCALIENTES,AGUASCALIENTES,Aguascalientes,202608,Polygon,0,0,,25205.17,1263.32,,subdel,1,1,0,0,0,0,65,62,3,0,Entre 60 y 65 años,421.106666667,406.535,,65
+7,Transportes y comunicaciones,BAJA CALIFORNIA,BAJA CALIFORNIA,Baja California,202608,MultiPolygon,96333.449999998,12525.490000000,,0,0,,subdel,1,2,340,301,39,0,0,0,0,0,Entre 60 y 65 años,,,,0
+7,Transportes y comunicaciones,BAJA CALIFORNIA,BAJA CALIFORNIA,Baja California,202608,MultiPolygon,0,0,,34949.95,2005.08,,subdel,1,2,0,0,0,0,81,76,5,0,Entre 60 y 65 años,401.016,459.867763158,,81
+7,Transportes y comunicaciones,BAJA CALIFORNIA SUR,BAJA CALIFORNIA SUR,Baja California Sur,202608,MultiPolygon,0,,,5961.65,,,subdel,1,3,0,0,0,0,14,14,0,0,Entre 60 y 65 años,,425.832142857,,14
+7,Transportes y comunicaciones,BAJA CALIFORNIA SUR,BAJA CALIFORNIA SUR,Baja California Sur,202608,MultiPolygon,17544.620000000,1260.160000000,,0,0,,subdel,1,3,59,55,4,0,0,0,0,0,Entre 60 y 65 años,,,,0
+7,Transportes y comunicaciones,CAMPECHE,CAMPECHE,Campeche,202608,MultiPolygon,0,,,17404.12,,,subdel,1,4,0,0,0,0,36,36,0,0,Entre 60 y 65 años,,483.447777778,,36
+7,Transportes y comunicaciones,CAMPECHE,CAMPECHE,Campeche,202608,MultiPolygon,62934.389999999,5071.700000000,,0,0,,subdel,1,4,213,197,16,0,0,0,0,0,Entre 60 y 65 años,,,,0
+7,Transportes y comunicaciones,COAHUILA DE ZARAGOZA,COAHUILA DE ZARAGOZA,Coahuila de Zaragoza,202608,Polygon,240832.519999994,17906.250000000,,0,0,,subdel,1,5,810,754,56,0,0,0,0,0,Entre 60 y 65 años,,,,0
+7,Transportes y comunicaciones,COAHUILA DE ZARAGOZA,COAHUILA DE ZARAGOZA,Coahuila de Zaragoza,202608,Polygon,0,0,,71217.59,2234.74,,subdel,1,5,0,0,0,0,171,165,6,0,Entre 60 y 65 años,372.456666667,431.621757576,,171
+7,Transportes y comunicaciones,COLIMA,COLIMA,Colima,202608,MultiPolygon,0,,,9746.87,,,subdel,1,6,0,0,0,0,23,23,0,0,Entre 60 y 65 años,,423.776956522,,23
+7,Transportes y comunicaciones,COLIMA,COLIMA,Colima,202608,MultiPolygon,36329.429999999,2267.400000000,,0,0,,subdel,1,6,120,113,7,0,0,0,0,0,Entre 60 y 65 años,,,,0
+7,Transportes y comunicaciones,CHIAPAS,CHIAPAS,Chiapas,202608,MultiPolygon,116937.789999997,7731.790000000,,0,0,,subdel,1,7,390,366,24,0,0,0,0,0,Entre 60 y 65 años,,,,0
+7,Transportes y comunicaciones,CHIAPAS,CHIAPAS,Chiapas,202608,MultiPolygon,0,0,,31157.67,330.57,,subdel,1,7,0,0,0,0,70,69,1,0,Entre 60 y 65 años,330.57,451.560434783,,70
+7,Transportes y comunicaciones,CHIHUAHUA,CHIHUAHUA,Chihuahua,202608,Polygon,220170.769999995,26314.709999999,,0,0,,subdel,1,8,768,686,82,0,0,0,0,0,Entre 60 y 65 años,,,,0
+7,Transportes y comunicaciones,CHIHUAHUA,CHIHUAHUA,Chihuahua,202608,Polygon,0,0,,72310.15,2931.55,,subdel,1,8,0,0,0,0,177,169,8,0,Entre 60 y 65 años,366.44375,427.870710059,,177
+7,Transportes y comunicaciones,CIUDAD DE MÉXICO,CIUDAD DE MÉXICO,Ciudad de México,202608,Polygon,2975341.55999993,186875.289999996,,0,0,,subdel,1,9,9798,9221,577,0,0,0,0,0,Entre 60 y 65 años,,,,0
+7,Transportes y comunicaciones,CIUDAD DE MÉXICO,CIUDAD DE MÉXICO,Ciudad de México,202608,Polygon,0,0,,799206.18,25204.92,,subdel,1,9,0,0,0,0,1981,1915,66,0,Entre 60 y 65 años,381.892727273,417.340041775,,1981
+7,Transportes y comunicaciones,DURANGO,DURANGO,Durango,202608,Polygon,100582.869999998,8031.300000000,,0,0,,subdel,1,10,338,313,25,0,0,0,0,0,Entre 60 y 65 años,,,,0
+7,Transportes y comunicaciones,DURANGO,DURANGO,Durango,202608,Polygon,0,0,,26604.31,341.39,,subdel,1,10,0,0,0,0,60,59,1,0,Entre 60 y 65 años,341.39,450.920508475,,60
+7,Transportes y comunicaciones,GUANAJUATO,GUANAJUATO,Guanajuato,202608,Polygon,322735.439999992,12819.020000000,,0,0,,subdel,1,11,1041,1001,40,0,0,0,0,0,Entre 60 y 65 años,,,,0
+7,Transportes y comunicaciones,GUANAJUATO,GUANAJUATO,Guanajuato,202608,Polygon,0,0,,89062.4,1619.72,,subdel,1,11,0,0,0,0,221,217,4,0,Entre 60 y 65 años,404.93,410.425806452,,221
+7,Transportes y comunicaciones,GUERRERO,GUERRERO,Guerrero,202608,MultiPolygon,117540.959999997,9699.680000000,,0,0,,subdel,1,12,396,366,30,0,0,0,0,0,Entre 60 y 65 años,,,,0
+7,Transportes y comunicaciones,GUERRERO,GUERRERO,Guerrero,202608,MultiPolygon,0,0,,39212.01,1083.96,,subdel,1,12,0,0,0,0,91,88,3,0,Entre 60 y 65 años,361.32,445.591022727,,91
+7,Transportes y comunicaciones,HIDALGO,HIDALGO,Hidalgo,202608,Polygon,70924.089999998,6425.040000000,,0,0,,subdel,1,13,241,221,20,0,0,0,0,0,Entre 60 y 65 años,,,,0
+7,Transportes y comunicaciones,HIDALGO,HIDALGO,Hidalgo,202608,Polygon,0,0,,19127.69,763,,subdel,1,13,0,0,0,0,44,42,2,0,Entre 60 y 65 años,381.5,455.421190476,,44
+7,Transportes y comunicaciones,JALISCO,JALISCO,Jalisco,202608,MultiPolygon,623447.829999986,39067.169999999,,0,0,,subdel,1,14,2052,1931,121,0,0,0,0,0,Entre 60 y 65 años,,,,0
+7,Transportes y comunicaciones,JALISCO,JALISCO,Jalisco,202608,MultiPolygon,0,0,,186012.02,4708.11,,subdel,1,14,0,0,0,0,456,443,13,0,Entre 60 y 65 años,362.162307692,419.891693002,,456
+7,Transportes y comunicaciones,MÉXICO,MÉXICO,México,202608,Polygon,342001.029999992,18645.040000000,,0,0,,subdel,1,15,1121,1063,58,0,0,0,0,0,Entre 60 y 65 años,,,,0
+7,Transportes y comunicaciones,MÉXICO,MÉXICO,México,202608,Polygon,0,0,,75611.24,1343.8,,subdel,1,15,0,0,0,0,185,181,4,0,Entre 60 y 65 años,335.95,417.741657459,,185
+7,Transportes y comunicaciones,MICHOACÁN DE OCAMPO,MICHOACÁN DE OCAMPO,Michoacán de Ocampo,202608,MultiPolygon,191353.479999996,13398.070000000,,0,0,,subdel,1,16,634,593,41,0,0,0,0,0,Entre 60 y 65 años,,,,0
+7,Transportes y comunicaciones,MICHOACÁN DE OCAMPO,MICHOACÁN DE OCAMPO,Michoacán de Ocampo,202608,MultiPolygon,0,0,,47984.87,1399.28,,subdel,1,16,0,0,0,0,116,113,3,0,Entre 60 y 65 años,466.426666667,424.644867257,,116
+7,Transportes y comunicaciones,MORELOS,MORELOS,Morelos,202608,Polygon,73681.629999998,3842.600000000,,0,0,,subdel,1,17,241,229,12,0,0,0,0,0,Entre 60 y 65 años,,,,0
+7,Transportes y comunicaciones,MORELOS,MORELOS,Morelos,202608,Polygon,0,0,,13439.31,696.9,,subdel,1,17,0,0,0,0,35,33,2,0,Entre 60 y 65 años,348.45,407.251818182,,35
+7,Transportes y comunicaciones,NAYARIT,NAYARIT,Nayarit,202608,MultiPolygon,87707.869999998,3181.460000000,,0,0,,subdel,1,18,284,274,10,0,0,0,0,0,Entre 60 y 65 años,,,,0
+7,Transportes y comunicaciones,NAYARIT,NAYARIT,Nayarit,202608,MultiPolygon,0,0,,17909.73,428.54,,subdel,1,18,0,0,0,0,46,45,1,0,Entre 60 y 65 años,428.54,397.994,,46
+7,Transportes y comunicaciones,NUEVO LEÓN,NUEVO LEÓN,Nuevo León,202608,Polygon,490230.989999989,36123.099999999,,0,0,,subdel,1,19,1636,1524,112,0,0,0,0,0,Entre 60 y 65 años,,,,0
+7,Transportes y comunicaciones,NUEVO LEÓN,NUEVO LEÓN,Nuevo León,202608,Polygon,0,0,,230860.34,6341.46,,subdel,1,19,0,0,0,0,498,483,15,0,Entre 60 y 65 años,422.764,477.971718427,,498
+7,Transportes y comunicaciones,OAXACA,OAXACA,Oaxaca,202608,MultiPolygon,108899.909999997,5448.860000000,,0,0,,subdel,1,20,356,339,17,0,0,0,0,0,Entre 60 y 65 años,,,,0
+7,Transportes y comunicaciones,OAXACA,OAXACA,Oaxaca,202608,MultiPolygon,0,0,,31207.05,436.56,,subdel,1,20,0,0,0,0,73,72,1,0,Entre 60 y 65 años,436.56,433.43125,,73
+7,Transportes y comunicaciones,PUEBLA,PUEBLA,Puebla,202608,Polygon,307377.579999993,12204.470000000,,0,0,,subdel,1,21,993,955,38,0,0,0,0,0,Entre 60 y 65 años,,,,0
+7,Transportes y comunicaciones,PUEBLA,PUEBLA,Puebla,202608,Polygon,0,0,,81140.76,976.18,,subdel,1,21,0,0,0,0,205,202,3,0,Entre 60 y 65 años,325.393333333,401.686930693,,205
+7,Transportes y comunicaciones,QUERÉTARO,QUERÉTARO,Querétaro,202608,Polygon,77212.099999998,4818.780000000,,0,0,,subdel,1,22,255,240,15,0,0,0,0,0,Entre 60 y 65 años,,,,0
+7,Transportes y comunicaciones,QUERÉTARO,QUERÉTARO,Querétaro,202608,Polygon,0,0,,19924.99,829.28,,subdel,1,22,0,0,0,0,50,48,2,0,Entre 60 y 65 años,414.64,415.103958333,,50
+7,Transportes y comunicaciones,QUINTANA ROO,QUINTANA ROO,Quintana Roo,202608,MultiPolygon,16785.860000000,1291.220000000,,0,0,,subdel,1,23,56,52,4,0,0,0,0,0,Entre 60 y 65 años,,,,0
+7,Transportes y comunicaciones,QUINTANA ROO,QUINTANA ROO,Quintana Roo,202608,MultiPolygon,0,0,,4499.85,494.64,,subdel,1,23,0,0,0,0,11,10,1,0,Entre 60 y 65 años,494.64,449.985,,11
+7,Transportes y comunicaciones,SAN LUIS POTOSÍ,SAN LUIS POTOSÍ,San Luis Potosí,202608,Polygon,181762.639999996,10948.990000000,,0,0,,subdel,1,24,600,566,34,0,0,0,0,0,Entre 60 y 65 años,,,,0
+7,Transportes y comunicaciones,SAN LUIS POTOSÍ,SAN LUIS POTOSÍ,San Luis Potosí,202608,Polygon,0,0,,50780.2,1394.72,,subdel,1,24,0,0,0,0,116,112,4,0,Entre 60 y 65 años,348.68,453.394642857,,116
+7,Transportes y comunicaciones,SINALOA,SINALOA,Sinaloa,202608,MultiPolygon,238176.869999995,24661.859999999,,0,0,,subdel,1,25,824,747,77,0,0,0,0,0,Entre 60 y 65 años,,,,0
+7,Transportes y comunicaciones,SINALOA,SINALOA,Sinaloa,202608,MultiPolygon,0,0,,66768.67,2563.95,,subdel,1,25,0,0,0,0,163,156,7,0,Entre 60 y 65 años,366.278571429,428.004294872,,163
+7,Transportes y comunicaciones,SONORA,SONORA,Sonora,202608,MultiPolygon,215944.049999995,18236.820000000,,0,0,,subdel,1,26,730,673,57,0,0,0,0,0,Entre 60 y 65 años,,,,0
+7,Transportes y comunicaciones,SONORA,SONORA,Sonora,202608,MultiPolygon,0,0,,63856.39,3734.25,,subdel,1,26,0,0,0,0,153,144,9,0,Entre 60 y 65 años,414.916666667,443.447152778,,153
+7,Transportes y comunicaciones,TABASCO,TABASCO,Tabasco,202608,MultiPolygon,70861.799999998,5102.760000000,,0,0,,subdel,1,27,236,220,16,0,0,0,0,0,Entre 60 y 65 años,,,,0
+7,Transportes y comunicaciones,TABASCO,TABASCO,Tabasco,202608,MultiPolygon,0,0,,18933.7,427.39,,subdel,1,27,0,0,0,0,42,41,1,0,Entre 60 y 65 años,427.39,461.797560976,,42
+7,Transportes y comunicaciones,TAMAULIPAS,TAMAULIPAS,Tamaulipas,202608,MultiPolygon,212179.409999995,22662.909999999,,0,0,,subdel,1,28,734,663,71,0,0,0,0,0,Entre 60 y 65 años,,,,0
+7,Transportes y comunicaciones,TAMAULIPAS,TAMAULIPAS,Tamaulipas,202608,MultiPolygon,0,0,,61879.98,4805.43,,subdel,1,28,0,0,0,0,149,139,10,0,Entre 60 y 65 años,480.543,445.179712230,,149
+7,Transportes y comunicaciones,TLAXCALA,TLAXCALA,Tlaxcala,202608,Polygon,0,,,10517.46,,,subdel,1,29,0,0,0,0,23,23,0,0,Entre 60 y 65 años,,457.280869565,,23
+7,Transportes y comunicaciones,TLAXCALA,TLAXCALA,Tlaxcala,202608,Polygon,55495.839999999,1306.750000000,,0,0,,subdel,1,29,177,173,4,0,0,0,0,0,Entre 60 y 65 años,,,,0
+7,Transportes y comunicaciones,VERACRUZ,VERACRUZ,Veracruz,202608,MultiPolygon,403365.769999991,25906.489999999,,0,0,,subdel,1,30,1343,1262,81,0,0,0,0,0,Entre 60 y 65 años,,,,0
+7,Transportes y comunicaciones,VERACRUZ,VERACRUZ,Veracruz,202608,MultiPolygon,0,0,,102799.7,3437.88,,subdel,1,30,0,0,0,0,247,238,9,0,Entre 60 y 65 años,381.986666667,431.931512605,,247
+7,Transportes y comunicaciones,YUCATÁN,YUCATÁN,Yucatán,202608,MultiPolygon,256151.789999994,18252.350000000,,0,0,,subdel,1,31,856,799,57,0,0,0,0,0,Entre 60 y 65 años,,,,0
+7,Transportes y comunicaciones,YUCATÁN,YUCATÁN,Yucatán,202608,MultiPolygon,0,0,,63162.81,2291.33,,subdel,1,31,0,0,0,0,152,146,6,0,Entre 60 y 65 años,381.888333333,432.621986301,,152
+7,Transportes y comunicaciones,ZACATECAS,ZACATECAS,Zacatecas,202608,Polygon,101357.589999998,4519.270000000,,0,0,,subdel,1,32,329,315,14,0,0,0,0,0,Entre 60 y 65 años,,,,0
+7,Transportes y comunicaciones,ZACATECAS,ZACATECAS,Zacatecas,202608,Polygon,0,0,,35174.89,881.99,,subdel,1,32,0,0,0,0,79,77,2,0,Entre 60 y 65 años,440.995,456.816753247,,79
+7,Transportes y comunicaciones,EXTRANJERO/EXTRANJERA,,Extranjero/Extranjera,202608,,51267.199999999,3212.520000000,,0,0,,subdel,1,,168,158,10,0,0,0,0,0,Entre 65 y 70 años,,,,0
+7,Transportes y comunicaciones,EXTRANJERO/EXTRANJERA,,Extranjero/Extranjera,202608,,0,0,,14525.2,646.51,,subdel,1,,0,0,0,0,34,33,1,0,Entre 65 y 70 años,646.51,440.157575758,,34
+7,Transportes y comunicaciones,AGUASCALIENTES,AGUASCALIENTES,Aguascalientes,202608,Polygon,0,,,9378.73,,,subdel,1,1,0,0,0,0,24,24,0,0,Entre 65 y 70 años,,390.780416667,,24
+7,Transportes y comunicaciones,AGUASCALIENTES,AGUASCALIENTES,Aguascalientes,202608,Polygon,41560.559999999,1306.750000000,,0,0,,subdel,1,1,133,129,4,0,0,0,0,0,Entre 65 y 70 años,,,,0
+7,Transportes y comunicaciones,BAJA CALIFORNIA,BAJA CALIFORNIA,Baja California,202608,MultiPolygon,39009.489999999,4472.680000000,,0,0,,subdel,1,2,136,122,14,0,0,0,0,0,Entre 65 y 70 años,,,,0
+7,Transportes y comunicaciones,BAJA CALIFORNIA,BAJA CALIFORNIA,Baja California,202608,MultiPolygon,0,0,,6324.46,369.96,,subdel,1,2,0,0,0,0,16,15,1,0,Entre 65 y 70 años,369.96,421.630666667,,16
+7,Transportes y comunicaciones,BAJA CALIFORNIA SUR,BAJA CALIFORNIA SUR,Baja California Sur,202608,MultiPolygon,0,,,3873.3,,,subdel,1,3,0,0,0,0,9,9,0,0,Entre 65 y 70 años,,430.366666667,,9
+7,Transportes y comunicaciones,BAJA CALIFORNIA SUR,BAJA CALIFORNIA SUR,Baja California Sur,202608,MultiPolygon,10804.540000000,630.080000000,,0,0,,subdel,1,3,36,34,2,0,0,0,0,0,Entre 65 y 70 años,,,,0
+7,Transportes y comunicaciones,CAMPECHE,CAMPECHE,Campeche,202608,MultiPolygon,0,,,4305.33,,,subdel,1,4,0,0,0,0,10,10,0,0,Entre 65 y 70 años,,430.533,,10
+7,Transportes y comunicaciones,CAMPECHE,CAMPECHE,Campeche,202608,MultiPolygon,22600.789999999,2205.280000000,,0,0,,subdel,1,4,78,71,7,0,0,0,0,0,Entre 65 y 70 años,,,,0
+7,Transportes y comunicaciones,COAHUILA DE ZARAGOZA,COAHUILA DE ZARAGOZA,Coahuila de Zaragoza,202608,Polygon,91044.329999998,5826.020000000,,0,0,,subdel,1,5,303,285,18,0,0,0,0,0,Entre 65 y 70 años,,,,0
+7,Transportes y comunicaciones,COAHUILA DE ZARAGOZA,COAHUILA DE ZARAGOZA,Coahuila de Zaragoza,202608,Polygon,0,0,,27755.52,830.93,,subdel,1,5,0,0,0,0,67,65,2,0,Entre 65 y 70 años,415.465,427.008,,67
+7,Transportes y comunicaciones,COLIMA,COLIMA,Colima,202608,MultiPolygon,17730.980000000,661.140000000,,0,0,,subdel,1,6,57,55,2,0,0,0,0,0,Entre 65 y 70 años,,,,0
+7,Transportes y comunicaciones,COLIMA,COLIMA,Colima,202608,MultiPolygon,0,0,,6177.25,330.57,,subdel,1,6,0,0,0,0,15,14,1,0,Entre 65 y 70 años,330.57,441.232142857,,15
+7,Transportes y comunicaciones,CHIAPAS,CHIAPAS,Chiapas,202608,MultiPolygon,0,,,8907.37,,,subdel,1,7,0,0,0,0,21,21,0,0,Entre 65 y 70 años,,424.160476190,,21
+7,Transportes y comunicaciones,CHIAPAS,CHIAPAS,Chiapas,202608,MultiPolygon,38441.529999999,1905.770000000,,0,0,,subdel,1,7,126,120,6,0,0,0,0,0,Entre 65 y 70 años,,,,0
+7,Transportes y comunicaciones,CHIHUAHUA,CHIHUAHUA,Chihuahua,202608,Polygon,98720.649999998,7039.590000000,,0,0,,subdel,1,8,329,307,22,0,0,0,0,0,Entre 65 y 70 años,,,,0
+7,Transportes y comunicaciones,CHIHUAHUA,CHIHUAHUA,Chihuahua,202608,Polygon,0,0,,32055.52,772.71,,subdel,1,8,0,0,0,0,79,77,2,0,Entre 65 y 70 años,386.355,416.305454545,,79
+7,Transportes y comunicaciones,CIUDAD DE MÉXICO,CIUDAD DE MÉXICO,Ciudad de México,202608,Polygon,1303799.94999997,60685.899999999,,0,0,,subdel,1,9,4227,4039,188,0,0,0,0,0,Entre 65 y 70 años,,,,0
+7,Transportes y comunicaciones,CIUDAD DE MÉXICO,CIUDAD DE MÉXICO,Ciudad de México,202608,Polygon,0,0,,314584.15,7212.51,,subdel,1,9,0,0,0,0,788,769,19,0,Entre 65 y 70 años,379.605789474,409.082119636,,788
+7,Transportes y comunicaciones,DURANGO,DURANGO,Durango,202608,Polygon,0,,,12345.14,,,subdel,1,10,0,0,0,0,29,29,0,0,Entre 65 y 70 años,,425.694482759,,29
+7,Transportes y comunicaciones,DURANGO,DURANGO,Durango,202608,Polygon,46018.019999999,2205.280000000,,0,0,,subdel,1,10,151,144,7,0,0,0,0,0,Entre 65 y 70 años,,,,0
+7,Transportes y comunicaciones,GUANAJUATO,GUANAJUATO,Guanajuato,202608,Polygon,125340.639999997,7432.280000000,,0,0,,subdel,1,11,409,386,23,0,0,0,0,0,Entre 65 y 70 años,,,,0
+7,Transportes y comunicaciones,GUANAJUATO,GUANAJUATO,Guanajuato,202608,Polygon,0,0,,27251.91,330.57,,subdel,1,11,0,0,0,0,67,66,1,0,Entre 65 y 70 años,330.57,412.907727273,,67
+7,Transportes y comunicaciones,GUERRERO,GUERRERO,Guerrero,202608,MultiPolygon,50713.159999999,1936.830000000,,0,0,,subdel,1,12,163,157,6,0,0,0,0,0,Entre 65 y 70 años,,,,0
+7,Transportes y comunicaciones,GUERRERO,GUERRERO,Guerrero,202608,MultiPolygon,0,0,,14774.67,634.95,,subdel,1,12,0,0,0,0,37,36,1,0,Entre 65 y 70 años,634.95,410.4075,,37
+7,Transportes y comunicaciones,HIDALGO,HIDALGO,Hidalgo,202608,Polygon,0,,,10581.18,,,subdel,1,13,0,0,0,0,27,27,0,0,Entre 65 y 70 años,,391.895555556,,27
+7,Transportes y comunicaciones,HIDALGO,HIDALGO,Hidalgo,202608,Polygon,42104.209999999,1275.690000000,,0,0,,subdel,1,13,134,130,4,0,0,0,0,0,Entre 65 y 70 años,,,,0
+7,Transportes y comunicaciones,JALISCO,JALISCO,Jalisco,202608,MultiPolygon,248080.559999994,13227.240000000,,0,0,,subdel,1,14,809,768,41,0,0,0,0,0,Entre 65 y 70 años,,,,0
+7,Transportes y comunicaciones,JALISCO,JALISCO,Jalisco,202608,MultiPolygon,0,0,,61141.95,687.48,,subdel,1,14,0,0,0,0,153,151,2,0,Entre 65 y 70 años,343.74,404.913576159,,153
+7,Transportes y comunicaciones,MÉXICO,MÉXICO,México,202608,Polygon,0,,,29863.09,,,subdel,1,15,0,0,0,0,73,73,0,0,Entre 65 y 70 años,,409.083424658,,73
+7,Transportes y comunicaciones,MÉXICO,MÉXICO,México,202608,Polygon,122386.359999997,5102.760000000,,0,0,,subdel,1,15,396,380,16,0,0,0,0,0,Entre 65 y 70 años,,,,0
+7,Transportes y comunicaciones,MICHOACÁN DE OCAMPO,MICHOACÁN DE OCAMPO,Michoacán de Ocampo,202608,MultiPolygon,82338.569999998,8470.580000000,,0,0,,subdel,1,16,281,255,26,0,0,0,0,0,Entre 65 y 70 años,,,,0
+7,Transportes y comunicaciones,MICHOACÁN DE OCAMPO,MICHOACÁN DE OCAMPO,Michoacán de Ocampo,202608,MultiPolygon,0,0,,23799.03,353.42,,subdel,1,16,0,0,0,0,58,57,1,0,Entre 65 y 70 años,353.42,417.526842105,,58
+7,Transportes y comunicaciones,MORELOS,MORELOS,Morelos,202608,Polygon,0,,,4498.82,,,subdel,1,17,0,0,0,0,11,11,0,0,Entre 65 y 70 años,,408.983636364,,11
+7,Transportes y comunicaciones,MORELOS,MORELOS,Morelos,202608,Polygon,29542.759999999,2913.010000000,,0,0,,subdel,1,17,101,92,9,0,0,0,0,0,Entre 65 y 70 años,,,,0
+7,Transportes y comunicaciones,NAYARIT,NAYARIT,Nayarit,202608,MultiPolygon,0,,,11464.1,,,subdel,1,18,0,0,0,0,25,25,0,0,Entre 65 y 70 años,,458.564,,25
+7,Transportes y comunicaciones,NAYARIT,NAYARIT,Nayarit,202608,MultiPolygon,39074.699999999,4142.110000000,,0,0,,subdel,1,18,136,123,13,0,0,0,0,0,Entre 65 y 70 años,,,,0
+7,Transportes y comunicaciones,NUEVO LEÓN,NUEVO LEÓN,Nuevo León,202608,Polygon,204760.649999995,9983.660000000,,0,0,,subdel,1,19,667,636,31,0,0,0,0,0,Entre 65 y 70 años,,,,0
+7,Transportes y comunicaciones,NUEVO LEÓN,NUEVO LEÓN,Nuevo León,202608,Polygon,0,0,,92521.91,1761.33,,subdel,1,19,0,0,0,0,211,207,4,0,Entre 65 y 70 años,440.3325,446.965748792,,211
+7,Transportes y comunicaciones,OAXACA,OAXACA,Oaxaca,202608,MultiPolygon,0,,,12425.86,,,subdel,1,20,0,0,0,0,27,27,0,0,Entre 65 y 70 años,,460.217037037,,27
+7,Transportes y comunicaciones,OAXACA,OAXACA,Oaxaca,202608,MultiPolygon,50941.069999999,976.180000000,,0,0,,subdel,1,20,161,158,3,0,0,0,0,0,Entre 65 y 70 años,,,,0
+7,Transportes y comunicaciones,PUEBLA,PUEBLA,Puebla,202608,Polygon,0,,,25629.23,,,subdel,1,21,0,0,0,0,66,66,0,0,Entre 65 y 70 años,,388.321666667,,66
+7,Transportes y comunicaciones,PUEBLA,PUEBLA,Puebla,202608,Polygon,124829.029999997,4472.680000000,,0,0,,subdel,1,21,402,388,14,0,0,0,0,0,Entre 65 y 70 años,,,,0
+7,Transportes y comunicaciones,QUERÉTARO,QUERÉTARO,Querétaro,202608,Polygon,31541.709999999,1306.750000000,,0,0,,subdel,1,22,102,98,4,0,0,0,0,0,Entre 65 y 70 años,,,,0
+7,Transportes y comunicaciones,QUERÉTARO,QUERÉTARO,Querétaro,202608,Polygon,0,0,,10131.7,421.03,,subdel,1,22,0,0,0,0,25,24,1,0,Entre 65 y 70 años,421.03,422.154166667,,25
+7,Transportes y comunicaciones,QUINTANA ROO,QUINTANA ROO,Quintana Roo,202608,MultiPolygon,0,,,547.93,,,subdel,1,23,0,0,0,0,1,1,0,0,Entre 65 y 70 años,,547.93,,1
+7,Transportes y comunicaciones,QUINTANA ROO,QUINTANA ROO,Quintana Roo,202608,MultiPolygon,3212.520000000,645.610000000,,0,0,,subdel,1,23,12,10,2,0,0,0,0,0,Entre 65 y 70 años,,,,0
+7,Transportes y comunicaciones,SAN LUIS POTOSÍ,SAN LUIS POTOSÍ,San Luis Potosí,202608,Polygon,0,,,20739.41,,,subdel,1,24,0,0,0,0,50,50,0,0,Entre 65 y 70 años,,414.7882,,50
+7,Transportes y comunicaciones,SAN LUIS POTOSÍ,SAN LUIS POTOSÍ,San Luis Potosí,202608,Polygon,77049.449999998,3212.520000000,,0,0,,subdel,1,24,249,239,10,0,0,0,0,0,Entre 65 y 70 años,,,,0
+7,Transportes y comunicaciones,SINALOA,SINALOA,Sinaloa,202608,MultiPolygon,103992.029999998,8361.870000000,,0,0,,subdel,1,25,352,326,26,0,0,0,0,0,Entre 65 y 70 años,,,,0
+7,Transportes y comunicaciones,SINALOA,SINALOA,Sinaloa,202608,MultiPolygon,0,0,,29681.88,1012.31,,subdel,1,25,0,0,0,0,72,70,2,0,Entre 65 y 70 años,506.155,424.026857143,,72
+7,Transportes y comunicaciones,SONORA,SONORA,Sonora,202608,MultiPolygon,96935.479999998,11197.230000000,,0,0,,subdel,1,26,337,302,35,0,0,0,0,0,Entre 65 y 70 años,,,,0
+7,Transportes y comunicaciones,SONORA,SONORA,Sonora,202608,MultiPolygon,0,0,,24884.73,3115.26,,subdel,1,26,0,0,0,0,63,58,5,0,Entre 65 y 70 años,623.052,429.047068966,,63
+7,Transportes y comunicaciones,TABASCO,TABASCO,Tabasco,202608,MultiPolygon,0,,,8456.05,,,subdel,1,27,0,0,0,0,19,19,0,0,Entre 65 y 70 años,,445.055263158,,19
+7,Transportes y comunicaciones,TABASCO,TABASCO,Tabasco,202608,MultiPolygon,29460.669999999,1921.300000000,,0,0,,subdel,1,27,97,91,6,0,0,0,0,0,Entre 65 y 70 años,,,,0
+7,Transportes y comunicaciones,TAMAULIPAS,TAMAULIPAS,Tamaulipas,202608,MultiPolygon,84549.549999998,7323.570000000,,0,0,,subdel,1,28,287,264,23,0,0,0,0,0,Entre 65 y 70 años,,,,0
+7,Transportes y comunicaciones,TAMAULIPAS,TAMAULIPAS,Tamaulipas,202608,MultiPolygon,0,0,,23480.6,1408.87,,subdel,1,28,0,0,0,0,59,55,4,0,Entre 65 y 70 años,352.2175,426.92,,59
+7,Transportes y comunicaciones,TLAXCALA,TLAXCALA,Tlaxcala,202608,Polygon,0,,,5271.29,,,subdel,1,29,0,0,0,0,13,13,0,0,Entre 65 y 70 años,,405.483846154,,13
+7,Transportes y comunicaciones,TLAXCALA,TLAXCALA,Tlaxcala,202608,Polygon,24533.179999999,315.040000000,,0,0,,subdel,1,29,77,76,1,0,0,0,0,0,Entre 65 y 70 años,,,,0
+7,Transportes y comunicaciones,VERACRUZ,VERACRUZ,Veracruz,202608,MultiPolygon,165053.309999996,10598.210000000,,0,0,,subdel,1,30,549,516,33,0,0,0,0,0,Entre 65 y 70 años,,,,0
+7,Transportes y comunicaciones,VERACRUZ,VERACRUZ,Veracruz,202608,MultiPolygon,0,0,,40491.55,1111.14,,subdel,1,30,0,0,0,0,93,90,3,0,Entre 65 y 70 años,370.38,449.906111111,,93
+7,Transportes y comunicaciones,YUCATÁN,YUCATÁN,Yucatán,202608,MultiPolygon,99004.629999998,6471.630000000,,0,0,,subdel,1,31,328,308,20,0,0,0,0,0,Entre 65 y 70 años,,,,0
+7,Transportes y comunicaciones,YUCATÁN,YUCATÁN,Yucatán,202608,MultiPolygon,0,0,,21955.22,353.25,,subdel,1,31,0,0,0,0,53,52,1,0,Entre 65 y 70 años,353.25,422.215769231,,53
+7,Transportes y comunicaciones,ZACATECAS,ZACATECAS,Zacatecas,202608,Polygon,0,,,13365.23,,,subdel,1,32,0,0,0,0,32,32,0,0,Entre 65 y 70 años,,417.6634375,,32
+7,Transportes y comunicaciones,ZACATECAS,ZACATECAS,Zacatecas,202608,Polygon,47709.749999999,4188.700000000,,0,0,,subdel,1,32,161,148,13,0,0,0,0,0,Entre 65 y 70 años,,,,0
+7,Transportes y comunicaciones,EXTRANJERO/EXTRANJERA,,Extranjero/Extranjera,202608,,0,,,3868.59,,,subdel,1,,0,0,0,0,10,10,0,0,Entre 70 y 75 años,,386.859,,10
+7,Transportes y comunicaciones,EXTRANJERO/EXTRANJERA,,Extranjero/Extranjera,202608,,15003.800000000,630.080000000,,0,0,,subdel,1,,48,46,2,0,0,0,0,0,Entre 70 y 75 años,,,,0
+7,Transportes y comunicaciones,AGUASCALIENTES,AGUASCALIENTES,Aguascalientes,202608,Polygon,0,,,2223.96,,,subdel,1,1,0,0,0,0,6,6,0,0,Entre 70 y 75 años,,370.66,,6
+7,Transportes y comunicaciones,AGUASCALIENTES,AGUASCALIENTES,Aguascalientes,202608,Polygon,9369.110000000,330.570000000,,0,0,,subdel,1,1,30,29,1,0,0,0,0,0,Entre 70 y 75 años,,,,0
+7,Transportes y comunicaciones,BAJA CALIFORNIA,BAJA CALIFORNIA,Baja California,202608,MultiPolygon,0,,,3095.06,,,subdel,1,2,0,0,0,0,7,7,0,0,Entre 70 y 75 años,,442.151428571,,7
+7,Transportes y comunicaciones,BAJA CALIFORNIA,BAJA CALIFORNIA,Baja California,202608,MultiPolygon,9007.480000000,661.140000000,,0,0,,subdel,1,2,30,28,2,0,0,0,0,0,Entre 70 y 75 años,,,,0
+7,Transportes y comunicaciones,BAJA CALIFORNIA SUR,BAJA CALIFORNIA SUR,Baja California Sur,202608,MultiPolygon,330.570000000,,,0,,,subdel,1,3,1,1,0,0,0,0,0,0,Entre 70 y 75 años,,,,0
+7,Transportes y comunicaciones,CAMPECHE,CAMPECHE,Campeche,202608,MultiPolygon,0,,,479.06,,,subdel,1,4,0,0,0,0,1,1,0,0,Entre 70 y 75 años,,479.06,,1
+7,Transportes y comunicaciones,CAMPECHE,CAMPECHE,Campeche,202608,MultiPolygon,4126.580000000,330.570000000,,0,0,,subdel,1,4,14,13,1,0,0,0,0,0,Entre 70 y 75 años,,,,0
+7,Transportes y comunicaciones,COAHUILA DE ZARAGOZA,COAHUILA DE ZARAGOZA,Coahuila de Zaragoza,202608,Polygon,31231.109999999,1275.690000000,,0,0,,subdel,1,5,102,98,4,0,0,0,0,0,Entre 70 y 75 años,,,,0
+7,Transportes y comunicaciones,COAHUILA DE ZARAGOZA,COAHUILA DE ZARAGOZA,Coahuila de Zaragoza,202608,Polygon,0,0,,6389.93,483.45,,subdel,1,5,0,0,0,0,16,15,1,0,Entre 70 y 75 años,483.45,425.995333333,,16
+7,Transportes y comunicaciones,COLIMA,COLIMA,Colima,202608,MultiPolygon,5433.330000000,,,0,,,subdel,1,6,17,17,0,0,0,0,0,0,Entre 70 y 75 años,,,,0
+7,Transportes y comunicaciones,COLIMA,COLIMA,Colima,202608,MultiPolygon,0,,,2730.42,,,subdel,1,6,0,0,0,0,6,6,0,0,Entre 70 y 75 años,,455.07,,6
+7,Transportes y comunicaciones,CHIAPAS,CHIAPAS,Chiapas,202608,MultiPolygon,0,,,2299.05,,,subdel,1,7,0,0,0,0,6,6,0,0,Entre 70 y 75 años,,383.175,,6
+7,Transportes y comunicaciones,CHIAPAS,CHIAPAS,Chiapas,202608,MultiPolygon,13025.350000000,645.610000000,,0,0,,subdel,1,7,43,41,2,0,0,0,0,0,Entre 70 y 75 años,,,,0
+7,Transportes y comunicaciones,CHIHUAHUA,CHIHUAHUA,Chihuahua,202608,Polygon,0,,,6792.27,,,subdel,1,8,0,0,0,0,16,16,0,0,Entre 70 y 75 años,,424.516875,,16
+7,Transportes y comunicaciones,CHIHUAHUA,CHIHUAHUA,Chihuahua,202608,Polygon,24079.699999999,1590.730000000,,0,0,,subdel,1,8,79,74,5,0,0,0,0,0,Entre 70 y 75 años,,,,0
+7,Transportes y comunicaciones,CIUDAD DE MÉXICO,CIUDAD DE MÉXICO,Ciudad de México,202608,Polygon,383539.129999991,18191.910000000,,0,0,,subdel,1,9,1243,1187,56,0,0,0,0,0,Entre 70 y 75 años,,,,0
+7,Transportes y comunicaciones,CIUDAD DE MÉXICO,CIUDAD DE MÉXICO,Ciudad de México,202608,Polygon,0,0,,80939.11,1556.83,,subdel,1,9,0,0,0,0,206,202,4,0,Entre 70 y 75 años,389.2075,400.688663366,,206
+7,Transportes y comunicaciones,DURANGO,DURANGO,Durango,202608,Polygon,0,,,2752.23,,,subdel,1,10,0,0,0,0,7,7,0,0,Entre 70 y 75 años,,393.175714286,,7
+7,Transportes y comunicaciones,DURANGO,DURANGO,Durango,202608,Polygon,13180.650000000,945.120000000,,0,0,,subdel,1,10,44,41,3,0,0,0,0,0,Entre 70 y 75 años,,,,0
+7,Transportes y comunicaciones,GUANAJUATO,GUANAJUATO,Guanajuato,202608,Polygon,38643.419999999,3212.520000000,,0,0,,subdel,1,11,130,120,10,0,0,0,0,0,Entre 70 y 75 años,,,,0
+7,Transportes y comunicaciones,GUANAJUATO,GUANAJUATO,Guanajuato,202608,Polygon,0,0,,9418.47,315.04,,subdel,1,11,0,0,0,0,26,25,1,0,Entre 70 y 75 años,315.04,376.7388,,26
+7,Transportes y comunicaciones,GUERRERO,GUERRERO,Guerrero,202608,MultiPolygon,0,,,4498.75,,,subdel,1,12,0,0,0,0,10,10,0,0,Entre 70 y 75 años,,449.875,,10
+7,Transportes y comunicaciones,GUERRERO,GUERRERO,Guerrero,202608,MultiPolygon,12472.920000000,960.650000000,,0,0,,subdel,1,12,42,39,3,0,0,0,0,0,Entre 70 y 75 años,,,,0
+7,Transportes y comunicaciones,HIDALGO,HIDALGO,Hidalgo,202608,Polygon,0,,,4156.9,,,subdel,1,13,0,0,0,0,10,10,0,0,Entre 70 y 75 años,,415.69,,10
+7,Transportes y comunicaciones,HIDALGO,HIDALGO,Hidalgo,202608,Polygon,16708.210000000,1275.690000000,,0,0,,subdel,1,13,56,52,4,0,0,0,0,0,Entre 70 y 75 años,,,,0
+7,Transportes y comunicaciones,JALISCO,JALISCO,Jalisco,202608,MultiPolygon,0,,,14063.48,,,subdel,1,14,0,0,0,0,36,36,0,0,Entre 70 y 75 años,,390.652222222,,36
+7,Transportes y comunicaciones,JALISCO,JALISCO,Jalisco,202608,MultiPolygon,71425.319999998,4142.110000000,,0,0,,subdel,1,14,234,221,13,0,0,0,0,0,Entre 70 y 75 años,,,,0
+7,Transportes y comunicaciones,MÉXICO,MÉXICO,México,202608,Polygon,0,,,5362.13,,,subdel,1,15,0,0,0,0,14,14,0,0,Entre 70 y 75 años,,383.009285714,,14
+7,Transportes y comunicaciones,MÉXICO,MÉXICO,México,202608,Polygon,36990.569999999,1905.770000000,,0,0,,subdel,1,15,121,115,6,0,0,0,0,0,Entre 70 y 75 años,,,,0
+7,Transportes y comunicaciones,MICHOACÁN DE OCAMPO,MICHOACÁN DE OCAMPO,Michoacán de Ocampo,202608,MultiPolygon,0,,,6182.26,,,subdel,1,16,0,0,0,0,15,15,0,0,Entre 70 y 75 años,,412.150666667,,15
+7,Transportes y comunicaciones,MICHOACÁN DE OCAMPO,MICHOACÁN DE OCAMPO,Michoacán de Ocampo,202608,MultiPolygon,32926.109999999,1621.790000000,,0,0,,subdel,1,16,107,102,5,0,0,0,0,0,Entre 70 y 75 años,,,,0
+7,Transportes y comunicaciones,MORELOS,MORELOS,Morelos,202608,Polygon,0,,,1469.5,,,subdel,1,17,0,0,0,0,4,4,0,0,Entre 70 y 75 años,,367.375,,4
+7,Transportes y comunicaciones,MORELOS,MORELOS,Morelos,202608,Polygon,9937.070000000,315.040000000,,0,0,,subdel,1,17,32,31,1,0,0,0,0,0,Entre 70 y 75 años,,,,0
+7,Transportes y comunicaciones,NAYARIT,NAYARIT,Nayarit,202608,MultiPolygon,0,,,2683.1,,,subdel,1,18,0,0,0,0,7,7,0,0,Entre 70 y 75 años,,383.3,,7
+7,Transportes y comunicaciones,NAYARIT,NAYARIT,Nayarit,202608,MultiPolygon,11465.680000000,645.610000000,,0,0,,subdel,1,18,38,36,2,0,0,0,0,0,Entre 70 y 75 años,,,,0
+7,Transportes y comunicaciones,NUEVO LEÓN,NUEVO LEÓN,Nuevo León,202608,Polygon,0,,,19022.04,,,subdel,1,19,0,0,0,0,44,44,0,0,Entre 70 y 75 años,,432.319090909,,44
+7,Transportes y comunicaciones,NUEVO LEÓN,NUEVO LEÓN,Nuevo León,202608,Polygon,47351.389999999,2251.870000000,,0,0,,subdel,1,19,154,147,7,0,0,0,0,0,Entre 70 y 75 años,,,,0
+7,Transportes y comunicaciones,OAXACA,OAXACA,Oaxaca,202608,MultiPolygon,0,,,5085.62,,,subdel,1,20,0,0,0,0,11,11,0,0,Entre 70 y 75 años,,462.329090909,,11
+7,Transportes y comunicaciones,OAXACA,OAXACA,Oaxaca,202608,MultiPolygon,17384.880000000,1606.260000000,,0,0,,subdel,1,20,59,54,5,0,0,0,0,0,Entre 70 y 75 años,,,,0
+7,Transportes y comunicaciones,PUEBLA,PUEBLA,Puebla,202608,Polygon,0,,,7911.52,,,subdel,1,21,0,0,0,0,18,18,0,0,Entre 70 y 75 años,,439.528888889,,18
+7,Transportes y comunicaciones,PUEBLA,PUEBLA,Puebla,202608,Polygon,31211.139999999,645.610000000,,0,0,,subdel,1,21,99,97,2,0,0,0,0,0,Entre 70 y 75 años,,,,0
+7,Transportes y comunicaciones,QUERÉTARO,QUERÉTARO,Querétaro,202608,Polygon,0,,,1663.29,,,subdel,1,22,0,0,0,0,4,4,0,0,Entre 70 y 75 años,,415.8225,,4
+7,Transportes y comunicaciones,QUERÉTARO,QUERÉTARO,Querétaro,202608,Polygon,10567.150000000,960.650000000,,0,0,,subdel,1,22,36,33,3,0,0,0,0,0,Entre 70 y 75 años,,,,0
+7,Transportes y comunicaciones,QUINTANA ROO,QUINTANA ROO,Quintana Roo,202608,MultiPolygon,630.080000000,,,0,,,subdel,1,23,2,2,0,0,0,0,0,0,Entre 70 y 75 años,,,,0
+7,Transportes y comunicaciones,SAN LUIS POTOSÍ,SAN LUIS POTOSÍ,San Luis Potosí,202608,Polygon,25416.179999999,3827.070000000,,0,0,,subdel,1,24,91,79,12,0,0,0,0,0,Entre 70 y 75 años,,,,0
+7,Transportes y comunicaciones,SAN LUIS POTOSÍ,SAN LUIS POTOSÍ,San Luis Potosí,202608,Polygon,0,0,,5401.03,1294.15,,subdel,1,24,0,0,0,0,15,12,3,0,Entre 70 y 75 años,431.383333333,450.085833333,,15
+7,Transportes y comunicaciones,SINALOA,SINALOA,Sinaloa,202608,MultiPolygon,0,,,6098.61,,,subdel,1,25,0,0,0,0,14,14,0,0,Entre 70 y 75 años,,435.615,,14
+7,Transportes y comunicaciones,SINALOA,SINALOA,Sinaloa,202608,MultiPolygon,28757.379999999,2566.910000000,,0,0,,subdel,1,25,98,90,8,0,0,0,0,0,Entre 70 y 75 años,,,,0
+7,Transportes y comunicaciones,SONORA,SONORA,Sonora,202608,MultiPolygon,0,,,10145.95,,,subdel,1,26,0,0,0,0,22,22,0,0,Entre 70 y 75 años,,461.179545455,,22
+7,Transportes y comunicaciones,SONORA,SONORA,Sonora,202608,MultiPolygon,34991.619999999,315.040000000,,0,0,,subdel,1,26,110,109,1,0,0,0,0,0,Entre 70 y 75 años,,,,0
+7,Transportes y comunicaciones,TABASCO,TABASCO,Tabasco,202608,MultiPolygon,0,,,2197.78,,,subdel,1,27,0,0,0,0,6,6,0,0,Entre 70 y 75 años,,366.296666667,,6
+7,Transportes y comunicaciones,TABASCO,TABASCO,Tabasco,202608,MultiPolygon,9038.540000000,945.120000000,,0,0,,subdel,1,27,31,28,3,0,0,0,0,0,Entre 70 y 75 años,,,,0
+7,Transportes y comunicaciones,TAMAULIPAS,TAMAULIPAS,Tamaulipas,202608,MultiPolygon,0,,,9091.76,,,subdel,1,28,0,0,0,0,20,20,0,0,Entre 70 y 75 años,,454.588,,20
+7,Transportes y comunicaciones,TAMAULIPAS,TAMAULIPAS,Tamaulipas,202608,MultiPolygon,27590.399999999,1905.770000000,,0,0,,subdel,1,28,92,86,6,0,0,0,0,0,Entre 70 y 75 años,,,,0
+7,Transportes y comunicaciones,TLAXCALA,TLAXCALA,Tlaxcala,202608,Polygon,0,,,1696.01,,,subdel,1,29,0,0,0,0,4,4,0,0,Entre 70 y 75 años,,424.0025,,4
+7,Transportes y comunicaciones,TLAXCALA,TLAXCALA,Tlaxcala,202608,Polygon,7731.790000000,991.710000000,,0,0,,subdel,1,29,27,24,3,0,0,0,0,0,Entre 70 y 75 años,,,,0
+7,Transportes y comunicaciones,VERACRUZ,VERACRUZ,Veracruz,202608,MultiPolygon,0,,,9997.3,,,subdel,1,30,0,0,0,0,25,25,0,0,Entre 70 y 75 años,,399.892,,25
+7,Transportes y comunicaciones,VERACRUZ,VERACRUZ,Veracruz,202608,MultiPolygon,51466.879999999,1275.690000000,,0,0,,subdel,1,30,165,161,4,0,0,0,0,0,Entre 70 y 75 años,,,,0
+7,Transportes y comunicaciones,YUCATÁN,YUCATÁN,Yucatán,202608,MultiPolygon,0,,,6640.53,,,subdel,1,31,0,0,0,0,16,16,0,0,Entre 70 y 75 años,,415.033125,,16
+7,Transportes y comunicaciones,YUCATÁN,YUCATÁN,Yucatán,202608,MultiPolygon,26898.199999999,645.610000000,,0,0,,subdel,1,31,86,84,2,0,0,0,0,0,Entre 70 y 75 años,,,,0
+7,Transportes y comunicaciones,ZACATECAS,ZACATECAS,Zacatecas,202608,Polygon,0,,,3730.08,,,subdel,1,32,0,0,0,0,9,9,0,0,Entre 70 y 75 años,,414.453333333,,9
+7,Transportes y comunicaciones,ZACATECAS,ZACATECAS,Zacatecas,202608,Polygon,12640.090000000,945.120000000,,0,0,,subdel,1,32,42,39,3,0,0,0,0,0,Entre 70 y 75 años,,,,0
+7,Transportes y comunicaciones,CIUDAD DE MÉXICO,CIUDAD DE MÉXICO,Ciudad de México,202608,Polygon,0,,,482.21,,,subdel,1,9,0,0,0,0,1,1,0,0,Menores de 15 años,,482.21,,1
+7,Transportes y comunicaciones,PUEBLA,PUEBLA,Puebla,202608,Polygon,3566760.58999992,257265.609999994,330.570000000,0,0,0,subdel,1,21,11874,11073,800,1,0,0,0,0,Entre 25 y 30 años,,,,0
+7,Transportes y comunicaciones,CHIHUAHUA,CHIHUAHUA,Chihuahua,202608,Polygon,2105307.99999995,486222.929999989,645.610000000,0,0,0,subdel,1,8,8111,6585,1524,2,0,0,0,0,Entre 35 y 40 años,,,,0
+7,Transportes y comunicaciones,CIUDAD DE MÉXICO,CIUDAD DE MÉXICO,Ciudad de México,202608,Polygon,13494788.1399997,1264081.02999997,1291.220000000,0,0,0,subdel,1,9,45953,42009,3940,4,0,0,0,0,Entre 20 y 25 años,,,,0
