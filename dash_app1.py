@@ -4,6 +4,7 @@ Dashboard IMSS – Plataformas Digitales
 """
 
 import glob
+from functools import lru_cache
 import pandas as pd
 import dash
 from dash import html, dcc, Input, Output
@@ -918,6 +919,7 @@ app.layout = html.Div([
 
 
 @app.callback(Output("contenido-mensual", "children"), Input("mes-consulta", "value"))
+@lru_cache(maxsize=8)
 def actualizar_mes(mes):
     item = datos_por_mes.get(mes)
     if item is None:
@@ -930,6 +932,7 @@ def actualizar_mes(mes):
     Input("mes-inicial", "value"),
     Input("mes-final", "value"),
 )
+@lru_cache(maxsize=8)
 def actualizar_evolucion(inicio, fin):
     if inicio not in datos_por_mes or fin not in datos_por_mes:
         return html.P("No hay datos suficientes para mostrar evolución.")
@@ -942,6 +945,9 @@ def actualizar_evolucion(inicio, fin):
         [item["sbc"] for item in periodo],
         [item["label"] for item in periodo],
     )
+if meses:
+    actualizar_mes(ultimo_mes)
+    actualizar_evolucion(primer_mes, ultimo_mes)
 
 if __name__ == "__main__":
     import os
