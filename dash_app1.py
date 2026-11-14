@@ -831,20 +831,15 @@ def selector_mes(id_control, etiqueta, valor):
             options=opciones_mes,
             value=valor,
             clearable=False,
+            searchable=True,
+            labels={"search": "Buscar mes"},
+            maxHeight=260,
             persistence=True,
             persistence_type="memory",
             disabled=not meses,
         ),
-    ], style={"flex": "1 1 180px", "minWidth": 0})
+    ], style={"minWidth": 0})
 
-
-estilo_selectores = {
-    "display": "flex",
-    "flexWrap": "wrap",
-    "gap": "12px",
-    "maxWidth": "520px",
-    "margin": "16px 0",
-}
 
 estilo_etiqueta = {"minWidth": 0, "lineHeight": "1.3", "overflowWrap": "anywhere"}
 estilo_tab = {**TAB_STYLE, **estilo_etiqueta}
@@ -861,7 +856,7 @@ app.layout = html.Div([
         dcc.Tabs(
             value="mensual",
             mobile_breakpoint=480,
-            style={"marginTop": "20px"},
+            parent_className="barra-periodos",
             children=[
                 dcc.Tab(
                     label="Datos mensuales",
@@ -869,9 +864,14 @@ app.layout = html.Div([
                     style=estilo_tab,
                     selected_style=estilo_tab_activa,
                     children=[
-                        html.Div(selector_mes("mes-consulta", "Mes", ultimo_mes),
-                                 style=estilo_selectores),
-                        html.Div(id="contenido-mensual"),
+                        html.Div(
+                            selector_mes("mes-consulta", "Mes", ultimo_mes),
+                            className="filtros-periodo",
+                        ),
+                        html.Div(
+                            id="contenido-mensual",
+                            className="contenido-periodo",
+                        ),
                     ],
                 ),
                 dcc.Tab(
@@ -883,13 +883,15 @@ app.layout = html.Div([
                         html.Div([
                             selector_mes("mes-inicial", "Mes inicial", primer_mes),
                             selector_mes("mes-final", "Mes final", ultimo_mes),
-                        ], style=estilo_selectores),
-                        html.Div(id="contenido-evolucion"),
+                        ], className="filtros-periodo"),
+                        html.Div(
+                            id="contenido-evolucion",
+                            className="contenido-periodo",
+                        ),
                     ],
                 ),
             ],
         ),
-    ], style={"maxWidth": "1400px", "margin": "0 auto", "padding": "20px"}),
     html.Div(
         id="notify-copy",
         role="status",
