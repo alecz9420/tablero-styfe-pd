@@ -14,7 +14,7 @@
         hideTimer = setTimeout(() => { notice.hidden = true; }, 4500);
     }
 
-    async function copyPoint(event) {
+    async function copyPoint(event, esPiramide) {
         const point = event?.points?.[0];
         if (!point) return;
 
@@ -27,8 +27,9 @@
         ].find(Number.isFinite);
         if (raw === undefined) return;
 
-        const decimals = Number.isInteger(raw) ? 0 : 2;
-        const value = raw.toLocaleString("en-US", {
+        const numero = esPiramide ? Math.abs(raw) : raw;
+        const decimals = Number.isInteger(numero) ? 0 : 2;
+        const value = numero.toLocaleString("en-US", {
             minimumFractionDigits: decimals,
             maximumFractionDigits: decimals,
         });
@@ -45,7 +46,8 @@
         bindFrame = 0;
         document.querySelectorAll(plotSelector).forEach((plot) => {
             if (boundPlots.has(plot) || typeof plot.on !== "function") return;
-            plot.on("plotly_click", copyPoint);
+            const esPiramide = plot.closest(`[id*='"index":"pir-']`) !== null;
+            plot.on("plotly_click", (event) => copyPoint(event, esPiramide));
             boundPlots.add(plot);
         });
     }
