@@ -1,31 +1,29 @@
 # -*- coding: utf-8 -*-
 """
 Dashboard IMSS – Plataformas Digitales
-Versión Final: Dinámica + Ponderación Correcta + Ajustes de Texto y Pirámides
 """
 
-import json
 import glob
 import pandas as pd
 import dash
-from dash import html, dcc, Input, Output, State, ALL, ctx
+from dash import html, dcc, Input, Output
 import plotly.express as px
 import plotly.graph_objects as go
 import unicodedata
 import os
 
-# ==========================================
-# 1. CONFIGURACIÓN
-# ==========================================
 
-# --- Paleta Institucional ---
+# 1. CONFIGURACIÓN
+
+
+# Paleta Institucional
 GUINDA = "#9d2148"
 DORADO = "#b28e5c"
 CREMA_FONDO = "#F9F7F2"
 BLANCO_PURO = "#FFFFFF"
 TEXTO_GRIS = "#333333"
 
-# --- Paleta de Datos ---
+# Paleta de Datos
 COL_BENEF = "#f08217"   # Afiliaciones (Total)
 COL_TDP   = "#266cb4"   # TDP
 COL_TI    = "#73cae6"   # TI
@@ -44,19 +42,13 @@ GRIS   = SECTOR_SERV
 # Fuente
 FONT_FAMILY = "'Montserrat', sans-serif"
 
-# --- Configuración de Archivos ---
-# A partir de esta versión cada mes vive en UN SOLO CSV, con la estructura
-# "orgánica" tal cual se descarga de la fuente (ya trae junta la info que
-# antes se repartía a mano entre PD_*.csv y sbc_*.csv, con desglose por
-# división incluido). Para actualizar el tablero con un mes nuevo basta con
-# colocar ese archivo en la raíz del repo -- no hay que tocar el código.
-#
+# Configuración de Archivos
 # Convención de nombre esperada: IMSS_PD_<algo>.csv  (p.ej. IMSS_PD_julio.csv,
 # igual que se descarga). El mes que se muestra en las pestañas y el orden
 # cronológico se calculan solos a partir de la columna "fecha" (AAAAMM) que
 # trae cada archivo, así que el nombre del archivo es libre siempre que
-# empiece con "IMSS_PD_" -- solo cuida que cada mes tenga un nombre distinto
-# (p.ej. agregando el año) para que un archivo no sobreescriba a otro si la
+# empiece con "IMSS_PD_" -- Es necesario que cada mes tenga un nombre distinto
+# para que un archivo no sobreescriba a otro si la
 # fuente reutiliza el mismo nombre de un año a otro.
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 PATRON_ARCHIVOS_MES = "IMSS_PD_*.csv"
@@ -73,7 +65,7 @@ def label_desde_fecha(fecha_val):
     except Exception:
         return str(fecha_val)
 
-# --- Estilos CSS Inline ---
+# Estilos CSS 
 CARD_STYLE = {
     "backgroundColor": BLANCO_PURO,
     "borderRadius": "15px",
@@ -114,9 +106,9 @@ TAB_SELECTED_STYLE = {
     'borderRadius': '10px 10px 0px 0px'
 }
 
-# ==========================================
+
 # 2. UTILIDADES Y FUNCIONES DE CARGA
-# ==========================================
+
 
 ORDEN_EDAD = [
     "Entre 15 y 20 años", "15 y 20 años",
@@ -181,11 +173,10 @@ def calc_weighted_avg(df, val_col, weight_col):
     if total_personas == 0: return 0
     return masa / total_personas
 
-# --- Carga de Datos ---
+# Carga de Datos
 # Columnas numéricas que puede traer el csv orgánico. No todas se usan hoy
-# en el tablero (p.ej. las de "masa_*" quedan disponibles para futuras
-# mejoras -- ver sugerencias), pero se normalizan todas de una vez aquí.
-# Si algún corte mensual no trae alguna, se crea en 0 para no romper nada.
+# en el tablero, pero se normalizan todas.
+# Si algún corte mensual no trae alguna, se crea en 0.
 COLS_NUM_BASE = [
     "PTPD_Aseg", "PTPD_Aseg_H", "PTPD_Aseg_M", "PTPD_Aseg_NB",
     "PTPD_Puestos", "PTPD_Puestos_H", "PTPD_Puestos_M", "PTPD_Puestos_NB",
@@ -238,13 +229,11 @@ def cargar_mes(path_csv: str):
     )
     df["entidad_norm"] = df["entidad_display"].apply(norm_txt)
 
-    # --- Vista "sbc": conserva el desglose por división tal cual llega ---
+    # Vista "sbc": conserva el desglose por división 
     df_sbc = df.copy()
 
-    # --- Vista "pd": agregada por entidad y edad, sumando las divisiones ---
-    # (antes el archivo ya venía así de origen; ahora que el csv orgánico
-    # trae la división desglosada, la recomponemos aquí para que el resto
-    # del tablero -- que espera esta granularidad -- no cambie)
+    # Vista "pd": agregada por entidad y edad, sumando las divisiones
+            
     cols_agg = ["PTPD_Aseg", "PTPD_Aseg_H", "PTPD_Aseg_M", "PTPD_Aseg_NB",
                 "PTPD_Puestos", "PTPD_Puestos_H", "PTPD_Puestos_M", "PTPD_Puestos_NB"]
     df_pd = df.groupby(
@@ -258,9 +247,8 @@ def cargar_mes(path_csv: str):
 
     return {"label": label, "fecha": fecha_val, "pd": df_pd, "sbc": df_sbc}
 
-# ==========================================
+
 # 3. COMPONENTES VISUALES
-# ==========================================
 
 def bloque_totales(df, df_cdmx, app, titulo):
     ben_n = df["PTPD_Aseg"].sum() if not df.empty else 0
@@ -390,15 +378,13 @@ def bloque_sectores(df_sbc, titulo, mes):
     
     fig_sal = apply_theme(fig_sal)
     
-    # --- CORRECCIÓN AQUÍ ---
-    # Agregamos automargin=True para que el margen izquierdo se expanda si el texto es largo
     fig_sal.update_layout(
         yaxis_title=None, 
         xaxis_title="Salario Promedio", 
         legend_title_text="",
         yaxis=dict(automargin=True) 
     )
-    # -----------------------
+   
 
     # 3. Pirámide Salarial
     df_sbc_pyr = df_sbc[df_sbc["Rango_edad_2"] != "Entre 0 y 5 años"].copy()
@@ -479,9 +465,7 @@ def bloque_sectores(df_sbc, titulo, mes):
         ], style={"display":"flex"})
     ])
 
-# ==========================================
 # 4. LAYOUTS DE PESTAÑAS
-# ==========================================
 
 def layout_mes(df, df_sbc, mes_label, app):
     agg = df.groupby("entidad_display", as_index=False)[["PTPD_Aseg", "PTPD_Puestos"]].sum().sort_values("PTPD_Aseg", ascending=True)
@@ -515,17 +499,17 @@ def layout_mes(df, df_sbc, mes_label, app):
 
     def make_pop_pyramid(d, title):
         if d.empty: return go.Figure()
-        
-        # --- CORRECCIÓN CLAVE ---
-        # 1. Filtramos PRIMERO el dato erróneo (0-5 años) para que no entre en la suma
+
+                
+        # 1. Filtra el dato erróneo (0-5 años) para que excluir de la suma
         d_clean = d[d["Rango_edad_2"] != "Entre 0 y 5 años"].copy()
         
-        # 2. Agrupamos con la data limpia
+        # 2. Agrupamos con datos limpips
         age_df = d_clean.groupby("Rango_edad_2", as_index=False)[["PTPD_Aseg_H", "PTPD_Aseg_M"]].sum()
         age_df = sort_ages(age_df, "Rango_edad_2")
         
-        # 3. Calculamos el total con la data limpia y agrupada
-        # Esto garantiza que el denominador de los porcentajes corresponda exactamente a lo que se grafica (100%)
+        # 3. Calculamos el total
+                
         tot = age_df["PTPD_Aseg_H"].sum() + age_df["PTPD_Aseg_M"].sum()
         
         if tot > 0:
@@ -569,7 +553,7 @@ def layout_mes(df, df_sbc, mes_label, app):
         bloque_sectores(filtro_cdmx(df_sbc), "Análisis Sectorial - CDMX", mes_label)
     ])
 
-# --- Pestaña Evolución ---
+# Pestaña Evolución
 def layout_evolucion(lista_datos_pd, lista_datos_sbc, orden_meses):
     if not lista_datos_pd:
         return html.Div("No hay datos suficientes para mostrar evolución.")
@@ -633,7 +617,7 @@ def layout_evolucion(lista_datos_pd, lista_datos_sbc, orden_meses):
                 "Brecha": brecha
             })
             
-        g = pd.DataFrame(rows)
+        g = pd.DataFrame(rows, columns=["Mes", "SalarioGeneral", "Brecha"])
         if "Mes" in sbc_data.columns and hasattr(sbc_data["Mes"], 'cat'):
              g["Mes"] = pd.Categorical(g["Mes"], categories=sbc_data["Mes"].cat.categories, ordered=True)
              g = g.sort_values("Mes")
@@ -707,9 +691,9 @@ def layout_evolucion(lista_datos_pd, lista_datos_sbc, orden_meses):
         build_section(cdmx, sbc_all, "Evolución Ciudad de México", True)
     ])
 
-# ==========================================
+
 # 5. APP PRINCIPAL
-# ==========================================
+
 app = dash.Dash(__name__, title="Tablero PD", suppress_callback_exceptions=True)
 server = app.server
 
@@ -749,7 +733,6 @@ glosario = html.Details([
             html.Strong("Enfermedades y Maternidad en especie.")
         ], style={"marginBottom":"10px"}),
         
-        # --- AQUÍ ESTÁ EL CAMBIO SOLICITADO ---
         html.Div([
             html.Strong("Factor de exclusión: "), 
             "Mecanismo contable que se aplica al ingreso bruto de quien trabaja a través de una Plataforma Digital para determinar quién es una Persona Trabajadora Independiente y quién es Persona Trabajadora de Plataforma.", 
@@ -783,7 +766,7 @@ glosario = html.Details([
                 ])
             ], style={"paddingLeft": "20px", "marginTop": "10px"})
         ], style={"marginBottom":"10px"}),
-        # ---------------------------------------
+        
 
         html.Div([
             html.Strong("Tasa de formalización: "), 
@@ -805,16 +788,14 @@ glosario = html.Details([
 header = html.Div([
     html.Div([
         html.H1("TABLERO DE DATOS", style={"color":BLANCO_PURO, "margin":0, "fontSize":"24px"}),
-        html.Div("IMSS – Personas Trabajadoras de Plataformas Digitales", style={"color":DORADO})
+        html.Div("Afiliación de las personas trabajadoras de plataformas digitales al Instituto Mexicano del Seguro Social",
+                 style={"color":DORADO})
     ])
 ], style={"backgroundColor":GUINDA, "padding":"20px 40px", "boxShadow":"0 4px 10px rgba(0,0,0,0.2)"})
 
-clipboard = dcc.Clipboard(id="clipboard", style={"display": "none"})
-notify = html.Div(id="notify-copy", style={"position":"fixed", "bottom":"20px", "right":"20px", "backgroundColor":"#333", "color":"white", "padding":"10px 20px", "borderRadius":"5px", "display":"none", "zIndex":9999}, children="Dato copiado")
 
-# --- CARGA Y GENERACIÓN ---
-# Se descubren automáticamente todos los csv mensuales que sigan el patrón
-# IMSS_PD_*.csv en la raíz del repo -- no hace falta listar los meses a mano.
+# CARGA
+# Se escojenn automáticamente todos los csv mensuales que sigan el patrón IMSS_PD_*.csv en la raíz del repo
 archivos_mes = sorted(glob.glob(os.path.join(BASE_DIR, PATRON_ARCHIVOS_MES)))
 
 datos_cargados = []
@@ -825,62 +806,139 @@ for path in archivos_mes:
     else:
         print(f"[WARN] No se pudo cargar (o venía vacío/incompleto): {path}")
 
-# Orden cronológico real según la columna "fecha" de cada archivo, no según
-# el nombre del archivo ni el orden en que se encontraron.
+# Orden cronológico real según la columna "fecha" de cada archivo, no según el nombre del archivo ni el orden en que se encontraron.
 datos_cargados.sort(key=lambda d: int(float(d["fecha"])))
 
-tabs_children = []
-for item in datos_cargados:
-    tabs_children.append(dcc.Tab(label=item["label"], style=TAB_STYLE, selected_style=TAB_SELECTED_STYLE, children=[layout_mes(item["pd"], item["sbc"], item["label"], app)]))
+# --- SELECTORES Y CONTENIDO ---
+datos_por_mes = {int(float(item["fecha"])): item for item in datos_cargados}
+if len(datos_por_mes) != len(datos_cargados):
+    raise ValueError("Hay más de un archivo CSV para el mismo mes.")
 
-if datos_cargados:
-    lista_dfs_pd = [item["pd"] for item in datos_cargados]
-    lista_dfs_sbc = [item["sbc"] for item in datos_cargados]
-    lista_labels = [item["label"] for item in datos_cargados]
-    tabs_children.append(dcc.Tab(label="Evolución", style=TAB_STYLE, selected_style=TAB_SELECTED_STYLE, children=[layout_evolucion(lista_dfs_pd, lista_dfs_sbc, lista_labels)]))
+meses = list(datos_por_mes)
+opciones_mes = [
+    {"label": datos_por_mes[mes]["label"], "value": mes}
+    for mes in meses
+]
+primer_mes = meses[0] if meses else None
+ultimo_mes = meses[-1] if meses else None
+
+
+def selector_mes(id_control, etiqueta, valor):
+    return html.Div([
+        html.Label(etiqueta, htmlFor=id_control, style={"fontWeight": "600"}),
+        dcc.Dropdown(
+            id=id_control,
+            options=opciones_mes,
+            value=valor,
+            clearable=False,
+            persistence=True,
+            persistence_type="memory",
+            disabled=not meses,
+        ),
+    ], style={"flex": "1 1 180px", "minWidth": 0})
+
+
+estilo_selectores = {
+    "display": "flex",
+    "flexWrap": "wrap",
+    "gap": "12px",
+    "maxWidth": "520px",
+    "margin": "16px 0",
+}
+
+estilo_etiqueta = {"minWidth": 0, "lineHeight": "1.3", "overflowWrap": "anywhere"}
+estilo_tab = {**TAB_STYLE, **estilo_etiqueta}
+estilo_tab_activa = {**TAB_STYLE, **TAB_SELECTED_STYLE, **estilo_etiqueta}
 
 app.layout = html.Div([
-    html.Link(href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600;700&display=swap", rel="stylesheet"),
+    html.Link(
+        href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600;700&display=swap",
+        rel="stylesheet",
+    ),
     header,
     html.Div([
         glosario,
-        dcc.Tabs(children=tabs_children, style={"marginTop":"20px"}),
-        clipboard,
-        notify
-    ], style={"maxWidth":"1400px", "margin":"0 auto", "padding":"20px"})
-], style={"backgroundColor":CREMA_FONDO, "minHeight":"100vh", "fontFamily":FONT_FAMILY})
+        dcc.Tabs(
+            value="mensual",
+            mobile_breakpoint=480,
+            style={"marginTop": "20px"},
+            children=[
+                dcc.Tab(
+                    label="Datos mensuales",
+                    value="mensual",
+                    style=estilo_tab,
+                    selected_style=estilo_tab_activa,
+                    children=[
+                        html.Div(selector_mes("mes-consulta", "Mes", ultimo_mes),
+                                 style=estilo_selectores),
+                        html.Div(id="contenido-mensual"),
+                    ],
+                ),
+                dcc.Tab(
+                    label="Evolución",
+                    value="evolucion",
+                    style=estilo_tab,
+                    selected_style=estilo_tab_activa,
+                    children=[
+                        html.Div([
+                            selector_mes("mes-inicial", "Mes inicial", primer_mes),
+                            selector_mes("mes-final", "Mes final", ultimo_mes),
+                        ], style=estilo_selectores),
+                        html.Div(id="contenido-evolucion"),
+                    ],
+                ),
+            ],
+        ),
+    ], style={"maxWidth": "1400px", "margin": "0 auto", "padding": "20px"}),
+    html.Div(
+        id="notify-copy",
+        role="status",
+        hidden=True,
+        style={
+            "position": "fixed",
+            "bottom": "20px",
+            "right": "20px",
+            "maxWidth": "calc(100vw - 40px)",
+            "boxSizing": "border-box",
+            "backgroundColor": "#333",
+            "color": "white",
+            "padding": "10px 16px",
+            "borderRadius": "5px",
+            "zIndex": 9999,
+        },
+    ),
+], style={
+    "backgroundColor": CREMA_FONDO,
+    "minHeight": "100vh",
+    "fontFamily": FONT_FAMILY,
+})
+
+
+@app.callback(Output("contenido-mensual", "children"), Input("mes-consulta", "value"))
+def actualizar_mes(mes):
+    item = datos_por_mes.get(mes)
+    if item is None:
+        return html.P("No hay datos para mostrar.")
+    return layout_mes(item["pd"], item["sbc"], item["label"], app)
+
 
 @app.callback(
-    Output("clipboard", "content"),
-    Output("notify-copy", "style"),
-    Input({'type': 'copy-graph', 'index': ALL}, 'clickData'),
-    prevent_initial_call=True
+    Output("contenido-evolucion", "children"),
+    Input("mes-inicial", "value"),
+    Input("mes-final", "value"),
 )
-def copy_to_clipboard(clickData):
-    if not ctx.triggered:
-        return dash.no_update, {"display": "none"}
-    click = ctx.triggered[0]['value']
-    if not click or 'points' not in click:
-        return dash.no_update, {"display": "none"}
-    p = click['points'][0]
-    raw = None
-    if 'customdata' in p and p['customdata'] not in [None, [], ""]:
-        cd = p['customdata']
-        raw = cd[0] if isinstance(cd, list) else cd
-    if raw is None and 'value' in p:
-        raw = p['value']
-    if raw is None and isinstance(p.get('y', None), (int, float)):
-        raw = p['y']
-    if raw is None and isinstance(p.get('x', None), (int, float)):
-        raw = abs(p['x']) 
-    if raw is None:
-        return dash.no_update, {"display": "none"}
-    try:
-        num = float(raw)
-        raw_str = f"{int(num):,}" if num.is_integer() else f"{num:,.2f}"
-    except:
-        raw_str = str(raw)
-    return raw_str, {"position": "fixed", "bottom": "20px", "right": "20px", "backgroundColor": "#333", "color": "white", "padding": "10px 20px", "borderRadius": "5px", "display": "block"}
+def actualizar_evolucion(inicio, fin):
+    if inicio not in datos_por_mes or fin not in datos_por_mes:
+        return html.P("No hay datos suficientes para mostrar evolución.")
+    if inicio > fin:
+        return html.P("El mes inicial debe ser anterior o igual al mes final.", role="status")
+
+    periodo = [datos_por_mes[mes] for mes in meses if inicio <= mes <= fin]
+    return layout_evolucion(
+        [item["pd"] for item in periodo],
+        [item["sbc"] for item in periodo],
+        [item["label"] for item in periodo],
+    )
 
 if __name__ == "__main__":
     import os
