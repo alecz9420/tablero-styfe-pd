@@ -891,7 +891,7 @@ app.layout = html.Div([
                     ],
                 ),
             ],
-        ),
+        ),  style={"maxWidth": "1400px", "margin": "0 auto", "padding": "20px"}),
     html.Div(
         id="notify-copy",
         role="status",
